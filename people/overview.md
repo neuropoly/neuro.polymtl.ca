@@ -4,14 +4,14 @@
 
 ## Faculty
 
-{% page-ref page="julien-cohen-adad.md" %}
+{% page-ref page="faculty/julien-cohen-adad.md" %}
 
-{% page-ref page="nikola-stikov.md" %}
+{% page-ref page="faculty/nikola-stikov.md" %}
 
 ## Research Associates
 
 * [Alexandru Foias](https://ca.linkedin.com/in/alexandrufoias)
-* [Nibardo Lopez Rios](nibardo-lopez-rios.md)
+* [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
 * [Jennifer Campbell](http://www.bic.mni.mcgill.ca/~jcampbel/)
 * [Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana)
 * Mathieu Boudreau
@@ -23,13 +23,13 @@
 
 ## PhD Students
 
-* [Gabriel Mangeat](gabriel-mangeat.md)
-* [Ryan Topfer](ryan-topfer.md)
-* [Tommy Boshkovski](tommy-boshkovski.md)
-* [Agah Karakuzu](agah-karakuzu.md)
+* [Gabriel Mangeat](phd-students/gabriel-mangeat.md)
+* [Ryan Topfer](phd-students/ryan-topfer.md)
+* [Tommy Boshkovski](phd-students/tommy-boshkovski.md)
+* [Agah Karakuzu](phd-students/agah-karakuzu.md)
 * [Atef Badji](https://ca.linkedin.com/in/badjiatef)
 * Vicente Enguix
-* [Charley Gros](charley-gros.md)
+* [Charley Gros](phd-students/charley-gros.md)
 
 ## Masters Students
 
@@ -56,7 +56,7 @@
 * Anne Kerbrat
 * Sara Paperi
 * Anthime Bucquet
-* [Harris Nami](harris-nami.md)
+* [Harris Nami](alumni/harris-nami.md)
 * Thiago Junqueira
 * Valentine Louis-Lucas
 * Benoit Sauty-De-Chalon
@@ -65,7 +65,7 @@
 * [Vasudev Sharma](https://in.linkedin.com/in/vs74)
 * Alexa Mousley
 * Nicolas Pinon
-* [Christian S. Perone](christian-s.-perone.md)
+* [Christian S. Perone](alumni/christian-s.-perone.md)
 * Melanie Lubrano
 * Hadi Hammoud
 * Oumayma Bounou
@@ -78,8 +78,8 @@
 * Pierre-Olivier Quirion
 * George Peristerakis
 * Haykel Snoussi
-* [Benjamin De Leener](benjamin-de-leener.md)
-* [Aldo Zaimi](aldo-zaimi.md)
+* [Benjamin De Leener](alumni/benjamin-de-leener.md)
+* [Aldo Zaimi](alumni/aldo-zaimi.md)
 * Ariane Saliani
 * Dominique Eden
 * Maxime Wabartha
@@ -103,7 +103,7 @@
 * Blanche Perraud
 * William Perrault
 * Tanguy Magnan
-* [Tanguy Duval](tanguy-duval.md)
+* [Tanguy Duval](alumni/tanguy-duval.md)
 * Paul Picard
 * Ritesh Warty
 * Thomas Sharif-Kerdreux
