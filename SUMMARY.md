@@ -50,3 +50,7 @@
 
 * [Publications](publications/publications.md)
 
+---
+
+* [Contact Us](contact-us.md)
+
