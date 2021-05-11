@@ -33,3 +33,20 @@
 
 * [Publications](publications/publications.md)
 
+## People
+
+* [Overview](people/overview.md)
+* [Julien Cohen-Adad](people/julien-cohen-adad.md)
+* [Nikola Stikov](people/nikola-stikov.md)
+* [Nibardo Lopez Rios](people/nibardo-lopez-rios.md)
+* [Charley Gros](people/charley-gros.md)
+* [Agah Karakuzu](people/agah-karakuzu.md)
+* [Tommy Boshkovski](people/tommy-boshkovski.md)
+* [Ryan Topfer](people/ryan-topfer.md)
+* [Gabriel Mangeat](people/gabriel-mangeat.md)
+* [Tanguy Duval](people/tanguy-duval.md)
+* [Benjamin De Leener](people/benjamin-de-leener.md)
+* [Aldo Zaimi](people/aldo-zaimi.md)
+* [Christian S. Perone](people/christian-s.-perone.md)
+* [Harris Nami](people/harris-nami.md)
+
