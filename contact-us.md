@@ -12,6 +12,8 @@ H3T 1N8
 
 Canada
 
+![](.gitbook/assets/path_to_poly_noaddress.png)
+
 ## Campus Map
 
 [http://www.polymtl.ca/rensgen/en/coordonnees/campus.php](http://www.polymtl.ca/rensgen/en/coordonnees/campus.php)
