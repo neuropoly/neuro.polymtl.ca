@@ -1,5 +1,7 @@
 # Overview
 
+![](../.gitbook/assets/neuropoly_lab.jpeg)
+
 ## Faculty
 
 {% page-ref page="julien-cohen-adad.md" %}
