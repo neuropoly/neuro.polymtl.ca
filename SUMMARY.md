@@ -50,12 +50,12 @@
 
 * [Publications](publications/publications.md)
 
----
-
-* [Contact Us](contact-us.md)
-
 ## Software <a id="software-1"></a>
 
 * [Software](software-1/software.md)
 * [Contributing Guidelines](software-1/contributing.md)
+
+---
+
+* [Contact Us](contact-us.md)
 
