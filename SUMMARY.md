@@ -39,16 +39,20 @@
 ## Research
 
 * [Introduction](research/introduction.md)
-* [RF & Shim Coil Design](research/rf-and-shim-coil-design.md)
-* [Biophysical Modelling](research/biophysical-modelling.md)
-* [In Vivo Measurement of Myelin G-Ratio](research/in-vivo-measurement-of-myelin-g-ratio.md)
-* [White Matter Microstructure in Multiple Sclerosis](research/white-matter-microstructure-in-multiple-sclerosis.md)
-* [Ex Vivo Imaging of Spinal Cord Injury](research/ex-vivo-imaging-of-spinal-cord-injury.md)
-* [Histological Validation of Quantitative MRI](research/histological-validation-of-quantitative-mri.md)
-* [Mapping Myeloarchitecture using T2\* and Magnetization Transfer](research/mapping-myeloarchitecture-using-t2-and-magnetization-transfer.md)
-* [Template of the Spinal Cord](research/template-of-the-spinal-cord.md)
-* [Registration Methods for Spinal Cord](research/registration-methods-for-spinal-cord.md)
-* [Automatic Spinal Cord Segmentation](research/automatic-spinal-cord-segmentation.md)
+* [Hardware](research/hardware/README.md)
+  * [RF & Shim Coil Design](research/hardware/rf-and-shim-coil-design.md)
+* [Mapping Tissue Microstructure](research/mapping-tissue-microstructure/README.md)
+  * [Biophysical Modelling](research/mapping-tissue-microstructure/biophysical-modelling.md)
+  * [In Vivo Measurement of Myelin G-Ratio](research/mapping-tissue-microstructure/in-vivo-measurement-of-myelin-g-ratio.md)
+  * [White Matter Microstructure in Multiple Sclerosis](research/mapping-tissue-microstructure/white-matter-microstructure-in-multiple-sclerosis.md)
+  * [Ex Vivo Imaging of Spinal Cord Injury](research/mapping-tissue-microstructure/ex-vivo-imaging-of-spinal-cord-injury.md)
+  * [Histological Validation of Quantitative MRI](research/mapping-tissue-microstructure/histological-validation-of-quantitative-mri.md)
+  * [Mapping Myeloarchitecture using T2\* and Magnetization Transfer](research/mapping-tissue-microstructure/mapping-myeloarchitecture-using-t2-and-magnetization-transfer.md)
+* [Image Processing Software](research/image-processing-software/README.md)
+  * [Template of the Spinal Cord](research/image-processing-software/template-of-the-spinal-cord.md)
+  * [Registration Methods for Spinal Cord](research/image-processing-software/registration-methods-for-spinal-cord.md)
+  * [Automatic Spinal Cord Segmentation](research/image-processing-software/automatic-spinal-cord-segmentation.md)
+* [Data/Scripts](research/data-scripts.md)
 
 ## Publications
 
