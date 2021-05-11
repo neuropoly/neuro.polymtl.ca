@@ -57,5 +57,5 @@
 ## Software <a id="software-1"></a>
 
 * [Software](software-1/software.md)
-* [Contributing](software-1/contributing.md)
+* [Contributing Guidelines](software-1/contributing.md)
 
