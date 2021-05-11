@@ -1,6 +1,6 @@
 # Nikola Stikov
 
-![](../.gitbook/assets/stikov_photo_small.jpeg)
+![](../../.gitbook/assets/stikov_photo_small.jpeg)
 
 Dr. Nikola Stikov is associate professor of biomedical engineering, a researcher at the Montreal Heart Institute, and co-director of NeuroPoly, the Neuroimaging Research Laboratory at École Polytechnique, University of Montreal. His research runs the gamut of quantitative magnetic resonance imaging, from basic issues of standardization and accuracy, to biophysical modelling, microstructural imaging and clinical applications. His group is particularly interested in developing and validating novel biomarkers for non-invasive characterization of the brain and heart microstructure during development, disease and treatment, thus pushing the boundaries of the emerging field of in vivo histology.
 
@@ -12,7 +12,7 @@ Prior to joining the Polytechnique faculty, Dr. Stikov completed his postdoctora
 
 **Director**
 
-* [NeuroPoly: Neuroimaging Research Laboratory at Polytechnique](../)
+* [NeuroPoly: Neuroimaging Research Laboratory at Polytechnique](../../)
 
 **Member**
 
