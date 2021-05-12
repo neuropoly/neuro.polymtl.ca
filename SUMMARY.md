@@ -35,6 +35,7 @@
 * [Developer Setup](onboarding/developer-setup.md)
 * [Consultants](onboarding/consultants.md)
 * [Acronyms & Jargon](onboarding/acronyms.md)
+* [VISAs and Work Permits](onboarding/visas-and-work-permits.md)
 
 ## Research
 
@@ -63,10 +64,6 @@
 * [Software](software-1/software.md)
 * [Contributing Guidelines](software-1/contributing.md)
 
----
-
-* [Contact Us](contact-us.md)
-
 ## Job Opportunities <a id="job-opportunities-1"></a>
 
 * [Professional Positions](job-opportunities-1/professional-positions/README.md)
@@ -77,4 +74,9 @@
   * [Labeling Medical Images for A.I. Applications](job-opportunities-1/internships/labeling-medical-images-for-a.i.-applications.md)
   * [Medical Image Analysis](job-opportunities-1/internships/medical-image-analysis.md)
   * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities-1/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
+
+---
+
+* [Contact Us](contact-us.md)
+* [Facilities](facilities.md)
 
