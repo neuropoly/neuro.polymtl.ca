@@ -36,6 +36,7 @@
 * [Consultants](onboarding/consultants.md)
 * [Acronyms & Jargon](onboarding/acronyms.md)
 * [VISAs and Work Permits](onboarding/visas-and-work-permits.md)
+* [Practical Information: Moving to Montreal](onboarding/practical-information-moving-to-montreal.md)
 
 ## Research
 
