@@ -23,23 +23,6 @@
   * [Benjamin De Leener](people/alumni/benjamin-de-leener.md)
   * [Tanguy Duval](people/alumni/tanguy-duval.md)
 
-## Onboarding
-
-* [Introduction](onboarding/untitled.md)
-* [Checklist](onboarding/checklist.md)
-* [Key People](onboarding/key-people.md)
-* [Accounts](onboarding/accounts.md)
-* [Infrastructure](onboarding/infrastructure.md)
-* [Agenda & Calendar](onboarding/agenda-and-calendar.md)
-* [DockerHub](onboarding/dockerhub.md)
-* [Developer Setup](onboarding/developer-setup.md)
-* [Consultants](onboarding/consultants.md)
-* [Acronyms & Jargon](onboarding/acronyms.md)
-* [Tips and Tricks](onboarding/tips-and-tricks.md)
-* [Relocation](onboarding/relocation/README.md)
-  * [VISAs and Work Permits](onboarding/relocation/visas-and-work-permits.md)
-  * [Practical Information: Moving to Montreal](onboarding/relocation/practical-information-moving-to-montreal.md)
-
 ## Research
 
 * [Introduction](research/introduction.md)
@@ -62,12 +45,38 @@
 
 * [Publications](publications/publications.md)
 
-## Software Development <a id="software-1"></a>
+## Onboarding
+
+* [Introduction](onboarding/untitled.md)
+* [Checklist](onboarding/checklist.md)
+* [Key People](onboarding/key-people.md)
+* [Accounts](onboarding/accounts.md)
+* [Infrastructure](onboarding/infrastructure.md)
+* [Agenda & Calendar](onboarding/agenda-and-calendar.md)
+* [DockerHub](onboarding/dockerhub.md)
+* [Developer Setup](onboarding/developer-setup.md)
+* [Consultants](onboarding/consultants.md)
+* [Acronyms & Jargon](onboarding/acronyms.md)
+* [Relocation](onboarding/relocation/README.md)
+  * [VISAs and Work Permits](onboarding/relocation/visas-and-work-permits.md)
+  * [Practical Information: Moving to Montreal](onboarding/relocation/practical-information-moving-to-montreal.md)
+
+## Software <a id="software-1"></a>
 
 * [NeuroPoly Packages & Collaborations](software-1/software.md)
 * [Contributing Guidelines](software-1/contributing.md)
+* [Deep Learning](software-1/deep-learning/README.md)
+  * [Tensorflow](software-1/deep-learning/tensorflow.md)
+  * [CUDA](software-1/deep-learning/cuda.md)
+  * [Conditional Random Fields \(CRF\)](software-1/deep-learning/conditional-random-fields-crf.md)
+  * [Restricted Boltzmann Machines \(RBM\)](software-1/deep-learning/restricted-boltzmann-machines-rbm.md)
+* [Image Processing Software](software-1/image-processing-software.md)
 * [Other Software & Tools](software-1/other-software-and-tools/README.md)
   * [BitBucket](software-1/other-software-and-tools/bitbucket.md)
+  * [Chrome](software-1/other-software-and-tools/chrome.md)
+  * [Docker](software-1/other-software-and-tools/docker.md)
+  * [Microsoft Word](software-1/other-software-and-tools/microsoft-word.md)
+  * [Dropbox](software-1/other-software-and-tools/dropbox.md)
 * [Programming Languages](software-1/programming-languages/README.md)
   * [Python](software-1/programming-languages/python.md)
   * [Bash/Shell](software-1/programming-languages/bash-shell.md)
@@ -89,6 +98,6 @@
 
 ---
 
-* [Contact Us](contact-us.md)
 * [Facilities](facilities.md)
+* [Contact Us](contact-us.md)
 
