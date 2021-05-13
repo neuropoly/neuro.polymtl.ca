@@ -1,4 +1,4 @@
-# Software
+# NeuroPoly Packages & Collaborations
 
 ## Open-Source Projects
 

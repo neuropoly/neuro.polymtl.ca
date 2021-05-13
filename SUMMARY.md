@@ -64,10 +64,13 @@
 
 ## Software Development <a id="software-1"></a>
 
-* [Software](software-1/software.md)
+* [NeuroPoly Packages & Collaborations](software-1/software.md)
 * [Contributing Guidelines](software-1/contributing.md)
+* [Other Software & Tools](software-1/other-software-and-tools/README.md)
+  * [BitBucket](software-1/other-software-and-tools/bitbucket.md)
 * [Programming Languages](software-1/programming-languages/README.md)
   * [Python](software-1/programming-languages/python.md)
+  * [Bash/Shell](software-1/programming-languages/bash-shell.md)
   * [MATLAB](software-1/programming-languages/matlab.md)
   * [C++](software-1/programming-languages/c++/README.md)
     * [Installation of VTK and ITK on Mac OS X](software-1/programming-languages/c++/installation-of-vtk-and-itk-on-mac-os-x.md)
