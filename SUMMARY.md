@@ -35,8 +35,10 @@
 * [Developer Setup](onboarding/developer-setup.md)
 * [Consultants](onboarding/consultants.md)
 * [Acronyms & Jargon](onboarding/acronyms.md)
-* [VISAs and Work Permits](onboarding/visas-and-work-permits.md)
-* [Practical Information: Moving to Montreal](onboarding/practical-information-moving-to-montreal.md)
+* [Tips and Tricks](onboarding/tips-and-tricks.md)
+* [Relocation](onboarding/relocation/README.md)
+  * [VISAs and Work Permits](onboarding/relocation/visas-and-work-permits.md)
+  * [Practical Information: Moving to Montreal](onboarding/relocation/practical-information-moving-to-montreal.md)
 
 ## Research
 
@@ -60,10 +62,16 @@
 
 * [Publications](publications/publications.md)
 
-## Software <a id="software-1"></a>
+## Software Development <a id="software-1"></a>
 
 * [Software](software-1/software.md)
 * [Contributing Guidelines](software-1/contributing.md)
+* [Programming Languages](software-1/programming-languages/README.md)
+  * [Python](software-1/programming-languages/python.md)
+  * [MATLAB](software-1/programming-languages/matlab.md)
+  * [C++](software-1/programming-languages/c++/README.md)
+    * [Installation of VTK and ITK on Mac OS X](software-1/programming-languages/c++/installation-of-vtk-and-itk-on-mac-os-x.md)
+    * [Using XCode](software-1/programming-languages/c++/using-xcode.md)
 
 ## Job Opportunities <a id="job-opportunities-1"></a>
 
