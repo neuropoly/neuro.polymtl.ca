@@ -48,7 +48,7 @@
 
 ## Onboarding
 
-* [Introduction](onboarding/untitled.md)
+* [Introduction](onboarding/introduction.md)
 * [Checklist](onboarding/checklist.md)
 * [Key People](onboarding/key-people.md)
 * [Accounts](onboarding/accounts.md)
