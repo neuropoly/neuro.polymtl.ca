@@ -39,7 +39,7 @@
   * [Template of the Spinal Cord](research/image-processing-software/template-of-the-spinal-cord.md)
   * [Registration Methods for Spinal Cord](research/image-processing-software/registration-methods-for-spinal-cord.md)
   * [Automatic Spinal Cord Segmentation](research/image-processing-software/automatic-spinal-cord-segmentation.md)
-* [Data/Scripts](research/data-scripts.md)
+* [Data & Scripts](research/data-scripts.md)
 
 ## Publications
 
@@ -103,4 +103,5 @@
 
 * [Facilities](facilities.md)
 * [Contact Us](contact-us.md)
+* [Collaborations](collaborations.md)
 

@@ -1,4 +1,4 @@
-# Data/Scripts
+# Data & Scripts
 
 List of data or scripts related to articles or conference abstracts:
 
@@ -6,9 +6,8 @@ List of data or scripts related to articles or conference abstracts:
 * Duval et al., ISMRM 2016:
   * [Demo of full slice histology of a cervical cat spinal cord with axon segmentation \(OPTICAL\)](http://www.neuro.polymtl.ca/histology.php)
   * [Demo of full slice histology of a thoracic cat spinal cord \(SCANNING ELECTRON MICROSCOPY - Backscattered mode\)](http://www.neuro.polymtl.ca/histology_sem.php)
-  * [Download form for the MRI dataset + segmented histology](https://docs.google.com/forms/d/1elCEwkdM08_Tv8O-0JyOZ-jVzmgMb5qgDntd5m6Uj-0/viewform)
 
-#### Databases
+## Databases
 
 * [White Matter Microscopy Database](https://osf.io/yp4qg/)
 * [Spinal Cord MRI Public Database](https://openneuro.org/datasets/ds001919)
