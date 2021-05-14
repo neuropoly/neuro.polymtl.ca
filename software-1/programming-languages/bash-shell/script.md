@@ -1,6 +1,10 @@
 # Script
 
-Good tutorial: [http://linuxconfig.org/bash-scripting-tutorial](http://linuxconfig.org/bash-scripting-tutorial)
+## Tutorials/Links
+
+[http://linuxconfig.org/bash-scripting-tutorial](http://linuxconfig.org/bash-scripting-tutorial)
+
+[Bash scripting cheatsheet](https://devhints.io/bash)
 
 ## Creating a Script
 
