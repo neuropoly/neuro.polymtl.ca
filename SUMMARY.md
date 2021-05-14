@@ -40,6 +40,7 @@
   * [Registration Methods for Spinal Cord](research/image-processing-software/registration-methods-for-spinal-cord.md)
   * [Automatic Spinal Cord Segmentation](research/image-processing-software/automatic-spinal-cord-segmentation.md)
 * [Data & Scripts](research/data-scripts.md)
+* [Collaborations](research/collaborations.md)
 
 ## Publications
 
@@ -64,6 +65,7 @@
 ## Software <a id="software-1"></a>
 
 * [NeuroPoly Packages & Collaborations](software-1/software.md)
+* [Software Dev Guide](software-1/software-dev-guide.md)
 * [Contributing Guidelines](software-1/contributing.md)
 * [Deep Learning](software-1/deep-learning/README.md)
   * [Tensorflow](software-1/deep-learning/tensorflow.md)
@@ -79,6 +81,7 @@
   * [Docker](software-1/other-software-and-tools/docker.md)
   * [Dropbox](software-1/other-software-and-tools/dropbox.md)
   * [Microsoft Word](software-1/other-software-and-tools/microsoft-word.md)
+  * [Untitled](software-1/other-software-and-tools/untitled.md)
 * [Programming Languages](software-1/programming-languages/README.md)
   * [Python](software-1/programming-languages/python.md)
   * [Bash/Shell](software-1/programming-languages/bash-shell/README.md)
@@ -103,5 +106,4 @@
 
 * [Facilities](facilities.md)
 * [Contact Us](contact-us.md)
-* [Collaborations](collaborations.md)
 
