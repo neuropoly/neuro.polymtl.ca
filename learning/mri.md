@@ -49,3 +49,8 @@
 
 * [https://github.com/raamana/visualqc](https://github.com/raamana/visualqc)
 
+## RF Simulation
+
+* [Jülich Extensible MRI Simulator \(JEMRIS\).](http://www.jemris.org/index.html) Provides an MRI sequence development and simulation environment.
+* [Birdcage builder \(PennState\)](http://www.pennstatehershey.org/web/nmrlab/resources/software/javabirdcage)
+
