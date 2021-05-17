@@ -107,3 +107,8 @@
 * [Facilities](facilities.md)
 * [Contact Us](contact-us.md)
 
+## Learning & Resources <a id="learning"></a>
+
+* [MRI](learning/mri.md)
+* [Histology](learning/histology.md)
+
