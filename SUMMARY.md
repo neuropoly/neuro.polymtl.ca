@@ -112,3 +112,7 @@
 * [MRI](learning/mri.md)
 * [Histology](learning/histology.md)
 
+## Events & Workshops
+
+* [Events & Workshops](events-and-workshops/events-and-workshops.md)
+
