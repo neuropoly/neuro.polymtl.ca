@@ -74,14 +74,6 @@
   * [Restricted Boltzmann Machines \(RBM\)](software-1/deep-learning/restricted-boltzmann-machines-rbm.md)
 * [Image Processing Software](software-1/image-processing-software/README.md)
   * [FSLeyes](software-1/image-processing-software/fsleyes.md)
-* [Other Software & Tools](software-1/other-software-and-tools/README.md)
-  * [Jekyll](software-1/other-software-and-tools/jekyll.md)
-  * [BitBucket](software-1/other-software-and-tools/bitbucket.md)
-  * [Chrome](software-1/other-software-and-tools/chrome.md)
-  * [Docker](software-1/other-software-and-tools/docker.md)
-  * [Dropbox](software-1/other-software-and-tools/dropbox.md)
-  * [Microsoft Word](software-1/other-software-and-tools/microsoft-word.md)
-  * [Untitled](software-1/other-software-and-tools/untitled.md)
 * [Programming Languages](software-1/programming-languages/README.md)
   * [Python](software-1/programming-languages/python.md)
   * [Bash/Shell](software-1/programming-languages/bash-shell/README.md)
@@ -90,6 +82,14 @@
   * [C++](software-1/programming-languages/c++/README.md)
     * [Installation of VTK and ITK on Mac OS X](software-1/programming-languages/c++/installation-of-vtk-and-itk-on-mac-os-x.md)
     * [Using XCode](software-1/programming-languages/c++/using-xcode.md)
+* [Other Software & Tools](software-1/other-software-and-tools/README.md)
+  * [Jekyll](software-1/other-software-and-tools/jekyll.md)
+  * [BitBucket](software-1/other-software-and-tools/bitbucket.md)
+  * [Chrome](software-1/other-software-and-tools/chrome.md)
+  * [Docker](software-1/other-software-and-tools/docker.md)
+  * [Dropbox](software-1/other-software-and-tools/dropbox.md)
+  * [Microsoft Word](software-1/other-software-and-tools/microsoft-word.md)
+  * [Git & GitHub](software-1/other-software-and-tools/untitled.md)
 
 ## Job Opportunities <a id="job-opportunities-1"></a>
 
@@ -102,18 +102,18 @@
   * [Medical Image Analysis](job-opportunities-1/internships/medical-image-analysis.md)
   * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities-1/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
 
----
-
-* [Facilities](facilities.md)
-* [Contact Us](contact-us.md)
-
 ## Learning & Resources <a id="learning"></a>
 
 * [MRI](learning/mri.md)
 * [Histology](learning/histology.md)
-* [Untitled](learning/untitled.md)
+* [Academic Writing](learning/academic-writing.md)
 
 ## Events & Workshops
 
 * [Events & Workshops](events-and-workshops/events-and-workshops.md)
+
+---
+
+* [Facilities](facilities.md)
+* [Contact Us](contact-us.md)
 
