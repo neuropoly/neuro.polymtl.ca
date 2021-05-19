@@ -63,6 +63,7 @@ NeuroPoly has expertise in building radiofrequency \(RF\) coils for MRI applicat
 * Physiological monitoring systems \(Biopac\).
 * Non-commercial pulse sequences \(for advanced diffusion, 2D-RF excitation, dynamic shimming, etc.\).
 * Unique 24-channel shimming system for the spinal cord MRI
+* Air compressor
 
 ### 7T Human
 
