@@ -52,9 +52,9 @@ NeuroPoly has expertise in building radiofrequency \(RF\) coils for MRI applicat
 
 **List of available scanners:**
 
-* 3T Prisma \(Siemens\) located at the [Unité de Neuroimagerie Fonctionnelle](http://www.unf-montreal.ca/).
+* [3T Prisma \(Siemens\)](https://www.siemens-healthineers.com/magnetic-resonance-imaging/3t-mri-scanner/magnetom-prisma) located at the [Unité de Neuroimagerie Fonctionnelle](http://www.unf-montreal.ca/).
   * [Path to "Unité de Neuroimagerie Fonctionnelle"](https://www.neuro.polymtl.ca/_media/path_to_unf.pdf)
-* 3T Skyra \(Siemens\) located at Polytechnique Montreal \(JAB building\).
+* [3T Skyra \(Siemens\)](https://www.siemens-healthineers.com/magnetic-resonance-imaging/3t-mri-scanner/magnetom-skyra) located at Polytechnique Montreal \(JAB building\).
 * 3T Skyra \(Siemens\) located at [Montreal Heart Institute](https://www.icm-mhi.org/).
 
 **Features:**
@@ -63,6 +63,12 @@ NeuroPoly has expertise in building radiofrequency \(RF\) coils for MRI applicat
 * Physiological monitoring systems \(Biopac\).
 * Non-commercial pulse sequences \(for advanced diffusion, 2D-RF excitation, dynamic shimming, etc.\).
 * Unique 24-channel shimming system for the spinal cord MRI
+
+### 7T Human
+
+**List of available scanners:**
+
+* [7T Terra \(Siemens\)](https://www.siemens-healthineers.com/magnetic-resonance-imaging/7t-mri-scanner/magnetom-terra) located at the [McConnell Brain Imaging Centre](https://www.mcgill.ca/bic/)
 
 ### 7T Small Bore
 
