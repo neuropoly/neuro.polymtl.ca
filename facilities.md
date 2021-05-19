@@ -11,7 +11,7 @@ The main lab is located at Ecole Polytechnique, 5th floor, biomedical engineerin
 * ~ 15 iMac workstations \(quad-core up to 3.4GHz, at least 8GB RAM\)
 * 1 data storage station \(max 15TB\) which is backed up nightly on another station \(physically located elsewhere\)
 * 2 CPU clusters \(64-core & 12-core Xeon Phi\)
-* 2 GPU clusters \(8xP100 & 2xTesla\). 
+* 3 GPU clusters \(8xP100 & 2xTesla\). 
 
 ### Additional Computing Equipment
 
