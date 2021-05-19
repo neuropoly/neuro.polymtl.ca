@@ -70,6 +70,10 @@ NeuroPoly has expertise in building radiofrequency \(RF\) coils for MRI applicat
 
 * [7T Terra \(Siemens\)](https://www.siemens-healthineers.com/magnetic-resonance-imaging/7t-mri-scanner/magnetom-terra) located at the [McConnell Brain Imaging Centre](https://www.mcgill.ca/bic/).
 
+**Features:**
+
+* Custom RF coil for research purposes  8 pTx & 20 Rx
+
 ### 7T Animal - Small Bore
 
 ![](.gitbook/assets/img_2214.jpeg)
