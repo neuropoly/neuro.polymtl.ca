@@ -46,22 +46,6 @@
 
 * [Publications](publications/publications.md)
 
-## Onboarding
-
-* [Introduction](onboarding/introduction.md)
-* [Checklist](onboarding/checklist.md)
-* [Key People](onboarding/key-people.md)
-* [Accounts](onboarding/accounts.md)
-* [Infrastructure](onboarding/infrastructure.md)
-* [Agenda & Calendar](onboarding/agenda-and-calendar.md)
-* [DockerHub](onboarding/dockerhub.md)
-* [Developer Setup](onboarding/developer-setup.md)
-* [Consultants](onboarding/consultants.md)
-* [Acronyms & Jargon](onboarding/acronyms.md)
-* [Relocation](onboarding/relocation/README.md)
-  * [VISAs and Work Permits](onboarding/relocation/visas-and-work-permits.md)
-  * [Practical Information: Moving to Montreal](onboarding/relocation/practical-information-moving-to-montreal.md)
-
 ## Software <a id="software-1"></a>
 
 * [NeuroPoly Packages & Collaborations](software-1/software.md)
