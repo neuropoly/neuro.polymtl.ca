@@ -49,14 +49,6 @@
 ## Software <a id="software-1"></a>
 
 * [NeuroPoly Packages & Collaborations](software-1/software.md)
-* [Programming Languages](software-1/programming-languages/README.md)
-  * [Python](software-1/programming-languages/python.md)
-  * [Bash/Shell](software-1/programming-languages/bash-shell/README.md)
-    * [Script](software-1/programming-languages/bash-shell/script.md)
-  * [MATLAB](software-1/programming-languages/matlab.md)
-  * [C++](software-1/programming-languages/c++/README.md)
-    * [Installation of VTK and ITK on Mac OS X](software-1/programming-languages/c++/installation-of-vtk-and-itk-on-mac-os-x.md)
-    * [Using XCode](software-1/programming-languages/c++/using-xcode.md)
 * [Other Software & Tools](software-1/other-software-and-tools/README.md)
   * [Jekyll](software-1/other-software-and-tools/jekyll.md)
   * [BitBucket](software-1/other-software-and-tools/bitbucket.md)
