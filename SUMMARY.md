@@ -56,8 +56,6 @@
   * [CUDA](software-1/deep-learning/cuda.md)
   * [Conditional Random Fields \(CRF\)](software-1/deep-learning/conditional-random-fields-crf.md)
   * [Restricted Boltzmann Machines \(RBM\)](software-1/deep-learning/restricted-boltzmann-machines-rbm.md)
-* [Image Processing Software](software-1/image-processing-software/README.md)
-  * [FSLeyes](software-1/image-processing-software/fsleyes.md)
 * [Programming Languages](software-1/programming-languages/README.md)
   * [Python](software-1/programming-languages/python.md)
   * [Bash/Shell](software-1/programming-languages/bash-shell/README.md)
