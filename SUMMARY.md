@@ -85,7 +85,6 @@
 
 ## Learning & Resources <a id="learning"></a>
 
-* [MRI](learning/mri.md)
 * [Histology](learning/histology.md)
 * [Academic Writing](learning/academic-writing.md)
 
