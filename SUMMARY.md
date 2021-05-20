@@ -26,8 +26,7 @@
 ## Research
 
 * [Introduction](research/introduction.md)
-* [Hardware](research/hardware/README.md)
-  * [RF & Shim Coil Design](research/hardware/rf-and-shim-coil-design.md)
+* [RF & Shim Coil Design](research/rf-and-shim-coil-design.md)
 * [Mapping Tissue Microstructure](research/mapping-tissue-microstructure/README.md)
   * [Biophysical Modelling](research/mapping-tissue-microstructure/biophysical-modelling.md)
   * [In Vivo Measurement of Myelin G-Ratio](research/mapping-tissue-microstructure/in-vivo-measurement-of-myelin-g-ratio.md)
