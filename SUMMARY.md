@@ -80,7 +80,6 @@
 ## Learning & Resources <a id="learning"></a>
 
 * [Histology](learning/histology.md)
-* [Academic Writing](learning/academic-writing.md)
 
 ## Events & Workshops
 
