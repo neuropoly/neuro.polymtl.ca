@@ -77,10 +77,6 @@
   * [Medical Image Analysis](job-opportunities-1/internships/medical-image-analysis.md)
   * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities-1/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
 
-## Learning & Resources <a id="learning"></a>
-
-* [Histology](learning/histology.md)
-
 ## Events & Workshops
 
 * [Events & Workshops](events-and-workshops/events-and-workshops.md)
