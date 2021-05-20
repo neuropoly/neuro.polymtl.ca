@@ -29,7 +29,5 @@ Below is a list of software projects created at **NeuroPoly** or at collaborativ
 
 **NeuroPoly** welcomes and appreciates contributions. To get started, please check out **NeuroPoly**'s contributing guidelines:
 
-{% page-ref page="contributing.md" %}
-
 
 

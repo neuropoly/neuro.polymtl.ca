@@ -50,7 +50,6 @@
 
 * [NeuroPoly Packages & Collaborations](software-1/software.md)
 * [Software Dev Guide](software-1/software-dev-guide.md)
-* [Contributing Guidelines](software-1/contributing.md)
 * [Deep Learning](software-1/deep-learning/README.md)
   * [Tensorflow](software-1/deep-learning/tensorflow.md)
   * [CUDA](software-1/deep-learning/cuda.md)
