@@ -49,14 +49,6 @@
 ## Software <a id="software-1"></a>
 
 * [NeuroPoly Packages & Collaborations](software-1/software.md)
-* [Other Software & Tools](software-1/other-software-and-tools/README.md)
-  * [Jekyll](software-1/other-software-and-tools/jekyll.md)
-  * [BitBucket](software-1/other-software-and-tools/bitbucket.md)
-  * [Chrome](software-1/other-software-and-tools/chrome.md)
-  * [Docker](software-1/other-software-and-tools/docker.md)
-  * [Dropbox](software-1/other-software-and-tools/dropbox.md)
-  * [Microsoft Word](software-1/other-software-and-tools/microsoft-word.md)
-  * [Git & GitHub](software-1/other-software-and-tools/untitled.md)
 
 ## Job Opportunities <a id="job-opportunities-1"></a>
 
