@@ -1,18 +1,18 @@
 # Julien Cohen-Adad
 
-Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursued with a 3-year postdoctoral fellowship at the MGH Martinos Center at Harvard University. He is now associate professor at Polytechnique Montreal, director of the Neuroimaging Research Laboratory at Polytechnique \(NeuroPoly\) and associate director of the Neuroimaging Functional Unit at University of Montreal. Dr. Cohen-Adad has a background in MR physics and software development. His research focuses on the development of multi-parametric MRI techniques for quantifying microstructure in the brain and spinal cord. These developments include MRI coils, acquisition at ultra-high field \(7 Tesla\), quantitative techniques \(diffusion imaging, magnetization transfer, functional MRI\) and image processing software \(multimodal registration, segmentation, motion correction\). His lab has created and is maintaining multiple open-source software packages to process medical image data and control the MRI system remotely [more details here](https://github.com/sponsors/neuropoly). In collaboration with several international hospitals, he has been translating these advanced MRI techniques for studying patients with spinal cord injury and multiple sclerosis. He has published over 130 articles, edited [the first book on quantitative MRI of the spinal cord \(Elsevier\)](http://www.sciencedirect.com/science/book/9780123969736) and has organized several workshops at international conferences \(OHBM, ISMRM\).
+Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursued a 3-year postdoctoral fellowship at the MGH Martinos Center at Harvard University. He is now associate professor at Polytechnique Montréal, director of the Neuroimaging Research Laboratory at Polytechnique \(NeuroPoly\) and associate director of the Neuroimaging Functional Unit at University of Montreal. Dr. Cohen-Adad has a background in MR physics and software development. His research focuses on the development of multi-parametric MRI techniques for quantifying microstructure in the brain and spinal cord. These developments include MRI coils, acquisition at ultra-high field \(7 Tesla\), quantitative techniques \(diffusion imaging, magnetization transfer, functional MRI\) and image processing software \(multimodal registration, segmentation, motion correction\). His lab has created and maintains multiple open-source software packages to process medical image data and control the MRI system remotely [more details here](https://github.com/sponsors/neuropoly). In collaboration with several international hospitals, he has been translating these advanced MRI techniques for studying patients with spinal cord injury and multiple sclerosis. He has published over 130 articles, edited [the first book on quantitative MRI of the spinal cord \(Elsevier\)](http://www.sciencedirect.com/science/book/9780123969736) and has organized several workshops at international conferences \(OHBM, ISMRM\).
 
 [Curriculum Vitae](https://www.dropbox.com/s/pwokjjnrexg0zl6/cohenadad_cv__20190424.pdf?dl=0)
 
 ## Positions
 
-* Associate Professor, Department of Electrical Engineering, Institute of Biomedical Engineering, Ecole Polytechnique de Montreal
+* Associate Professor, Department of Electrical Engineering, Institute of Biomedical Engineering, Ecole Polytechnique de Montréal
 * Adjunct Professor, Department of Neuroscience, Faculty of Medicine, Université de Montréal
-* \[\[[http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3521\|Canada](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3521|Canada) Research Chair in Quantitative Magnetic Resonance Imaging\]\]
-* Director, \[\[[http://www.neuro.polymtl.ca\|NeuroPoly](http://www.neuro.polymtl.ca|NeuroPoly) - Neuroimaging Research Laboratory at Polytechnique\]\]\
-* Associate Director and MR physicist, \[\[[https://unf-montreal.ca/\|Unité](https://unf-montreal.ca/|Unité) de Neuroimagerie Fonctionnelle\]\], CRIUGM, Université de Montréal \(Office M-5818\)
-* Associate Member, \[\[[https://www.grsnc.org/home\|Center](https://www.grsnc.org/home|Center) for Research in Neurological Sciences\]\]
-* Associate Member, \[\[[http://mila.quebec/en/mila/\|Mila](http://mila.quebec/en/mila/|Mila) - Quebec AI Institute\]\]
+* [Canada Research Chair in Quantitative Magnetic Resonance Imaging](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3521)
+* Director, [NeuroPoly - Neuroimaging Research Laboratory at Polytechnique](http://www.neuro.polymtl.ca)
+* Associate Director and MR physicist, [Unité de Neuroimagerie Fonctionnelle](https://unf-montreal.ca/), CRIUGM, Université de Montréal \(Office M-5818\)
+* Associate Member, [Center for Research in Neurological Sciences](https://www.grsnc.org/home)
+* Associate Member, [Mila - Quebec AI Institute](http://mila.quebec/en/mila/)
 
 ## Other Memberships
 
@@ -32,7 +32,7 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 
 #### Email
 
-jcohen "at" polymtl.ca
+> jcohen "at" polymtl.ca
 
 **Note to potential applicants:** If you are interested in doing a Master/PhD, please **do not call**. Instead, send a CV + university transcripts and I will respond if I am interested. Thank you for your understanding.
 
