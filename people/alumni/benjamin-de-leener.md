@@ -8,7 +8,7 @@ I am a PhD student at the Institute of Biomedical Engineering at Polytechnique M
 
 [LinkedIn](http://www.linkedin.com/profile/view?id=172704421)
 
-[My reviewer profile on Publons.](https://publons.com/author/467043/benjamin-de-leener#profile)
+[My reviewer profile on Publons](https://publons.com/author/467043/benjamin-de-leener#profile)
 
 ## Projects
 
