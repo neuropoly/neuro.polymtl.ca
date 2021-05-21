@@ -16,6 +16,8 @@
 * [Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana)
 * Mathieu Boudreau
 * [Ainsleigh Hill](https://www.linkedin.com/in/ainsleigh-hill-836296124/)
+* Joshua Newton
+* Nick Guenther
 
 ## Postdoctoral Researchers
 
