@@ -2,6 +2,8 @@
 
 ## About
 
+![](../../.gitbook/assets/benjamin_deleener.jpeg)
+
 I am a PhD student at the Institute of Biomedical Engineering at Polytechnique Montreal. My researches are focused on the development of new neuroimaging methods for characterizing the macro- and micro-structure of the central nervous system \(brain and spinal cord\).
 
 [Curriculum Vitae](http://www.dropbox.com/s/29ac0bdyg70dsg4/DeLeener_Benjamin_Curriculum_Vitae_short.pdf)
