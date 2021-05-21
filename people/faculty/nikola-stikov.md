@@ -6,13 +6,15 @@ Dr. Nikola Stikov is associate professor of biomedical engineering, a researcher
 
 Prior to joining the Polytechnique faculty, Dr. Stikov completed his postdoctoral training with Dr. Bruce Pike at the Montreal Neurological Institute, and his Ph.D. degree with Dr. John Pauly and Dr. Dwight Nishimura at Stanford University. For his accomplishments, Dr. Stikov has been awarded the Stanford Electrical Engineering Outstanding Service Award in 2003, and the Stanford University Centennial Teaching Assistant Award in 2007. He is also the founder of [MRBalkan.org](http://www.mrbalkan.org), and has organized several international conferences for magnetic resonance imaging under the auspices of the International Society for Magnetic Resonance in Medicine \(ISMRM\). In 2014 Dr. Stikov was elected Junior Fellow of the ISMRM, and in 2015 he joined the Editorial Board of the journal Magnetic Resonance in Medicine \(MRM\), spearheading the journal's [Highlights](http://www.ismrm.org/mrm) initiative. Continuing with his science outreach activities, in 2016 Dr. Stikov established the official [blog](http://www.humanbrainmapping.org/blog) of the Organization for Human Brain Mapping \(OHBM\) and in 2018 he became chair of the communications committee of the Canadian Open Neuroscience Platform \(CONP\).
 
+## Positions
+
 **Associate Professor**
 
-* Department of Electrical Engineering, Institute of Biomedical Engineering, Ecole Polytechnique de Montréal
+* Department of Electrical Engineering, Institute of Biomedical Engineering, École Polytechnique de Montréal
 
 **Director**
 
-* [NeuroPoly: Neuroimaging Research Laboratory at Polytechnique](../../)
+* [NeuroPoly: Neuroimaging Research Laboratory at Polytechnique](https://www.neuro.polymtl.ca/home)
 
 **Member**
 
@@ -32,7 +34,7 @@ Prior to joining the Polytechnique faculty, Dr. Stikov completed his postdoctora
 
 #### Email
 
-nikola.stikov "at" polymtl.ca
+> nikola.stikov "at" polymtl.ca
 
 [Curriculum Vitae](https://dl.dropboxusercontent.com/u/24651834/Nikola_Stikov_CV_Jan_2017.pdf)
 
