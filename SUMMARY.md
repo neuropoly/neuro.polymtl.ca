@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to NeuroPoly!](README.md)
+* [Welcome to NeuroPoly!  👋](README.md)
 
 ## People
 
