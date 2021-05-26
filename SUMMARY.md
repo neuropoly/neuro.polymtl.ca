@@ -10,6 +10,8 @@
   * [Nikola Stikov](people/faculty/nikola-stikov.md)
 * [Research Associates](people/research-associates/README.md)
   * [Nibardo Lopez Rios](people/research-associates/nibardo-lopez-rios.md)
+* [Postdocs](people/postdocs/README.md)
+  * [Eva Alonso Ortiz](people/postdocs/eva-alonso-ortiz.md)
 * [PhD Students](people/phd-students/README.md)
   * [Charley Gros](people/phd-students/charley-gros.md)
   * [Gabriel Mangeat](people/phd-students/gabriel-mangeat.md)
