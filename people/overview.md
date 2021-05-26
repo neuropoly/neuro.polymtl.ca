@@ -32,6 +32,7 @@
 | Name | GitHub Link |
 | :--- | :--- |
 | [Eva Alonso Ortiz](https://www.evaalonsoortiz.com/) | [@evaalonsoortiz](https://github.com/evaalonsoortiz) |
+| Daniel Papp | [@dpapp86](https://github.com/dpapp86) |
 
 ## PhD Students
 
