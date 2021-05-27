@@ -61,7 +61,7 @@
 
 | Name | GitHub Link |
 | :--- | :--- |
-| Paul Bautin |  |
+| Paul Bautin | [@PaulBautin](https://github.com/PaulBautin) |
 | Jan Valosek |  |
 | Maylis Heussner |  |
 | Sandrine Bedard | [@sandrinebedard](https://github.com/sandrinebedard) |
