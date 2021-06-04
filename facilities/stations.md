@@ -1,6 +1,12 @@
-# Neuropoly Workstations
+# Neuropoly Computers
 
-<!-- TODO: port from https://www.neuro.polymtl.ca/internal_resources/list_of_computers -->
+<!-- TODO: port the rest from https://www.neuro.polymtl.ca/internal_resources/list_of_computers -->
+
+## Polygrames
+
+To access most in-house computers, whether on-campus or remote, you must have an [active polygrames account](../onboarding/accounts.md#polygrames).
+
+## 
 
 ## Connecting to Neuropoly Remotely
 
@@ -14,7 +20,15 @@ First, you need to connect to [the VPN](http://www.polymtl.ca/si/reseaux/acces-s
 
 # ...
 
-# ...
+# SSH
+
+```
+ssh username@STATION.neuro.polymtl.ca
+```
+
+For Windows: (WSL? PuTTY?)
+
+You can use ssh even while on campus to connect to other machines and transfer files, etc.
 
 # SSH Shortcut
 
