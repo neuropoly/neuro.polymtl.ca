@@ -47,9 +47,9 @@
 
 * [Publications](publications/publications.md)
 
-## Software <a id="software-1"></a>
+## Software
 
-* [NeuroPoly Packages & Collaborations](software-1/software.md)
+* [NeuroPoly Packages & Collaborations](software/packages-and-collaborations.md)
 
 ## Job Opportunities
 

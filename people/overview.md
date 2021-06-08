@@ -55,7 +55,7 @@
 | Olivier Vincent |  |
 | Marie-Hélène Bourget | [@mariehbourget](https://github.com/mariehbourget) |
 | Andréanne Lemay | [@andreanne-lemay](https://github.com/andreanne-lemay) |
-| [Uzay Macar](https://uzaymacar.github.io/) |  [@uzaymacar](https://github.com/uzaymacar)
+| [Uzay Macar](https://uzaymacar.github.io/) |  |
 
 ## Internships
 
