@@ -51,16 +51,16 @@
 
 * [NeuroPoly Packages & Collaborations](software-1/software.md)
 
-## Job Opportunities <a id="job-opportunities-1"></a>
+## Job Opportunities
 
-* [Professional Positions](job-opportunities-1/professional-positions/README.md)
-  * [Project Manager for Software Development](job-opportunities-1/professional-positions/project-manager-for-software-development.md)
-  * [Software Developer](job-opportunities-1/professional-positions/software-developer.md)
-* [MSc \| PhD \| PostDoc Positions](job-opportunities-1/msc-or-phd-or-postdoc-positions.md)
-* [Internships](job-opportunities-1/internships/README.md)
-  * [Labeling Medical Images for A.I. Applications](job-opportunities-1/internships/labeling-medical-images-for-a.i.-applications.md)
-  * [Medical Image Analysis](job-opportunities-1/internships/medical-image-analysis.md)
-  * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities-1/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
+* [Professional Positions](job-opportunities/professional-positions/README.md)
+  * [Project Manager for Software Development](job-opportunities/professional-positions/project-manager-for-software-development.md)
+  * [Software Developer](job-opportunities/professional-positions/software-developer.md)
+* [MSc \| PhD \| PostDoc Positions](job-opportunities/msc-or-phd-or-postdoc-positions.md)
+* [Internships](job-opportunities/internships/README.md)
+  * [Labeling Medical Images for A.I. Applications](job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md)
+  * [Medical Image Analysis](job-opportunities/internships/medical-image-analysis.md)
+  * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
 
 ## Events & Workshops
 
