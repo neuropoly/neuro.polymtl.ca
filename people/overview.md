@@ -45,6 +45,7 @@
 | [Atef Badji](https://ca.linkedin.com/in/badjiatef) | [@atefbadji](https://github.com/atefbadji) |
 | Vicente Enguix |  |
 | [Charley Gros](phd-students/charley-gros.md) | [@charleygros](https://github.com/charleygros) |
+| Naga Karthik | [@naga-karthik](https://github.com/naga-karthik) |
 
 ## Masters Students
 
