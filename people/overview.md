@@ -69,6 +69,7 @@
 | Noémie Roberge |  |
 | Alexandre Bernard |  |
 | Armand Collin | [@hermancollin](https://github.com/hermancollin) |
+| Etienne Bergeron | [@etiennebergeron](https://github.com/etiennebergeron) |
 
 ## Alumni
 
