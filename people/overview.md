@@ -68,6 +68,7 @@
 | Sandrine Bedard | [@sandrinebedard](https://github.com/sandrinebedard) |
 | Noémie Roberge |  |
 | Alexandre Bernard |  |
+| Armand Collin | [@hermancollin](https://github.com/hermancollin) |
 
 ## Alumni
 
