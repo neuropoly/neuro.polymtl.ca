@@ -1,14 +1,8 @@
-# Publications
+# 📚  Publications
 
 List of publications on [Google Scholar](http://scholar.google.ca/citations?user=6cAZ028AAAAJ) and [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=Cohen-Adad%20J%5Bauthor%5D).
 
-### Book
-
-![](../.gitbook/assets/spinalcordmri.jpeg)
-
-{% embed url="http://www.sciencedirect.com/science/book/9780123969736" %}
-
-### Journal Articles
+## Journal Articles
 
 1. Cohen-Adad J et al.. Generic acquisition protocol for quantitative MRI of the spinal cord.. **Nat Protocols** 2021
 2. Cohen-Adad J et al.. Open-access quantitative MRI data of the spinal cord and reproducibility across participants, sites and manufacturers.. **Sci Data** 2021
@@ -157,23 +151,31 @@ List of publications on [Google Scholar](http://scholar.google.ca/citations?user
 145. Cohen-Adad J, Benali H, Barrière G, Leblond H, Hoge RD, Rossignol S. Development of clinical diffusion tensor MRI of the spinal cord in a context of spinal cord injury. **IRBM** 2008
 146. Cohen-Adad J, Chapuisat S, Doyon J, Rossignol S, Lina JM, Benali H, Lesage F. [Activation detection in diffuse optical imaging by means of the general linear model](https://www.ncbi.nlm.nih.gov/pubmed/17643341). **Med Image Anal** 2007
 
-### Featured Cover Pages
+## Book Chapters
 
-![alt-text-1](../.gitbook/assets/cover_cohenadad11_in_vivo_evidence_of_disseminated_subpial_t2_signal_changes_in_multiple_sclerosis_at_7_t%20%281%29.png) ![alt-text-2](../.gitbook/assets/cover_cohenadad11_32-channel_rf_coil_optimized_for_brain_and_cervical_spinal_cord_at_3_t.png)![alt-text-1](../.gitbook/assets/cover_zhao14_nineteen-channel_receive_array_and_four-channel_transmit_array_coil_for_cervical_spinal_cord_imaging_at_7t.jpeg) ![alt-text-2](../.gitbook/assets/cover_cohenadad12_cervical_spinal_cord_injection_of_epidural_corticosteroids.png)![alt-text-1](../.gitbook/assets/cover_bilgic12_accelerated_diffusion_spectrum_imaging_with_compressed_sensing_using_adaptive_dictionaries.jpeg) ![alt-text-2](../.gitbook/assets/mangeat_2015_nimg_cover.png)![alt-text-1](../.gitbook/assets/cover_neurotrauma_2018.jpeg) ![alt-text-2](../.gitbook/assets/cover_brain_2020.png)
+1. Chen JJ and Cohen-Adad J. Functional Magnetic Resonance Imaging, [Encyclopedia of Biomedical Engineering](https://www.elsevier.com/books/encyclopedia-of-biomedical-engineering/narayan/978-0-12-804829-0), Elsevier, 2017.
+2. Martin AR, Cohen-Adad J, Fehlings MG. Magnetic Resonance Imaging of the Injured Spinal Cord: The Present and the Future. AOS Masters Series SCI Textbook: Thieme; 2015.
+3. Cohen-Adad J, Wald LL. Coil arrays. In: Cohen-Adad J, Wheeler-Kingshott C, editors. [Quantitative MRI of the Spinal Cord](https://www.sciencedirect.com/book/9780123969736/quantitative-mri-of-the-spinal-cord). San Diego: Elsevier; 2014
+4. Ellingson BM, Cohen-Adad J. Diffusion-weighted imaging. In: Cohen-Adad J, Wheeler-Kingshott C, editors. [Quantitative MRI of the Spinal Cord](https://www.sciencedirect.com/book/9780123969736/quantitative-mri-of-the-spinal-cord). San Diego: Elsevier; 2014
+5. Summers P, Brooks JCW, Cohen-Adad J. Spinal cord fMRI. In: Cohen-Adad J, Wheeler-Kingshott C, editors. [Quantitative MRI of the Spinal Cord](https://www.sciencedirect.com/book/9780123969736/quantitative-mri-of-the-spinal-cord). San Diego: Elsevier; 2014
 
-### Newspaper/Public Coverage
+## Featured Cover Pages
+
+![alt-text-1](.gitbook/assets/cover_cohenadad11_in_vivo_evidence_of_disseminated_subpial_t2_signal_changes_in_multiple_sclerosis_at_7_t%20%281%29.png) ![alt-text-2](.gitbook/assets/cover_cohenadad11_32-channel_rf_coil_optimized_for_brain_and_cervical_spinal_cord_at_3_t.png)![alt-text-1](.gitbook/assets/cover_zhao14_nineteen-channel_receive_array_and_four-channel_transmit_array_coil_for_cervical_spinal_cord_imaging_at_7t.jpeg) ![alt-text-2](.gitbook/assets/cover_cohenadad12_cervical_spinal_cord_injection_of_epidural_corticosteroids.png)![alt-text-1](.gitbook/assets/cover_bilgic12_accelerated_diffusion_spectrum_imaging_with_compressed_sensing_using_adaptive_dictionaries.jpeg) ![alt-text-2](.gitbook/assets/mangeat_2015_nimg_cover.png)![alt-text-1](.gitbook/assets/cover_neurotrauma_2018.jpeg) ![alt-text-2](.gitbook/assets/cover_brain_2020.png)
+
+## Newspaper/Public Coverage
 
 * [http://www.ledevoir.com/galeries-photos/les-capacites-d-apprentissage-du-systeme-nerveux/144354](http://www.ledevoir.com/galeries-photos/les-capacites-d-apprentissage-du-systeme-nerveux/144354)
 * [https://news.developer.nvidia.com/ai-helps-doctors-detect-ms-in-the-spinal-cord/](https://news.developer.nvidia.com/ai-helps-doctors-detect-ms-in-the-spinal-cord/)
 
-### Theses
+## Theses
 
-**PhD Theses**:
+### **PhD Theses**
 
 * De Leener, B. \(2017\). Development of an MRI template and analysis pipeline for the spinal cord and application in patients with spinal cord injury \(Thèse de doctorat, École Polytechnique de Montréal\). Tiré de [https://publications.polymtl.ca/2743/](https://publications.polymtl.ca/2743/)
 * Duval, T. \(2017\). Quantification de la microstructure de la moelle épinière humaine par IRM et application chez des patients avec sclérose en plaques \(Thèse de doctorat, École Polytechnique de Montréal\). Tiré de [https://publications.polymtl.ca/2871/](https://publications.polymtl.ca/2871/)
 
-**MScA Theses**:
+### **MSc Theses**
 
 * Rouhier, L. \(2020\). Prognosis for Degenerative Cervical Myelopathy: A Computer Learning Approach on the AOspine Database. \(Masters thesis, Polytechnique Montréal\). Tiré de [https://publications.polymtl.ca/5348/](https://publications.polymtl.ca/5348/)
 * Samuel Perone, C. \(2019\). Deep Learning Methods for MRI Spinal Cord Gray Matter Segmentation. \(Masters thesis, Polytechnique Montréal\). Tiré de [https://publications.polymtl.ca/3811/](https://publications.polymtl.ca/3811/)
