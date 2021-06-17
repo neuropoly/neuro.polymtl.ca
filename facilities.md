@@ -1,4 +1,4 @@
-# Facilities
+# 🏛  Facilities
 
 The main lab is located at Ecole Polytechnique, 5th floor, biomedical engineering section \(L5613, L5626\).
 

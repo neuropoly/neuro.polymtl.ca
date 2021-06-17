@@ -1,6 +1,6 @@
 # Software Developer
 
-We recruit experienced software developers to work on the [following projects](../../software/packages-and-collaborations.md).
+We recruit experienced software developers to work on the [following projects](../../software.md).
 
 **Main tasks:**
 

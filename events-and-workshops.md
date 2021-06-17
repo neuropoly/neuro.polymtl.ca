@@ -1,6 +1,6 @@
-# Events & Workshops
+# 📅  Events & Workshops
 
-Below are the workshops/hackathons organized by the Lab:
+Below are the workshops/hackathons organized by the NeuroPoly Lab:
 
 * [5th Spinal Cord MRI Workshop, Paris 2018](http://www.neuro.polymtl.ca/_media/links/spinalcordmriworkshop2018.pdf)
 * [4th Spinal Cord MRI Workshop, Honolulu 2017](http://www.neuro.polymtl.ca/_media/links/spinalcordmriworkshop2017.pdf)
@@ -10,4 +10,6 @@ Below are the workshops/hackathons organized by the Lab:
 * [2nd Spinal Cord MRI Workshop, Toronto 2015](http://goo.gl/MgZdqj)
 * [Brainhack EDT conference \(2014\)](http://brainhack.org/brainhack-edt/)
 * [1st Spinal Cord Hack, Milan 2014](http://brainhack.org/categories/spinalcordhack2014/)
+
+
 

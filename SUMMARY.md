@@ -24,6 +24,7 @@
     * [Aldo Zaimi](people/alumni/aldo-zaimi.md)
     * [Benjamin De Leener](people/alumni/benjamin-de-leener.md)
     * [Tanguy Duval](people/alumni/tanguy-duval.md)
+* [🏛  Facilities](facilities.md)
 * [🔍  Research](research/README.md)
   * [RF & Shim Coil Design](research/rf-and-shim-coil-design.md)
   * [Mapping Tissue Microstructure](research/mapping-tissue-microstructure/README.md)
@@ -40,28 +41,16 @@
   * [Data & Scripts](research/data-scripts.md)
   * [Collaborations](research/collaborations.md)
 * [📚  Publications](publications.md)
-
-## Software
-
-* [NeuroPoly Packages & Collaborations](software/packages-and-collaborations.md)
-
-## Job Opportunities
-
-* [Professional Positions](job-opportunities/professional-positions/README.md)
-  * [Project Manager for Software Development](job-opportunities/professional-positions/project-manager-for-software-development.md)
-  * [Software Developer](job-opportunities/professional-positions/software-developer.md)
-* [MSc \| PhD \| PostDoc Positions](job-opportunities/msc-or-phd-or-postdoc-positions.md)
-* [Internships](job-opportunities/internships/README.md)
-  * [Labeling Medical Images for A.I. Applications](job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md)
-  * [Medical Image Analysis](job-opportunities/internships/medical-image-analysis.md)
-  * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
-
-## Events & Workshops
-
-* [Events & Workshops](events-and-workshops/events-and-workshops.md)
-
----
-
-* [Facilities](facilities.md)
-* [Contact Us](contact-us.md)
+* [🖥  Software](software.md)
+* [📅  Events & Workshops](events-and-workshops.md)
+* [📣  Job Opportunities](job-opportunities/README.md)
+  * [Professional Positions](job-opportunities/professional-positions/README.md)
+    * [Project Manager for Software Development](job-opportunities/professional-positions/project-manager-for-software-development.md)
+    * [Software Developer](job-opportunities/professional-positions/software-developer.md)
+  * [MSc \| PhD \| PostDoc Positions](job-opportunities/msc-or-phd-or-postdoc-positions.md)
+  * [Internships](job-opportunities/internships/README.md)
+    * [Labeling Medical Images for A.I. Applications](job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md)
+    * [Medical Image Analysis](job-opportunities/internships/medical-image-analysis.md)
+    * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
+* [✍️  Contact Us](contact-us.md)
 
