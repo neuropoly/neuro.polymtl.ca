@@ -1,6 +1,6 @@
 # Julien Cohen-Adad
 
-![](../../.gitbook/assets/cohenadad_pic_square2.png)
+![](../../.gitbook/assets/cohenadad_pic_square2_small.png)
 
 Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursued a 3-year postdoctoral fellowship at the MGH Martinos Center at Harvard University. He is now associate professor at Polytechnique Montréal, director of the Neuroimaging Research Laboratory at Polytechnique \(NeuroPoly\) and associate director of the Neuroimaging Functional Unit at University of Montreal. Dr. Cohen-Adad has a background in MR physics and software development. His research focuses on the development of multi-parametric MRI techniques for quantifying microstructure in the brain and spinal cord. These developments include MRI coils, acquisition at ultra-high field \(7 Tesla\), quantitative techniques \(diffusion imaging, magnetization transfer, functional MRI\) and image processing software \(multimodal registration, segmentation, motion correction\). His lab has created and maintains multiple open-source software packages to process medical image data and control the MRI system remotely [more details here](https://github.com/sponsors/neuropoly). In collaboration with several international hospitals, he has been translating these advanced MRI techniques for studying patients with spinal cord injury and multiple sclerosis. He has published over 130 articles, edited [the first book on quantitative MRI of the spinal cord \(Elsevier\)](http://www.sciencedirect.com/science/book/9780123969736) and has organized several workshops at international conferences \(OHBM, ISMRM\).
 
@@ -23,7 +23,7 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 
 ## Contact
 
-#### Address
+#### 🏛  Address
 
 > Dept. Genie Electrique, L5610  
 > Ecole Polytechnique  
@@ -32,9 +32,11 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 > H3T 1J4  
 > Canada
 
-#### Email
+📩  **Email**
 
 > jcohen "at" polymtl.ca
 
+{% hint style="info" %}
 **Note to potential applicants:** If you are interested in doing a Master/PhD, please **do not call**. Instead, send a CV + university transcripts and I will respond if I am interested. Thank you for your understanding.
+{% endhint %}
 
