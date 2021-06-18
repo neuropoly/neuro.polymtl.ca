@@ -4,7 +4,7 @@
 
 ## Faculty
 
-| me | GitHub Link |
+| Name | GitHub Link |
 | :--- | :--- |
 | [Julien Cohen-Adad](faculty/julien-cohen-adad.md) | [@jcohenadad](https://github.com/jcohenadad) |
 | Nikola Stikov |  |
