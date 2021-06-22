@@ -21,7 +21,7 @@
 | [Ainsleigh Hill](https://www.linkedin.com/in/ainsleigh-hill-836296124/) | [@ahill187](https://github.com/ahill187) |
 | Joshua Newton | [@joshuacwnewton](https://github.com/joshuacwnewton) |
 | Nick Guenther | [@kousu](https://github.com/kousu) |
-| Taowa Rosetwig | [@taowa](https://taowa.ca) |
+| Taowa Rosetwig | [@taowa](https://github.com/taowa) |
 
 ## Postdoctoral Researchers
 
