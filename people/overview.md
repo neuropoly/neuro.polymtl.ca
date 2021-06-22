@@ -20,6 +20,7 @@
 | [Ainsleigh Hill](https://www.linkedin.com/in/ainsleigh-hill-836296124/) | [@ahill187](https://github.com/ahill187) |
 | Joshua Newton | [@joshuacwnewton](https://github.com/joshuacwnewton) |
 | Nick Guenther | [@kousu](https://github.com/kousu) |
+| [Taowa Rosetwig](https://taowa.ca) | [@taowa](https://github.com/taowa) |
 
 ## Consultants
 
