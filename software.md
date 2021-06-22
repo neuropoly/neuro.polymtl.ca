@@ -18,7 +18,7 @@ Below is a list of software projects created at **NeuroPoly** or at collaborativ
 
 | Name | Description | Language | Links |
 | :--- | :--- | :--- | :--- |
-|  IVADOMED | Comprehensive and open-source repository of deep learning methods for medical data segmentation | Python | [Source Code \(GitHub\)](https://github.com/ivadomed/ivadomed) [Documentation](https://ivadomed.org/en/latest/) |
+|  ivadomed | Comprehensive and open-source repository of deep learning methods for medical data segmentation | Python | [Source Code \(GitHub\)](https://github.com/ivadomed/ivadomed) [Documentation](https://ivadomed.org/en/latest/) |
 | Multiclass Segmentation | Code related to the NIH marmoset longitudinal segmentation project | Python | [Source Code \(GitHub\)](https://github.com/neuropoly/multiclass-segmentation) [Documentation](https://github.com/neuropoly/multiclass-segmentation/blob/master/README.md) |
 | qMRLab | Software for data aimulation, analysis, and visualization of qMRI data \(Magnetization Transfer, Diffusion, etc.\) | MATLAB | [Source Code \(GitHub\)](https://github.com/qMRLab/qMRLab) [Documentation](https://qmrlab.readthedocs.io/en/master/) |
 | Shimming Toolbox | Code for performing real-time shimming using external MRI shim coils | MATLAB Python | [Source Code \(GitHub\) ](https://github.com/shimming-toolbox)[Documentation](https://shimming-toolbox.org/en/latest/) |
