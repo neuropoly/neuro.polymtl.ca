@@ -19,8 +19,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | :--- |
 | [Alexandru Foias](https://ca.linkedin.com/in/alexandrufoias) |
 | [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md) |
-| [Jennifer Campbell](http://www.bic.mni.mcgill.ca/~jcampbel/) |
-| [Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana) |
 | Mathieu Boudreau |
 | [Ainsleigh Hill](https://www.linkedin.com/in/ainsleigh-hill-836296124/) |
 | Joshua Newton |
@@ -40,7 +38,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | :--- |
 | [Gabriel Mangeat](phd-students/gabriel-mangeat.md) |
 | [Ryan Topfer](phd-students/ryan-topfer.md) |
-| [Tommy Boshkovski](phd-students/tommy-boshkovski.md) |
 | [Agah Karakuzu](phd-students/agah-karakuzu.md) |
 | [Atef Badji](https://ca.linkedin.com/in/badjiatef) |
 | Vicente Enguix |
@@ -53,7 +50,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | :--- |
 | Gaspard Cereza |
 | Alexandre D'Astous |
-| Olivier Vincent |
 | Marie-Hélène Bourget |
 | Andréanne Lemay |
 | [Uzay Macar](https://uzaymacar.github.io/) |
@@ -63,13 +59,12 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | Name |
 | :--- |
 | [Paul Bautin](https://www.linkedin.com/in/paul-bautin-757690175/) |
-| Jan Valosek |
-| Maylis Heussner |
 | Sandrine Bedard |
 | Noémie Roberge |
 | Alexandre Bernard |
 | Armand Collin |
 | Etienne Bergeron |
+| Benjamin Carrier |
 
 ## Consultants
 
@@ -81,6 +76,12 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 | Name |
 | :--- |
+| Olivier Vincent |
+| Jan Valosek |
+| Maylis Heussner |
+| [Jennifer Campbell](http://www.bic.mni.mcgill.ca/~jcampbel/) |
+| [Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana) |
+| [Tommy Boshkovski](phd-students/tommy-boshkovski.md) |
 | [Lucas Rouhier](https://github.com/lrouhier) |
 | [Leander van Eekelen](https://www.linkedin.com/in/leander-van-eekelen/) |
 | Anne Kerbrat |
