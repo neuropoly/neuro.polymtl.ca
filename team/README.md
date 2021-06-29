@@ -1,6 +1,10 @@
 # 👩🏼‍🤝‍👨🏽  Team
 
+
+
 ![](../.gitbook/assets/neuropoly_lab.jpeg)
+
+See [us on Github](https://github.com/orgs/neuropoly/people), or our more specific profiles below.
 
 ## Faculty
 
@@ -20,7 +24,7 @@
 | Mathieu Boudreau |
 | [Ainsleigh Hill](https://www.linkedin.com/in/ainsleigh-hill-836296124/) |
 | Joshua Newton |
-| Nick Guenther |
+| [Nick Guenther](https://github.com/kousu) |
 | Taowa Rosetwig |
 
 ## Postdoctoral Researchers
