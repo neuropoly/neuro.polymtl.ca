@@ -71,6 +71,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | Name |
 | :--- |
 | Yang Ding |
+| Konstantinos Nasiotis |
 
 ## Alumni
 
