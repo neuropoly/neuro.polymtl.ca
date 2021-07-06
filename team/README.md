@@ -1,7 +1,5 @@
 # 👩🏼‍🤝‍👨🏽  Team
 
-
-
 ![](../.gitbook/assets/neuropoly_lab.jpeg)
 
 See [us on Github](https://github.com/orgs/neuropoly/people), or our more specific profiles below.
