@@ -8,3 +8,5 @@ description: NeuroImaging Research Laboratory at Polytechnique
 
 ![](.gitbook/assets/fig_home.png)
 
+
+<div align="center"><a href=”http://twitter.com/polyNeuro″ class=”twitter-follow-button” data-size=”large” data-show-count=”false”>Follow @polyNeuro</a><script async src=”//platform.twitter.com/widgets.js” charset=”utf-8″></script></div>
