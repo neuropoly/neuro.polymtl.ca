@@ -21,7 +21,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | [Ainsleigh Hill](https://www.linkedin.com/in/ainsleigh-hill-836296124/) |
 | Joshua Newton |
 | [Nick Guenther](https://github.com/kousu) |
-| Taowa Rosetwig |
+| [Taowa Rosetwig](https://taowa.ca) |
 
 ## Postdoctoral Researchers
 
