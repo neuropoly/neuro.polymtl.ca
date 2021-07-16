@@ -8,7 +8,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 | Name |
 | :--- |
-| [Julien Cohen-Adad](faculty/julien-cohen-adad.md) |
+| [Julien Cohen-Adad](faculty/julien-cohen-adad.md)  [![](https://gblobscdn.gitbook.com/assets%2F-Liw315uwZ0Hq-uIXyGy%2F-Megys7d7PuSBT8V7T6e%2F-MegyuNoqSWmEDjd1Xhv%2Flogo_twitter_20px.png?alt=media&token=69e4078e-b109-403f-a397-668df7c93e93)](https://twitter.com/jcohenadad)[![](https://gblobscdn.gitbook.com/assets%2F-Liw315uwZ0Hq-uIXyGy%2F-Megys7d7PuSBT8V7T6e%2F-MegzNB5_p38XVMup1Lc%2FGitHub-Mark-20px.png?alt=media&token=97289b49-b2db-42a5-b116-5af036175980)](https://github.com/jcohenadad/)[![](https://gblobscdn.gitbook.com/assets%2F-Liw315uwZ0Hq-uIXyGy%2F-Megys7d7PuSBT8V7T6e%2F-Meh-nUKxyGfOtcXWHgP%2Flogo_linkedin-20px.png?alt=media&token=9363470f-9d77-4cf9-999e-6fd48aab1132)](https://www.linkedin.com/in/jcohenadad/)[![](https://gblobscdn.gitbook.com/assets%2F-Liw315uwZ0Hq-uIXyGy%2F-Megys7d7PuSBT8V7T6e%2F-Meh-MQmYjeurgy4_KvX%2Fmail-142.png?alt=media&token=4d4d8511-1b8c-4ceb-88bc-6768b4258af1)](mailto:jcohen@polymtl.ca) |
 | Nikola Stikov |
 
 ## Research Associates
