@@ -11,7 +11,7 @@ Below are the workshops/hackathons organized by the NeuroPoly Lab:
 * [Brainhack EDT conference \(2014\)](http://brainhack.org/brainhack-edt/)
 * [1st Spinal Cord Hack, Milan 2014](http://brainhack.org/categories/spinalcordhack2014/)
 
-Also, follow our [YouTube channel](https://www.youtube.com/channel/UCCuMZye0AuGytw-Mv_4ZzfA/playlists) 🚀
+Also, follow us on[![](.gitbook/assets/screen-shot-2021-07-19-at-4.28.37-pm.png)](https://www.youtube.com/channel/UCCuMZye0AuGytw-Mv_4ZzfA/playlists) 
 
 
 
