@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋  Welcome to NeuroPoly](README.md)
+* [Welcome to NeuroPoly](README.md)
 * [👩🏼‍🤝‍👨🏽  Team](team/README.md)
   * [Faculty](team/faculty/README.md)
     * [Julien Cohen-Adad](team/faculty/julien-cohen-adad.md)
