@@ -7,6 +7,7 @@
     * [Nikola Stikov](team/faculty/nikola-stikov.md)
   * [Research Associates](team/research-associates/README.md)
     * [Nibardo Lopez Rios](team/research-associates/nibardo-lopez-rios.md)
+    * [Taowa Rosetwig](team/research-associates/taowa-rosetwig.md)
   * [Postdoctoral Researchers](team/postdoctoral-researchers/README.md)
     * [Eva Alonso Ortiz](team/postdoctoral-researchers/eva-alonso-ortiz.md)
   * [PhD Students](team/phd-students/README.md)
