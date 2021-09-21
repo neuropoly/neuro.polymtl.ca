@@ -4,16 +4,6 @@
 
 Below is a list of software projects created at **NeuroPoly** or at collaborative institutions. These projects are open source and freely available.
 
-### Histology
-
-| Name | Description | Links |
-| :--- | :--- | :--- |
-| Atlas Rat | Scripts to generate a microstructure atlas of the rat spinal cord | [Source Code \(GitHub\)](https://github.com/neuropoly/atlas-rat) [Documentation](https://github.com/neuropoly/atlas-rat/blob/master/README.md|Documentation) |
-| AxonSeg | Automatic segmentation of axon and myelin from microscopy data | [Source Code \(GitHub\)](https://github.com/neuropoly/axonseg) [Documentation](https://github.com/neuropoly/axonseg/blob/master/README.md) |
-| AxonDeepSeg | Segmentation software for microscopy data using deep learning | [Source Code \(GitHub\)](https://github.com/neuropoly/axondeepseg) [Documentation](https://axondeepseg.readthedocs.io/en/latest/) |
-| AxonPacking | Simulation software for arrangements of axons in white matter | [Source Code \(GitHub\)](%20https://github.com/neuropoly/axonpacking) [Documentation](https://github.com/neuropoly/axonpacking/blob/master/README.md) |
-| Tract Clustering | Data-driven approach for tracts in rat histology | [Source Code \(GitHub\) ](https://github.com/neuropoly/tract-clustering)[Documentation](https://github.com/neuropoly/tract-clustering/blob/master/README.md) |
-
 ### MRI
 
 | Name | Description | Links |
@@ -25,9 +15,19 @@ Below is a list of software projects created at **NeuroPoly** or at collaborativ
 | Spinal Cord Toolbox | Comprehensive and open-source library of analysis tools for multi-parametric MRI of the spinal cord | [Source Code \(GitHub\)](https://github.com/neuropoly/spinalcordtoolbox) [Documentation](https://spinalcordtoolbox.com/en/latest/) |
 | Template | A framework for creating unbiased MRI templates of the spinal cord | [Source Code \(GitHub\)](https://github.com/neuropoly/template) [Documentation](https://github.com/neuropoly/template/blob/master/README.md) |
 
-## Contributing
+### Histology
 
-**NeuroPoly** welcomes and appreciates contributions. To get started, please check out **NeuroPoly**'s contributing guidelines: [NeuroPoly Lab: Software Contributing Guidlines](https://neuropoly.gitbook.io/neuropoly-lab/software-development/contributing).
+| Name | Description | Links |
+| :--- | :--- | :--- |
+| Atlas Rat | Scripts to generate a microstructure atlas of the rat spinal cord | [Source Code \(GitHub\)](https://github.com/neuropoly/atlas-rat) [Documentation](https://github.com/neuropoly/atlas-rat/blob/master/README.md|Documentation) |
+| AxonSeg | Automatic segmentation of axon and myelin from microscopy data | [Source Code \(GitHub\)](https://github.com/neuropoly/axonseg) [Documentation](https://github.com/neuropoly/axonseg/blob/master/README.md) |
+| AxonDeepSeg | Segmentation software for microscopy data using deep learning | [Source Code \(GitHub\)](https://github.com/neuropoly/axondeepseg) [Documentation](https://axondeepseg.readthedocs.io/en/latest/) |
+| AxonPacking | Simulation software for arrangements of axons in white matter | [Source Code \(GitHub\)](%20https://github.com/neuropoly/axonpacking) [Documentation](https://github.com/neuropoly/axonpacking/blob/master/README.md) |
+| Tract Clustering | Data-driven approach for tracts in rat histology | [Source Code \(GitHub\) ](https://github.com/neuropoly/tract-clustering)[Documentation](https://github.com/neuropoly/tract-clustering/blob/master/README.md) |
+
+### Contributing
+
+**NeuroPoly** welcomes and appreciates contributions. To get started, please check out **NeuroPoly**'s contributing guidelines: [NeuroPoly Lab: Software Contributing Guidelines](https://neuropoly.gitbook.io/neuropoly-lab/software-development/contributing).
 
 
 
