@@ -9,7 +9,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | Name |
 | :--- |
 | [Julien Cohen-Adad](faculty/julien-cohen-adad.md)  [![Twitter](../.gitbook/assets/logo_twitter_20px.png)](https://twitter.com/jcohenadad) [![GitHub](../.gitbook/assets/logo_github_20px%20%284%29.png)](https://github.com/jcohenadad/) [![LinkedIn](../.gitbook/assets/logo_linkedin_20px%20%284%29.png)](https://www.linkedin.com/in/jcohenadad/) [![E-Mail](../.gitbook/assets/logo_mail_20px%20%282%29.png)](mailto:jcohen@polymtl.ca) |
-| Nikola Stikov |
+| Nikola Stikov [![Twitter](../.gitbook/assets/logo_twitter_20px.png)](https://twitter.com/stikov) |
+| [Eva Alonso Ortiz](https://www.evaalonsoortiz.com/)[![Twitter](../.gitbook/assets/logo_twitter_20px.png)](https://twitter.com/evaalonsoortiz) [![GitHub](../.gitbook/assets/logo_github_20px%20%284%29.png)](https://github.com/evaalonsoortiz) |
 
 ## Research Associates
 
@@ -18,7 +19,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | Alexandru Foias [![LinkedIn](../.gitbook/assets/logo_linkedin_20px.png)](https://ca.linkedin.com/in/alexandrufoias) |
 | [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md) |
 | Mathieu Boudreau |
-| Ainsleigh Hill [![LinkedIn](../.gitbook/assets/logo_linkedin_20px%20%282%29.png)](https://www.linkedin.com/in/ainsleigh-hill-836296124/) |
 | Joshua Newton |
 | Nick Guenther [![GitHub](../.gitbook/assets/logo_github_20px%20%282%29.png)](https://github.com/kousu) |
 | [Taowa Rosetwig](https://taowa.ca) |
@@ -27,14 +27,12 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 | Name |
 | :--- |
-| [Eva Alonso Ortiz](https://www.evaalonsoortiz.com/) |
 | Daniel Papp |
 
 ## PhD Students
 
 | Name |
 | :--- |
-| [Gabriel Mangeat](phd-students/gabriel-mangeat.md) |
 | [Ryan Topfer](phd-students/ryan-topfer.md) |
 | [Agah Karakuzu](phd-students/agah-karakuzu.md) |
 | Atef Badji [![LinkedIn](../.gitbook/assets/logo_linkedin_20px%20%285%29.png)](https://ca.linkedin.com/in/badjiatef) |
@@ -51,18 +49,15 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | Marie-Hélène Bourget |
 | Andréanne Lemay |
 | [Uzay Macar](https://uzaymacar.github.io/) [![GitHub](../.gitbook/assets/logo_github_20px%20%281%29.png)](https://github.com/uzaymacar) [![E-Mail](../.gitbook/assets/logo_mail_20px.png)](mailto:uzay.macar@gmail.com) |
+| Sandrine Bedard  [![GitHub](../.gitbook/assets/logo_github_20px%20%281%29.png)](https://github.com/sandrinebedard) [![LinkedIn](../.gitbook/assets/logo_linkedin_20px%20%283%29.png)](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/) |
 
 ## Internships
 
 | Name |
 | :--- |
 | Paul Bautin [![LinkedIn](../.gitbook/assets/logo_linkedin_20px%20%286%29.png)](https://www.linkedin.com/in/paul-bautin-757690175/) |
-| Sandrine Bedard  [![GitHub](../.gitbook/assets/logo_github_20px%20%281%29.png)](https://github.com/sandrinebedard) [![LinkedIn](../.gitbook/assets/logo_linkedin_20px%20%283%29.png)](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/) |
-| Noémie Roberge |
-| Alexandre Bernard |
 | Armand Collin |
-| Etienne Bergeron |
-| Benjamin Carrier |
+| Evan Beal |
 
 ## Consultants
 
@@ -73,8 +68,14 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
-| Name |
+|  |
 | :--- |
+|  |
+| [Gabriel Mangeat](phd-students/gabriel-mangeat.md) |
+| Benjamin Carrier |
+| Alexandre Bernard |
+| Noémie Roberge |
+| Ainsleigh Hill [![LinkedIn](../.gitbook/assets/logo_linkedin_20px%20%282%29.png)](https://www.linkedin.com/in/ainsleigh-hill-836296124/) |
 | Olivier Vincent |
 | Jan Valosek |
 | Maylis Heussner |
