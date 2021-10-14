@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to NeuroPoly](README.md)
-* [👩🏼‍🤝‍👨🏽  Team](team/README.md)
+* [👫 Team](team/README.md)
   * [Faculty](team/faculty/README.md)
     * [Julien Cohen-Adad](team/faculty/julien-cohen-adad.md)
     * [Nikola Stikov](team/faculty/nikola-stikov.md)
@@ -47,10 +47,9 @@
 * [📣  Job Opportunities](job-opportunities/README.md)
   * [Software Developer](job-opportunities/software-developer.md)
   * [Project Manager for Software Development](job-opportunities/project-manager-for-software-development.md)
-  * [MSc \| PhD \| PostDoc Positions](job-opportunities/msc-or-phd-or-postdoc-positions.md)
+  * [MSc | PhD | PostDoc Positions](job-opportunities/msc-or-phd-or-postdoc-positions.md)
   * [Internships](job-opportunities/internships/README.md)
     * [Labeling Medical Images for A.I. Applications](job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md)
     * [Medical Image Analysis](job-opportunities/internships/medical-image-analysis.md)
     * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
 * [✉️  Contact Us](contact-us.md)
-

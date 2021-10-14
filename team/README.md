@@ -1,4 +1,4 @@
-# 👩🏼‍🤝‍👨🏽  Team
+# 👫 Team
 
 ![](../.gitbook/assets/neuropoly_lab.jpeg)
 
