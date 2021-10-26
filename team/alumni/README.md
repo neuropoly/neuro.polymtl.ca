@@ -1,7 +1,7 @@
 # Alumni
 
 ```{toctree}
-
+:hidden:
 harris-nami
 christian-s.-perone
 aldo-zaimi

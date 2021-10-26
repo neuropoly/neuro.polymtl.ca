@@ -1,7 +1,7 @@
 # 👫 Team
 
 ```{toctree}
-
+:hidden:
 faculty/index
 research-associates/index
 postdoctoral-researchers
