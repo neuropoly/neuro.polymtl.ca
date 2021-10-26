@@ -51,10 +51,17 @@ html_theme = 'sphinx_book_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_css_files = ["theme.css"]
+
+html_title = "NeuroPoly Lab"
+html_logo = "_static/logo.png"
+html_favicon = "_static/logo.png"
 
 html_theme_options = {
     "repository_url": "https://github.com/neuropoly/neuropoly-docs",
     "use_fullscreen_button": False,
     "use_edit_page_button": True,
     "use_download_button": False,
+
+#    "logo_only": True, # hides html_title and just shows html_logo
 }
