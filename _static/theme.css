@@ -3,3 +3,20 @@
     background: #f3f5f6;
 }
 
+
+/* make the sidebar more readable */
+/* TODO: the browser says the size is set by:
+
+ .bd-sidebar .nav { font-size: var(--pst-sidebar-font-size) }
+
+ so perhaps there's a more officially supported parameter
+ that can be set in conf.py to control this.
+*/
+.bd-sidebar nav {
+  font-size: 1.3em;
+}
+
+/* clear sphinx-book-theme's default whitespace in the siderbar */
+div.navbar-brand-box {
+  padding-top: 0;
+}
