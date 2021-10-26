@@ -1,5 +1,17 @@
 # 👫 Team
 
+```{toctree}
+
+faculty/index
+research-associates/index
+postdoctoral-researchers
+phd-students/index
+msc-students
+internships
+consultants
+alumni/index
+```
+
 ![](../.gitbook/assets/neuropoly\_lab.jpeg)
 
 See [us on Github](https://github.com/orgs/neuropoly/people), or our more specific profiles below.
