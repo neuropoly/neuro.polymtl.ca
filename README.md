@@ -5,7 +5,7 @@ description: NeuroImaging Research Laboratory at Polytechnique
 # Welcome to NeuroPoly
 
 ```{toctree}
-
+:hidden:
 self
 team/index
 facilities
