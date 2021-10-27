@@ -4,6 +4,17 @@
 }
 
 
+/* make clicking anchor links scroll to their target instead of jump to them */
+/* TODO: if restricted to only a { } this doesn't seem to take effect;
+  using '*' might be too general though?
+
+  see https://stackoverflow.com/questions/25020582/scrolling-to-an-anchor-using-transition-css3#47828777
+*/
+* {
+ scroll-behavior: smooth;
+}
+
+
 /* make the sidebar more readable */
 /* TODO: the browser says the size is set by:
 
