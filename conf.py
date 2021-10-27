@@ -65,6 +65,11 @@ html_theme_options = {
     "use_download_button": False,
 
 #    "logo_only": True, # hides html_title and just shows html_logo
+
+    # DEBUG: make edits on the *PR* branch these changes were brought in on
+    # in combination with the same branch being listed in .github/workflows/publish.yml,
+    # the edit button on https://wiki-demo.neuropoly.org functions as expected.
+    "repository_branch": "ng/sphinx",
 }
 
 # enable custom domain on Github Pages
