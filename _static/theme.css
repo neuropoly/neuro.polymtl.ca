@@ -3,6 +3,15 @@
     background: #f3f5f6;
 }
 
+/* Expand the entire page to fill the screen; otherwise,
+ * on large screens, the coloured #site-navigation leaves
+ * an ugly white margin. This ensures it's always flush to the left.
+ * see https://github.com/executablebooks/sphinx-book-theme/pull/420
+ */
+body > div.container-xl {
+  max-width: none;
+}
+
 
 /* make clicking anchor links scroll to their target instead of jump to them */
 /* TODO: if restricted to only a { } this doesn't seem to take effect;
