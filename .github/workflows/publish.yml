@@ -1,0 +1,38 @@
+name: website
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install .[sphinx]
+
+      - name: Build
+        run: |
+          make html
+
+      # TODO: investigate instead using
+      #    https://github.com/marketplace/actions/sphinx-docs-to-github-pages
+      # or https://sphinx-notes.github.io/pages/
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: _build/html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
