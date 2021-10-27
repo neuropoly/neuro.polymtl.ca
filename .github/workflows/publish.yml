@@ -2,7 +2,7 @@ name: website
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, ng/sphinx ]
   workflow_dispatch:
 
 jobs:
