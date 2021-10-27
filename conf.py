@@ -28,6 +28,7 @@ author = 'NeuroPoly'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+        'sphinx.ext.githubpages', # creates .nojekyll; necessary to deploy successfully to Github Pages
         'myst_parser', # there's also myst_nb, which supports embedding Jupyter notebooks, but is heavier.
 ]
 
