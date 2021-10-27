@@ -1,8 +1,8 @@
 # 🏛  Facilities
 
-The main lab is located at Ecole Polytechnique, 5th floor, biomedical engineering section \(L5613, L5626\).
+The main lab is located at [Ecole Polytechnique, 5th floor](https://www.polymtl.ca/renseignements-generaux/coordonnees-et-plans-dacces/plans-du-campus), biomedical engineering section \(L5613, L5626\).
 
-## Computer Lab
+## Computer Lab (L5626)
 
 ![computer-lab-1](.gitbook/assets/img_2250_good.jpeg) ![computer-lab-2](.gitbook/assets/img_2246_good.jpeg)
 
@@ -24,7 +24,7 @@ In addition, the lab has free access to:
 
 In terms of software license, being part of Polygrames Research Center and École Polytechique, NeuroPoly has access to multiple software for engineering, mathematical computing and simulations \([http://www.grames.polymtl.ca/facilities/servers-information/](http://www.grames.polymtl.ca/facilities/servers-information/)\).
 
-## RF Lab
+## RF Lab (L5613)
 
 ![computer-lab-1](.gitbook/assets/img_2234_good.jpeg) ![computer-lab-2](.gitbook/assets/img_2240_good.jpeg)
 
