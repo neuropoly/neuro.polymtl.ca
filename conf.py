@@ -66,3 +66,6 @@ html_theme_options = {
 
 #    "logo_only": True, # hides html_title and just shows html_logo
 }
+
+# enable custom domain on Github Pages
+html_extra_path = [ "CNAME" ]
