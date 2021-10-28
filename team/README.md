@@ -2,14 +2,14 @@
 
 ```{toctree}
 :hidden:
-faculty/index
-research-associates/index
+faculty/README
+research-associates/README
 postdoctoral-researchers
-phd-students/index
+phd-students/README
 msc-students
 internships
 consultants
-alumni/index
+alumni/README
 ```
 
 ![](../.gitbook/assets/neuropoly\_lab.jpeg)
