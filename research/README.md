@@ -3,8 +3,8 @@
 ```{toctree}
 :hidden:
 rf-and-shim-coil-design
-mapping-tissue-microstructure/index
-image-processing-software/index
+mapping-tissue-microstructure/README
+image-processing-software/README
 data-scripts
 collaborations
 ```
