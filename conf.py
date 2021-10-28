@@ -62,6 +62,8 @@ html_title = "NeuroPoly Lab"
 html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
 
+html_sourcelink_suffix = ".md" # our sources are in markdown; but this only has an effect if "use_download_button": True
+
 html_theme_options = {
     "repository_url": "https://github.com/neuropoly/neuropoly-docs",
     "use_fullscreen_button": False,
