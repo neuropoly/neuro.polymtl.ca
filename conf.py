@@ -4,6 +4,8 @@
 # list see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+import os.path
+
 # -- Path setup --------------------------------------------------------------
 
 # If extensions (or modules to document with autodoc) are in another directory,
@@ -23,6 +25,8 @@ author = 'NeuroPoly'
 
 
 # -- General configuration ---------------------------------------------------
+
+root_doc = 'README'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -74,3 +78,29 @@ html_theme_options = {
 
 # enable custom domain on Github Pages
 html_extra_path = [ "CNAME" ]
+
+
+# On Github's UI, README.{md,txt,rst} are treated as front pages
+# On every other web site, index.{html,php,py,....} are.
+# To make both renders work, glue these two together by symlinks _build/html/**/index.html -> README.html
+#
+# Doing this here, in conf.py, is hacky, but it's what we've got for now.
+# TODO: an even better solution would be to find/write a sphinx extension
+#       that internally renamed README -> index during the writing, but only internally.
+#       but unless we special-cased something hat would break the edit_page_button.
+# TODO: Another solution is to host on that lets us use .htaccess files to choose README.md as index pages
+# TODO: Another solution is to decide not to care about auto-rendering index pages on github.
+for dir, dirs, fnames in os.walk("."): #XXX "." is possibly buggy? This isn't necessarily running from the source dir.
+    dirs[:] = [d for d in dirs if d not in exclude_patterns] # prune the search
+    for fname in fnames:
+        if os.path.splitext(fname)[0] == "README":
+            z = os.path.join("_build", "html", dir, "index.html")
+            #html_extra_path.append(z)
+            os.makedirs(os.path.dirname(z), exist_ok=True)
+            if os.path.lexists(z):
+                os.unlink(z)
+            if not os.path.exists(
+                     os.path.join(os.path.dirname(z),
+                                  "README.html")): # don't create dangling symlinks;
+                                                   # it annoyes Github Pages.
+                os.symlink("README.html", z)

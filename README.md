@@ -7,13 +7,13 @@ description: NeuroImaging Research Laboratory at Polytechnique
 ```{toctree}
 :hidden:
 self
-team/index
+team/README
 facilities
-research/index
+research/README
 publications
 software
 events-and-workshops
-job-opportunities/index
+job-opportunities/README
 contact-us
 ```
 
