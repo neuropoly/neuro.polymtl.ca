@@ -24,6 +24,15 @@ body > div.container-xl {
 }
 
 
+/* All of our top-level titles have leading emojis,
+ * which means the top level *titles* appear to line up with the second level titles.
+ * So indent the second an extra step to clarify.
+ */
+.toctree-l2 {
+    margin-left: 1em;
+}
+
+
 /* make the sidebar more readable */
 /* TODO: the browser says the size is set by:
 
