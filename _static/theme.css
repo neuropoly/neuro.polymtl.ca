@@ -1,4 +1,8 @@
 
+html {
+    font-size: 14px;
+}
+
 #site-navigation {
     background: #f3f5f6;
 }
@@ -32,20 +36,7 @@ body > div.container-xl {
     margin-left: 1em;
 }
 
-
-/* make the sidebar more readable */
-/* TODO: the browser says the size is set by:
-
- .bd-sidebar .nav { font-size: var(--pst-sidebar-font-size) }
-
- so perhaps there's a more officially supported parameter
- that can be set in conf.py to control this.
-*/
-.bd-sidebar nav {
-  font-size: 1.3em;
-}
-
-/* clear sphinx-book-theme's default whitespace in the siderbar */
+/* clear sphinx-book-theme's default whitespace above the siderbar */
 div.navbar-brand-box {
   padding-top: 0;
 }
