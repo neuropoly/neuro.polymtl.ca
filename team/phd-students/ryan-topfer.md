@@ -16,7 +16,7 @@ High-order dynamic shimming for correction of respiration-induced artifact in sp
 
 ## Publications
 
-{% embed url="https://www.ncbi.nlm.nih.gov/sites/myncbi/1x93sg5B1FW5-/bibliography/54253343/public/?sort=date&direction=descending" %}
+* [Publications on file at NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1x93sg5B1FW5-/bibliography/54253343/public/?sort=date&direction=descending)
 
 ## Contact
 
