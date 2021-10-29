@@ -40,3 +40,36 @@ body > div.container-xl {
 div.navbar-brand-box {
   padding-top: 0;
 }
+
+
+/* make sure embedded pdfs render in 16:9 aspect ratio.
+ * You can't use CSS to directly calculate width in terms of height or vice versa,
+ * but there's a clever hack involving a wrapper div:
+ * https://www.w3schools.com/howto/howto_css_aspect_ratio.asp
+ *
+ */
+div.pdf-container {
+  position: relative;
+  width: 100%;
+}
+
+div.pdf-container.r16-9 {
+  /* Our PDFs are in 16:9 aspect ratio, or 56.25%. 59% gives that plus a bit of room for the toolbar. */
+  padding-top: 59%;
+}
+
+div.pdf-container.r4-3 {
+  /* 4:3, or 75% plus some leeway for the toolbar = 78% */
+  padding-top: 78%;
+}
+
+div.pdf-container > embed[type="application/pdf"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  width: 100%;
+  height: 100%;
+}
