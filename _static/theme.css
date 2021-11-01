@@ -11,8 +11,14 @@ html {
  * on large screens, the coloured #site-navigation leaves
  * an ugly white margin. This ensures it's always flush to the left.
  * see https://github.com/executablebooks/sphinx-book-theme/pull/420
+ *
+ * This isn't a super reliable solution, because it breaks part of
+ * bootstrap's design, by changing its container-xl's behaviour. class to behave
+ * What I actually want is to *replace* the container-xl class with
+ * the container-fluid class, but I don't know how to do that without
+ * forking and editing sphinx-book-theme itself.
  */
-body > div.container-xl {
+.container-xl {
   max-width: none;
 }
 
