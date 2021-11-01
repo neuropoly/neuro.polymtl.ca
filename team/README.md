@@ -69,6 +69,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 |                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Atef Badji                                                                                                                             |
 | [Gabriel Mangeat](phd-students/gabriel-mangeat.md)                                                                                     |
 | Benjamin Carrier                                                                                                                       |
 | Alexandre Bernard                                                                                                                      |
