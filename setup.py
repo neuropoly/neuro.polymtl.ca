@@ -19,7 +19,7 @@ setup(
         "sphinx": [
             "sphinx",
             "myst-parser",
-            "sphinx-book-theme",
+            "furo",
         ],
     },
 )
