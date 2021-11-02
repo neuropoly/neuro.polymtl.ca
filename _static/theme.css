@@ -47,6 +47,19 @@ div.navbar-brand-box {
   padding-top: 0;
 }
 
+/* vertically center table contents */
+.table td {
+  vertical-align: middle;
+}
+.table td p {
+  margin-bottom: 0; /* override sphinx-book-theme's default p { margin-bottom: 1em }
+                     * otherwise, vertical-align has no effect.
+                     */
+}
+
+.bd-content .section table {
+  display: table;  /* override sphinx-book-theme's ridiculous default of shrink-wrapping table content */
+}
 
 /* make sure embedded pdfs render in 16:9 aspect ratio.
  * You can't use CSS to directly calculate width in terms of height or vice versa,
