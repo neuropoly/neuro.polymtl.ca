@@ -25,14 +25,11 @@ jobs:
         run: |
           make html
 
-      # TODO: investigate instead using
-      #    https://github.com/marketplace/actions/sphinx-docs-to-github-pages
-      # or https://sphinx-notes.github.io/pages/
+      # TODO: use @v4 when it comes out
+      #       to benefit from symlink-awareness: https://github.com/peaceiris/actions-gh-pages/issues/643
       - name: Deploy to GitHub Pages
-        if: success()
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: gh-pages
-          build_dir: _build/html
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _build/html
+          cname: wiki-demo.neuropoly.org
