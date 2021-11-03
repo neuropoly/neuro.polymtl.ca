@@ -33,7 +33,7 @@ E.g. used for Fedex, UPS, Amazon, etc.
 > H3C 3A7\
 > CANADA
 
-**Phone: **+1 514-340-4711
+**Phone:** +1 514-340-4711
 
 **Fax:** +1 514-340-3272
 
