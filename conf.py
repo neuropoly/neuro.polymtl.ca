@@ -32,7 +32,6 @@ root_doc = 'README'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-        'sphinx.ext.githubpages', # creates .nojekyll; necessary to deploy successfully to Github Pages
         'myst_parser', # there's also myst_nb, which supports embedding Jupyter notebooks, but is heavier.
 ]
 
@@ -79,9 +78,6 @@ html_theme_options = {
     # the edit button on https://wiki-demo.neuropoly.org functions as expected.
     "repository_branch": "ng/sphinx",
 }
-
-# enable custom domain on Github Pages
-html_extra_path = [ "CNAME" ]
 
 
 # On Github's UI, README.{md,txt,rst} are treated as front pages
