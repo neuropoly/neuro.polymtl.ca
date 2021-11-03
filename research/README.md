@@ -1,4 +1,4 @@
-# <span class="emoji-bullet">🔍</span> Research
+# 🔍  Research
 
 <div class="pdf-container r4-3">
   <object data="../_static/_media/neuropolyslides.pdf" type="application/pdf">

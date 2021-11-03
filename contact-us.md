@@ -1,4 +1,4 @@
-# <span class="emoji-bullet">✍</span> Contact Us
+# ✍ Contact Us
 
 ## Physical Address
 
