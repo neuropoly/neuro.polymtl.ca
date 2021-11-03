@@ -14,7 +14,7 @@ We recruit experienced software developers to work on the [ivadomed](http://ivad
 
 **💰 Salary**
 
-* $40/h if you are good, up to $70/h if you are excellent.
+* \$40/h if you are good, up to \$70/h if you are excellent.
 
 📅  **Schedule**
 
