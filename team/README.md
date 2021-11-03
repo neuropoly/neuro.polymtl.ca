@@ -1,17 +1,5 @@
 # 👫 Team
 
-```{toctree}
-:hidden:
-faculty/README
-research-associates/README
-postdoctoral-researchers
-phd-students/README
-msc-students
-internships
-consultants
-alumni/README
-```
-
 ![](../.gitbook/assets/neuropoly\_lab.jpeg)
 
 See [us on Github](https://github.com/orgs/neuropoly/people), or our more specific profiles below.

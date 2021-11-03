@@ -1,7 +1,0 @@
-# Alumni
-
-```{toctree}
-:hidden:
-:glob:
-*
-```
