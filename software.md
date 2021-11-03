@@ -1,4 +1,4 @@
-# 🖥&nbsp; Software
+# <span>🖥</span> Software
 
 ## Open-Source Projects
 
