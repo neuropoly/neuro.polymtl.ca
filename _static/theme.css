@@ -90,20 +90,20 @@ div.navbar-brand-box {
  */
 div.pdf-container {
   position: relative;
-  width: 100%;
+  width: 60%;
 }
 
-div.pdf-container.r16-9 {
+div.pdf-container > div.r16-9 {
   /* Our PDFs are in 16:9 aspect ratio, or 56.25%. 59% gives that plus a bit of room for the toolbar. */
   padding-top: 59%;
 }
 
-div.pdf-container.r4-3 {
+div.pdf-container > div.r4-3 {
   /* 4:3, or 75% plus some leeway for the toolbar = 78% */
   padding-top: 78%;
 }
 
-div.pdf-container > object[type="application/pdf"] {
+div.pdf-container > div > object[type="application/pdf"] {
   position: absolute;
   top: 0;
   left: 0;
