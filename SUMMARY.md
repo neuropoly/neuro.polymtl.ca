@@ -50,5 +50,4 @@
   * [Internships](job-opportunities/internships/README.md)
     * [Labeling Medical Images for A.I. Applications](job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md)
     * [Medical Image Analysis](job-opportunities/internships/medical-image-analysis.md)
-    * [Manual Correction of Spinal Cord Segmentation on MRI Data](job-opportunities/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.md)
 * [✍ Contact Us](contact-us.md)
