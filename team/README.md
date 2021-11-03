@@ -18,13 +18,16 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Faculty
 
+||
+| - |
 | [Eva Alonso Ortiz](https://www.evaalonsoortiz.com) [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/evaalonsoortiz) [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/evaalonsoortiz)                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Julien Cohen-Adad](faculty/julien-cohen-adad.md)  [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/jcohenadad) [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/jcohenadad/) [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/jcohenadad/) [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:jcohen@polymtl.ca) |
 | Nikola Stikov [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/stikov)                                                                                                                                                                                                                                                                                                                    |
 
 ## Research Associates
 
+||
+| - |
 | Mathieu Boudreau                                                                                                            |
 | Alexandru Foias [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://ca.linkedin.com/in/alexandrufoias)       |
 | Nick Guenther [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/kousu)                              |
@@ -34,13 +37,15 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Postdoctoral Researchers
 
+||
+| - |
 | Daniel Papp |
-| ----------- |
 
 ## PhD Students
 
+||
+| - |
 | Vicente Enguix                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Charley Gros](phd-students/charley-gros.md)                                                                                                  |
 | [Agah Karakuzu](phd-students/agah-karakuzu.md)                                                                                                |
 | [Naga Karthik](https://naga-karthik.github.io)  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/naga-karthik)       |
@@ -48,8 +53,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## MSc Students
 
+||
+| - |
 | Sandrine Bédard  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/sandrinebedard) [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Marie-Hélène Bourget                                                                                                                                                                                                                                                                                                              |
 | Gaspard Cereza [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/gaspardcereza) [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/gaspard-cereza-495584144/) [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:gaspard.cereza@gmail.com)                   |
 | Alexandre D'Astous [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:adastous023@gmail.com)                                                                                                                                                                                                                             |
@@ -58,22 +64,25 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Internships
 
+||
+| - |
 | Paul Bautin [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/paul-bautin-757690175/)       |
-| -------------------------------------------------------------------------------------------------------------------------------- |
 | Evan Beal                                                                                                                        |
 | Maxime Bouthillier                                                                                                               |
 | Armand Collin                                                                                                                    |
 
 ## Consultants
 
+||
+| - |
 | Yang Ding             |
-| --------------------- |
 | Konstantinos Nasiotis |
 
 ## Alumni
 
+||
+| - |
 | Atef Badji                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------- |
 | [Gabriel Mangeat](phd-students/gabriel-mangeat.md)                                                                                     |
 | Benjamin Carrier                                                                                                                       |
 | Alexandre Bernard                                                                                                                      |
