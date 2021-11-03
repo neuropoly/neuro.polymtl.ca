@@ -41,8 +41,13 @@ i[class*="fa-"] ~ span {
 
 /* Hide the empty headers
  * Markdown demands table headers
+ *
+ * TODO: this should be #team table thead, but sphinx isn't
+ *       fully cleaning the emoji-titles the way I expected,
+ *       and the workaround that should control it doesn't work:
+ *       https://github.com/executablebooks/MyST-Parser/pull/359#issuecomment-959847555
  */
-#team table thead {
+#span-span-team table thead {
   display: none
 }
 
