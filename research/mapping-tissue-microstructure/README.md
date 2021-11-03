@@ -1,7 +1,6 @@
 # Mapping Tissue Microstructure
 
 ```{toctree}
-:hidden:
 biophysical-modelling
 in-vivo-measurement-of-myelin-g-ratio
 white-matter-microstructure-in-multiple-sclerosis
