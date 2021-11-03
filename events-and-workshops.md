@@ -1,4 +1,4 @@
-# 📅  Events & Workshops
+# 📅&nbsp; Events & Workshops
 
 ## Calendar
 

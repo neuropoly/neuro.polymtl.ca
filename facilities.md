@@ -1,4 +1,4 @@
-# 🏛  Facilities
+# 🏛&nbsp; Facilities
 
 The main lab is located at [Ecole Polytechnique, 5th floor](https://www.polymtl.ca/renseignements-generaux/coordonnees-et-plans-dacces/plans-du-campus), biomedical engineering section \(L5613, L5626\).
 
