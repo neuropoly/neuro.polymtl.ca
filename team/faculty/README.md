@@ -1,7 +1,0 @@
-# Faculty
-
-```{toctree}
-:hidden:
-:glob:
-*
-```
