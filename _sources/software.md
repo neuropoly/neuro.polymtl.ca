@@ -1,4 +1,4 @@
-# <span class="emoji-bullet">🖥</span> Software
+# 🖥&nbsp; Software
 
 ## Open-Source Projects
 
