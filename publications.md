@@ -1,4 +1,4 @@
-# 📚  Publications
+# 📚&nbsp; Publications
 
 List of publications on [Google Scholar](http://scholar.google.ca/citations?user=6cAZ028AAAAJ) and [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=Cohen-Adad%20J%5Bauthor%5D).
 
