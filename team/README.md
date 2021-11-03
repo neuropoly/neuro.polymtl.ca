@@ -133,7 +133,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | Blanche Perraud                                                                                                                        |
 | William Perrault                                                                                                                       |
 | Tanguy Magnan                                                                                                                          |
-| [Tanguy Duval](alumni/tanguy-duval.md)                                                                                                 |
+| [Tanguy Duval](broken-reference)                                                                                                       |
 | Paul Picard                                                                                                                            |
 | Ritesh Warty                                                                                                                           |
 | Thomas Sharif-Kerdreux                                                                                                                 |
