@@ -35,11 +35,10 @@ i[class*="fa-"] ~ span {
   display: none;
 }
 
-/* Center the Github/docs links on software.html in their columns.
+/* Center the Github/Docs columns on software.html.
  * This is a bit of a hack to do in the main theme file but it works.
  */
-#open-source-projects table tr > td:nth-child(3),
-#open-source-projects table tr > td:nth-child(4) {
+#open-source-projects table tr > :is(th,td):is(:nth-child(3),:nth-child(4)) {
   text-align: center;
 }
 
