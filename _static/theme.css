@@ -1,0 +1,94 @@
+
+#main-content {
+    font-size: 14px;
+}
+
+#site-navigation {
+    background: #f3f5f6;
+}
+
+/* Expand the entire page to fill the screen; otherwise,
+ * on large screens, the coloured #site-navigation leaves
+ * an ugly white margin. This ensures it's always flush to the left.
+ * see https://github.com/executablebooks/sphinx-book-theme/pull/420
+ *
+ * This isn't a super reliable solution, because it breaks part of
+ * bootstrap's design, by changing its container-xl's behaviour. class to behave
+ * What I actually want is to *replace* the container-xl class with
+ * the container-fluid class, but I don't know how to do that without
+ * forking and editing sphinx-book-theme itself.
+ */
+.container-xl {
+  max-width: none;
+}
+
+
+/* make clicking anchor links scroll to their target instead of jump to them */
+/* TODO: if restricted to only a { } this doesn't seem to take effect;
+  using '*' might be too general though?
+
+  see https://stackoverflow.com/questions/25020582/scrolling-to-an-anchor-using-transition-css3#47828777
+*/
+* {
+ scroll-behavior: smooth;
+}
+
+
+/* All of our top-level titles have leading emojis,
+ * which means the top level *titles* appear to line up with the second level titles.
+ * So indent the second an extra step to clarify.
+ */
+.toctree-l2 {
+    margin-left: 1em;
+}
+
+/* clear sphinx-book-theme's default whitespace above the siderbar */
+div.navbar-brand-box {
+  padding-top: 0;
+}
+
+/* vertically center table contents */
+.table td {
+  vertical-align: middle;
+}
+.table td p {
+  margin-bottom: 0; /* override sphinx-book-theme's default p { margin-bottom: 1em }
+                     * otherwise, vertical-align has no effect.
+                     */
+}
+
+.bd-content .section table {
+  display: table;  /* override sphinx-book-theme's ridiculous default of shrink-wrapping table content */
+}
+
+/* make sure embedded pdfs render in 16:9 aspect ratio.
+ * You can't use CSS to directly calculate width in terms of height or vice versa,
+ * but there's a clever hack involving a wrapper div:
+ * https://www.w3schools.com/howto/howto_css_aspect_ratio.asp
+ *
+ */
+div.pdf-container {
+  position: relative;
+  width: 100%;
+}
+
+div.pdf-container.r16-9 {
+  /* Our PDFs are in 16:9 aspect ratio, or 56.25%. 59% gives that plus a bit of room for the toolbar. */
+  padding-top: 59%;
+}
+
+div.pdf-container.r4-3 {
+  /* 4:3, or 75% plus some leeway for the toolbar = 78% */
+  padding-top: 78%;
+}
+
+div.pdf-container > object[type="application/pdf"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  width: 100%;
+  height: 100%;
+}

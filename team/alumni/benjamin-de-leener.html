@@ -1,0 +1,527 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Benjamin De Leener &#8212; NeuroPoly Lab</title>
+    
+  <link href="../../_static/css/theme.css" rel="stylesheet" />
+  <link href="../../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" type="text/css" href="../../_static/theme.css" />
+    
+  <link rel="preload" as="script" href="../../_static/js/index.1c5a1a01449ed65a7b51.js">
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <link rel="shortcut icon" href="../../_static/logo.png"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../../_static/logo.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">NeuroPoly Lab</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search the docs ..." aria-label="Search the docs ..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../README.html">
+   Welcome to NeuroPoly
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../README.html">
+   👫 Team
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../facilities.html">
+   🏛  Facilities
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../../research/README.html">
+   🔍  Research
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../research/rf-and-shim-coil-design.html">
+     RF &amp; Shim Coil Design
+    </a>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="../../research/mapping-tissue-microstructure/README.html">
+     Mapping Tissue Microstructure
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+    <label for="toctree-checkbox-2">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/mapping-tissue-microstructure/biophysical-modelling.html">
+       Biophysical Modelling
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/mapping-tissue-microstructure/in-vivo-measurement-of-myelin-g-ratio.html">
+       In Vivo Measurement of Myelin G-Ratio
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/mapping-tissue-microstructure/white-matter-microstructure-in-multiple-sclerosis.html">
+       White Matter Microstructure in Multiple Sclerosis
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/mapping-tissue-microstructure/ex-vivo-imaging-of-spinal-cord-injury.html">
+       Ex Vivo Imaging of Spinal Cord Injury
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/mapping-tissue-microstructure/histological-validation-of-quantitative-mri.html">
+       Histological Validation of Quantitative MRI
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/mapping-tissue-microstructure/mapping-myeloarchitecture-using-t2-and-magnetization-transfer.html">
+       Mapping Myeloarchitecture using T2* and Magnetization Transfer
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="../../research/image-processing-software/README.html">
+     Image Processing Software
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+    <label for="toctree-checkbox-3">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/image-processing-software/template-of-the-spinal-cord.html">
+       Template of the Spinal Cord
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/image-processing-software/registration-methods-for-spinal-cord.html">
+       Registration Methods for Spinal Cord
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../research/image-processing-software/automatic-spinal-cord-segmentation.html">
+       Automatic Spinal Cord Segmentation
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../research/data-scripts.html">
+     Data &amp; Scripts
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../research/collaborations.html">
+     Collaborations
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../publications.html">
+   📚  Publications
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../software.html">
+   🖥  Software
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../events-and-workshops.html">
+   📅  Events &amp; Workshops
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../../job-opportunities/README.html">
+   📣  Job Opportunities
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../job-opportunities/software-developer.html">
+     Software Developer
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../job-opportunities/project-manager-for-software-development.html">
+     Project Manager for Software Development
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../job-opportunities/msc-or-phd-or-postdoc-positions.html">
+     MSc | PhD | PostDoc Positions
+    </a>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="../../job-opportunities/internships/README.html">
+     Internships
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+    <label for="toctree-checkbox-5">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.html">
+       Labeling Medical Images for A.I. Applications
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../job-opportunities/internships/medical-image-analysis.html">
+       Medical Image Analysis
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../job-opportunities/internships/manual-correction-of-spinal-cord-segmentation-on-mri-data.html">
+       Manual Correction of Spinal Cord Segmentation on MRI Data
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../contact-us.html">
+   ✍ Contact Us
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+
+
+<!-- only one Github button activated, so collapse it into the main button, saving a click for users -->
+        <a class="edit-button" href="https://github.com/neuropoly/neuropoly-docs/edit/ng/sphinx/team/alumni/benjamin-de-leener.md"><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Edit this page"><i class="fab fa-github"></i></button></a>
+
+
+</div>
+
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#about">
+   About
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#projects">
+   Projects
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#current-project">
+     Current Project
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#past-projects-a-id-past-projects-a">
+     Past Projects
+     <a id="past_projects">
+     </a>
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#propseg-a-id-propseg-a">
+       PropSeg
+       <a id="propseg">
+       </a>
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#contact">
+   Contact
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#publications">
+   Publications
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#journal-articles">
+     Journal Articles
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#a-id-section2015-a">
+       2015
+       <a id="section2015">
+       </a>
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#a-id-section2014-a">
+       2014
+       <a id="section2014">
+       </a>
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#conferences-papers-a-id-conferences-papers-a">
+     Conferences papers
+     <a id="conferences_papers">
+     </a>
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#a-id-section20141-a">
+       2014
+       <a id="section20141">
+       </a>
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#a-id-section2013-a">
+       2013
+       <a id="section2013">
+       </a>
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="tex2jax_ignore mathjax_ignore section" id="benjamin-de-leener">
+<h1>Benjamin De Leener<a class="headerlink" href="#benjamin-de-leener" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="about">
+<h2>About<a class="headerlink" href="#about" title="Permalink to this headline">¶</a></h2>
+<p><img alt="" src="../../_images/benjamin_deleener.jpeg" /></p>
+<p>I am a PhD student at the Institute of Biomedical Engineering at Polytechnique Montreal. My researches are focused on the development of new neuroimaging methods for characterizing the macro- and micro-structure of the central nervous system (brain and spinal cord).</p>
+<p><a class="reference external" href="http://www.dropbox.com/s/29ac0bdyg70dsg4/DeLeener_Benjamin_Curriculum_Vitae_short.pdf">Curriculum Vitae</a></p>
+<p><a class="reference external" href="http://www.linkedin.com/profile/view?id=172704421">LinkedIn</a></p>
+<p><a class="reference external" href="https://publons.com/author/467043/benjamin-de-leener#profile">My reviewer profile on Publons</a></p>
+</div>
+<div class="section" id="projects">
+<h2>Projects<a class="headerlink" href="#projects" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="current-project">
+<h3>Current Project<a class="headerlink" href="#current-project" title="Permalink to this headline">¶</a></h3>
+<p>I am currently working on new image processing method specialized for multiparametric MRI data of the spinal cord. Particularly, I am developping a new generic MRI template of the spinal cord and brainstem, that enables multicentric studies of large datasets of patients with neurodegenerative diseases.</p>
+</div>
+<div class="section" id="past-projects-a-id-past-projects-a">
+<h3>Past Projects <a id="past_projects"></a><a class="headerlink" href="#past-projects-a-id-past-projects-a" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="propseg-a-id-propseg-a">
+<h4>PropSeg <a id="propseg"></a><a class="headerlink" href="#propseg-a-id-propseg-a" title="Permalink to this headline">¶</a></h4>
+<p>I have developped an automatic segmentation method for the spinal cord in MR images. It exist only a few methods in the literature which are fully automatic but they are generally adapted for only one image acquisition sequence (e.g. T1-weighted images) and for a particular field of view (FOV). The objective of my project is to develop an automatic segmentation method of the spinal cord which can work on different type of images, independently of the FOV.</p>
+<p>We have developed a method using propagated deformable model in a multi-resolution fashion and coupled with a contrast-adaptive mechanism. This method has been validated on 15 healthy subjects and 2 patients with spinal cord injuries by comparing with manual segmentation. High accuracy has been demonstrated (Dice coefficients = 0.9 +- 0.3).</p>
+<p>This automatic segmentation process allows the conduction of large group studies, for example in the assessment of spinal cord atrophy, which has been correlated with multiple sclerosis. Our program is freely available on <a class="reference external" href="http://sourceforge.net/projects/spinalcordtoolbox/">http://sourceforge.net/projects/spinalcordtoolbox/</a></p>
+</div>
+</div>
+</div>
+<div class="section" id="contact">
+<h2>Contact<a class="headerlink" href="#contact" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p>benjamin.de-leener “at” polymtl.ca</p>
+</div></blockquote>
+</div>
+<div class="section" id="publications">
+<h2>Publications<a class="headerlink" href="#publications" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="journal-articles">
+<h3>Journal Articles<a class="headerlink" href="#journal-articles" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="a-id-section2015-a">
+<h4>2015 <a id="section2015"></a><a class="headerlink" href="#a-id-section2015-a" title="Permalink to this headline">¶</a></h4>
+<blockquote>
+<div><p><strong>De Leener B</strong>, Cohen-Adad J, Kadoury S. Automatic segmentation of the spinal cord and spinal canal coupled with vertebral labeling. <strong>IEEE Transactions on Medical Imaging</strong> 2015; (in press)</p>
+</div></blockquote>
+<blockquote>
+<div><p>Fonov VS, Le Troter A, Taso M, <strong>De Leener B</strong>, Leveque G, Benhamou M, Sdika M, Benali H, Pradat PF, Collins DL, Callot V, Cohen-Adad J. <a class="reference external" href="https://www.dropbox.com/s/f29zfwcjgwzd1oc/Fonov_2014_Framework%20for%20integrated%20MRI%20average.pdf?dl=0">Framework for integrated MRI average of the spinal cord white and gray matter: The MNI-Poly-AMU template</a>. Neuroimage 2014;102P2:817-827.</p>
+</div></blockquote>
+</div>
+<div class="section" id="a-id-section2014-a">
+<h4>2014 <a id="section2014"></a><a class="headerlink" href="#a-id-section2014-a" title="Permalink to this headline">¶</a></h4>
+<blockquote>
+<div><p><strong>De Leener B</strong>, Kadoury S, Cohen-Adad J. (2014) “Robust, accurate and fast automatic segmentation of the spinal cord”, Neuroimage, 98, 528-536. doi:10.1016/j.neuroimage.2014.04.051</p>
+</div></blockquote>
+<blockquote>
+<div><p>Mertens, B., <strong>De Leener, B</strong>., Debeir, O., Beumier, C., Lambert, P., Delchambre, A. (2014). “Robust Structured Light Pattern for Use with a Spatial Light Modulator in 3-D Endoscopy.” International Journal of Optomechatronics, 7(2), 105–121. doi: 10.1080/15599612.2013.785041</p>
+</div></blockquote>
+</div>
+</div>
+<div class="section" id="conferences-papers-a-id-conferences-papers-a">
+<h3>Conferences papers <a id="conferences_papers"></a><a class="headerlink" href="#conferences-papers-a-id-conferences-papers-a" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="a-id-section20141-a">
+<h4>2014 <a id="section20141"></a><a class="headerlink" href="#a-id-section20141-a" title="Permalink to this headline">¶</a></h4>
+<blockquote>
+<div><p><strong>De Leener B.</strong> ; Cohen-Adad J. and Kadoury S., “Automatic 3D segmentation of spinal cord MRI using propagated deformable models”, Proc. SPIE 9034, Medical Imaging 2014: Image Processing, 90343R (March 21, 2014); doi:10.1117/12.2043183</p>
+</div></blockquote>
+</div>
+<div class="section" id="a-id-section2013-a">
+<h4>2013 <a id="section2013"></a><a class="headerlink" href="#a-id-section2013-a" title="Permalink to this headline">¶</a></h4>
+<blockquote>
+<div><p>Mertens, B., <strong>De Leener, B.</strong>, Debeir, O., Beumier, C., Lambert, P., Delchambre, A., “Robust structured light pattern for use with a hologram in 3D endoscopy,” Optomechatronic Technologies (ISOT), 2012 International Symposium on, 1-6, 29-31 Oct. 2012. doi: 10.1109/ISOT.2012.6403279</p>
+</div></blockquote>
+</div>
+</div>
+</div>
+</div>
+
+
+              </div>
+              
+        
+            
+
+
+
+<div class='prev-next-bottom'>
+    
+
+</div>
+        
+        </div>
+    </div>
+    <footer class="footer">
+    <div class="container">
+      <p>
+        
+          By NeuroPoly<br/>
+        
+            &copy; Copyright 2021, NeuroPoly.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+
+  
+  </body>
+</html>
