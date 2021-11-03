@@ -65,6 +65,7 @@ html_sourcelink_suffix = ".md" # our sources are in markdown; but this only has 
 
 html_theme_options = {
     "toc_title": "Page Contents",
+    "search_bar_text": "Search...",
 
     "repository_url": "https://github.com/neuropoly/neuropoly-docs",
     "use_fullscreen_button": False,
