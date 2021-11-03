@@ -1,4 +1,4 @@
-# 📣&nbsp; Job Opportunities
+# <span>📣</span> Job Opportunities
 
 ```{toctree}
 software-developer
