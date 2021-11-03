@@ -1,4 +1,4 @@
-# 👫 Team
+# <span class="emoji-bullet">👫</span> Team
 
 ![](../.gitbook/assets/neuropoly\_lab.jpeg)
 
