@@ -6,9 +6,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Faculty
 
-| Name                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [Eva Alonso Ortiz](https://www.evaalonsoortiz.com) [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/evaalonsoortiz) [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/evaalonsoortiz)                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Eva Alonso Ortiz](https://www.evaalonsoortiz.com)[![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/evaalonsoortiz) [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/evaalonsoortiz)                                                                                                                                                                              |
 | [Julien Cohen-Adad](faculty/julien-cohen-adad.md)  [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/jcohenadad) [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/jcohenadad/) [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/jcohenadad/) [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:jcohen@polymtl.ca) |
 | Nikola Stikov [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/stikov)                                                                                                                                                                                                                                                                                                                    |
 
@@ -48,9 +47,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Internships
 
-| Name                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------- |
 | Paul Bautin [![LinkedIn](<../.gitbook/assets/logo\_linkedin\_20px (5).png>)](https://www.linkedin.com/in/paul-bautin-757690175/) |
+| -------------------------------------------------------------------------------------------------------------------------------- |
 | Evan Beal                                                                                                                        |
 | Maxime Bouthillier                                                                                                               |
 | Armand Collin                                                                                                                    |
