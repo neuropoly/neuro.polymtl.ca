@@ -1,4 +1,4 @@
-# 👫&nbsp; Team
+# <span>👫</span> Team
 
 ![](../.gitbook/assets/neuropoly\_lab.jpeg)
 
