@@ -35,6 +35,13 @@ i[class*="fa-"] ~ span {
   display: none;
 }
 
+/* Hide the empty headers
+ * Markdown demands table headers
+ */
+#team table thead {
+  display: none
+}
+
 /* Center the Github/Docs columns on software.html.
  * This is a bit of a hack to do in the main theme file but it works.
  */
