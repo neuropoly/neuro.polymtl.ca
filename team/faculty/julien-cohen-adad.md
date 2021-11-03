@@ -23,7 +23,7 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 
 ## Contact
 
-#### 🏛  Address
+### 🏛  Address
 
 > Dept. Genie Electrique, L5610  
 > Ecole Polytechnique  

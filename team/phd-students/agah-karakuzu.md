@@ -10,7 +10,7 @@ My research is focused on developing a _reproducible quantitative Magnetic Reson
 
 Besides being an open science enthusiast, I play an active role as a science communication contributor for ISMRM's MRPulse blog, MRM highlights and OHBM blog. I enjoy graphic designing, skiing and serving specialty coffee!
 
-## **Publications (Journal)**
+## Publications (Journal)
 
 > **Karakuzu, A.**, Pamuk, U., Ozturk, C., Acar, B., & Yucesoy, C. A.,Magnetic resonance and diffusion tensor imaging analyses indicate heterogeneous strains along human medial gastrocnemius fascicles caused by submaximal plantar-flexion activity. Journal of Biomechanics, 57, 69-78, 2017.
 
@@ -20,7 +20,7 @@ Besides being an open science enthusiast, I play an active role as a science com
 
 > Gözübüyük, Ö. B., Moen, M. H., Akman, M., Ipseftel, I., & **Karakuzu, A**., Successful return to play following adductor longus proximal tendon rupture in professional soccer without re-injury at 12 months: A case report. Journal of back and musculoskeletal rehabilitation, (Preprint), 1-5, 2017
 
-## **Publications (Conference)**
+## Publications (Conference)
 
 > **Karakuzu A.**, Pernet C., Duval T., Cohen-Adad, J., Stikov, N., A statistical framework for evaluating the reliability of myelin imaging, Annual Meeting of International Society of Magnetic Resonance Imaging In Medicine (ISMRM), 2018 (Submitted)
 

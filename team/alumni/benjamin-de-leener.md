@@ -34,6 +34,8 @@ This automatic segmentation process allows the conduction of large group studies
 
 ## Publications
 
+### Journal Articles
+
 #### 2015 <a id="section2015"></a>
 
 > **De Leener B**, Cohen-Adad J, Kadoury S. Automatic segmentation of the spinal cord and spinal canal coupled with vertebral labeling. **IEEE Transactions on Medical Imaging** 2015; \(in press\)

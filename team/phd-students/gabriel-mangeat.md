@@ -23,6 +23,8 @@ I'm a masters student working in MRI analysis of the human brain. I've been main
 
 ## Publications <a id="publications"></a>
 
+### Journal Articles
+
 #### 2016 <a id="section2016"></a>
 
 > G. Mangeat, R. Ouellette, C.A. Treaba, T. Granberg, E. Herranz, C. Louapre, N. Stikov, J.A. Sloane, E.C. Klawiter, C. Mainero, J. Cohen-Adad, _“Association between cortical demyelination and structural connectomics in early multiple sclerosis”_, \(2016\), ISMRM, \(International Society for Magnetic Resonance in Medicine\), _Submitted._

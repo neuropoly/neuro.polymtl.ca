@@ -2,7 +2,9 @@
 
 At the NeuroPoly lab at Polytechnique & Université de Montréal \(www.neuro.polymtl.ca\), best student-city in the world! \([https://www.topuniversities.com/city-rankings/2017](https://www.topuniversities.com/city-rankings/2017)\), we develop advanced MRI image analysis techniques using deep learning and distribute them as open-source software. In collaboration with neuroradiologists and world experts in deep learning \(Mila\), we apply these tools in patients with traumatic injury and neurodegenative diseases \(multiple sclerosis, ALS, etc.\).
 
-We are recruiting Master/PhD students and Postdoc fellows to work on various projects:Edit
+We are recruiting Master/PhD students and Postdoc fellows to work on various projects:
+
+## Projects
 
 ### Deep Learning for Medical Applications \(in partnership with Mila\) ⚙️⚙️ <a id="deep_learning_for_medical_applications_in_partnership_with_mila_&#x2699;&#xFE0F;&#x2699;&#xFE0F;"></a>
 
@@ -27,8 +29,6 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 * **Implementing open-source AI solutions**
   * Bringing AI methods into clinical radiology routine via user-friendly software solutions;
   * Contribution to medical AI framework [ivadomed](https://ivadomed.org/)
-
-Edit
 
 ### Neuroimaging Analysis 🧠 <a id="neuroimaging_analysis_&#x1F9E0;"></a>
 
