@@ -1,4 +1,4 @@
-# 📣  Job Opportunities
+# <span class="emoji-bullet">📣</span> Job Opportunities
 
 ```{toctree}
 software-developer
