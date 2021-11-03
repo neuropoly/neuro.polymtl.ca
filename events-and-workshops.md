@@ -1,4 +1,4 @@
-# 📅  Events & Workshops
+# <span class="emoji-bullet">📅</span> Events & Workshops
 
 ## Calendar
 

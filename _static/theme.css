@@ -7,6 +7,11 @@
     background: #f3f5f6;
 }
 
+/* add some space in the table of contents after the emojis we use to highlight our top-level pages */
+.site-navigation .emoji-bullet {
+  margin-right: .5em;
+}
+
 /* Expand the entire page to fill the screen; otherwise,
  * on large screens, the coloured #site-navigation leaves
  * an ugly white margin. This ensures it's always flush to the left.
