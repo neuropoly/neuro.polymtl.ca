@@ -23,6 +23,21 @@
 }
 
 
+/* make FontAwesome icons accessible to screen reader/plain text browsers
+ * This is based on 'If an icon is not an interactive element' from https://fontawesome.com/v4.7/accessibility/
+ */
+i[class*="fa-"] ~ span {
+  display: none;
+}
+
+/* Center the Github/docs links on software.html in their columns.
+ * This is a bit of a hack to do in the main theme file but it works.
+ */
+#open-source-projects table tr > td:nth-child(3),
+#open-source-projects table tr > td:nth-child(4) {
+  text-align: center;
+}
+
 /* make clicking anchor links scroll to their target instead of jump to them */
 /* TODO: if restricted to only a { } this doesn't seem to take effect;
   using '*' might be too general though?
