@@ -27,5 +27,5 @@ Below is a list of software projects created at **NeuroPoly** or at collaborativ
 
 ### Contributing
 
-**NeuroPoly** welcomes and appreciates contributions. To get started, please check out **NeuroPoly**'s contributing guidelines: [NeuroPoly Lab: Software Contributing Guidelines](https://neuropoly.gitbook.io/neuropoly-lab/software-development/contributing).
+**NeuroPoly** welcomes and appreciates contributions. To get started, please check out [**NeuroPoly**'s contributing guidelines](https://intranet.neuro.polymtl.ca/software-development/contributing).
 
