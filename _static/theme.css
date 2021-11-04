@@ -23,6 +23,15 @@
 }
 
 
+/* Make sure the sub-ToC's header doesn't overflow its boundary.
+ * This is mostly an issue on mobile.
+ */
+.bd-toc div.onthispage {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 /* fix the width of the leading emojis.
  * unfortunately we can't use a css class because sphinx rolls CSS classes
  * into the anchor links it generates for these titles.
@@ -51,11 +60,12 @@ i[class*="fa-"] ~ span {
   display: none
 }
 
-/* Center the Github/Docs columns on software.html.
+/* Center the Github/Docs columns on software.html and make sure they align across all tables on the page.
  * This is a bit of a hack to do in the main theme file but it works.
  */
 #open-source-projects table tr > :is(th,td):is(:nth-child(3),:nth-child(4)) {
   text-align: center;
+  min-width: 15%; /* this forces these columns to get 30%, text-wrapping the description column as necessary */
 }
 
 /* make clicking anchor links scroll to their target instead of jump to them */
