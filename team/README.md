@@ -57,7 +57,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 | Paul Bautin [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/paul-bautin-757690175/)       |
 | Evan Beal                                                                                                                        |
 | Maxime Bouthillier                                                                                                               |
-| Armand Collin                                                                                                                    |
+| Armand Collin [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/hermancollin)                            |
 
 ## Consultants
 
