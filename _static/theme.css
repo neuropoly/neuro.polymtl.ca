@@ -41,6 +41,11 @@ li.toctree-l1 span:nth-child(1) {
   width: 1.5em;
 }
 
+/* space out lists */
+#main-content .section li {
+  padding: .4em 0;
+}
+
 /* make FontAwesome icons accessible to screen reader/plain text browsers
  * This is based on 'If an icon is not an interactive element' from https://fontawesome.com/v4.7/accessibility/
  */
