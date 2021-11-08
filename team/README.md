@@ -6,15 +6,24 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Faculty
 
-* [Eva Alonso Ortiz](https://www.evaalonsoortiz.com) [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/evaalonsoortiz) [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/evaalonsoortiz)
-* [Julien Cohen-Adad](faculty/julien-cohen-adad.md) [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/jcohenadad) [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/jcohenadad/) [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/jcohenadad/) [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:jcohen@polymtl.ca)
-* Nikola Stikov [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/stikov)
+* [Eva Alonso Ortiz](https://www.evaalonsoortiz.com)
+  [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/evaalonsoortiz)
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/evaalonsoortiz)
+* [Julien Cohen-Adad](faculty/julien-cohen-adad.md)
+  [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/jcohenadad)
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/jcohenadad/)
+  [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/jcohenadad/)
+  [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:jcohen@polymtl.ca)
+* Nikola Stikov
+  [![Twitter](../.gitbook/assets/logo\_twitter\_20px.png)](https://twitter.com/stikov)
 
 ## Research Associates
 
 * Mathieu Boudreau
-* Alexandru Foias [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://ca.linkedin.com/in/alexandrufoias)
-* Nick Guenther [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/kousu)
+* Alexandru Foias
+  [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://ca.linkedin.com/in/alexandrufoias)
+* Nick Guenther
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/kousu)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
 * Joshua Newton
 * [Taowa Rosetwig](https://taowa.ca)
@@ -26,26 +35,39 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## PhD Students
 
 * Vicente Enguix
-* [Charley Gros](phd-students/charley-gros.md)  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/charleygros)
+* [Charley Gros](phd-students/charley-gros.md)
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/charleygros)
 * [Agah Karakuzu](phd-students/agah-karakuzu.md)
-* [Naga Karthik](https://naga-karthik.github.io)  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/naga-karthik)
+* [Naga Karthik](https://naga-karthik.github.io)
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/naga-karthik)
 * [Ryan Topfer](phd-students/ryan-topfer.md)
 
 ## MSc Students
 
-* Sandrine Bédard  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/sandrinebedard) [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)
-* Marie-Hélène Bourget [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/mariehbourget)
-* Gaspard Cereza [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/gaspardcereza) [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/gaspard-cereza-495584144/) [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:gaspard.cereza@gmail.com)
-* Alexandre D'Astous [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:adastous023@gmail.com)
+* Sandrine Bédard
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/sandrinebedard)
+  [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)
+* Marie-Hélène Bourget
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/mariehbourget)
+* Gaspard Cereza
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/gaspardcereza)
+  [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/gaspard-cereza-495584144/)
+  [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:gaspard.cereza@gmail.com)
+* Alexandre D'Astous
+  [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:adastous023@gmail.com)
 * Andréanne Lemay
-* [Uzay Macar](https://uzaymacar.github.io) [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/uzaymacar) [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:uzay.macar@gmail.com)
+* [Uzay Macar](https://uzaymacar.github.io)
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/uzaymacar)
+  [![E-Mail](../.gitbook/assets/logo\_mail\_20px.png)](mailto:uzay.macar@gmail.com)
 
 ## Internships
 
-* Paul Bautin [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/paul-bautin-757690175/)
+* Paul Bautin
+  [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/paul-bautin-757690175/)
 * Evan Beal
 * Maxime Bouthillier
-* Armand Collin [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/hermancollin)
+* Armand Collin
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/hermancollin)
 
 ## Consultants
 
@@ -60,15 +82,18 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Benjamin Carrier
 * Alexandre Bernard
 * Noémie Roberge
-* Ainsleigh Hill [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/ainsleigh-hill-836296124/)
+* Ainsleigh Hill
+  [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/ainsleigh-hill-836296124/)
 * Olivier Vincent
 * Jan Valosek
 * Maylis Heussner
 * [Jennifer Campbell](http://www.bic.mni.mcgill.ca/\~jcampbel/)
 * [Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana)
 * [Tommy Boshkovski](phd-students/tommy-boshkovski.md)
-* Lucas Rouhier [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/lrouhier)
-* Leander van Eekelen [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/leander-van-eekelen/)
+* Lucas Rouhier
+  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/lrouhier)
+* Leander van Eekelen
+  [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://www.linkedin.com/in/leander-van-eekelen/)
 * Anne Kerbrat
 * Sara Paperi
 * Anthime Bucquet
@@ -78,7 +103,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Benoit Sauty-De-Chalon
 * Aurelien Gilliot
 * Hee-Min Yang
-* Vasudev Sharma [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://in.linkedin.com/in/vs74)
+* Vasudev Sharma
+  [![LinkedIn](../.gitbook/assets/logo\_linkedin\_20px.png)](https://in.linkedin.com/in/vs74)
 * Alexa Mousley
 * Nicolas Pinon
 * [Christian S. Perone](alumni/christian-s.-perone.md)
