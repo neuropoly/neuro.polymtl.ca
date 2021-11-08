@@ -41,6 +41,11 @@ li.toctree-l1 span:nth-child(1) {
   width: 1.5em;
 }
 
+/* space out lists */
+#main-content .section li {
+  padding: .4em 0;
+}
+
 /* make FontAwesome icons accessible to screen reader/plain text browsers
  * This is based on 'If an icon is not an interactive element' from https://fontawesome.com/v4.7/accessibility/
  */
@@ -48,17 +53,20 @@ i[class*="fa-"] ~ span {
   display: none;
 }
 
-/* Hide the empty headers
- * Markdown demands table headers
- *
- * TODO: this should be #team table thead, but sphinx isn't
- *       fully cleaning the emoji-titles the way I expected,
- *       and the workaround that should control it doesn't work:
- *       https://github.com/executablebooks/MyST-Parser/pull/359#issuecomment-959847555
- */
-#span-span-team table thead {
-  display: none
+#main-content :is(.fa, .fab) {
+    /* style the social media icons */
+    color: rgb(90, 90, 90);
+    font-size: 1.4em;
 }
+#main-content :is(.fa,.fab).fa-twitter {
+    /* style the social media icons */
+    color: #04b5e3;
+}
+#main-content :is(.fa,.fab).fa-linkedin {
+    /* style the social media icons */
+    color: #0086c1;
+}
+
 
 /* Center the Github/Docs columns on software.html and make sure they align across all tables on the page.
  * This is a bit of a hack to do in the main theme file but it works.
