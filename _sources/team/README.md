@@ -34,7 +34,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ||
 | - |
 | Vicente Enguix                                                                                                                                |
-| [Charley Gros](phd-students/charley-gros.md)                                                                                                  |
+| [Charley Gros](phd-students/charley-gros.md)  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/charleygros)          |
 | [Agah Karakuzu](phd-students/agah-karakuzu.md)                                                                                                |
 | [Naga Karthik](https://naga-karthik.github.io)  [![GitHub](../.gitbook/assets/logo\_github\_20px.png)](https://github.com/naga-karthik)       |
 | [Ryan Topfer](phd-students/ryan-topfer.md)                                                                                                    |
