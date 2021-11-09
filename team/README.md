@@ -56,6 +56,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Alexandre D'Astous
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)
 * Andréanne Lemay
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/andreanne-lemay)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andreanne-lemay/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:andreanne.lemay@polymtl.ca)
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
