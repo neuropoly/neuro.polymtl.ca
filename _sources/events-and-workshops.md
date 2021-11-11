@@ -3,9 +3,9 @@
 ## Calendar
 
 This calendar has dates for upcoming events in the lab.
-To subscribe directly, the [calendar URL is here](https://calendar.google.com/calendar/embed?src=h4tfirrturtt83oamhht396uv8%40group.calendar.google.com&ctz=America%2FToronto).
+To subscribe directly, click for [Google Calendar](https://calendar.google.com/calendar/r/?cid=h4tfirrturtt83oamhht396uv8%40group.calendar.google.com) or [iCal](https://calendar.google.com/calendar/ical/h4tfirrturtt83oamhht396uv8%40group.calendar.google.com/public/basic.ics).
 
-<iframe src="https://calendar.google.com/calendar/embed?src=h4tfirrturtt83oamhht396uv8%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=h4tfirrturtt83oamhht396uv8%40group.calendar.google.com" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ## Past Events
