@@ -17,7 +17,7 @@ setup(
     author="NeuroPoly",
     extras_require={
         "sphinx": [
-            "sphinx",
+            "sphinx>4,<=4.2.0", # TODO: unpin when sphinx-book-theme incompatibility is fixed
             "myst-parser",
             "sphinx-book-theme",
         ],
