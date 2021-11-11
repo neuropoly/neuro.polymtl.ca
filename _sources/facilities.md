@@ -87,5 +87,5 @@ NeuroPoly has expertise in building radiofrequency \(RF\) coils for MRI applicat
 * Commercial and custom-made coils available.
   * 4ch Rx-only mouse coil \(RapidMR\), 32mm diameter.
 * Access to histology for ex vivo scans.
-* [Wiki for coil dev / pulse seq programming / MR acquisition \(login required\)](http://liom2.polymtl.ca/internal/systems_and_their_operation/mri)
+* [Wiki for coil dev / pulse seq programming / MR acquisition](http://liom2.polymtl.ca/internal/systems_and_their_operation/mri) \(login required + only accessible from campus/[VPN](https://intranet.neuro.polymtl.ca/computing-resources/computing-resources-neuropoly#vpn)\)
 

@@ -12,9 +12,13 @@ To subscribe directly, the [calendar URL is here](https://calendar.google.com/ca
 
 Below are the workshops/hackathons organized by the NeuroPoly Lab:
 
-* [5th Spinal Cord MRI Workshop, Paris 2018](http://www.neuro.polymtl.ca/\_media/links/spinalcordmriworkshop2018.pdf)
-* [4th Spinal Cord MRI Workshop, Honolulu 2017](http://www.neuro.polymtl.ca/\_media/links/spinalcordmriworkshop2017.pdf)
-* [3rd Spinal Cord MRI Workshop, Singapore 2016](http://www.neuro.polymtl.ca/\_media/links/spinalcordmriworkshop2016.pdf)
+<!-- TODO: is there a way to use standard markdown syntax to link to files in _static/?
+ https://stackoverflow.com/questions/38613647/sphinx-linking-to-embedded-binary-files-pdfs explains how to do it for rST
+ but MyST is either different or I'm misunderstanding.
+ -->
+* <a href="_static/_media/spinalcordmriworkshop2018.pdf">5th Spinal Cord MRI Workshop, Paris 2018</a>
+* <a href="_static/_media/spinalcordmriworkshop2017.pdf">4th Spinal Cord MRI Workshop, Honolulu 2017</a>
+* <a href="_static/_media/spinalcordmriworkshop2016.pdf">3rd Spinal Cord MRI Workshop, Singapore 2016</a>
 * [QBIN - Workshop Super-Big Brain, Montreal 2016](https://www.rbiq-qbin.qc.ca/en/event/4322)
 * [Brainhack, Montreal 2015](https://www.rbiq-qbin.qc.ca/en/event/3790)
 * [2nd Spinal Cord MRI Workshop, Toronto 2015](http://goo.gl/MgZdqj)

@@ -80,6 +80,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Alumni
 
 * Atef Badji
+* Srishti Yadav
 * [Gabriel Mangeat](phd-students/gabriel-mangeat.md)
 * Benjamin Carrier
 * Alexandre Bernard
