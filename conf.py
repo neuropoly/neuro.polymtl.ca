@@ -67,7 +67,7 @@ html_theme_options = {
     "toc_title": "Page Contents",
     "search_bar_text": "Search...",
 
-    "repository_url": "https://github.com/neuropoly/neuropoly-docs",
+    "repository_url": "https://github.com/neuropoly/neuro.polymtl.ca",
     "use_fullscreen_button": False,
     "use_edit_page_button": True,
     "use_download_button": False,
