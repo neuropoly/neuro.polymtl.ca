@@ -15,7 +15,7 @@ software
 events-and-workshops
 job-opportunities/README
 contact-us
-⚗️ Lab Manual <https://intranet.neuro.polymtl.ca>
+Lab Manual <https://intranet.neuro.polymtl.ca>
 ```
 
 **NeuroPoly** is a research laboratory specialized in neuroimaging. It is based at [Polytechnique Montreal](http://www.polymtl.ca/) on the [Université de Montréal](http://www.umontreal.ca/) campus, in Montreal, Canada.
