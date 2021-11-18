@@ -1,4 +1,4 @@
-# <span>🔍</span> Research
+# `🔍` Research
 
 <div class="pdf-container">
   <div class="r4-3">
