@@ -32,7 +32,9 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 > H3T 1J4  
 > Canada
 
-📩  **Email**
+<!-- the emoji interferes with Sphinx's cross-referencing ability, so make an ascii-only cross-reference we can use instead -->
+(jcohen_email)=
+### 📩 Email
 
 > jcohen "at" polymtl.ca
 
