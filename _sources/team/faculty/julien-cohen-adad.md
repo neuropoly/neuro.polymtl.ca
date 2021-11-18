@@ -32,11 +32,13 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 > H3T 1J4  
 > Canada
 
-📩  **Email**
+<!-- the emoji interferes with Sphinx's cross-referencing ability, so make an ascii-only cross-reference we can use instead -->
+(jcohen_email)=
+### 📩 Email
 
 > jcohen "at" polymtl.ca
 
-{% hint style="info" %}
-**Note to potential applicants:** If you are interested in doing a Master/PhD, please **do not call**. Instead, send a CV + university transcripts and I will respond if I am interested. Thank you for your understanding.
-{% endhint %}
+````{note}
+**To potential applicants:** If you are interested in doing a Master/PhD, please **do not call**. Instead, send a CV + university transcripts and I will respond if I am interested. Thank you for your understanding.
+````
 
