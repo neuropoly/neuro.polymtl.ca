@@ -11,7 +11,7 @@
 
 ```{toctree}
 rf-and-shim-coil-design
-mapping-tissue-microstructure/README
+mapping-tissue-microstructure
 image-processing-software/README
 data-scripts
 collaborations
