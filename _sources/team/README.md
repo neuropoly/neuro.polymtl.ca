@@ -14,7 +14,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/jcohenadad/)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jcohenadad/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:jcohen@polymtl.ca)
-* Nikola Stikov
+* [Nikola Stikov](faculty/nikola-stikov.md)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/stikov)
 
 ## Research Associates
@@ -26,7 +26,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
 * Joshua Newton
-* [Taowa Rosetwig](https://taowa.ca)
+* [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
 
 ## Postdoctoral Researchers
 
@@ -81,7 +81,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 * Atef Badji
 * Srishti Yadav
-* [Gabriel Mangeat](phd-students/gabriel-mangeat.md)
+* [Gabriel Mangeat](alumni/gabriel-mangeat.md)
 * Benjamin Carrier
 * Alexandre Bernard
 * Noémie Roberge
@@ -92,7 +92,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Maylis Heussner
 * [Jennifer Campbell](http://www.bic.mni.mcgill.ca/\~jcampbel/)
 * [Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana)
-* [Tommy Boshkovski](phd-students/tommy-boshkovski.md)
+* [Tommy Boshkovski](alumni/tommy-boshkovski.md)
 * Lucas Rouhier
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/lrouhier)
 * Leander van Eekelen
