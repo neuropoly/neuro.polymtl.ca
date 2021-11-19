@@ -132,5 +132,5 @@ Results show an orientation dependence only in regions with high degree of myeli
 
 ### References
 
-* Cohen-Adad J. _What can we learn from T2\* maps of the cortex?_ **Neuroimage** 2013. [http://dx.doi.org/10.1016/](http://dx.doi.org/10.1016/) j.neuroimage.2013.01.023
+* Cohen-Adad J. _What can we learn from T2\* maps of the cortex?_ **Neuroimage** 2013. http://dx.doi.org/10.1016/j.neuroimage.2013.01.023
 * Cohen-Adad J, Polimeni JR, Helmer KG, Benner T, McNab JA, Wald LL, Rosen B, Mainero C. T2\* mapping and B0 orientation-dependence at 7T reveal cyto- and myeloarchitecture organization of the human cortex. **Neuroimage** 2012;DOI: 10.1016/j.neuroimage.2012.01.053. [PDF](https://dl.dropbox.com/u/20592661/publications/Cohen-Adad_2012_T2starB0dependence.pdf)
