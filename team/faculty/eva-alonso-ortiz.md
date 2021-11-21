@@ -1,10 +1,6 @@
 # Eva Alonso Ortiz
 
-<<<<<<< HEAD
 ![](../../.gitbook/assets/alonso-ortiz_photo_small.jpg)
-=======
-![image](../../.gitbook/assets/alonso-ortiz_photo_small.jpg)
->>>>>>> c3eba1c7bc615db3793f6a53d12f741e06333a9d
 
 Dr. Eva Alonso Ortiz is an MR physicist with a background in medical radiation physics, and research expertise in Magnetic Resonance Imaging. She is assistant professor of Electrical Engineering and co-director of NeuroPoly, the Neuroimaging Research Laboratory at Polytechnique Montreal. Her research is focused on developing advanced MRI techniques that range from novel acquisition schemes that improve image quality to biophysical modeling for the characterization of tissue microstructure. Prior to joining the faculty, Dr. Alonso Ortiz completed her postdoctoral training at Polytechnique Montreal, and her Ph.D., M.Sc. and B.Sc. at McGill University.
 
