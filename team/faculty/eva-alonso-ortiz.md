@@ -10,9 +10,9 @@ Dr. Eva Alonso Ortiz is an MR physicist with a background in medical radiation p
 
 * Department of Electrical Engineering, Institute of Biomedical Engineering, École Polytechnique de Montréal
 
-**Co-Director**
+**Director**
 
-* [NeuroPoly: Neuroimaging Research Laboratory at Polytechnique](https://www.neuro.polymtl.ca/home)
+* [NeuroPoly: Neuroimaging Research Laboratory at Polytechnique](https://neuro.polymtl.ca/)
 
 ## Contact
 
