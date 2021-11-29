@@ -127,7 +127,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Pierre-Olivier Quirion
 * George Peristerakis
 * Haykel Snoussi
-* [Benjamin De Leener](alumni/benjamin-de-leener.md)
 * [Aldo Zaimi](alumni/aldo-zaimi.md)
 * Ariane Saliani
 * Dominique Eden
