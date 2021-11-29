@@ -6,7 +6,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Faculty
 
-* [Eva Alonso Ortiz](https://www.evaalonsoortiz.com)
+* [Eva Alonso Ortiz](faculty/eva-alonso-ortiz.md)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/evaalonsoortiz)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/evaalonsoortiz)
 * [Julien Cohen-Adad](faculty/julien-cohen-adad.md)
