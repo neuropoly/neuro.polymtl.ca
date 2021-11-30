@@ -6,7 +6,7 @@ Dr. Eva Alonso Ortiz is an MR physicist with a background in medical radiation p
 
 ## Positions
 
-**Associate Professor**
+**Assistant Professor**
 
 * Department of Electrical Engineering, Institute of Biomedical Engineering, École Polytechnique de Montréal
 
