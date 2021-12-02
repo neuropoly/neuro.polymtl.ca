@@ -30,14 +30,14 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
   * Bringing AI methods into clinical radiology routine via user-friendly software solutions;
   * Contribution to medical AI framework [ivadomed](https://ivadomed.org/)
 
-### Neuroimaging Analysis 🧠 <a id="neuroimaging_analysis_&#x1F9E0;"></a>
+### Neuroimaging Analysis 🧠
 
 * **Pipelines for processing large neuroimaging datasets**
   * Description: Set up processing pipelines for analysis large databases of patients. Datasets: UK Biobank, private databases from collaborating hospitals.
   * Skills: Image analysis \| Neuroimaging tools \| Programming \| git/GitHub
   * Related to: [Spinal Cord Toolbox](https://spinalcordtoolbox.com/)
 
-### MRI Physics 🧲 <a id="mri_physics_&#x1F9F2;"></a>
+### MRI Physics 🧲 
 
 * **Realtime shimming with MRI**
   * Description: Building on our recent progress on integrated shim coils and real time shimming technology, we are recruiting Master/PhD/Postdoc fellows to work on real time shimming projects applied to the spinal cord at 7T. Research will be conducted at the NeuroPoly lab \(Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and at the Montreal Neurological Institute \(MNI, McGill University\).
@@ -45,7 +45,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
   * Related to: [Shimming Toolbox](https://shimming-toolbox.org/)
   * More details [here](https://www.dropbox.com/s/exfteqe66sado2y/20190511_PositionRealTimeShimming.pdf?dl=0)
 
-## What profile are we looking for? <a id="what_profile_are_we_looking_for"></a>
+## What profile are we looking for?
 
 * For projects on image analysis \| deep learning:
   * Strong coding skills in Python, use of git/GitHub
@@ -56,7 +56,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
   * Experience in MRI
   * Coding skills in Python/Matlab, use of git/GitHub
 
-## Why you should join us? <a id="why_you_should_join_us"></a>
+## Why you should join us?
 
 * Join an environment that fosters autonomy, passion and creativity;
 * Get the opportunity to take leadership in open-source projects with strong impact in the medical field;
@@ -65,7 +65,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 * You will interact with radiologists and neurosurgeons who will apply these techniques
 * You will collaborate with top institutions \(Univ. Montreal, McGill, MGH/Harvard, UCL, Oxford, etc.\)
 
-## How to apply? <a id="how_to_apply"></a>
+## How to apply?
 
 * Send requests to [Julien Cohen-Adad](mailto:jcohen@polymtl.ca) \(include CV, GitHub link, blogs, grades, references\)
 
