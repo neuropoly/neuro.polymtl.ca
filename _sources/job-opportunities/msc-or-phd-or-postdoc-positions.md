@@ -4,11 +4,13 @@ At the NeuroPoly lab at Polytechnique & Université de Montréal \(www.neuro.pol
 
 We are recruiting Master/PhD students and Postdoc fellows to work on various projects:
 
-## ⚙️⚙️ Machine learning projects
+## Machine learning projects ⚙️
 
-`data science`, `deep learning`, `computer vision`, `segmentation`, `medical applications`
+`data science` | `deep learning` | `computer vision` | `segmentation` | `medical applications`
 
 ### Deep Learning for Medical Applications \(in partnership with Mila\)
+
+`data science | deep learning | computer vision`
 
 * **Multiple sclerosis \(MS\) lesion segmentation on MRI**
   * Description: Segment MS lesions in order to help classify these patients \(phenotype, personalized therapy\). Dataset: MRIs of ~650 patients from 12 international clinical centers, MS lesions labeled by neuroradiologists. Methods: Develop/apply advanced deep learning architectures \(FiLM, HEMIS, etc.\).
@@ -32,7 +34,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
   * Bringing AI methods into clinical radiology routine via user-friendly software solutions;
   * Contribution to medical AI framework [ivadomed](https://ivadomed.org/)
 
-## 🧠 Neuroimaging projects
+## Neuroimaging projects 🧠
 
 `analysis pipeline`, `biomarker`, `reproducibility`, `data science`, `computer vision`, `medical application`, `multiple sclerosis`, `spinal cord injury`
 
@@ -43,7 +45,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
   * Skills: Image analysis \| Neuroimaging tools \| Programming \| git/GitHub
   * Related to: [Spinal Cord Toolbox](https://spinalcordtoolbox.com/)
 
-## 🧲 MRI Physics projects 
+## MRI Physics projects 🧲
 
 `mri`, `physics`, `rf coils`, `shimming`, `biophysical modeling`
 
@@ -62,7 +64,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 * **Related projects**: [Shimming Toolbox](https://shimming-toolbox.org/), [RTHawk environment](https://zenodo.org/record/3675442#.YakntPHMLkE)
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
 
-## What profile are we looking for?
+## What profile are we looking for? 👀
 
 * For projects on image analysis \| deep learning:
   * Strong coding skills in Python, use of git/GitHub
@@ -73,7 +75,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
   * Experience in MRI
   * Coding skills in Python/Matlab, use of git/GitHub
 
-## Why you should join us?
+## Why you should join us? 
 
 * Join an environment that fosters autonomy, passion and creativity;
 * Get the opportunity to take leadership in open-source projects with strong impact in the medical field;
@@ -82,6 +84,6 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 * You will interact with radiologists and neurosurgeons who will apply these techniques
 * You will collaborate with top institutions \(Univ. Montreal, McGill, MGH/Harvard, UCL, Oxford, etc.\)
 
-## How to apply?
+## How to apply? ✍️
 
 * Send requests to the contact person listed under each project. Please include CV, GitHub link, blogs, grades, references. No need to send reminders, we always receive and see your emails.
