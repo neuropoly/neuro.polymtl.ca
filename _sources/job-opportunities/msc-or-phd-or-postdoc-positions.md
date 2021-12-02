@@ -10,8 +10,6 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 
 ### Deep Learning for Medical Applications \(in partnership with Mila\)
 
-`data science | deep learning | computer vision`
-
 * **Multiple sclerosis \(MS\) lesion segmentation on MRI**
   * Description: Segment MS lesions in order to help classify these patients \(phenotype, personalized therapy\). Dataset: MRIs of ~650 patients from 12 international clinical centers, MS lesions labeled by neuroradiologists. Methods: Develop/apply advanced deep learning architectures \(FiLM, HEMIS, etc.\).
   * Skills: Deep learning \| Image analysis \| Python \| git/GitHub
@@ -36,7 +34,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 
 ## Neuroimaging projects 🧠
 
-`analysis pipeline`, `biomarker`, `reproducibility`, `data science`, `computer vision`, `medical application`, `multiple sclerosis`, `spinal cord injury`
+`analysis pipeline` | `biomarker` | `reproducibility` | `data science` | `computer vision` | `medical application` | `multiple sclerosis` | `spinal cord injury`
 
 ### Neuroimaging Analysis
 
@@ -47,7 +45,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 
 ## MRI Physics projects 🧲
 
-`mri`, `physics`, `rf coils`, `shimming`, `biophysical modeling`
+`mri` | `physics` | `rf coils` | `shimming` | `biophysical modeling`
 
 ### Realtime shimming with MRI
  
