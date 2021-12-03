@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/benjamin_deleener.jpeg)
 
-Benjamin De Leener's interests pertain to the development of new technologies in pediatric neuroimaging. His research lab focuses on developing open-source software for analyzing brain and spinal cord images acquired with magnetic resonance imaging, using advanced segmentation and registration approaches using machine learning and neurodevelopmental templates and atlases. The laboratory is closely linked to the TransMedTech institute and the Research Center of the Sainte-Justine University Hospital, enabling strong collaborations between researchers, engineers, psychologists, radiologists, and clinicians.
+Dr. Benjamin De Leener's is assistant professor at Polytechnique Montreal, is co-director of the Neuroimaging Research Laboratory (NeuroPoly) and holds a TransMedTech Research Chair in pediatric neuroimaging. His main interests pertain to the development of new technologies in pediatric neuroimaging. He focuses on developing open-source software for analyzing brain and spinal cord images acquired with magnetic resonance imaging, using advanced segmentation and registration approaches using machine learning and neurodevelopmental templates and atlases. His laboratory is closely linked to the TransMedTech institute and the Research Center of the Sainte-Justine University Hospital, enabling strong collaborations between researchers, engineers, psychologists, radiologists, and clinicians.
 
 Prior to joining the faculty, Dr. De Leener completed his postdoctoral training at McGill, doctoral training at Polytechnique Montreal, and M.Sc.A. and B.Ing. at the Université Libre de Bruxelles.
 
