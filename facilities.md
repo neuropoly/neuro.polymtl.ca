@@ -1,8 +1,8 @@
-# 🏛  Facilities
+# `🏛` Facilities
 
-The main lab is located at Ecole Polytechnique, 5th floor, biomedical engineering section \(L5613, L5626\).
+The main lab is located at [Ecole Polytechnique, 5th floor](https://www.polymtl.ca/renseignements-generaux/coordonnees-et-plans-dacces/plans-du-campus), biomedical engineering section \(L5613, L5626\).
 
-## Computer Lab
+## Computer Lab (L5626)
 
 ![computer-lab-1](.gitbook/assets/img_2250_good.jpeg) ![computer-lab-2](.gitbook/assets/img_2246_good.jpeg)
 
@@ -24,7 +24,7 @@ In addition, the lab has free access to:
 
 In terms of software license, being part of Polygrames Research Center and École Polytechique, NeuroPoly has access to multiple software for engineering, mathematical computing and simulations \([http://www.grames.polymtl.ca/facilities/servers-information/](http://www.grames.polymtl.ca/facilities/servers-information/)\).
 
-## RF Lab
+## RF Lab (L5613)
 
 ![computer-lab-1](.gitbook/assets/img_2234_good.jpeg) ![computer-lab-2](.gitbook/assets/img_2240_good.jpeg)
 
@@ -87,5 +87,5 @@ NeuroPoly has expertise in building radiofrequency \(RF\) coils for MRI applicat
 * Commercial and custom-made coils available.
   * 4ch Rx-only mouse coil \(RapidMR\), 32mm diameter.
 * Access to histology for ex vivo scans.
-* [Wiki for coil dev / pulse seq programming / MR acquisition \(login required\)](http://liom2.polymtl.ca/internal/systems_and_their_operation/mri)
+* [Wiki for coil dev / pulse seq programming / MR acquisition](http://liom2.polymtl.ca/internal/systems_and_their_operation/mri) \(login required + only accessible from campus/[VPN](https://intranet.neuro.polymtl.ca/computing-resources/computing-resources-neuropoly#vpn)\)
 

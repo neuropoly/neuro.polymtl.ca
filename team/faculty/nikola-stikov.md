@@ -23,7 +23,7 @@ Prior to joining the Polytechnique faculty, Dr. Stikov completed his postdoctora
 
 ## Contact
 
-#### Address
+### Address
 
 > Dept. Genie Electrique, L5608  
 > Ecole Polytechnique  
@@ -32,7 +32,7 @@ Prior to joining the Polytechnique faculty, Dr. Stikov completed his postdoctora
 > H3T 1J4  
 > Canada
 
-#### Email
+### Email
 
 > nikola.stikov "at" polymtl.ca
 

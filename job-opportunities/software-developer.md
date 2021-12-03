@@ -14,7 +14,7 @@ We recruit experienced software developers to work on the [ivadomed](http://ivad
 
 **💰 Salary**
 
-* $40/h if you are good, up to $70/h if you are excellent.
+* \$40/h if you are good, up to \$70/h if you are excellent.
 
 📅  **Schedule**
 
@@ -34,5 +34,6 @@ We recruit experienced software developers to work on the [ivadomed](http://ivad
 
 **✍️  How to apply?**
 
-* Send requests to [Julien Cohen-Adad](../team/faculty/julien-cohen-adad.md#email) with the subject \[Software Developer\]. Include CV and links to your GitHub account and other relevant contributions \(blogs, personal page, etc.\).
+<!-- this link is a cross-ref to ../team/faculty/julien-cohen-adad.md#email -->
+* Send requests to [Julien Cohen-Adad](jcohen_email) with the subject \[Software Developer\]. Include CV and links to your GitHub account and other relevant contributions \(blogs, personal page, etc.\).
 

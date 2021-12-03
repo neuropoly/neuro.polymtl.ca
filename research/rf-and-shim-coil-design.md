@@ -4,17 +4,33 @@ The RF Lab is supported by [TransMedTech](https://www.polymtl.ca/transmedtech/en
 
 ## RF Coils for MRI
 
-{% embed url="https://www.slideshare.net/slideshow/embed\_code/key/dm5HYqLGZtee8p" %}
+<div class="pdf-container">
+  <div class="r16-9">
+    <object data="../_static/_media/20201120updatedprojects.pdf" type="application/pdf">
+      <!-- fallback -->
+      <a href="../_static/_media/20201120updatedprojects.pdf"><img src="../_static/_media/20201120updatedprojects.png" /></a>
+    </object>
+  </div>
+</div>
 
 ## C-Spine Coil for 7T MRI
 
-{% embed url="https://www.slideshare.net/slideshow/embed\_code/key/BM50VgTl7437uA" %}
+<div class="pdf-container">
+  <div class="r16-9">
+    <object data="../_static/_media/201907187tspinecoil.pdf" type="application/pdf" />
+      <!-- fallback -->
+      <a href="../_static/_media/201907187tspinecoil.pdf"><img src="../_static/_media/201907187tspinecoil.png" /></a>
+    </object>
+  </div>
+</div>
 
 ## Real-time shimming
 
-{% embed url="https://www.slideshare.net/slideshow/embed\_code/key/lhvoyKuHLsgc8L" %}
-
-
-
-
-
+<div class="pdf-container">
+  <div class="r16-9">
+    <object data="../_static/_media/acdc3t.pdf" type="application/pdf" />
+      <!-- fallback -->
+      <a href="../_static/_media/acdc3t.pdf"><img src="../_static/_media/acdc3t.png" /></a>
+    </object>
+  </div>
+</div>
