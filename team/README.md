@@ -14,6 +14,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/jcohenadad/)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jcohenadad/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:jcohen@polymtl.ca)
+* [Benjamin De Leener](faculty/benjamin-de-leener.md)
+  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/bendeleener)
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/benjamindeleener)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/benjamindeleener/)
 * [Nikola Stikov](faculty/nikola-stikov.md)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/stikov)
 
@@ -123,7 +127,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Pierre-Olivier Quirion
 * George Peristerakis
 * Haykel Snoussi
-* [Benjamin De Leener](alumni/benjamin-de-leener.md)
 * [Aldo Zaimi](alumni/aldo-zaimi.md)
 * Ariane Saliani
 * Dominique Eden
