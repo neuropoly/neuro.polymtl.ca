@@ -18,6 +18,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/bendeleener)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/benjamindeleener)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/benjamindeleener/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:benjamin.de-leener@polymtl.ca)
 * [Nikola Stikov](faculty/nikola-stikov.md)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/stikov)
 
@@ -28,6 +29,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/alexandrufoias)
 * Nick Guenther
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
+* Louis Joseph Laberge
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/louis-joseph-laberge-8452b4207/)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
 * Joshua Newton
 * [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
@@ -38,6 +41,15 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## PhD Students
 
+* Anes Belfodil
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/abelfodil)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/anes-belfodil/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:anes.belfodil@polymtl.ca)
+
+* Andjela Dimitrijevic
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Andjelaaaa)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andjela-dimitrijevic-470651171/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:andjela.dimitrijevic@polymtl.ca)
 * Vicente Enguix
 * [Charley Gros](phd-students/charley-gros.md)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/charleygros)
@@ -45,12 +57,20 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Naga Karthik](https://naga-karthik.github.io)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/naga-karthik)
 * [Ryan Topfer](phd-students/ryan-topfer.md)
+* Erjun Zhang
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/zhangerjun)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/zhangerjun/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:erjun.zhang@polymtl.ca)
 
 ## MSc Students
 
 * Sandrine Bédard
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/sandrinebedard)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)
+* Colline Blanc
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/CollineBlanc)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/collineblc/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:colline.blanc@polymtl.ca)
 * Marie-Hélène Bourget
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mariehbourget)
 * Gaspard Cereza
@@ -59,6 +79,13 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:gaspard.cereza@gmail.com)
 * Alexandre D'Astous
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)
+* Noée Ducros-Chabot
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/noeedc)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/no%C3%A9e-ducros-chabot-1bb6a51a1/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:noee.ducros-chabot@polymtl.ca)
+* Antoine El Hachem
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/antoineelhachem/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:antoine-2.el-hachem@polymtl.ca)
 * Andréanne Lemay
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/andreanne-lemay)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andreanne-lemay/)
@@ -66,6 +93,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
+* Daniel Ridani
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Danirid)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:daniel.ridani@polymtl.ca)
 
 ## Internships
 
