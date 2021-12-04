@@ -130,7 +130,6 @@ def build_gallery(app: Sphinx):
     LOGGER.info("building gallery...")
     grid_items = []
     projects = yaml.safe_load((Path(app.srcdir) / "gallery.yml").read_text())
-    random.shuffle(projects)
     for item in projects:
         if not item.get("image"):
             item["image"] = "https://jupyterbook.org/_images/logo-square.svg"
