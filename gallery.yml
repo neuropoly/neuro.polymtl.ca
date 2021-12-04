@@ -1,0 +1,20 @@
+- name: Spinal Cord Toolbox
+  website: https://spinalcordtoolbox.com/
+  repository: https://github.com/spinalcordtoolbox/spinalcordtoolbox
+  image: https://raw.githubusercontent.com/spinalcordtoolbox/spinalcordtoolbox/master/documentation/source/_static/img/logo_sct.png
+- name: ivadomed
+  website: https://ivadomed.org
+  repository: https://github.com/ivadomed/ivadomed
+  image: https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png
+- name: qmMRLab
+  website: https://qmrlab.readthedocs.io
+  repository: https://github.com/qMRLab/qMRLab
+  image: https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png
+- name: Shimming Toolbox
+  website: https://shimming-toolbox.org
+  repository: https://github.com/shimming-toolbox
+  image: https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png
+- name: AxonDeepSeg
+  website: https://axondeepseg.readthedocs.io/
+  repository: https://github.com/neuropoly/axondeepseg
+  image: https://raw.githubusercontent.com/neuropoly/axondeepseg/master/docs/source/_static/logo_ads-alpha.png

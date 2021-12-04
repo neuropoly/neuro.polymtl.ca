@@ -4,26 +4,28 @@
 
 Below is a list of software projects created at **NeuroPoly** or at collaborative institutions. These projects are open source and freely available.
 
-### MRI
+```{include} gallery.txt
+```
 
-| Logo                    | Name                    | Description                                                                                                      | Source                                                                                                                                     | Documentation                                                                                                                                                               |
-| ----------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png"  height="50" /> | ivadomed                | Comprehensive and open-source repository of deep learning methods for medical data segmentation                  | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/ivadomed/ivadomed)                 | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://ivadomed.org/en/latest/)                                            |
+<!-- Deprecated software:
+
 |  | Multiclass Segmentation | Code related to the NIH marmoset longitudinal segmentation project                                               | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/multiclass-segmentation) | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/multiclass-segmentation/blob/master/README.md) |
-| <img src="https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png" height="100" /> | qMRLab                  | Software for data aimulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.) | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/qMRLab/qMRLab)                     | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://qmrlab.readthedocs.io/en/master/)                                   |
-| <img src="https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png"  height="100" /> | Shimming Toolbox        | Code for performing real-time shimming using external MRI shim coils                                             | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/shimming-toolbox)                  | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://shimming-toolbox.org/en/latest/)                                    |
-| <img src="https://raw.githubusercontent.com/spinalcordtoolbox/spinalcordtoolbox/master/documentation/source/_static/img/logo_sct.png" height="100" /> | Spinal Cord Toolbox     | Comprehensive and open-source library of analysis tools for multi-parametric MRI of the spinal cord              | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/spinalcordtoolbox)       | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://spinalcordtoolbox.com/en/latest/)                                   |
+
+|  | AxonSeg          | Automatic segmentation of axon and myelin from microscopy data    | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonseg)          | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonseg/blob/master/README.md)                           |
+
+
+|  | AxonPacking      | Simulation software for arrangements of axons in white matter     | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonpacking)      | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonpacking/blob/master/README.md)                       |
+-->
+
+<!-- Data / Atlas to add in another section
+
 |  | Template                | A framework for creating unbiased MRI templates of the spinal cord                                               | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/template)                | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/template/blob/master/README.md)                |
 
-### Histology
-
-| Logo             | Name             | Description                                                       | Source                                                                                                                              | Documentation                                                                                                                                                                         |
-| ---------------- | ---------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  | Atlas Rat        | Scripts to generate a microstructure atlas of the rat spinal cord | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/atlas-rat)        | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/atlas-rat/blob/master/README.md)          |
-|  | AxonSeg          | Automatic segmentation of axon and myelin from microscopy data    | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonseg)          | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonseg/blob/master/README.md)                           |
-| <img src="https://raw.githubusercontent.com/neuropoly/axondeepseg/master/docs/source/_static/logo_ads-alpha.png" height="100" /> | AxonDeepSeg      | Segmentation software for microscopy data using deep learning     | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axondeepseg)      | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://axondeepseg.readthedocs.io/en/latest/)                                        |
-|  | AxonPacking      | Simulation software for arrangements of axons in white matter     | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonpacking)      | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonpacking/blob/master/README.md)                       |
+
 |  | Tract Clustering | Data-driven approach for tracts in rat histology                  | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/tract-clustering) | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/tract-clustering/blob/master/README.md)                  |
+-->
+
 
 ### Contributing
 
