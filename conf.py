@@ -106,8 +106,6 @@ for dir, dirs, fnames in os.walk("."): #XXX "." is possibly buggy? This isn't ne
                 os.symlink("README.html", z)
 
 
-
-
 # -- Custom scripts ----------------------------------------------------------
 
 import os
