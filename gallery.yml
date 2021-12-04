@@ -6,7 +6,7 @@
   website: https://ivadomed.org
   repository: https://github.com/ivadomed/ivadomed
   image: https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png
-- name: qmMRLab
+- name: qMRLab
   website: https://qmrlab.readthedocs.io
   repository: https://github.com/qMRLab/qMRLab
   image: https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png
