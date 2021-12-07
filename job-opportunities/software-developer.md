@@ -35,6 +35,6 @@ We recruit experienced software developers to work on our [medical imaging softw
 * Take leadership in open-source projects with strong impact in the medical field
 * Develop strong image processing skills with experts in medical imaging
 
-## `✉️` How to apply?
+## ✍️ ‎ How to apply?
 
 * Send requests to [Julien Cohen-Adad](jcohen_email) with the subject `Software Developer`. Include CV and links to your GitHub account and other relevant contributions (blogs, personal page, etc.).
