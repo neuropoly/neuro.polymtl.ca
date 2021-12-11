@@ -12,7 +12,7 @@
   image: https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png
 - name: Software tools to perform advanced static and real-time shimming experiments with MRI.
   website: https://shimming-toolbox.org
-  repository: https://github.com/shimming-toolbox
+  repository: https://github.com/shimming-toolbox/shimming-toolbox
   image: https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png
 - name: Segmentation of axon and myelin on microscopy data.
   website: https://axondeepseg.readthedocs.io/
