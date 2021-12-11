@@ -150,10 +150,11 @@ def build_gallery(app: Sphinx):
 
         grid_items.append(
             f"""\
-        `````{{grid-item-card}} {" ".join(item["name"].split())}
+        `````{{grid-item-card}}
         :text-align: center
-        <img src="{item["image"]}" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;" />
+        <img src="{item["image"]}" alt="logo" loading="lazy" style="max-width: 100%; max-height: 100px; margin: auto" />
         +++
+        {" ".join(item["name"].split())}
         ````{{grid}} 2 2 2 2
         :margin: 0 0 0 0
         :padding: 0 0 0 0
