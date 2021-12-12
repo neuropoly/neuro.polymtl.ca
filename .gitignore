@@ -6,3 +6,4 @@ _build/
 Thumbs.db
 
 gallery.txt
+gallery_*.txt
