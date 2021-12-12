@@ -71,7 +71,7 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 
 ### B0 Magnetic Field Mapping
 
-* **Description**: We are recruiting MSc/PhD students to work on B0 magnetic field mapping at 3 T and 7 T. Many MRI techniques, such fMRI, DTI, and T2* mapping are highly sensitive to B0 inhomogeneities. B0-related artifacts can be minimized or eliminated if the B0 field distribution is known. Different approaches to measuring the B0 field have been proposed over the years. This project would aim to evaluate different B0 mapping techniques and propose B0 mapping procedures at 3 T and 7 T. Research will be conducted at the NeuroPoly lab (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and at the Montreal Neurological Institute (MNI, McGill University).
+* **Description**: We are recruiting MSc/PhD students to work on B0 magnetic field mapping at 3 T and 7 T. Many MRI techniques, such fMRI, DTI, and T2* mapping are highly sensitive to B0 inhomogeneities. B0-related artifacts can be minimized or eliminated if the B0 field distribution is known. Different approaches to measuring the B0 field have been proposed over the years. This project would aim to evaluate different B0 mapping techniques and propose B0 mapping procedures for 3 T and 7 T imaging. Research will be conducted at the NeuroPoly lab (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and at the Montreal Neurological Institute (MNI, McGill University).
 * **Skills**: Physics | MRI (acquisition and analysis) | Ultra-high field MRI
 * **Contact**: [Eva Alonso-Ortiz](mailto:eva.alonso-ortiz@polymtl.ca)
 
