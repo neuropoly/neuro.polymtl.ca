@@ -43,6 +43,13 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
   * Skills: Image analysis \| Neuroimaging tools \| Programming \| git/GitHub
   * Related to: [Spinal Cord Toolbox](https://spinalcordtoolbox.com/)
 
+### Diffusion Tensor Imaging (DTI) for Radiotherapy Treatment Planning of Glioma
+  * **Description**: We are recruiting an MSc student to work on DTI-based tractography for predicting paths of tumor spread during radiotherapy treatment planning of gliomas. Research will be conducted at the NeuroPoly (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and in collaboration with the Radiation Oncology department of the McGill University Health Center (MUHC).
+  * **Skills**: MRI (acquisition and analysis) \| Radiotherapy \| Cancer
+  * **Contact**: [Eva Alonso-Ortiz](mailto:eva.alonso-ortiz@polymtl.ca)
+
+
+
 ## MRI Physics projects 🧲
 
 `mri` | `physics` | `rf coils` | `shimming` | `biophysical modeling`
@@ -57,10 +64,17 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 
 ### Vendor-agnostic realtime shimming
 
-* **Description**: Shimming is a procedure that aims at homogeneizing the static (B0) magnetic field in an MRI scanner. When subjects breath, the B0 fields varies in time and space. Our group has developed methods to mitigate these variations, using external coils. However, it would be nice to be able to do it using the internal gradient and shim coils from the MRI system itself. One difficulty is that a lot of code and access to the hardware on these proprietary systems are restricted. A solution would be to use an RTHawk system, which offers full modularity when driving the MRI system.
+* **Description**: Shimming is a procedure that aims at homogeneizing the static (B0) magnetic field in an MRI scanner. When subjects breathe, the B0 fields varies in time and space. Our group has developed methods to mitigate these variations, using external coils. However, it would be nice to be able to do it using the internal gradient and shim coils from the MRI system itself. One difficulty is that a lot of code and access to the hardware on these proprietary systems are restricted. A solution would be to use an RTHawk system, which offers full modularity when driving the MRI system.
 * **Skills**: Physics | Familiar with MRI | Computer programming | System integration | Experimentation | Image analysis
 * **Related projects**: [Shimming Toolbox](https://shimming-toolbox.org/), [RTHawk environment](https://zenodo.org/record/3675442#.YakntPHMLkE)
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
+
+### B0 Magnetic Field Mapping
+
+* **Description**: We are recruiting MSc/PhD students to work on B0 magnetic field mapping at 3 T and 7 T. Many MRI techniques, such fMRI, DTI, and T2* mapping are highly sensitive to B0 inhomogeneities. B0-related artifacts can be minimized or eliminated if the B0 field distribution is known. Different approaches to measuring the B0 field have been proposed over the years. This project would aim to evaluate different B0 mapping techniques and propose B0 mapping procedures for 3 T and 7 T imaging. Research will be conducted at the NeuroPoly lab (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and at the Montreal Neurological Institute (MNI, McGill University).
+* **Skills**: Physics | MRI (acquisition and analysis) | Ultra-high field MRI
+* **Contact**: [Eva Alonso-Ortiz](mailto:eva.alonso-ortiz@polymtl.ca)
+
 
 ## What profile are we looking for? 👀
 
