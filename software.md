@@ -1,11 +1,16 @@
 # `🖥` Software
 
-## Open-Source Projects
-
 Below is a list of software projects created at **NeuroPoly** or at collaborative institutions. These projects are open source and freely available.
 
-```{include} gallery.txt
+## Image analysis
+
+```{include} gallery_software.txt
 ```
+
+<!-- ## Pipeline and template
+
+TODO: Add this section
+This section contains projects  -->
 
 <!-- Deprecated software:
 
@@ -27,6 +32,6 @@ Below is a list of software projects created at **NeuroPoly** or at collaborativ
 -->
 
 
-### Contributing
+## Contributing
 
 **NeuroPoly** welcomes and appreciates contributions. To get started, please check out [**NeuroPoly**'s contributing guidelines](https://intranet.neuro.polymtl.ca/geek-tips/contributing).
