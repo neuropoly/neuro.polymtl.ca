@@ -33,7 +33,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 ### Lifelong learning of multiple sclerosis lesion segmentation
 
-![lifelong_learning](../gitbook/assets/continual_learning_ms_segmentation.png)
+![lifelong_learning](../.gitbook/assets/continual_learning_ms_segmentation.png)
 
 * **Description**: The goal of this project is to implement a comprehensive and sustainable analysis framework for the segmentation of multiple sclerosis (MS) lesions in the brain and spinal cord. Deep learning models will be continuously updated with new data being prospectively acquired across several clinics in Canada. We will validate the clinical relevance of these models as a sensitive biomarker of disease severity and prognosis. The project focuses on three aims (the potential candidate student can pick the aim they are most interested in): 
   * Create a general model for brain and spinal cord MS lesion segmentation, robust to hospitals, MRI  vendor and acquisition parameters; 
