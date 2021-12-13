@@ -6,9 +6,11 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 
 ## Machine learning projects ⚙️
 
+These projects are done in partnership with [Mila](https://mila.quebec/), with possible co-supervision from Mila profs.
+
 `data science` | `deep learning` | `computer vision` | `segmentation` | `medical applications`
 
-### Deep Learning for Medical Applications \(in partnership with Mila\)
+### Deep Learning for Medical Applications
 
 * **Multiple sclerosis \(MS\) lesion segmentation on MRI**
   * Description: Segment MS lesions in order to help classify these patients \(phenotype, personalized therapy\). Dataset: MRIs of ~650 patients from 12 international clinical centers, MS lesions labeled by neuroradiologists. Methods: Develop/apply advanced deep learning architectures \(FiLM, HEMIS, etc.\).
@@ -21,9 +23,6 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 * **Generalization of deep learning models**
   * Incorporation of prior constraints from MRI physics during training
   * Synthesizing images during data augmentation
-* **Continual learning**
-  * Continual learning strategies when data sharing is restricted;
-  * Implementing continual learning strategies in neuroimaging and clinical centres
 * **Uncertainty estimation and applications**
   * Incorporating uncertainty measures to deal with inter-rater variability
   * Using uncertainty in active learning framework for histology and medical data segmentation
@@ -31,6 +30,16 @@ We are recruiting Master/PhD students and Postdoc fellows to work on various pro
 * **Implementing open-source AI solutions**
   * Bringing AI methods into clinical radiology routine via user-friendly software solutions;
   * Contribution to medical AI framework [ivadomed](https://ivadomed.org/)
+
+### Lifelong learning of multiple sclerosis lesion segmentation
+
+* **Description**: The goal of this project is to implement a comprehensive and sustainable analysis framework for the segmentation of multiple sclerosis (MS) lesions in the brain and spinal cord. Deep learning models will be continuously updated with new data being prospectively acquired across several clinics in Canada. We will validate the clinical relevance of these models as a sensitive biomarker of disease severity and prognosis. The project focuses on three aims (the potential candidate student can pick the aim they are most interested in): 
+  * Create a general model for brain and spinal cord MS lesion segmentation, robust to hospitals, MRI  vendor and acquisition parameters; 
+  * Implement a continuous learning framework and assess stability of model performance over time  using a retrospective database; 
+  * Demonstrate the clinical relevance of automatic segmentation-based biomarkers.
+* **Skills**: Python programming | git/GitHub | deep learning | data science | (computer vision)
+* **Related projects**: [ivadomed](https://ivadomed.org), [SCT](https://spinalcordtoolbox.com/)
+* **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
 
 ## Neuroimaging projects 🧠
 
