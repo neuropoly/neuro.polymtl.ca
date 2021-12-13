@@ -24,8 +24,10 @@
     
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" type="text/css" href="_static/_static/theme.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.59c74d8c95b765a7fd995ac71d459ebe.min.css" />
     <link rel="stylesheet" type="text/css" href="_static/theme.css" />
     
   <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
@@ -34,6 +36,7 @@
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
     <link rel="shortcut icon" href="_static/logo.png"/>
     <link rel="index" title="Index" href="genindex.html" />
@@ -325,26 +328,14 @@
             <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#open-source-projects">
-   Open-Source Projects
+  <a class="reference internal nav-link" href="#image-analysis">
+   Image analysis
   </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#mri">
-     MRI
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#histology">
-     Histology
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#contributing">
-     Contributing
-    </a>
-   </li>
-  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#contributing">
+   Contributing
+  </a>
  </li>
 </ul>
 
@@ -359,96 +350,143 @@
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="software">
 <h1><code class="docutils literal notranslate"><span class="pre">🖥</span></code> Software<a class="headerlink" href="#software" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="open-source-projects">
-<h2>Open-Source Projects<a class="headerlink" href="#open-source-projects" title="Permalink to this headline">¶</a></h2>
 <p>Below is a list of software projects created at <strong>NeuroPoly</strong> or at collaborative institutions. These projects are open source and freely available.</p>
-<div class="section" id="mri">
-<h3>MRI<a class="headerlink" href="#mri" title="Permalink to this headline">¶</a></h3>
-<table class="colwidths-auto table">
-<thead>
-<tr class="row-odd"><th class="head"><p>Name</p></th>
-<th class="head"><p>Description</p></th>
-<th class="head"><p>Source</p></th>
-<th class="head"><p>Documentation</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>ivadomed</p></td>
-<td><p>Comprehensive and open-source repository of deep learning methods for medical data segmentation</p></td>
-<td><p><a class="reference external" href="https://github.com/ivadomed/ivadomed"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://ivadomed.org/en/latest/"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-odd"><td><p>Multiclass Segmentation</p></td>
-<td><p>Code related to the NIH marmoset longitudinal segmentation project</p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/multiclass-segmentation"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/multiclass-segmentation/blob/master/README.md"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-even"><td><p>qMRLab</p></td>
-<td><p>Software for data aimulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.)</p></td>
-<td><p><a class="reference external" href="https://github.com/qMRLab/qMRLab"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://qmrlab.readthedocs.io/en/master/"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-odd"><td><p>Shimming Toolbox</p></td>
-<td><p>Code for performing real-time shimming using external MRI shim coils</p></td>
-<td><p><a class="reference external" href="https://github.com/shimming-toolbox"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://shimming-toolbox.org/en/latest/"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-even"><td><p>Spinal Cord Toolbox</p></td>
-<td><p>Comprehensive and open-source library of analysis tools for multi-parametric MRI of the spinal cord</p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/spinalcordtoolbox"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://spinalcordtoolbox.com/en/latest/"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-odd"><td><p>Template</p></td>
-<td><p>A framework for creating unbiased MRI templates of the spinal cord</p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/template"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/template/blob/master/README.md"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-</tbody>
-</table>
+<div class="section" id="image-analysis">
+<h2>Image analysis<a class="headerlink" href="#image-analysis" title="Permalink to this headline">¶</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 full-width docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-2 sd-row-cols-md-3 sd-row-cols-lg-3 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<img src="https://raw.githubusercontent.com/spinalcordtoolbox/spinalcordtoolbox/master/documentation/source/_static/img/logo_sct.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 100px; margin: auto" />
 </div>
-<div class="section" id="histology">
-<h3>Histology<a class="headerlink" href="#histology" title="Permalink to this headline">¶</a></h3>
-<table class="colwidths-auto table">
-<thead>
-<tr class="row-odd"><th class="head"><p>Name</p></th>
-<th class="head"><p>Description</p></th>
-<th class="head"><p>Source</p></th>
-<th class="head"><p>Documentation</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Atlas Rat</p></td>
-<td><p>Scripts to generate a microstructure atlas of the rat spinal cord</p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/atlas-rat"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/atlas-rat/blob/master/README.md%7CDocumentation"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-odd"><td><p>AxonSeg</p></td>
-<td><p>Automatic segmentation of axon and myelin from microscopy data</p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/axonseg"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/axonseg/blob/master/README.md"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-even"><td><p>AxonDeepSeg</p></td>
-<td><p>Segmentation software for microscopy data using deep learning</p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/axondeepseg"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://axondeepseg.readthedocs.io/en/latest/"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-odd"><td><p>AxonPacking</p></td>
-<td><p>Simulation software for arrangements of axons in white matter</p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/axonpacking"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/axonpacking/blob/master/README.md"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-<tr class="row-even"><td><p>Tract Clustering</p></td>
-<td><p>Data-driven approach for tracts in rat histology</p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/tract-clustering"><i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span></a></p></td>
-<td><p><a class="reference external" href="https://github.com/neuropoly/tract-clustering/blob/master/README.md"><i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span></a></p></td>
-</tr>
-</tbody>
-</table>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Comprehensive library of analysis tools for multi-parametric MRI of the spinal cord</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://spinalcordtoolbox.com/"><span>website</span></a>
+<a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://github.com/spinalcordtoolbox/spinalcordtoolbox"><span>repo</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://github.com/spinalcordtoolbox/spinalcordtoolbox"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/spinalcordtoolbox/spinalcordtoolbox?style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<img src="https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 100px; margin: auto" />
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Integrated framework for medical image analysis with deep learning</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://ivadomed.org"><span>website</span></a>
+<a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://github.com/ivadomed/ivadomed"><span>repo</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://github.com/ivadomed/ivadomed"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ivadomed/ivadomed?style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<img src="https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 100px; margin: auto" />
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Simulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.)</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://qmrlab.readthedocs.io"><span>website</span></a>
+<a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://github.com/qMRLab/qMRLab"><span>repo</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://github.com/qMRLab/qMRLab"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/qMRLab/qMRLab?style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<img src="https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 100px; margin: auto" />
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Software tools to perform advanced static and real-time shimming experiments with MRI.</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://shimming-toolbox.org"><span>website</span></a>
+<a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://github.com/shimming-toolbox/shimming-toolbox"><span>repo</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://github.com/shimming-toolbox/shimming-toolbox"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/shimming-toolbox/shimming-toolbox?style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<img src="https://raw.githubusercontent.com/neuropoly/axondeepseg/master/docs/source/_static/logo_ads-alpha.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 100px; margin: auto" />
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Segmentation of axon and myelin on microscopy data.</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://axondeepseg.readthedocs.io/"><span>website</span></a>
+<a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://github.com/neuropoly/axondeepseg"><span>repo</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://github.com/neuropoly/axondeepseg"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neuropoly/axondeepseg?style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- ## Pipeline and template
+
+TODO: Add this section
+This section contains projects  -->
+<!-- Deprecated software:
+
+|  | Multiclass Segmentation | Code related to the NIH marmoset longitudinal segmentation project                                               | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/multiclass-segmentation) | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/multiclass-segmentation/blob/master/README.md) |
+
+|  | AxonSeg          | Automatic segmentation of axon and myelin from microscopy data    | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonseg)          | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonseg/blob/master/README.md)                           |
+
+
+|  | AxonPacking      | Simulation software for arrangements of axons in white matter     | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonpacking)      | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonpacking/blob/master/README.md)                       |
+-->
+<!-- Data / Atlas to add in another section
+
+|  | Template                | A framework for creating unbiased MRI templates of the spinal cord                                               | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/template)                | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/template/blob/master/README.md)                |
+
+|  | Atlas Rat        | Scripts to generate a microstructure atlas of the rat spinal cord | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/atlas-rat)        | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/atlas-rat/blob/master/README.md)          |
+
+|  | Tract Clustering | Data-driven approach for tracts in rat histology                  | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/tract-clustering) | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/tract-clustering/blob/master/README.md)                  |
+-->
 </div>
 <div class="section" id="contributing">
-<h3>Contributing<a class="headerlink" href="#contributing" title="Permalink to this headline">¶</a></h3>
+<h2>Contributing<a class="headerlink" href="#contributing" title="Permalink to this headline">¶</a></h2>
 <p><strong>NeuroPoly</strong> welcomes and appreciates contributions. To get started, please check out <a class="reference external" href="https://intranet.neuro.polymtl.ca/geek-tips/contributing"><strong>NeuroPoly</strong>’s contributing guidelines</a>.</p>
-</div>
 </div>
 </div>
 
