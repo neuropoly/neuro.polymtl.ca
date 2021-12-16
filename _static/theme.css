@@ -54,7 +54,7 @@ li.toctree-l1 > a > code:nth-child(1) > span.pre {
 
 /* space out lists */
 #main-content .section li {
-  padding: .4em 0;
+  padding: .1em 0;
 }
 
 /* make FontAwesome icons accessible to screen reader/plain text browsers
