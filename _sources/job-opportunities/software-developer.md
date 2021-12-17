@@ -19,9 +19,10 @@ We recruit experienced software developers to work on our [medical imaging softw
 
 * \$40/h if you are good, up to \$70/h if you are excellent.
 
-## `📅` Schedule
+## `📅` Schedule and work arrangement
 
 * This is a long term position, which could be part-time or full time.
+* Work can be done remotely or in-presence (Montreal)
 
 ## `🔍` What profile are we looking for?
 
