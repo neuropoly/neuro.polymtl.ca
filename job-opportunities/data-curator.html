@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Software Developer &#8212; NeuroPoly Lab</title>
+    <title>Data curator &#8212; NeuroPoly Lab</title>
     
   <link href="../_static/css/theme.css" rel="stylesheet">
   <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
@@ -41,8 +41,8 @@
     <link rel="shortcut icon" href="../_static/logo.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Data curator" href="data-curator.html" />
-    <link rel="prev" title="MSc | PhD | PostDoc Positions" href="msc-or-phd-or-postdoc-positions.html" />
+    <link rel="next" title="Internships" href="internships/README.html" />
+    <link rel="prev" title="Software Developer" href="software-developer.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -217,13 +217,13 @@
      MSc | PhD | PostDoc Positions
     </a>
    </li>
-   <li class="toctree-l2 current active">
-    <a class="current reference internal" href="#">
+   <li class="toctree-l2">
+    <a class="reference internal" href="software-developer.html">
      Software Developer
     </a>
    </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="data-curator.html">
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
      Data curator
     </a>
    </li>
@@ -305,7 +305,7 @@
 
 
 <!-- only one Github button activated, so collapse it into the main button, saving a click for users -->
-        <a class="edit-button" href="https://github.com/neuropoly/neuro.polymtl.ca/edit/master/job-opportunities/software-developer.md"><button
+        <a class="edit-button" href="https://github.com/neuropoly/neuro.polymtl.ca/edit/master/job-opportunities/data-curator.md"><button
                 type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
                 title="Edit this page"><i class="fab fa-github"></i></button></a>
 
@@ -335,6 +335,26 @@
     </span>
    </code>
    Main tasks
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#skills">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     🧠
+    </span>
+   </code>
+   Skills:
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bonus-skills">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     🙌
+    </span>
+   </code>
+   Bonus Skills
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
@@ -368,16 +388,6 @@
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-profile-are-we-looking-for">
-   <code class="docutils literal notranslate">
-    <span class="pre">
-     🔍
-    </span>
-   </code>
-   What profile are we looking for?
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#why-take-this-job">
    <code class="docutils literal notranslate">
     <span class="pre">
@@ -403,17 +413,81 @@
         
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="software-developer">
-<h1>Software Developer<a class="headerlink" href="#software-developer" title="Permalink to this headline">¶</a></h1>
+  <div class="tex2jax_ignore mathjax_ignore section" id="data-curator">
+<h1>Data curator<a class="headerlink" href="#data-curator" title="Permalink to this headline">¶</a></h1>
+<!-- TODO: include the blurb below in separate file to avoid duplication -->
 <p>At the Neuroimaging Research Laboratory (NeuroPoly) lab, based at Ecole Polytechnique, University of Montreal, we work to better understand the brain and the spinal cord using state-of-the-art imaging techniques, with many potential medical applications. We are developing advanced analysis methods to improve the quality of MRI data, as well as to extract meaningful clinical information.</p>
-<p>We recruit experienced software developers to work on our <a class="reference external" href="https://neuro.polymtl.ca/software.html">medical imaging software projects</a>.</p>
+<p>We recruit an IT expert in data curation to help managing our internal and public database of MRI images.</p>
 <div class="section" id="main-tasks">
 <h2><code class="docutils literal notranslate"><span class="pre">📌</span></code> Main tasks<a class="headerlink" href="#main-tasks" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p>Implement new features, refactoring, bug fixes, suggest improvements</p></li>
-<li><p>Help managing the project, create software releases, establish best coding practices</p></li>
-<li><p>Contribute to the API and user documentation</p></li>
-<li><p>Organize courses for researchers and clinicians at international conferences</p></li>
+<li><p>Collect raw data via email, DropBox, Google Drive, ssh, http, smb, and via our local LAN and reformat it to be <a class="reference external" href="https://bids-specification.readthedocs.io/">BIDS</a>-compliant</p></li>
+<li><p>Anonymize data (<a class="reference external" href="https://open-brain-consent.readthedocs.io/en/stable/anon_tools.html#faces-dental-stripping">defacing</a>, removal of identifying metadata)</p></li>
+<li><p>Review data submitted by students and researchers.</p>
+<ul>
+<li><p>Verify:</p>
+<ul>
+<li><p>Image quality</p></li>
+<li><p>Taxonomy (i.e. file names)</p></li>
+<li><p>Metadata (in <code class="docutils literal notranslate"><span class="pre">.tsv</span></code> and <code class="docutils literal notranslate"><span class="pre">.json</span></code> files)</p></li>
+<li><p>Anonymization</p></li>
+</ul>
+</li>
+<li><p>Merge pull requests</p></li>
+</ul>
+</li>
+<li><p>Identify validation steps that could be automated and work with the dev team to implement them</p></li>
+<li><p>Monitor redundant data rate</p></li>
+<li><p>Comply with IRB, consent and copyright compliance terms</p>
+<ul>
+<li><p>Verify and perform data removal when requested by subjects</p></li>
+</ul>
+</li>
+<li><p>Administer dataset access control; in compliance with license/ethics terms</p>
+<ul>
+<li><p>Add new contributors</p></li>
+<li><p>For private datasets: add new read-only accounts</p></li>
+<li><p>Remove users when they no longer need access</p></li>
+<li><p>Schedule quarterly access audits</p></li>
+</ul>
+</li>
+<li><p>Provide basic technical support to users downloading datasets</p>
+<ul>
+<li><p>Diagnose network connection problems</p></li>
+<li><p>Isolate software version problems and incompatibilities</p></li>
+</ul>
+</li>
+<li><p>Monitor weekly dataset backups</p></li>
+<li><p>Schedule and run data disaster recovery drills</p></li>
+<li><p>Participate in <a class="reference external" href="https://github.com/bids-standard/bids-specification">BIDS</a> to extend its use-cases</p></li>
+</ul>
+</div>
+<div class="section" id="skills">
+<h2><code class="docutils literal notranslate"><span class="pre">🧠</span></code> Skills:<a class="headerlink" href="#skills" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Familiarity with the unix command line (<code class="docutils literal notranslate"><span class="pre">ls</span></code>, <code class="docutils literal notranslate"><span class="pre">find</span></code>, <code class="docutils literal notranslate"><span class="pre">diff</span></code>, <code class="docutils literal notranslate"><span class="pre">du</span></code>, <code class="docutils literal notranslate"><span class="pre">xargs</span></code>, <code class="docutils literal notranslate"><span class="pre">curl</span></code>, <code class="docutils literal notranslate"><span class="pre">sha256sum</span></code>/<code class="docutils literal notranslate"><span class="pre">md5sum</span></code>)</p></li>
+<li><p>Python scripting</p>
+<ul>
+<li><p>e.g. can you open 1013 images and find their average voxel count?</p></li>
+<li><p>can you write validation scripts?</p></li>
+</ul>
+</li>
+<li><p><code class="docutils literal notranslate"><span class="pre">git</span></code></p>
+<ul>
+<li><p>The use of <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">rebase</span></code>, <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">commit</span> <span class="pre">--amend</span></code>, <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">push</span> <span class="pre">--force</span></code> and their implications</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">filter-repo</span></code>, and its implications</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="bonus-skills">
+<h2><code class="docutils literal notranslate"><span class="pre">🙌</span></code> Bonus Skills<a class="headerlink" href="#bonus-skills" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Familiarity with <a class="reference external" href="https://en.wikipedia.org/wiki/DICOM">DICOM</a> and <a class="reference external" href="https://nifti.nimh.nih.gov/nifti-2">NIfTI</a> formats</p></li>
+<li><p>Familiarity with medical imaging</p></li>
+<li><p><a class="reference external" href="https://stedolan.github.io/jq/"><code class="docutils literal notranslate"><span class="pre">jq</span></code></a></p></li>
+<li><p>Experience with experimental ethics clearances</p></li>
+<li><p>Passion for open-source software and knowledge sharing ❤️</p></li>
 </ul>
 </div>
 <div class="section" id="the-team">
@@ -425,7 +499,7 @@
 <div class="section" id="salary">
 <h2><code class="docutils literal notranslate"><span class="pre">💰</span></code> Salary<a class="headerlink" href="#salary" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p>$40/h if you are good, up to $70/h if you are excellent.</p></li>
+<li><p>$30/h if you are good, up to $50/h if you are excellent.</p></li>
 </ul>
 </div>
 <div class="section" id="schedule-and-work-arrangement">
@@ -433,14 +507,6 @@
 <ul class="simple">
 <li><p>This is a long term position, which could be part-time or full time.</p></li>
 <li><p>Work can be done remotely or in-presence (Montreal)</p></li>
-</ul>
-</div>
-<div class="section" id="what-profile-are-we-looking-for">
-<h2><code class="docutils literal notranslate"><span class="pre">🔍</span></code> What profile are we looking for?<a class="headerlink" href="#what-profile-are-we-looking-for" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li><p>Strong coding skills in Python, proficient in git/GitHub</p></li>
-<li><p>Passion for open-source software and knowledge sharing ❤️</p></li>
-<li><p>Skills in data science and deep learning is an asset</p></li>
 </ul>
 </div>
 <div class="section" id="why-take-this-job">
@@ -456,7 +522,7 @@
 <ul class="simple">
 <li><p>Fill up the application form below. You might be contacted for an interview.</p></li>
 </ul>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6whLxv56ZlgU1rqGg1ApL92kO4gOwMDJZA-foSiERwVF9oQ/viewform?embedded=true" width="640" height="1013" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgmvEzh2mNfcLn1SiiVsmuHDyYIHP9EGw97aUauNNfvHSEXQ/viewform?embedded=true" width="640" height="1013" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 </div>
 
@@ -466,17 +532,17 @@
         
             <!-- Previous / next buttons -->
 <div class='prev-next-area'> 
-    <a class='left-prev' id="prev-link" href="msc-or-phd-or-postdoc-positions.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="software-developer.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">MSc | PhD | PostDoc Positions</p>
+            <p class="prev-next-title">Software Developer</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="data-curator.html" title="next page">
+    <a class='right-next' id="next-link" href="internships/README.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Data curator</p>
+        <p class="prev-next-title">Internships</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
