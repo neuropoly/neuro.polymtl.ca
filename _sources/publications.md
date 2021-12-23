@@ -5,8 +5,8 @@ List of publications on [Google Scholar](http://scholar.google.ca/citations?user
 ## Journal Articles
 
 1. Lemay A et al. [Benefits of Linear Conditioning with Metadata for Image Segmentation](https://arxiv.org/pdf/2102.09582.pdf). **MIDL** 2021.
-2. Cohen-Adad J et al.. Generic acquisition protocol for quantitative MRI of the spinal cord.. **Nat Protocols** 2021
-3. Cohen-Adad J et al.. Open-access quantitative MRI data of the spinal cord and reproducibility across participants, sites and manufacturers.. **Sci Data** 2021
+2. Cohen-Adad J et al. [Generic acquisition protocol for quantitative MRI of the spinal cord](https://github.com/spine-generic/protocols/raw/main/CohenAdad21_NatureProtocols.pdf). **Nat Protocols** 2021
+3. Cohen-Adad J et al. [Open-access quantitative MRI data of the spinal cord and reproducibility across participants, sites and manufacturers](https://www.nature.com/articles/s41597-021-00941-8). **Sci Data** 2021
 4. Gros C, Lemay A, Cohen-Adad J. [SoftSeg: Advantages of soft versus binary training for image segmentation](https://doi.org/10.1016/j.media.2021.102038). **Med Image Anal** 2021
 5. Noriega de la Colina A, Badji A, Robitaille-Grou MC, Gagnon C, Boshkovski T, Lamarre-Cliche M, Joubert S, Gauthier C, Bherer L, Cohen-Adad J, Girouard H. [Associations between relative morning blood pressure, cerebral blood flow, and memory in older adults treated and controlled for hypertension](https://pubmed.ncbi.nlm.nih.gov/33775122/). **Hypertension** 2021
 6. Ost K, Jacobs WB, Evaniew N, Cohen-Adad J, Anderson D, Cadotte D. [Spinal Cord Morphology in Degenerative Myelopathy Patients; Assessing Key Morphological Characteristics Using Machine Vision Tools](https://www.mdpi.com/2077-0383/10/4/892). **Journal of Clinical Medicine** 2021
