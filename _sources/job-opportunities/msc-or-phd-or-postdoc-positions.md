@@ -1,6 +1,6 @@
 # MSc \| PhD \| PostDoc Positions
 
-At the NeuroPoly lab at Polytechnique & Université de Montréal \(www.neuro.polymtl.ca\), best student-city in the world! \([https://www.topuniversities.com/city-rankings/2017](https://www.topuniversities.com/city-rankings/2017)\), we develop advanced MRI image analysis techniques using deep learning and distribute them as open-source software. In collaboration with neuroradiologists and world experts in deep learning \(Mila\), we apply these tools in patients with traumatic injury and neurodegenative diseases \(multiple sclerosis, ALS, etc.\).
+NeuroPoly Lab (Polytechnique, University of Montreal) is located in Montreal, best student-city in the world! \([https://www.topuniversities.com/city-rankings/2017](https://www.topuniversities.com/city-rankings/2017)\). We develop advanced MRI image analysis techniques using deep learning and distribute them as open-source software. In collaboration with neuroradiologists and world experts in deep learning (Mila), we apply these tools in patients with traumatic injury and neurodegenative diseases (multiple sclerosis, ALS, etc.).
 
 We are recruiting Master/PhD students and Postdoc fellows to work on various projects:
 
@@ -12,10 +12,6 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 ### Deep Learning for Medical Applications
 
-* **Multiple sclerosis \(MS\) lesion segmentation on MRI**
-  * Description: Segment MS lesions in order to help classify these patients \(phenotype, personalized therapy\). Dataset: MRIs of ~650 patients from 12 international clinical centers, MS lesions labeled by neuroradiologists. Methods: Develop/apply advanced deep learning architectures \(FiLM, HEMIS, etc.\).
-  * Skills: Deep learning \| Image analysis \| Python \| git/GitHub
-  * Related to: [ivadomed](https://ivadomed.org/) \| [Spinal Cord Toolbox](https://spinalcordtoolbox.com/)
 * **Segmentation of axons and myelin from histology**
   * Description: Segment axons and myelin sheath \(two different labels\) from large-scale histology data, in order to create microstructure atlas of the human central nervous system \(example: see BigBrain project: [https://bigbrain.loris.ca](https://bigbrain.loris.ca/)\). Dataset: Electron microscopy and optical imaging, with about 15,000 axons and myelin sheath manually segmented.
   * Skills: Deep learning \| Image analysis \| Python \| git/GitHub
@@ -36,7 +32,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 ![lifelong_learning](../.gitbook/assets/continual_learning_ms_segmentation.png)
 
 * **Description**: The goal of this project is to implement a comprehensive and sustainable analysis framework for the segmentation of multiple sclerosis (MS) lesions in the brain and spinal cord. Deep learning models will be continuously updated with new data being prospectively acquired across several clinics in Canada. We will validate the clinical relevance of these models as a sensitive biomarker of disease severity and prognosis. The project focuses on three aims (the potential candidate student can pick the aim they are most interested in): 
-  * Create a general model for brain and spinal cord MS lesion segmentation, robust to hospitals, MRI  vendor and acquisition parameters; 
+  * Create a general model for brain and spinal cord MS lesion segmentation, robust to hospitals, MRI vendor and acquisition parameters; 
   * Implement a continuous learning framework and assess stability of model performance over time  using a retrospective database; 
   * Demonstrate the clinical relevance of automatic segmentation-based biomarkers.
 * **Skills**: Python programming | git/GitHub | deep learning | data science | (computer vision)
@@ -47,12 +43,17 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 `analysis pipeline` | `biomarker` | `reproducibility` | `data science` | `computer vision` | `medical application` | `multiple sclerosis` | `spinal cord injury`
 
-### Neuroimaging Analysis
+### Analysis of MRI data from multiple sclerosis patients
 
-* **Pipelines for processing large neuroimaging datasets**
-  * Description: Set up processing pipelines for analysis large databases of patients. Datasets: UK Biobank, private databases from collaborating hospitals.
-  * Skills: Image analysis \| Neuroimaging tools \| Programming \| git/GitHub
-  * Related to: [Spinal Cord Toolbox](https://spinalcordtoolbox.com/)
+![ms_lesion_pipeline](../_media/project_ms_lesion_quantification.png)
+
+* **Description**: Better understanding of multiple sclerosis (MS) and its diagnosis is key for the development of personalized therapy. MRI is an important diagnosis tool, but the use of advanced biomarkers is complex and requires further methodological development for it to be used by clinicians. The goal of this project is to develop and apply an pipeline for the analysis of MRI data from MS patients. The dataset consists of >1,000 patients coming from >12 international hospitals, with MS lesions labeled by neuroradiologists. Potential candidates can work on either of these sub-projects:
+  * Set up an analysis pipeline to automatically process MRI scans, perform quality control of the analysed datasets (eg: identify failed automatic processes and find solutions);
+  * Interpret the results with the help of neurologists, perform statistics to find best biomarkers from MRI data (eg: spinal cord cross-sectional area, MS lesion load).
+* **Skills**: `image analysis` | `python` | `git/GitHub` | `analysis pipeline` | `computer vision` | `statistics`
+* **Related projects**: [ivadomed](https://ivadomed.org), [SCT](https://spinalcordtoolbox.com/)
+* **Relevant publications**: [Kerbrat et al. Brain 2020](https://pubmed.ncbi.nlm.nih.gov/32572488/), [Eden et al. Brain 2019](https://pubmed.ncbi.nlm.nih.gov/30715195/)
+* **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
 
 ### Diffusion Tensor Imaging (DTI) for Radiotherapy Treatment Planning of Glioma
   * **Description**: We are recruiting an MSc student to work on DTI-based tractography for predicting paths of tumor spread during radiotherapy treatment planning of gliomas. Research will be conducted at the NeuroPoly (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and in collaboration with the Radiation Oncology department of the McGill University Health Center (MUHC).
