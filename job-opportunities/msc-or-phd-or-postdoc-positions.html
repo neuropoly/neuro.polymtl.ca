@@ -333,13 +333,33 @@
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#deep-learning-for-medical-applications">
-     Deep Learning for Medical Applications
+    <a class="reference internal nav-link" href="#generalization-of-deep-learning-models">
+     Generalization of deep learning models
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#uncertainty-estimation-and-applications">
+     Uncertainty estimation and applications
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#lifelong-learning-of-multiple-sclerosis-lesion-segmentation">
      Lifelong learning of multiple sclerosis lesion segmentation
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#software-development-for-ivadomed">
+     Software Development for
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       ivadomed
+      </span>
+     </code>
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#other-projects">
+     Other projects
     </a>
    </li>
   </ul>
@@ -352,6 +372,11 @@
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#analysis-of-mri-data-from-multiple-sclerosis-patients">
      Analysis of MRI data from multiple sclerosis patients
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#software-development-for-sct">
+     Software Development for SCT
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
@@ -417,35 +442,29 @@
 <h2>Machine learning projects ⚙️<a class="headerlink" href="#machine-learning-projects" title="Permalink to this headline">¶</a></h2>
 <p>These projects are done in partnership with <a class="reference external" href="https://mila.quebec/">Mila</a>, with possible co-supervision from Mila profs.</p>
 <p><code class="docutils literal notranslate"><span class="pre">data</span> <span class="pre">science</span></code> | <code class="docutils literal notranslate"><span class="pre">deep</span> <span class="pre">learning</span></code> | <code class="docutils literal notranslate"><span class="pre">computer</span> <span class="pre">vision</span></code> | <code class="docutils literal notranslate"><span class="pre">segmentation</span></code> | <code class="docutils literal notranslate"><span class="pre">medical</span> <span class="pre">applications</span></code></p>
-<div class="section" id="deep-learning-for-medical-applications">
-<h3>Deep Learning for Medical Applications<a class="headerlink" href="#deep-learning-for-medical-applications" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="generalization-of-deep-learning-models">
+<h3>Generalization of deep learning models<a class="headerlink" href="#generalization-of-deep-learning-models" title="Permalink to this headline">¶</a></h3>
+<p><img alt="lifelong_learning" src="_media/project_geneneralization.png" /></p>
 <ul class="simple">
-<li><p><strong>Segmentation of axons and myelin from histology</strong></p>
+<li><p><strong>Description:</strong> Most deep learning segmentation methods work for a specific data domain (eg: hospital, acquisition parameters, patient demographics). This strongly limits the dissemination of advanced solutions across various clinical and research centers. Some solutions, such as transfer learning, require the user to train a model, which is not realistic in a “real world” clinical scenario, where clinicians neither have the time nor the expertise to train models that work for their datasets. The goal of this project is to find solutions to make deep learning segmentation models work for a <em>large</em> variety of datasets. Few avenues include:</p>
 <ul>
-<li><p>Description: Segment axons and myelin sheath (two different labels) from large-scale histology data, in order to create microstructure atlas of the human central nervous system (example: see BigBrain project: <a class="reference external" href="https://bigbrain.loris.ca/">https://bigbrain.loris.ca</a>). Dataset: Electron microscopy and optical imaging, with about 15,000 axons and myelin sheath manually segmented.</p></li>
-<li><p>Skills: Deep learning | Image analysis | Python | git/GitHub</p></li>
-<li><p>Related to: <a class="reference external" href="https://axondeepseg.readthedocs.io/">AxonDeepSeg</a> | <a class="reference external" href="https://ivadomed.org/">ivadomed</a></p></li>
+<li><p>Incorporation of prior constraints from MRI physics during training;</p></li>
+<li><p>Synthesizing images during data augmentation;</p></li>
+<li><p>Careful selection of heterogeneous dataset;</p></li>
 </ul>
 </li>
-<li><p><strong>Generalization of deep learning models</strong></p>
-<ul>
-<li><p>Incorporation of prior constraints from MRI physics during training</p></li>
-<li><p>Synthesizing images during data augmentation</p></li>
+<li><p><strong>Skills</strong>: <code class="docutils literal notranslate"><span class="pre">deep</span> <span class="pre">learning</span></code> | <code class="docutils literal notranslate"><span class="pre">computer</span> <span class="pre">vision</span></code> | <code class="docutils literal notranslate"><span class="pre">python</span></code> | <code class="docutils literal notranslate"><span class="pre">git/GitHub</span></code></p></li>
+<li><p><strong>Related projects</strong>: <a class="reference external" href="https://ivadomed.org">ivadomed</a></p></li>
+<li><p><strong>Relevant publications</strong>: <a class="reference external" href="https://arxiv.org/pdf/2102.09582.pdf">Lemay et al. MIDL 2021</a></p></li>
+<li><p><strong>Contact</strong>: <a class="reference external" href="mailto:jcohen&#37;&#52;&#48;polymtl&#46;ca">Julien Cohen-Adad</a></p></li>
 </ul>
-</li>
-<li><p><strong>Uncertainty estimation and applications</strong></p>
-<ul>
+</div>
+<div class="section" id="uncertainty-estimation-and-applications">
+<h3>Uncertainty estimation and applications<a class="headerlink" href="#uncertainty-estimation-and-applications" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
 <li><p>Incorporating uncertainty measures to deal with inter-rater variability</p></li>
 <li><p>Using uncertainty in active learning framework for histology and medical data segmentation</p></li>
 <li><p>Use <a class="reference external" href="https://arxiv.org/abs/2011.09041">DeepSeg method</a> to encode uncertainty.</p></li>
-</ul>
-</li>
-<li><p><strong>Implementing open-source AI solutions</strong></p>
-<ul>
-<li><p>Bringing AI methods into clinical radiology routine via user-friendly software solutions;</p></li>
-<li><p>Contribution to medical AI framework <a class="reference external" href="https://ivadomed.org/">ivadomed</a></p></li>
-</ul>
-</li>
 </ul>
 </div>
 <div class="section" id="lifelong-learning-of-multiple-sclerosis-lesion-segmentation">
@@ -462,6 +481,27 @@
 <li><p><strong>Skills</strong>: Python programming | git/GitHub | deep learning | data science | (computer vision)</p></li>
 <li><p><strong>Related projects</strong>: <a class="reference external" href="https://ivadomed.org">ivadomed</a>, <a class="reference external" href="https://spinalcordtoolbox.com/">SCT</a></p></li>
 <li><p><strong>Contact</strong>: <a class="reference external" href="mailto:jcohen&#37;&#52;&#48;polymtl&#46;ca">Julien Cohen-Adad</a></p></li>
+</ul>
+</div>
+<div class="section" id="software-development-for-ivadomed">
+<h3>Software Development for <code class="docutils literal notranslate"><span class="pre">ivadomed</span></code><a class="headerlink" href="#software-development-for-ivadomed" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="other-projects">
+<h3>Other projects<a class="headerlink" href="#other-projects" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><strong>Segmentation of axons and myelin from histology</strong></p>
+<ul>
+<li><p>Description: Segment axons and myelin sheath (two different labels) from large-scale histology data, in order to create microstructure atlas of the human central nervous system (example: see BigBrain project: <a class="reference external" href="https://bigbrain.loris.ca/">https://bigbrain.loris.ca</a>). Dataset: Electron microscopy and optical imaging, with about 15,000 axons and myelin sheath manually segmented.</p></li>
+<li><p>Skills: Deep learning | Image analysis | Python | git/GitHub</p></li>
+<li><p>Related to: <a class="reference external" href="https://axondeepseg.readthedocs.io/">AxonDeepSeg</a> | <a class="reference external" href="https://ivadomed.org/">ivadomed</a></p></li>
+</ul>
+</li>
+<li><p><strong>Implementing open-source AI solutions</strong></p>
+<ul>
+<li><p>Bringing AI methods into clinical radiology routine via user-friendly software solutions;</p></li>
+<li><p>Contribution to medical AI framework <a class="reference external" href="https://ivadomed.org/">ivadomed</a></p></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
@@ -483,6 +523,9 @@
 <li><p><strong>Relevant publications</strong>: <a class="reference external" href="https://pubmed.ncbi.nlm.nih.gov/32572488/">Kerbrat et al. Brain 2020</a>, <a class="reference external" href="https://pubmed.ncbi.nlm.nih.gov/30715195/">Eden et al. Brain 2019</a></p></li>
 <li><p><strong>Contact</strong>: <a class="reference external" href="mailto:jcohen&#37;&#52;&#48;polymtl&#46;ca">Julien Cohen-Adad</a></p></li>
 </ul>
+</div>
+<div class="section" id="software-development-for-sct">
+<h3>Software Development for SCT<a class="headerlink" href="#software-development-for-sct" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="diffusion-tensor-imaging-dti-for-radiotherapy-treatment-planning-of-glioma">
 <h3>Diffusion Tensor Imaging (DTI) for Radiotherapy Treatment Planning of Glioma<a class="headerlink" href="#diffusion-tensor-imaging-dti-for-radiotherapy-treatment-planning-of-glioma" title="Permalink to this headline">¶</a></h3>
