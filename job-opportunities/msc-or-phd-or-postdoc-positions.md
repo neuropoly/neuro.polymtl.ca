@@ -88,8 +88,15 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 * **Relevant publications**: [Kerbrat et al. Brain 2020](https://pubmed.ncbi.nlm.nih.gov/32572488/), [Eden et al. Brain 2019](https://pubmed.ncbi.nlm.nih.gov/30715195/)
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
 
-### Software Development for `SCT`
+### Open-source Software Development for MRI Data
 
+![](../_media/project_sct.png)
+
+* **Description**: The goal of this project is to contribute to the development of the Spinal Cord Toolbox, an open-source software for the analysis of medical MRI data of the spinal cord. This software is used by radiologists and researchers for the diagnosis and understanding of spinal cord pathologies, including: spinal cord injury, multiple sclerosis and amyotrophic lateral sclerosis. The candidate will develop the following skills: computer vision, image registration, neuroimaging techniques, basics of MRI, scientific libraries (scipy, numpy, nibabel). The candidate will have the opportunity to interact with clinicians and researchers worldwide and help organizing [workshops](https://spinalcordmri.org/workshops.html).
+* **Skills**: `software engineering` | `python` | `git/GitHub` | `computer vision` | `data science`
+* **Related projects**: [SCT](https://spinalcordtoolbox.com/)
+* **Relevant publications**: [De Leener et al. NeuroImage 2017](https://doi.org/10.1016/j.neuroimage.2016.10.009)
+* **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
 
 
 ### Diffusion Tensor Imaging (DTI) for Radiotherapy Treatment Planning of Glioma
