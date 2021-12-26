@@ -48,17 +48,28 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 * **Related projects**: [ivadomed](https://ivadomed.org), [SCT](https://spinalcordtoolbox.com/)
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
 
-### Software Development for `ivadomed`
 
-### Other projects
+### Segmentation of axons and myelin from histology
 
-* **Segmentation of axons and myelin from histology**
-  * Description: Segment axons and myelin sheath \(two different labels\) from large-scale histology data, in order to create microstructure atlas of the human central nervous system \(example: see BigBrain project: [https://bigbrain.loris.ca](https://bigbrain.loris.ca/)\). Dataset: Electron microscopy and optical imaging, with about 15,000 axons and myelin sheath manually segmented.
-  * Skills: Deep learning \| Image analysis \| Python \| git/GitHub
-  * Related to: [AxonDeepSeg](https://axondeepseg.readthedocs.io/) \| [ivadomed](https://ivadomed.org/)
-* **Implementing open-source AI solutions**
-  * Bringing AI methods into clinical radiology routine via user-friendly software solutions;
-  * Contribution to medical AI framework [ivadomed](https://ivadomed.org/)
+![](../_media/project_axondeepseg.png)
+
+* **Description**: Segment axons and myelin sheath (multi-class) from large-scale histology data, in order to create microstructure atlas of the human central nervous system (example: see BigBrain project: [https://bigbrain.loris.ca](https://bigbrain.loris.ca/)). Collaborate with neuroscientists around the world. Dataset: Electron microscopy and optical imaging, with about 15,000 axons and myelin sheath manually segmented.
+* **Skills**: `deep learning` | `image analysis` | `python` | `git/GitHub`
+* **Related to**: [AxonDeepSeg](https://axondeepseg.readthedocs.io/) | [ivadomed](https://ivadomed.org/)
+* **Relevant publications**: [Zaimi et al. Scientific Report 2018](https://www.nature.com/articles/s41598-018-22181-4)
+* **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
+
+
+### Open-source AI solutions
+
+![](../_media/project_ivadomed.png)
+
+* **Description**: The goal of this project is to bring AI methods into clinical radiology routine via user-friendly software solutions. The candidate will contribute to medical AI frameworks, including [ivadomed](https://ivadomed.org/).
+* **Skills**: `software engineering` | `python` | `git/GitHub` | `deep learning` | `data science`
+* **Related projects**: [ivadomed](https://ivadomed.org), [SCT](https://spinalcordtoolbox.com/), [AxonDeepSeg](https://axondeepseg.readthedocs.io/)
+* **Relevant publications**: [Gros et al. The Journal of Open Source Software 2021](https://joss.theoj.org/papers/10.21105/joss.02868)
+* **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
+
 
 
 ## Neuroimaging projects 🧠
@@ -77,7 +88,8 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 * **Relevant publications**: [Kerbrat et al. Brain 2020](https://pubmed.ncbi.nlm.nih.gov/32572488/), [Eden et al. Brain 2019](https://pubmed.ncbi.nlm.nih.gov/30715195/)
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
 
-### Software Development for SCT
+### Software Development for `SCT`
+
 
 
 ### Diffusion Tensor Imaging (DTI) for Radiotherapy Treatment Planning of Glioma
