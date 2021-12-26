@@ -10,22 +10,25 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 `data science` | `deep learning` | `computer vision` | `segmentation` | `medical applications`
 
-### Deep Learning for Medical Applications
+### Generalization of deep learning models
 
-* **Segmentation of axons and myelin from histology**
-  * Description: Segment axons and myelin sheath \(two different labels\) from large-scale histology data, in order to create microstructure atlas of the human central nervous system \(example: see BigBrain project: [https://bigbrain.loris.ca](https://bigbrain.loris.ca/)\). Dataset: Electron microscopy and optical imaging, with about 15,000 axons and myelin sheath manually segmented.
-  * Skills: Deep learning \| Image analysis \| Python \| git/GitHub
-  * Related to: [AxonDeepSeg](https://axondeepseg.readthedocs.io/) \| [ivadomed](https://ivadomed.org/)
-* **Generalization of deep learning models**
-  * Incorporation of prior constraints from MRI physics during training
-  * Synthesizing images during data augmentation
-* **Uncertainty estimation and applications**
+![lifelong_learning](../_media/project_geneneralization.png)
+
+* **Description:** Most deep learning segmentation methods work for a specific data domain (eg: hospital, acquisition parameters, patient demographics). This strongly limits the dissemination of advanced solutions across various clinical and research centers. Some solutions, such as transfer learning, require the user to train a model, which is not realistic in a "real world" clinical scenario, where clinicians neither have the time nor the expertise to train models that work for their datasets. The goal of this project is to find solutions to make deep learning segmentation models work for a *large* variety of datasets. Few avenues include:
+  * Incorporation of prior constraints from MRI physics during training;
+  * Synthesizing images during data augmentation;
+  * Careful selection of heterogeneous dataset;
+* **Skills**: `deep learning` | `computer vision` | `python` | `git/GitHub`
+* **Related projects**: [ivadomed](https://ivadomed.org)
+* **Relevant publications**: [Lemay et al. MIDL 2021](https://arxiv.org/pdf/2102.09582.pdf)
+* **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
+
+
+### Uncertainty estimation and applications
+
   * Incorporating uncertainty measures to deal with inter-rater variability
   * Using uncertainty in active learning framework for histology and medical data segmentation
   * Use [DeepSeg method](https://arxiv.org/abs/2011.09041) to encode uncertainty.
-* **Implementing open-source AI solutions**
-  * Bringing AI methods into clinical radiology routine via user-friendly software solutions;
-  * Contribution to medical AI framework [ivadomed](https://ivadomed.org/)
 
 ### Lifelong learning of multiple sclerosis lesion segmentation
 
@@ -38,6 +41,19 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 * **Skills**: Python programming | git/GitHub | deep learning | data science | (computer vision)
 * **Related projects**: [ivadomed](https://ivadomed.org), [SCT](https://spinalcordtoolbox.com/)
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
+
+### Software Development for `ivadomed`
+
+### Other projects
+
+* **Segmentation of axons and myelin from histology**
+  * Description: Segment axons and myelin sheath \(two different labels\) from large-scale histology data, in order to create microstructure atlas of the human central nervous system \(example: see BigBrain project: [https://bigbrain.loris.ca](https://bigbrain.loris.ca/)\). Dataset: Electron microscopy and optical imaging, with about 15,000 axons and myelin sheath manually segmented.
+  * Skills: Deep learning \| Image analysis \| Python \| git/GitHub
+  * Related to: [AxonDeepSeg](https://axondeepseg.readthedocs.io/) \| [ivadomed](https://ivadomed.org/)
+* **Implementing open-source AI solutions**
+  * Bringing AI methods into clinical radiology routine via user-friendly software solutions;
+  * Contribution to medical AI framework [ivadomed](https://ivadomed.org/)
+
 
 ## Neuroimaging projects 🧠
 
@@ -54,6 +70,9 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 * **Related projects**: [ivadomed](https://ivadomed.org), [SCT](https://spinalcordtoolbox.com/)
 * **Relevant publications**: [Kerbrat et al. Brain 2020](https://pubmed.ncbi.nlm.nih.gov/32572488/), [Eden et al. Brain 2019](https://pubmed.ncbi.nlm.nih.gov/30715195/)
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
+
+### Software Development for SCT
+
 
 ### Diffusion Tensor Imaging (DTI) for Radiotherapy Treatment Planning of Glioma
   * **Description**: We are recruiting an MSc student to work on DTI-based tractography for predicting paths of tumor spread during radiotherapy treatment planning of gliomas. Research will be conducted at the NeuroPoly (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and in collaboration with the Radiation Oncology department of the McGill University Health Center (MUHC).
