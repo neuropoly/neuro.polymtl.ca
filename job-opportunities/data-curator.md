@@ -1,5 +1,7 @@
 # Data curator
 
+![](../_media/job_data_curator.png)
+
 <!-- TODO: include the blurb below in separate file to avoid duplication -->
 At the Neuroimaging Research Laboratory (NeuroPoly) lab, based at Ecole Polytechnique, University of Montreal, we work to better understand the brain and the spinal cord using state-of-the-art imaging techniques, with many potential medical applications. We are developing advanced analysis methods to improve the quality of MRI data, as well as to extract meaningful clinical information. 
 
