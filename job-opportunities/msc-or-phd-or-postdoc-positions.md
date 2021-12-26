@@ -12,7 +12,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 ### Generalization of deep learning models
 
-![lifelong_learning](../_media/project_geneneralization.png)
+![](../_media/project_geneneralization.png)
 
 * **Description:** Most deep learning segmentation methods work for a specific data domain (eg: hospital, acquisition parameters, patient demographics). This strongly limits the dissemination of advanced solutions across various clinical and research centers. Some solutions, such as transfer learning, require the user to train a model, which is not realistic in a "real world" clinical scenario, where clinicians neither have the time nor the expertise to train models that work for their datasets. The goal of this project is to find solutions to make deep learning segmentation models work for a *large* variety of datasets. Few avenues include:
   * Incorporation of prior constraints from MRI physics during training;
@@ -26,13 +26,19 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 ### Uncertainty estimation and applications
 
-  * Incorporating uncertainty measures to deal with inter-rater variability
-  * Using uncertainty in active learning framework for histology and medical data segmentation
-  * Use [DeepSeg method](https://arxiv.org/abs/2011.09041) to encode uncertainty.
+![](../_media/project_uncertainty.png)
+
+* **Description:** A well-known bottleneck of deep learning segmentation methods is the high intra- and inter-rater variability, which limits the performance of supervised learning methods. The goal of this project is to incorporate uncertainty measures related to the inter-rater variability in the output predictions. Spin-off projects include:
+  * Using uncertainty in active learning framework for histology and medical data segmentation;
+  * Use [SoftSeg](https://doi.org/10.1016/j.media.2021.102038) training framework to encode uncertainty.
+* **Skills**: `deep learning` | `computer vision` | `python` | `git/GitHub`
+* **Related projects**: [ivadomed](https://ivadomed.org)
+* **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
+
 
 ### Lifelong learning of multiple sclerosis lesion segmentation
 
-![lifelong_learning](../.gitbook/assets/continual_learning_ms_segmentation.png)
+![](../.gitbook/assets/continual_learning_ms_segmentation.png)
 
 * **Description**: The goal of this project is to implement a comprehensive and sustainable analysis framework for the segmentation of multiple sclerosis (MS) lesions in the brain and spinal cord. Deep learning models will be continuously updated with new data being prospectively acquired across several clinics in Canada. We will validate the clinical relevance of these models as a sensitive biomarker of disease severity and prognosis. The project focuses on three aims (the potential candidate student can pick the aim they are most interested in): 
   * Create a general model for brain and spinal cord MS lesion segmentation, robust to hospitals, MRI vendor and acquisition parameters; 
@@ -61,7 +67,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 ### Analysis of MRI data from multiple sclerosis patients
 
-![ms_lesion_pipeline](../_media/project_ms_lesion_quantification.png)
+![](../_media/project_ms_lesion_quantification.png)
 
 * **Description**: Better understanding of multiple sclerosis (MS) and its diagnosis is key for the development of personalized therapy. MRI is an important diagnosis tool, but the use of advanced biomarkers is complex and requires further methodological development for it to be used by clinicians. The goal of this project is to develop and apply an pipeline for the analysis of MRI data from MS patients. The dataset consists of >1,000 patients coming from >12 international hospitals, with MS lesions labeled by neuroradiologists. Potential candidates can work on either of these sub-projects:
   * Set up an analysis pipeline to automatically process MRI scans, perform quality control of the analysed datasets (eg: identify failed automatic processes and find solutions);
