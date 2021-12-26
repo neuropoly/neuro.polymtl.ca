@@ -1,6 +1,6 @@
 # MSc \| PhD \| PostDoc Positions
 
-At the NeuroPoly lab at Polytechnique & Université de Montréal \(www.neuro.polymtl.ca\), best student-city in the world! \([https://www.topuniversities.com/city-rankings/2017](https://www.topuniversities.com/city-rankings/2017)\), we develop advanced MRI image analysis techniques using deep learning and distribute them as open-source software. In collaboration with neuroradiologists and world experts in deep learning \(Mila\), we apply these tools in patients with traumatic injury and neurodegenative diseases \(multiple sclerosis, ALS, etc.\).
+NeuroPoly Lab (Polytechnique, University of Montreal) is located in Montreal, best student-city in the world! \([https://www.topuniversities.com/city-rankings/2017](https://www.topuniversities.com/city-rankings/2017)\). We develop advanced MRI image analysis techniques using deep learning and distribute them as open-source software. In collaboration with neuroradiologists and world experts in deep learning (Mila), we apply these tools in patients with traumatic injury and neurodegenative diseases (multiple sclerosis, ALS, etc.).
 
 We are recruiting Master/PhD students and Postdoc fellows to work on various projects:
 
