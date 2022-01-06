@@ -106,11 +106,13 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Armand Collin
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 * Ambroise Odonnat
+* Kiri Stern
 
 ## Consultants
 
 * Yang Ding
 * Konstantinos Nasiotis
+* Noel Rignon
 
 ## Alumni
 
