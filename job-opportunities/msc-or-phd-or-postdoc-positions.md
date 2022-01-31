@@ -155,3 +155,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 ## How to apply? ✍️
 
 * Send requests to the contact person listed under each project. Please include CV, GitHub link, blogs, grades, references. No need to send reminders, we always receive and see your emails.
+
+## Employment equity and diversity
+
+Employment equity is a commitment to equal treatment and fairness in the workplace. It strives to ensure that no one is denied an opportunity for employment or advancement for reasons unrelated to their abilities. We welcome applications from Aboriginal persons, persons with disabilities, ethnic minorities, persons of minority sexual orientation or gender identity, visible minorities, women and others who may contribute to diversification. 
