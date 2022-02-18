@@ -108,6 +108,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 * Nishka Katoch 
 * Ambroise Odonnat
+* Aram Sevag
 * Kiri Stern
 
 ## Consultants
