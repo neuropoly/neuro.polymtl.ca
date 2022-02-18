@@ -100,6 +100,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Interns
 
+* Aamer Ar
 * Paul Bautin
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/paul-bautin-757690175/)
 * Evan Beal
