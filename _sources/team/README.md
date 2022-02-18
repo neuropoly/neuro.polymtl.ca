@@ -110,6 +110,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Nishka Katoch 
 * Ambroise Odonnat
 * Aram Sevag
+* Shu Ai Song
 * Kiri Stern
 
 ## Consultants
