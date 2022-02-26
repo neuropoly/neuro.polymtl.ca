@@ -110,9 +110,11 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 `mri` | `physics` | `rf coils` | `shimming` | `biophysical modeling`
 
-### Realtime shimming with MRI
+### Realtime compensation of magnetic field variation in MRI (realtime shimming)
+
+![](https://raw.githubusercontent.com/shimming-toolbox/doc-figures/master/overview/overview.gif)
  
-* **Description**: Building on our recent progress on integrated shim coils and real time shimming technology, we are recruiting Master/PhD/Postdoc fellows to work on real time shimming projects applied to the spinal cord at 7T. Research will be conducted at the NeuroPoly lab \(Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and at the Montreal Neurological Institute \(MNI, McGill University\).
+* **Description**: To get a nice picture inside the body, an MRI machine assumes that the main magnetic field (B<sub>0</sub>) is homogeneous and stable in time. Unfortunately (or fortunately for the subject 😅), subjects breath while in the scanner. When subjects breathe, the B<sub>0</sub> field varies in time and space. Our group has developed methods to mitigate these variations, using external coils. Building on our recent progress on integrated shim coils and real time shimming technology, we are recruiting Master/PhD/Postdoc fellows to work on real time shimming projects applied to the spinal cord at 7T. Research will be conducted at the NeuroPoly lab (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)), and at the Montreal Neurological Institute (MNI, McGill University).
 * **Skills**: Ultra-high field MRI | MRI acquisition | Image analysis
 * **Related projects**: [Shimming Toolbox](https://shimming-toolbox.org/)
 * **More** details [here](https://www.dropbox.com/s/exfteqe66sado2y/20190511_PositionRealTimeShimming.pdf?dl=0)
@@ -120,7 +122,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 ### Vendor-agnostic realtime shimming
 
-* **Description**: Shimming is a procedure that aims at homogeneizing the static (B0) magnetic field in an MRI scanner. When subjects breathe, the B0 fields varies in time and space. Our group has developed methods to mitigate these variations, using external coils. However, it would be nice to be able to do it using the internal gradient and shim coils from the MRI system itself. One difficulty is that a lot of code and access to the hardware on these proprietary systems are restricted. A solution would be to use an RTHawk system, which offers full modularity when driving the MRI system.
+* **Description**: In relation to the realtime shimming described above, it would be nice to be able to perform realtime shimming while using the internal gradient and shim coils from the MRI system itself. One difficulty is that a lot of code and access to the hardware on these proprietary systems are restricted. A solution would be to use an RTHawk system, which offers full modularity when driving the MRI system.
 * **Skills**: Physics | Familiar with MRI | Computer programming | System integration | Experimentation | Image analysis
 * **Related projects**: [Shimming Toolbox](https://shimming-toolbox.org/), [RTHawk environment](https://zenodo.org/record/3675442#.YakntPHMLkE)
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)

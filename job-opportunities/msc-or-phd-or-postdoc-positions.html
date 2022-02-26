@@ -392,8 +392,8 @@
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#realtime-shimming-with-mri">
-     Realtime shimming with MRI
+    <a class="reference internal nav-link" href="#realtime-compensation-of-magnetic-field-variation-in-mri-realtime-shimming">
+     Realtime compensation of magnetic field variation in MRI (realtime shimming)
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
@@ -508,8 +508,8 @@
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#realtime-shimming-with-mri">
-     Realtime shimming with MRI
+    <a class="reference internal nav-link" href="#realtime-compensation-of-magnetic-field-variation-in-mri-realtime-shimming">
+     Realtime compensation of magnetic field variation in MRI (realtime shimming)
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
@@ -674,10 +674,11 @@
 <div class="section" id="mri-physics-projects">
 <h2>MRI Physics projects 🧲<a class="headerlink" href="#mri-physics-projects" title="Permalink to this headline">¶</a></h2>
 <p><code class="docutils literal notranslate"><span class="pre">mri</span></code> | <code class="docutils literal notranslate"><span class="pre">physics</span></code> | <code class="docutils literal notranslate"><span class="pre">rf</span> <span class="pre">coils</span></code> | <code class="docutils literal notranslate"><span class="pre">shimming</span></code> | <code class="docutils literal notranslate"><span class="pre">biophysical</span> <span class="pre">modeling</span></code></p>
-<div class="section" id="realtime-shimming-with-mri">
-<h3>Realtime shimming with MRI<a class="headerlink" href="#realtime-shimming-with-mri" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="realtime-compensation-of-magnetic-field-variation-in-mri-realtime-shimming">
+<h3>Realtime compensation of magnetic field variation in MRI (realtime shimming)<a class="headerlink" href="#realtime-compensation-of-magnetic-field-variation-in-mri-realtime-shimming" title="Permalink to this headline">¶</a></h3>
+<p><img alt="" src="https://raw.githubusercontent.com/shimming-toolbox/doc-figures/master/overview/overview.gif" /></p>
 <ul class="simple">
-<li><p><strong>Description</strong>: Building on our recent progress on integrated shim coils and real time shimming technology, we are recruiting Master/PhD/Postdoc fellows to work on real time shimming projects applied to the spinal cord at 7T. Research will be conducted at the NeuroPoly lab (Polytechnique, University of Montreal, <a class="reference external" href="http://www.neuro.polymtl.ca/">www.neuro.polymtl.ca</a>), and at the Montreal Neurological Institute (MNI, McGill University).</p></li>
+<li><p><strong>Description</strong>: To get a nice picture inside the body, an MRI machine assumes that the main magnetic field (B<sub>0</sub>) is homogeneous and stable in time. Unfortunately (or fortunately for the subject 😅), subjects breath while in the scanner. When subjects breathe, the B<sub>0</sub> field varies in time and space. Our group has developed methods to mitigate these variations, using external coils. Building on our recent progress on integrated shim coils and real time shimming technology, we are recruiting Master/PhD/Postdoc fellows to work on real time shimming projects applied to the spinal cord at 7T. Research will be conducted at the NeuroPoly lab (Polytechnique, University of Montreal, <a class="reference external" href="http://www.neuro.polymtl.ca/">www.neuro.polymtl.ca</a>), and at the Montreal Neurological Institute (MNI, McGill University).</p></li>
 <li><p><strong>Skills</strong>: Ultra-high field MRI | MRI acquisition | Image analysis</p></li>
 <li><p><strong>Related projects</strong>: <a class="reference external" href="https://shimming-toolbox.org/">Shimming Toolbox</a></p></li>
 <li><p><strong>More</strong> details <a class="reference external" href="https://www.dropbox.com/s/exfteqe66sado2y/20190511_PositionRealTimeShimming.pdf?dl=0">here</a></p></li>
@@ -687,7 +688,7 @@
 <div class="section" id="vendor-agnostic-realtime-shimming">
 <h3>Vendor-agnostic realtime shimming<a class="headerlink" href="#vendor-agnostic-realtime-shimming" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><p><strong>Description</strong>: Shimming is a procedure that aims at homogeneizing the static (B0) magnetic field in an MRI scanner. When subjects breathe, the B0 fields varies in time and space. Our group has developed methods to mitigate these variations, using external coils. However, it would be nice to be able to do it using the internal gradient and shim coils from the MRI system itself. One difficulty is that a lot of code and access to the hardware on these proprietary systems are restricted. A solution would be to use an RTHawk system, which offers full modularity when driving the MRI system.</p></li>
+<li><p><strong>Description</strong>: In relation to the realtime shimming described above, it would be nice to be able to perform realtime shimming while using the internal gradient and shim coils from the MRI system itself. One difficulty is that a lot of code and access to the hardware on these proprietary systems are restricted. A solution would be to use an RTHawk system, which offers full modularity when driving the MRI system.</p></li>
 <li><p><strong>Skills</strong>: Physics | Familiar with MRI | Computer programming | System integration | Experimentation | Image analysis</p></li>
 <li><p><strong>Related projects</strong>: <a class="reference external" href="https://shimming-toolbox.org/">Shimming Toolbox</a>, <a class="reference external" href="https://zenodo.org/record/3675442#.YakntPHMLkE">RTHawk environment</a></p></li>
 <li><p><strong>Contact</strong>: <a class="reference external" href="mailto:jcohen&#37;&#52;&#48;polymtl&#46;ca">Julien Cohen-Adad</a></p></li>
