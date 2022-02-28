@@ -56,7 +56,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Agah Karakuzu](phd-students/agah-karakuzu.md)
 * [Naga Karthik](https://naga-karthik.github.io)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/naga-karthik)
-* [Ryan Topfer](phd-students/ryan-topfer.md)
 * Juan-Jose Velazquez-Reyes
 * Erjun Zhang
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/zhangerjun)
@@ -126,6 +125,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* [Ryan Topfer](phd-students/ryan-topfer.md)
 * Atef Badji
 * Srishti Yadav
 * [Gabriel Mangeat](alumni/gabriel-mangeat.md)
