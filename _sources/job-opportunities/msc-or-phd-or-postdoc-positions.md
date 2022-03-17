@@ -105,6 +105,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
   * **Contact**: [Eva Alonso-Ortiz](mailto:eva.alonso-ortiz@polymtl.ca)
 
 
+(mri_physics_projects)=
 
 ## MRI Physics projects 🧲
 
