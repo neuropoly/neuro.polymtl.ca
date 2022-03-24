@@ -55,7 +55,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/charleygros)
 * [Agah Karakuzu](phd-students/agah-karakuzu.md)
 * [Naga Karthik](https://naga-karthik.github.io)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:emvnagakarthik@gmail.com)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/naga-karthik-enamundram-7b1559174/)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/naga-karthik)
+  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/naga_karthik7)
 * Juan-Jose Velazquez-Reyes
 * Erjun Zhang
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/zhangerjun)
