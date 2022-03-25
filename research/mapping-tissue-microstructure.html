@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Mapping Tissue Microstructure &#8212; NeuroPoly Lab</title>
     
-  <link href="../_static/css/theme.css" rel="stylesheet">
-  <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,26 +20,23 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-book-theme.css?digest=84ace793992934648b4de8eed757e5a2" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=4fea3ae4a0a4ba949df0a89bbae557cc2ce861ae" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../_static/_static/theme.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/theme.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     <link rel="stylesheet" type="text/css" href="../_static/design-style.59c74d8c95b765a7fd995ac71d459ebe.min.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/theme.css" />
     
-  <link rel="preload" as="script" href="../_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
     <script src="../_static/underscore.js"></script>
     <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script src="../_static/design-tabs.js"></script>
-    <script src="../_static/sphinx-book-theme.9d8b4a8b9bb19db25eeaddc40d639ba2.js"></script>
     <link rel="shortcut icon" href="../_static/logo.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -50,7 +49,21 @@
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -59,14 +72,10 @@
     <div class="container-xl">
       <div class="row">
           
-<!-- Checkboxes to toggle the left sidebar -->
-<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
-<label class="overlay" for="__navigation">
-    <div class="visually-hidden">Toggle navigation sidebar</div>
-</label>
-<div class="col-12 col-md-3 bd-sidebar site-navigation " id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../index.html">
       
         <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
@@ -279,64 +288,88 @@
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
-</div>
-
-</div>
-
-
-          
-
-
-          
-<!-- This is an invisible pixel that we watch to see if we've scrolled. -->
-<div class="sbt-scroll-pixel-helper"></div>
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
-    
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            <div class="topbar-left">
-                
-                <label class="nav-toggle-button" for="__navigation">
-                    <div class="visually-hidden">Toggle navigation</div>
-                    <i class="fas fa-bars"></i>
-                </label>
-                
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
             </div>
             
-            <!-- Source interaction buttons -->
-
-<div class="dropdown-buttons-trigger">
-
-
-<!-- only one Github button activated, so collapse it into the main button, saving a click for users -->
-        <a class="edit-button" href="https://github.com/neuropoly/neuro.polymtl.ca/edit/master/research/mapping-tissue-microstructure.md"><button
-                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
-                title="Edit this page"><i class="fab fa-github"></i></button></a>
-
-
-</div>
-
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-            <!-- Launch buttons -->
-
         </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
 
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Page Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right"><a href="https://github.com/neuropoly/neuro.polymtl.ca/edit/master/research/mapping-tissue-microstructure.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="bottom"
+title="Edit this page"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+
+</a>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Page Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h1 nav-item toc-entry">
   <a class="reference internal nav-link" href="#">
    Mapping Tissue Microstructure
@@ -408,12 +441,11 @@
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Mapping Tissue Microstructure</h1>
@@ -501,14 +533,15 @@
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="section" id="mapping-tissue-microstructure">
-<h1>Mapping Tissue Microstructure<a class="headerlink" href="#mapping-tissue-microstructure" title="Permalink to this headline">¶</a></h1>
-</div>
-<div class="section" id="biophysical-modelling">
-<h1>Biophysical Modelling<a class="headerlink" href="#biophysical-modelling" title="Permalink to this headline">¶</a></h1>
+  <section id="mapping-tissue-microstructure">
+<h1>Mapping Tissue Microstructure<a class="headerlink" href="#mapping-tissue-microstructure" title="Permalink to this headline">#</a></h1>
+</section>
+<section id="biophysical-modelling">
+<h1>Biophysical Modelling<a class="headerlink" href="#biophysical-modelling" title="Permalink to this headline">#</a></h1>
 <p><img alt="" src="../_images/diffusion_simulator.png" /></p>
 <p>Realistic tissue model for simulating the q-space diffusion MR signal. The tissue model shown on the left was based on real histological data and represents five different fibre calibre distributions for five different regions of the human corpus callosum. Shown is a simulation for one region (zoomed cube including fibres). The simulation software enables us to choose a distribution of axon diameter, density, orientation and myelin thickness. Here we set realistic values from histology. The right panel shows a simulated MR signal given a set of q-space acquisition parameters, e.g., the diffusion time (Δ) and the maximum gradient strength (Gmax).</p>
 <p><img alt="" src="../_images/ax_caliber.png" /></p>
@@ -521,9 +554,9 @@
 <blockquote>
 <div><p>Stikov N, Perry LM, Ryklevskaya E, Mezer A, Wandell BA, Pauly JM, Dougherty RF. Bound Pool Fractions Complement Diffusion Measures in Characterizing White Matter Micro and Macrostructure. Neuroimage 2011; 54(2): 1112-1121.</p>
 </div></blockquote>
-</div>
-<div class="section" id="in-vivo-measurement-of-myelin-g-ratio">
-<h1>In Vivo Measurement of Myelin G-Ratio<a class="headerlink" href="#in-vivo-measurement-of-myelin-g-ratio" title="Permalink to this headline">¶</a></h1>
+</section>
+<section id="in-vivo-measurement-of-myelin-g-ratio">
+<h1>In Vivo Measurement of Myelin G-Ratio<a class="headerlink" href="#in-vivo-measurement-of-myelin-g-ratio" title="Permalink to this headline">#</a></h1>
 <p><img alt="" src="../_images/g_ratio_framework.png" /></p>
 <p>The myelin g-ratio (defined as the ratio of the inner to the outer diameter of the myelin sheath) is a fundamental microstructural property of white matter that enables fast conduction of information. Variations in the g-ratio have been reported in histological studies of brain development and disease, but measuring it non-invasively in a living human being is a major challenge. Above is a white matter model that helps us define and compute the myelin g-ratio. This model allows us to extract microstructural information on a scale much smaller than the native MRI resolution. It assumes uniformity across the voxel of interest (much like the rest of quantitative MRI), and defines aggregate measures of the axon volume fraction, myelin volume fraction, fiber volume fraction, and the g-ratio.</p>
 <p><img alt="" src="../_images/whole_brain_g_ratio.png" /></p>
@@ -531,9 +564,9 @@
 <blockquote>
 <div><p>Stikov N*, Campbell JSW*, Stroh T, Lavelée M, Frey S, Novek J, Nuara S, Ho M, Bedell BJ, Dougherty RF, Leppert IR, Boudreau M, Narayanan S, Picard P, Duval T, Cohen-Adad J, Gasecka A, Côté D, Pike GB. In vivo histology of the myelin g-ratio with magnetic resonance imaging. Neuroimage 2015; (in press) *These authors contributed equally to this work</p>
 </div></blockquote>
-</div>
-<div class="section" id="white-matter-microstructure-in-multiple-sclerosis">
-<h1>White Matter Microstructure in Multiple Sclerosis<a class="headerlink" href="#white-matter-microstructure-in-multiple-sclerosis" title="Permalink to this headline">¶</a></h1>
+</section>
+<section id="white-matter-microstructure-in-multiple-sclerosis">
+<h1>White Matter Microstructure in Multiple Sclerosis<a class="headerlink" href="#white-matter-microstructure-in-multiple-sclerosis" title="Permalink to this headline">#</a></h1>
 <p><img alt="" src="../_images/dti_bpf_top_fibers_left.png" /></p>
 <p>By combining myelin and diffusion imaging, we can perform magnetic resonance tractometry and detect the level of myelination along white matter fibers. Above is an illustration of the fibers with the highest bound pool fraction (myelin surrogate) in five healthy volunteers.</p>
 <blockquote>
@@ -549,11 +582,11 @@
 <blockquote>
 <div><p>Stikov N*, Campbell JSW*, Stroh T, Lavelée M, Frey S, Novek J, Nuara S, Ho M, Bedell BJ, Dougherty RF, Leppert IR, Boudreau M, Narayanan S, Picard P, Duval T, Cohen-Adad J, Gasecka A, Côté D, Pike GB. In vivo histology of the myelin g-ratio with magnetic resonance imaging. Neuroimage 2015; (in press) *These authors contributed equally to this work</p>
 </div></blockquote>
-</div>
-<div class="section" id="ex-vivo-imaging-of-spinal-cord-injury">
-<h1>Ex Vivo Imaging of Spinal Cord Injury<a class="headerlink" href="#ex-vivo-imaging-of-spinal-cord-injury" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="validation-using-histology">
-<h2>Validation Using Histology<a class="headerlink" href="#validation-using-histology" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="ex-vivo-imaging-of-spinal-cord-injury">
+<h1>Ex Vivo Imaging of Spinal Cord Injury<a class="headerlink" href="#ex-vivo-imaging-of-spinal-cord-injury" title="Permalink to this headline">#</a></h1>
+<section id="validation-using-histology">
+<h2>Validation Using Histology<a class="headerlink" href="#validation-using-histology" title="Permalink to this headline">#</a></h2>
 <p><img alt="" src="../_images/exvivo_histology.png" /></p>
 <p>Model of spinal cord injury. The left panel shows the MRI performed in vivo after the injury. The middle and right panel respectively show the injury during dissection and after histology. The top histology slice shows that the injury spans the dorsal left segment, affecting both the dorsal column (sensory) and the corticospinal tract (ascending). The bottom histology slice shows uninjured tissue. V=Ventral, D=Dorsal, L=Left, R=Right</p>
 <p><img alt="" src="../_images/exvivo_mri.png" /></p>
@@ -562,10 +595,10 @@
 <p>Quantitative magnetization transfer and q-space diffusion imaging to quantity axon features (density, diameter, myelination)</p>
 <p><img alt="" src="../_images/exvivo_em.png" /></p>
 <p>Electron microscopy imaging of axons to validate MRI measures.</p>
-</div>
-</div>
-<div class="section" id="histological-validation-of-quantitative-mri">
-<h1>Histological Validation of Quantitative MRI<a class="headerlink" href="#histological-validation-of-quantitative-mri" title="Permalink to this headline">¶</a></h1>
+</section>
+</section>
+<section id="histological-validation-of-quantitative-mri">
+<h1>Histological Validation of Quantitative MRI<a class="headerlink" href="#histological-validation-of-quantitative-mri" title="Permalink to this headline">#</a></h1>
 <p><img alt="" src="../_images/histology_table.png" /></p>
 <p>The table above shows mean values (± standard deviation) of the axon volume fraction (AVF), myelin volume fraction (MVF), and g-ratio in a mid-sagittal slice of the corpus callosum (CC) of a cynomolgus macaque. The values in the top half of the table are obtained from MRI and the electron microscopy (EM) validation is on the bottom. In the middle of the table are segmented EM images (myelin in red and axon in blue) taken from each of the eight CC segments.</p>
 <blockquote>
@@ -573,54 +606,56 @@
 </div></blockquote>
 <p><img alt="" src="../_images/cars.png" /></p>
 <p>The biggest challenge for the experiment above was the small spatial coverage provided by the EM. To provide histological coverage that matches the scale of the MR images, we have recently imaged brain tissue using Coherent Anti-Stokes Raman Scattering (CARS). Image courtesy of Daniel Côté.</p>
-</div>
-<div class="section" id="mapping-myeloarchitecture-using-t2-and-magnetization-transfer">
-<h1>Mapping Myeloarchitecture using T2* and Magnetization Transfer<a class="headerlink" href="#mapping-myeloarchitecture-using-t2-and-magnetization-transfer" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="data-acquisition">
-<h2>Data Acquisition<a class="headerlink" href="#data-acquisition" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="mapping-myeloarchitecture-using-t2-and-magnetization-transfer">
+<h1>Mapping Myeloarchitecture using T2* and Magnetization Transfer<a class="headerlink" href="#mapping-myeloarchitecture-using-t2-and-magnetization-transfer" title="Permalink to this headline">#</a></h1>
+<section id="data-acquisition">
+<h2>Data Acquisition<a class="headerlink" href="#data-acquisition" title="Permalink to this headline">#</a></h2>
 <p>7T MRI at the <a class="reference external" href="https://www.martinos.org/">Harvard Martinos Center for Biomedical Imaging</a> (Boston)</p>
 <p><img alt="" src="../_images/myeloarchitecture_fig2.png" /></p>
 <p>Example of data:</p>
 <p><img alt="" src="../_images/myeloarchitecture_figures.002.png" /></p>
-</div>
-<div class="section" id="data-processing">
-<h2>Data Processing<a class="headerlink" href="#data-processing" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="data-processing">
+<h2>Data Processing<a class="headerlink" href="#data-processing" title="Permalink to this headline">#</a></h2>
 <p>Correct artifacts and process T2*:</p>
 <p><img alt="" src="../_images/myeloarchitecture_fig3.png" /></p>
 <p>Use FreeSurfer to reconstruct the surface:</p>
 <p><img alt="" src="../_images/fig8_myeloarchitecture.png" /></p>
 <p>Map T2* values into the cortex of each individual and register to human surface template:</p>
 <p><img alt="" src="../_images/myeloarchitecture_fig4.png" /></p>
-</div>
-<div class="section" id="use-multimodal-information-to-study-neuronal-architecture">
-<h2>Use Multimodal Information to Study Neuronal Architecture<a class="headerlink" href="#use-multimodal-information-to-study-neuronal-architecture" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="use-multimodal-information-to-study-neuronal-architecture">
+<h2>Use Multimodal Information to Study Neuronal Architecture<a class="headerlink" href="#use-multimodal-information-to-study-neuronal-architecture" title="Permalink to this headline">#</a></h2>
 <p>Reproducibility of T2* mapping and distribution across Brodmann areas:</p>
 <p><img alt="" src="../_images/myeloarchitecture_figures.004.png" /></p>
 <p>Multimodal mapping:</p>
 <p><img alt="" src="../_images/myeloarchitecture_fig6_v1.png" /></p>
-</div>
-<div class="section" id="study-the-effect-of-tissue-orientation-with-respect-to-b0">
-<h2>Study the Effect of Tissue Orientation With Respect to B0<a class="headerlink" href="#study-the-effect-of-tissue-orientation-with-respect-to-b0" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="study-the-effect-of-tissue-orientation-with-respect-to-b0">
+<h2>Study the Effect of Tissue Orientation With Respect to B0<a class="headerlink" href="#study-the-effect-of-tissue-orientation-with-respect-to-b0" title="Permalink to this headline">#</a></h2>
 <p>Map the orientation of the cortical surface with respect to B0:</p>
 <p><img alt="" src="../_images/myeloarchitecture_figures.001.png" /></p>
 <p>Results show an orientation dependence only in regions with high degree of myelination!</p>
 <p><img alt="" src="../_images/myeloarchitecture_figures.005.png" /></p>
-</div>
-<div class="section" id="references">
-<h2>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="references">
+<h2>References<a class="headerlink" href="#references" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>Cohen-Adad J. <em>What can we learn from T2* maps of the cortex?</em> <strong>Neuroimage</strong> 2013. http://dx.doi.org/10.1016/j.neuroimage.2013.01.023</p></li>
 <li><p>Cohen-Adad J, Polimeni JR, Helmer KG, Benner T, McNab JA, Wald LL, Rosen B, Mainero C. T2* mapping and B0 orientation-dependence at 7T reveal cyto- and myeloarchitecture organization of the human cortex. <strong>Neuroimage</strong> 2012;DOI: 10.1016/j.neuroimage.2012.01.053. <a class="reference external" href="https://dl.dropbox.com/u/20592661/publications/Cohen-Adad_2012_T2starB0dependence.pdf">PDF</a></p></li>
 </ul>
-</div>
-</div>
+</section>
+</section>
 
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="rf-and-shim-coil-design.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -636,24 +671,28 @@
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By NeuroPoly<br/>
+  
+      &copy; Copyright 2021, NeuroPoly.<br/>
+</p>
+        </footer>
+    </div>
     
-      By NeuroPoly<br/>
-    
-        &copy; Copyright 2021, NeuroPoly.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

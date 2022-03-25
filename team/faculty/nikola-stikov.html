@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Nikola Stikov &#8212; NeuroPoly Lab</title>
     
-  <link href="../../_static/css/theme.css" rel="stylesheet">
-  <link href="../../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,26 +20,23 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-book-theme.css?digest=84ace793992934648b4de8eed757e5a2" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=4fea3ae4a0a4ba949df0a89bbae557cc2ce861ae" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../../_static/_static/theme.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/theme.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/design-style.59c74d8c95b765a7fd995ac71d459ebe.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/theme.css" />
     
-  <link rel="preload" as="script" href="../../_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
     <script src="../../_static/underscore.js"></script>
     <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script src="../../_static/design-tabs.js"></script>
-    <script src="../../_static/sphinx-book-theme.9d8b4a8b9bb19db25eeaddc40d639ba2.js"></script>
     <link rel="shortcut icon" href="../../_static/logo.png"/>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
@@ -48,7 +47,21 @@
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -57,14 +70,10 @@
     <div class="container-xl">
       <div class="row">
           
-<!-- Checkboxes to toggle the left sidebar -->
-<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
-<label class="overlay" for="__navigation">
-    <div class="visually-hidden">Toggle navigation sidebar</div>
-</label>
-<div class="col-12 col-md-3 bd-sidebar site-navigation " id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../../index.html">
       
         <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
@@ -277,64 +286,88 @@
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
-</div>
-
-</div>
-
-
-          
-
-
-          
-<!-- This is an invisible pixel that we watch to see if we've scrolled. -->
-<div class="sbt-scroll-pixel-helper"></div>
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
-    
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            <div class="topbar-left">
-                
-                <label class="nav-toggle-button" for="__navigation">
-                    <div class="visually-hidden">Toggle navigation</div>
-                    <i class="fas fa-bars"></i>
-                </label>
-                
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
             </div>
             
-            <!-- Source interaction buttons -->
-
-<div class="dropdown-buttons-trigger">
-
-
-<!-- only one Github button activated, so collapse it into the main button, saving a click for users -->
-        <a class="edit-button" href="https://github.com/neuropoly/neuro.polymtl.ca/edit/master/team/faculty/nikola-stikov.md"><button
-                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
-                title="Edit this page"><i class="fab fa-github"></i></button></a>
-
-
-</div>
-
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-            <!-- Launch buttons -->
-
         </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
 
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Page Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right"><a href="https://github.com/neuropoly/neuro.polymtl.ca/edit/master/team/faculty/nikola-stikov.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="bottom"
+title="Edit this page"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+
+</a>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Page Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#positions">
    Positions
@@ -359,12 +392,11 @@
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Nikola Stikov</h1>
@@ -405,16 +437,17 @@
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="section" id="nikola-stikov">
-<h1>Nikola Stikov<a class="headerlink" href="#nikola-stikov" title="Permalink to this headline">¶</a></h1>
+  <section id="nikola-stikov">
+<h1>Nikola Stikov<a class="headerlink" href="#nikola-stikov" title="Permalink to this headline">#</a></h1>
 <p><img alt="" src="../../_images/stikov_photo_small.jpeg" /></p>
 <p>Dr. Nikola Stikov is associate professor of biomedical engineering, a researcher at the Montreal Heart Institute, and co-director of NeuroPoly, the Neuroimaging Research Laboratory at École Polytechnique, University of Montreal. His research runs the gamut of quantitative magnetic resonance imaging, from basic issues of standardization and accuracy, to biophysical modelling, microstructural imaging and clinical applications. His group is particularly interested in developing and validating novel biomarkers for non-invasive characterization of the brain and heart microstructure during development, disease and treatment, thus pushing the boundaries of the emerging field of in vivo histology.</p>
 <p>Prior to joining the Polytechnique faculty, Dr. Stikov completed his postdoctoral training with Dr. Bruce Pike at the Montreal Neurological Institute, and his Ph.D. degree with Dr. John Pauly and Dr. Dwight Nishimura at Stanford University. For his accomplishments, Dr. Stikov has been awarded the Stanford Electrical Engineering Outstanding Service Award in 2003, and the Stanford University Centennial Teaching Assistant Award in 2007. He is also the founder of <a class="reference external" href="http://www.mrbalkan.org">MRBalkan.org</a>, and has organized several international conferences for magnetic resonance imaging under the auspices of the International Society for Magnetic Resonance in Medicine (ISMRM). In 2014 Dr. Stikov was elected Junior Fellow of the ISMRM, and in 2015 he joined the Editorial Board of the journal Magnetic Resonance in Medicine (MRM), spearheading the journal’s <a class="reference external" href="http://www.ismrm.org/mrm">Highlights</a> initiative. Continuing with his science outreach activities, in 2016 Dr. Stikov established the official <a class="reference external" href="http://www.humanbrainmapping.org/blog">blog</a> of the Organization for Human Brain Mapping (OHBM) and in 2018 he became chair of the communications committee of the Canadian Open Neuroscience Platform (CONP).</p>
-<div class="section" id="positions">
-<h2>Positions<a class="headerlink" href="#positions" title="Permalink to this headline">¶</a></h2>
+<section id="positions">
+<h2>Positions<a class="headerlink" href="#positions" title="Permalink to this headline">#</a></h2>
 <p><strong>Associate Professor</strong></p>
 <ul class="simple">
 <li><p>Department of Electrical Engineering, Institute of Biomedical Engineering, École Polytechnique de Montréal</p></li>
@@ -428,11 +461,11 @@
 <li><p><a class="reference external" href="http://www.rbiq-qbin.qc.ca/">Quebec Bio-Imaging Network</a></p></li>
 <li><p><a class="reference external" href="https://www.icm-mhi.org/en/montreal-heart-institute">Montreal Heart Institute</a></p></li>
 </ul>
-</div>
-<div class="section" id="contact">
-<h2>Contact<a class="headerlink" href="#contact" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="address">
-<h3>Address<a class="headerlink" href="#address" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="contact">
+<h2>Contact<a class="headerlink" href="#contact" title="Permalink to this headline">#</a></h2>
+<section id="address">
+<h3>Address<a class="headerlink" href="#address" title="Permalink to this headline">#</a></h3>
 <blockquote>
 <div><p>Dept. Genie Electrique, L5608<br />
 Ecole Polytechnique<br />
@@ -441,42 +474,48 @@ Montreal, QC<br />
 H3T 1J4<br />
 Canada</p>
 </div></blockquote>
-</div>
-<div class="section" id="email">
-<h3>Email<a class="headerlink" href="#email" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="email">
+<h3>Email<a class="headerlink" href="#email" title="Permalink to this headline">#</a></h3>
 <blockquote>
 <div><p>nikola.stikov “at” polymtl.ca</p>
 </div></blockquote>
 <p><a class="reference external" href="https://dl.dropboxusercontent.com/u/24651834/Nikola_Stikov_CV_Jan_2017.pdf">Curriculum Vitae</a></p>
-</div>
-</div>
-</div>
+</section>
+</section>
+</section>
 
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
 <div class='prev-next-area'>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By NeuroPoly<br/>
+  
+      &copy; Copyright 2021, NeuroPoly.<br/>
+</p>
+        </footer>
+    </div>
     
-      By NeuroPoly<br/>
-    
-        &copy; Copyright 2021, NeuroPoly.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="../../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>
