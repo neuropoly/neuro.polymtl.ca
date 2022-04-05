@@ -8,14 +8,7 @@ The RF Lab is supported by [TransMedTech](https://www.polymtl.ca/transmedtech/en
 
 ## C-Spine Coil for 7T MRI
 
-<div class="pdf-container">
-  <div class="r16-9">
-    <object data="../_media/201907187tspinecoil.pdf" type="application/pdf" />
-      <!-- fallback -->
-      <a href="../_media/201907187tspinecoil.pdf"><img src="../_media/201907187tspinecoil.png" /></a>
-    </object>
-  </div>
-</div>
+<iframe src="https://docs.google.com/presentation/d/12kbI2_nI0VYLRx5c6uzryIufFFK-OneRBaub88VCBmQ/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Real-time shimming
 
