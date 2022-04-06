@@ -33,7 +33,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/louis-joseph-laberge-8452b4207/)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
 * Joshua Newton
-* [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
 
 ## Postdoctoral Researchers
 
@@ -127,6 +126,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:noel.rignon@fjnr.ca)
 * Mathieu Guay-Paquet
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mguaypaq)
+* [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
 
 ## Alumni
 
