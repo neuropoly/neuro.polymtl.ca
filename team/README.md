@@ -25,8 +25,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Research Associates
 
 * Mathieu Boudreau
-* Alexandru Foias
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/alexandrufoias)
 * Nick Guenther
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
 * Louis Joseph Laberge
@@ -130,6 +128,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Alexandru Foias
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/alexandrufoias)
 * [Ryan Topfer](phd-students/ryan-topfer.md)
 * Atef Badji
 * Srishti Yadav
