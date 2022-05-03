@@ -27,6 +27,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Mathieu Boudreau
 * Nick Guenther
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nick.guenther@polymtl.ca)
 * Louis Joseph Laberge
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/louis-joseph-laberge-8452b4207/)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
