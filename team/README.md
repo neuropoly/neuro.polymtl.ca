@@ -118,6 +118,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Aram Sevag
 * Shu Ai Song
 * Kiri Stern
+* Arnaud Bréhéret
 
 ## Consultants
 
