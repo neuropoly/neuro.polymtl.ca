@@ -111,7 +111,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Interns
 
-* Aamer Ar
 * Paul Bautin
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/paul-bautin-757690175/)
 * Evan Beal
@@ -122,7 +121,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Nishka Katoch 
 * Ambroise Odonnat
 * Julia Palaretti
-* Aram Sevag
 * Shu Ai Song
 * Kiri Stern
 * Arnaud Bréhéret
@@ -238,3 +236,5 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Elisabeth Chevalier
 * Marius Tuznick
 * Laura Brightman
+* Aamer Ar
+* Aram Sevag
