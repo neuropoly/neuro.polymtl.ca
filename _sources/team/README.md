@@ -125,6 +125,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Kiri Stern
 * Arnaud Bréhéret
 * Justin De Meulemeester
+* David Arsenault-Belley
 
 ## Consultants
 
