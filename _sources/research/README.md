@@ -7,6 +7,5 @@
 rf-and-shim-coil-design
 mapping-tissue-microstructure
 image-processing-software/README
-data-scripts
 collaborations
 ```

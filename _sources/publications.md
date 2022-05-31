@@ -203,3 +203,6 @@ List of publications on [Google Scholar](http://scholar.google.ca/citations?user
 * Foias, A. \(2015\). Design and Construction of a Highly Sensitive Coil for MRI of the Spinal Cord \(Mémoire de maîtrise, École Polytechnique de Montréal\). Tiré de [https://publications.polymtl.ca/2001/](https://publications.polymtl.ca/2001/)
 * De Leener, B. \(2014\). Segmentation automatique de la moelle épinière sur des images de résonance magnétique par propagation de modèles déformables \(Mémoire de maîtrise, École Polytechnique de Montréal\). Tiré de [https://publications.polymtl.ca/1471](https://publications.polymtl.ca/1471)
 
+## Data
+
+* [White Matter Microscopy Database](https://osf.io/yp4qg/)
