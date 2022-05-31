@@ -1,4 +1,4 @@
-## Mapping Tissue Microstructure
+# Mapping Tissue Microstructure
 
 ## Biophysical Modelling
 
