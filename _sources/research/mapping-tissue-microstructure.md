@@ -1,4 +1,4 @@
-## Mapping Tissue Microstructure
+# Mapping Tissue Microstructure
 
 ## Biophysical Modelling
 
@@ -16,7 +16,7 @@ Above is an example of the application of biophysical models to characterizing w
 
 ![](../.gitbook/assets/simulated_em.png)
 
-Adding a myelin metric to the above data, and assuming the white matter model described [here](in-vivo-measurement-of-myelin-g-ratio.md), it is possible to generate images with information on a scale that is orders of magnitude smaller than the native MR resolution. We call the images above 'simulated electron micrographs'.
+Adding a myelin metric to the above data, and assuming a white matter model, it is possible to generate images with information on a scale that is orders of magnitude smaller than the native MR resolution. We call the images above 'simulated electron micrographs'.
 
 > Stikov N, Perry LM, Ryklevskaya E, Mezer A, Wandell BA, Pauly JM, Dougherty RF. Bound Pool Fractions Complement Diffusion Measures in Characterizing White Matter Micro and Macrostructure. Neuroimage 2011; 54\(2\): 1112-1121.
 
@@ -28,7 +28,7 @@ The myelin g-ratio \(defined as the ratio of the inner to the outer diameter of 
 
 ![](../.gitbook/assets/whole_brain_g_ratio.png)
 
-Using quantitative magnetization transfer \(qMT\) as a biomarker for MVF, and neurite orientation dispersion and density imaging \(NODDI\) as a biomarker for AVF, we can compute whole-brain maps of the AVF, MVF and the myelin g-ratio. For applications of this technique to the study of multiple sclerosis, please click [here](white-matter-microstructure-in-multiple-sclerosis.md).
+Using quantitative magnetization transfer (qMT) as a biomarker for MVF, and neurite orientation dispersion and density imaging (NODDI) as a biomarker for AVF, we can compute whole-brain maps of the AVF, MVF and the myelin g-ratio.
 
 > Stikov N\*, Campbell JSW\*, Stroh T, Lavelée M, Frey S, Novek J, Nuara S, Ho M, Bedell BJ, Dougherty RF, Leppert IR, Boudreau M, Narayanan S, Picard P, Duval T, Cohen-Adad J, Gasecka A, Côté D, Pike GB. In vivo histology of the myelin g-ratio with magnetic resonance imaging. Neuroimage 2015; \(in press\) \*These authors contributed equally to this work
 
