@@ -185,8 +185,9 @@ List of publications on [Google Scholar](http://scholar.google.ca/citations?user
 
 ### **PhD Theses**
 
-* De Leener, B. \(2017\). Development of an MRI template and analysis pipeline for the spinal cord and application in patients with spinal cord injury \(Thèse de doctorat, École Polytechnique de Montréal\). Tiré de [https://publications.polymtl.ca/2743/](https://publications.polymtl.ca/2743/)
-* Duval, T. \(2017\). Quantification de la microstructure de la moelle épinière humaine par IRM et application chez des patients avec sclérose en plaques \(Thèse de doctorat, École Polytechnique de Montréal\). Tiré de [https://publications.polymtl.ca/2871/](https://publications.polymtl.ca/2871/)
+* Topfer, R. (2022). Local Coils and Prospective Shimming for MRI of the Spinal Cord. (Doctoral thesis, Polytechnique Montreal, Université de Montréal). [https://publications.polymtl.ca/10011/](https://publications.polymtl.ca/10011/)
+* De Leener, B. \(2017\). Development of an MRI template and analysis pipeline for the spinal cord and application in patients with spinal cord injury \(Thèse de doctorat, École Polytechnique de Montréal\). [https://publications.polymtl.ca/2743/](https://publications.polymtl.ca/2743/)
+* Duval, T. \(2017\). Quantification de la microstructure de la moelle épinière humaine par IRM et application chez des patients avec sclérose en plaques \(Thèse de doctorat, École Polytechnique de Montréal\). [https://publications.polymtl.ca/2871/](https://publications.polymtl.ca/2871/)
 
 ### **MSc Theses**
 
