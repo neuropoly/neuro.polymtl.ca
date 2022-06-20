@@ -137,17 +137,21 @@ def build_gallery(app: Sphinx):
 
         repo_text = ""
         star_text = ""
+        twitter_text = ""
 
-        if item["repository"]:
+        if "repository" in item.keys():
             repo_text = f'{{bdg-link-secondary}}`repo <{item["repository"]}>`'
 
             try:
                 url = urlparse(item["repository"])
                 if url.netloc == "github.com":
                     _, org, repo = url.path.rstrip("/").split("/")
-                    star_text = f"[![GitHub Repo stars](https://img.shields.io/github/stars/{org}/{repo}?style=social)]({item['repository']})"
+                    star_text = f"[![GitHub Repo stars](https://img.shields.io/github/stars/{org}/{repo}?label=&style=social)]({item['repository']})"
             except Exception as error:
                 pass
+
+        if "twitterName" in item.keys():
+            twitter_text = f"[![Twitter Follow](https://img.shields.io/twitter/follow/{item['twitterName']}?label=&style=social)](https://twitter.com/{item['twitterName']})"
 
         grid_items.append(
             f"""\
@@ -170,6 +174,7 @@ def build_gallery(app: Sphinx):
         ```{{grid-item}}
         :child-direction: row
         :child-align: end
+        {twitter_text}
         {star_text}
         ```
         ````

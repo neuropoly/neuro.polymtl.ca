@@ -1,3 +1,5 @@
+.idea
+
 _build/
 .venv/
 *.egg-info
