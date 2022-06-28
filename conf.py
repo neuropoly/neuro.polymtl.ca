@@ -135,13 +135,10 @@ def build_gallery(app: Sphinx):
         if not item.get("image"):
             item["image"] = "https://jupyterbook.org/_images/logo-square.svg"
 
-        repo_text = ""
         star_text = ""
         twitter_text = ""
 
         if "repository" in item.keys():
-            repo_text = f'{{bdg-link-secondary}}`repo <{item["repository"]}>`'
-
             try:
                 url = urlparse(item["repository"])
                 if url.netloc == "github.com":
@@ -169,7 +166,6 @@ def build_gallery(app: Sphinx):
         :child-align: start
         :class: sd-fs-5
         {{bdg-link-secondary}}`website <{item["website"]}>`
-        {repo_text}
         ```
         ```{{grid-item}}
         :child-direction: row
