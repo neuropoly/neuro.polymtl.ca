@@ -153,7 +153,7 @@ def build_gallery(app: Sphinx):
             f"""\
         `````{{grid-item-card}}
         :text-align: center
-        <img src="{item["image"]}" alt="logo" loading="lazy" style="max-width: 100%; max-height: 100px; margin: auto" />
+        <div style="background-image: url('{item["image"]}'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
         +++
         {" ".join(item["name"].split())}
         ````{{grid}} 2 2 2 2
