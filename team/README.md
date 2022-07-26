@@ -124,7 +124,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 * Theo Gnassounou
 * Nishka Katoch 
-* Ambroise Odonnat
 * Julia Palaretti
 * Shu Ai Song
 * Arnaud Bréhéret
@@ -142,6 +141,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Ambroise Odonnat
 * Alexandru Foias
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/alexandrufoias)
 * [Ryan Topfer](phd-students/ryan-topfer.md)
