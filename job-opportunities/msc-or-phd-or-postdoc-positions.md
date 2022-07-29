@@ -132,7 +132,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 * **Description**: We are recruiting a postdoc to work on B0 magnetic field mapping at 3 T and 7 T. Many MRI techniques, such fMRI, DTI, and T2* mapping are highly sensitive to B0 inhomogeneities. B0-related artifacts can be minimized or eliminated if the B0 field distribution is known. Different approaches to measuring the B0 field have been proposed over the years. This project would aim to evaluate different B0 mapping techniques and propose B0 mapping procedures for 3 T and 7 T imaging. Research will be conducted at the NeuroPoly lab (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and at the Montreal Neurological Institute (MNI, McGill University).
 * **Skills**: Physics | MRI (acquisition and analysis) | Ultra-high field MRI
-* **More** details here [EN](https://www.dropbox.com/s/nk5c1e872j9v9hu/Postdoctoral%20Position%20in%20B0%20Magnetic%20Field%20Mapping%20for%20MRI.pdf?dl=0) [FR](https://www.dropbox.com/s/ykgv1u5dkxpugjp/Postdoctoral%20Position%20in%20B0%20Magnetic%20Field%20Mapping%20for%20MRI%20FR.pdf?dl=0)
+* **More** details here [EN](https://www.dropbox.com/s/nk5c1e872j9v9hu/Postdoctoral%20Position%20in%20B0%20Magnetic%20Field%20Mapping%20for%20MRI.pdf?dl=0) | [FR](https://www.dropbox.com/s/ykgv1u5dkxpugjp/Postdoctoral%20Position%20in%20B0%20Magnetic%20Field%20Mapping%20for%20MRI%20FR.pdf?dl=0)
 * **Contact**: [Eva Alonso-Ortiz](mailto:eva.alonso-ortiz@polymtl.ca)
 
 
