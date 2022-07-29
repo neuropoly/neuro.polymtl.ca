@@ -90,10 +90,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:colline.blanc@polymtl.ca)
 * Marie-Hélène Bourget
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mariehbourget)
-* Gaspard Cereza
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/gaspardcereza)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/gaspard-cereza-495584144/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:gaspard.cereza@gmail.com)
 * Alexandre D'Astous
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)
 * Noée Ducros-Chabot
@@ -103,45 +99,49 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Antoine El Hachem
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/antoineelhachem/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:antoine-2.el-hachem@polymtl.ca)
-* Andréanne Lemay
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/andreanne-lemay)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andreanne-lemay/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:andreanne.lemay@polymtl.ca)
-* [Uzay Macar](https://uzaymacar.github.io)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
 * Daniel Ridani
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Danirid)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:daniel.ridani@polymtl.ca)
 
 ## Interns
 
+* Shu Ai Song
+* David Arsenault-Belley
 * Paul Bautin
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/paul-bautin-757690175/)
 * Evan Beal
 * Maxime Bouthillier
+* Arnaud Bréhéret
 * Armand Collin
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
+* Justin De Meulemeester
+* Mathilde Dupouy
 * Theo Gnassounou
 * Nishka Katoch 
 * Julia Palaretti
-* Shu Ai Song
-* Arnaud Bréhéret
-* Justin De Meulemeester
-* David Arsenault-Belley
-* Mathilde Dupouy
 
 ## Consultants
 
 * Yang Ding
-* Konstantinos Nasiotis
 * Mathieu Guay-Paquet
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mguaypaq)
+* [Uzay Macar](https://uzaymacar.github.io)
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
+* Konstantinos Nasiotis
 * [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
 
 ## Alumni
 
 * Ambroise Odonnat
+* Gaspard Cereza
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/gaspardcereza)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/gaspard-cereza-495584144/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:gaspard.cereza@gmail.com)
+* Andréanne Lemay
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/andreanne-lemay)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andreanne-lemay/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:andreanne.lemay@polymtl.ca)
 * Alexandru Foias
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/alexandrufoias)
 * [Ryan Topfer](phd-students/ryan-topfer.md)
@@ -152,7 +152,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Alexandre Bernard
 * Noémie Roberge
 * Ainsleigh Hill
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ainsleigh-hill-836296124/)
+[<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ainsleigh-hill-836296124/)
 * Olivier Vincent
 * Jan Valosek
 * Maylis Heussner
