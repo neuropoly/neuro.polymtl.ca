@@ -18,7 +18,7 @@ contact-us
 Lab Manual <https://intranet.neuro.polymtl.ca>
 ```
 
-**NeuroPoly** is a research laboratory specialized in neuroimaging. It is based at [Polytechnique Montreal](http://www.polymtl.ca/) on the [Université de Montréal](http://www.umontreal.ca/) campus, in Montreal, Canada.
+**NeuroPoly** is a research unit composed of professors that specialize in neuroimaging. We are based in [Polytechnique Montreal](http://www.polymtl.ca/) on the [Université de Montréal](http://www.umontreal.ca/) campus, in Montreal, Canada.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/polyneuro.svg?style=social)](https://twitter.com/polyneuro) &nbsp;&nbsp; [![Youtube Follow](.gitbook/assets/logo_youtube.png)](https://www.youtube.com/channel/UCCuMZye0AuGytw-Mv_4ZzfA/playlists)
 
