@@ -28,8 +28,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Nick Guenther
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nick.guenther@polymtl.ca)
-* Louis Joseph Laberge
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/louis-joseph-laberge-8452b4207/)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
 * Joshua Newton 
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/joshuacwnewton)
@@ -46,10 +44,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## PhD Students
 
-* Anes Belfodil
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/abelfodil)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/anes-belfodil/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:anes.belfodil@polymtl.ca)
 * Étienne Boucher
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/lifetheater57)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/%C3%A9tienne-boucher-8aa18a83/)
@@ -114,11 +108,15 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Arnaud Bréhéret
 * Armand Collin
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
+* Camille Coustaury
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
 * Justin De Meulemeester
 * Mathilde Dupouy
 * Theo Gnassounou
 * Nishka Katoch 
 * Julia Palaretti
+* Rachad Chazbek
+* Theo Badra
 
 ## Consultants
 
@@ -133,6 +131,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Louis Joseph Laberge
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/louis-joseph-laberge-8452b4207/)
 * Ambroise Odonnat
 * Gaspard Cereza
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/gaspardcereza)
