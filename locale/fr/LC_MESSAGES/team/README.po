@@ -1,0 +1,818 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../team/README.md:1
+msgid "`👫` Team"
+msgstr ""
+
+#: ../../team/README.md:3
+msgid "![](../.gitbook/assets/lab_2021.jpeg)"
+msgstr ""
+
+#: ../../team/README.md:5
+msgid ""
+"See [us on Github](https://github.com/orgs/neuropoly/people), or our more"
+" specific profiles below."
+msgstr ""
+
+#: ../../team/README.md:7
+msgid "Faculty"
+msgstr ""
+
+#: ../../team/README.md:9
+msgid ""
+"[Eva Alonso Ortiz](faculty/eva-alonso-ortiz.md) [<i class=\"fab fa-"
+"twitter\" title=\"Twitter\" aria-"
+"hidden=\"true\"></i><span>Twitter</span>](https://twitter.com/evaalonsoortiz)"
+" [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/evaalonsoortiz)"
+msgstr ""
+
+#: ../../team/README.md:12
+msgid ""
+"[Julien Cohen-Adad](faculty/julien-cohen-adad.md) [<i class=\"fab fa-"
+"twitter\" title=\"Twitter\" aria-"
+"hidden=\"true\"></i><span>Twitter</span>](https://twitter.com/jcohenadad)"
+" [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/jcohenadad/) "
+"[<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jcohenadad/)"
+" [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:jcohen@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:17
+msgid ""
+"[Benjamin De Leener](faculty/benjamin-de-leener.md) [<i class=\"fab fa-"
+"twitter\" title=\"Twitter\" aria-"
+"hidden=\"true\"></i><span>Twitter</span>](https://twitter.com/bendeleener)"
+" [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/benjamindeleener)"
+" [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/benjamindeleener/)"
+" [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:benjamin.de-"
+"leener@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:22
+msgid ""
+"[Nikola Stikov](faculty/nikola-stikov.md) [<i class=\"fab fa-twitter\" "
+"title=\"Twitter\" aria-"
+"hidden=\"true\"></i><span>Twitter</span>](https://twitter.com/stikov)"
+msgstr ""
+
+#: ../../team/README.md:25
+msgid "Research Associates"
+msgstr ""
+
+#: ../../team/README.md:27
+msgid "Mathieu Boudreau"
+msgstr ""
+
+#: ../../team/README.md:28
+msgid ""
+"Nick Guenther [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/kousu) [<i "
+"class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:nick.guenther@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:31
+msgid "[Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)"
+msgstr ""
+
+#: ../../team/README.md:32
+msgid ""
+"Joshua Newton  [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/joshuacwnewton)"
+" [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/joshuacwnewton/)"
+" [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:joshua.newton@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:36
+msgid ""
+"Noel Rignon [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/RignonNoel/) "
+"[<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/rignonnoel/)"
+" [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:noel.rignon@fjnr.ca)"
+msgstr ""
+
+#: ../../team/README.md:41
+msgid "Postdoctoral Researchers"
+msgstr ""
+
+#: ../../team/README.md:43
+msgid "Daniel Papp"
+msgstr ""
+
+#: ../../team/README.md:45
+msgid "PhD Students"
+msgstr ""
+
+#: ../../team/README.md:47
+msgid ""
+"Étienne Boucher [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/lifetheater57)"
+" [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/%C3"
+"%A9tienne-boucher-8aa18a83/) [<i class=\"fa fa-envelope\" "
+"title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:etienne.boucher.2@umontreal.ca)"
+msgstr ""
+
+#: ../../team/README.md:51
+msgid ""
+"Andjela Dimitrijevic [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/Andjelaaaa) "
+"[<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/andjela-dimitrijevic-470651171/) [<i class=\"fa fa-envelope\" "
+"title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:andjela.dimitrijevic@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:55
+msgid "Adrian El Baz"
+msgstr ""
+
+#: ../../team/README.md:56
+msgid "Vicente Enguix"
+msgstr ""
+
+#: ../../team/README.md:57
+msgid ""
+"[Charley Gros](phd-students/charley-gros.md) [<i class=\"fab fa-github\" "
+"title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/charleygros)"
+msgstr ""
+
+#: ../../team/README.md:59
+msgid "[Agah Karakuzu](phd-students/agah-karakuzu.md)"
+msgstr ""
+
+#: ../../team/README.md:60
+msgid ""
+"[Naga Karthik](https://naga-karthik.github.io) [<i class=\"fa fa-"
+"envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:emvnagakarthik@gmail.com)"
+" [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/naga-karthik-enamundram-7b1559174/) [<i class=\"fab fa-github\" "
+"title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/naga-karthik)"
+" [<i class=\"fab fa-twitter\" title=\"Twitter\" aria-"
+"hidden=\"true\"></i><span>Twitter</span>](https://twitter.com/naga_karthik7)"
+msgstr ""
+
+#: ../../team/README.md:65
+msgid ""
+"Kiri Stern [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:kiri.stern@mail.mcgill.ca)"
+" [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/kiri-stern-6a7199197/) [<i class=\"fab fa-github\" title=\"GitHub\" "
+"aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/kiristern) "
+"[<i class=\"fab fa-twitter\" title=\"Twitter\" aria-"
+"hidden=\"true\"></i><span>Twitter</span>](https://twitter.com/_kastern)"
+msgstr ""
+
+#: ../../team/README.md:70
+msgid "Juan-Jose Velazquez-Reyes"
+msgstr ""
+
+#: ../../team/README.md:71
+msgid ""
+"Erjun Zhang [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/zhangerjun) "
+"[<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/zhangerjun/)"
+" [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:erjun.zhang@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:76
+msgid "MSc Students"
+msgstr ""
+
+#: ../../team/README.md:78
+msgid ""
+"Sandrine Bédard [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/sandrinebedard)"
+" [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)"
+msgstr ""
+
+#: ../../team/README.md:81
+msgid ""
+"Colline Blanc [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/CollineBlanc)"
+" [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/collineblc/)"
+" [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:colline.blanc@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:85
+msgid ""
+"Marie-Hélène Bourget [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/mariehbourget)"
+msgstr ""
+
+#: ../../team/README.md:87
+msgid ""
+"Alexandre D'Astous [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)"
+msgstr ""
+
+#: ../../team/README.md:89
+msgid ""
+"Noée Ducros-Chabot [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/noeedc) [<i "
+"class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/no%C3"
+"%A9e-ducros-chabot-1bb6a51a1/) [<i class=\"fa fa-envelope\" "
+"title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:noee.ducros-"
+"chabot@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:93
+msgid ""
+"Antoine El Hachem [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in/antoineelhachem/)"
+" [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:antoine-2.el-"
+"hachem@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:96
+msgid ""
+"Daniel Ridani [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/Danirid) [<i "
+"class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:daniel.ridani@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:100
+msgid "Interns"
+msgstr ""
+
+#: ../../team/README.md:102
+msgid "Shu Ai Song"
+msgstr ""
+
+#: ../../team/README.md:103
+msgid "David Arsenault-Belley"
+msgstr ""
+
+#: ../../team/README.md:104
+msgid ""
+"Paul Bautin [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/paul-bautin-757690175/)"
+msgstr ""
+
+#: ../../team/README.md:106
+msgid "Evan Beal"
+msgstr ""
+
+#: ../../team/README.md:107
+msgid "Maxime Bouthillier"
+msgstr ""
+
+#: ../../team/README.md:108
+msgid "Arnaud Bréhéret"
+msgstr ""
+
+#: ../../team/README.md:109
+msgid ""
+"Armand Collin [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/hermancollin)"
+msgstr ""
+
+#: ../../team/README.md:111
+msgid ""
+"Camille Coustaury [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/camille-coustaury/)"
+msgstr ""
+
+#: ../../team/README.md:113
+msgid "Justin De Meulemeester"
+msgstr ""
+
+#: ../../team/README.md:114
+msgid "Mathilde Dupouy"
+msgstr ""
+
+#: ../../team/README.md:115
+msgid "Theo Gnassounou"
+msgstr ""
+
+#: ../../team/README.md:116
+msgid "Nishka Katoch"
+msgstr ""
+
+#: ../../team/README.md:117
+msgid "Julia Palaretti"
+msgstr ""
+
+#: ../../team/README.md:118
+msgid "Rachad Chazbek"
+msgstr ""
+
+#: ../../team/README.md:119
+msgid "Theo Badra"
+msgstr ""
+
+#: ../../team/README.md:121
+msgid "Consultants"
+msgstr ""
+
+#: ../../team/README.md:123
+msgid "Yang Ding"
+msgstr ""
+
+#: ../../team/README.md:124
+msgid ""
+"Mathieu Guay-Paquet [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/mguaypaq)"
+msgstr ""
+
+#: ../../team/README.md:126
+msgid ""
+"[Uzay Macar](https://uzaymacar.github.io) [<i class=\"fab fa-github\" "
+"title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/uzaymacar) "
+"[<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)"
+msgstr ""
+
+#: ../../team/README.md:129
+msgid "Konstantinos Nasiotis"
+msgstr ""
+
+#: ../../team/README.md:130
+msgid "[Taowa Rosetwig](research-associates/taowa-rosetwig.md)"
+msgstr ""
+
+#: ../../team/README.md:132
+msgid "Alumni"
+msgstr ""
+
+#: ../../team/README.md:134
+msgid ""
+"Louis Joseph Laberge [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" "
+"aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/louis-joseph-laberge-8452b4207/)"
+msgstr ""
+
+#: ../../team/README.md:136
+msgid "Ambroise Odonnat"
+msgstr ""
+
+#: ../../team/README.md:137
+msgid ""
+"Gaspard Cereza [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/gaspardcereza)"
+" [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/gaspard-cereza-495584144/) [<i class=\"fa fa-envelope\" title=\"E-Mail\""
+" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:gaspard.cereza@gmail.com)"
+msgstr ""
+
+#: ../../team/README.md:141
+msgid ""
+"Andréanne Lemay [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/andreanne-"
+"lemay) [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/andreanne-lemay/) [<i class=\"fa fa-envelope\" title=\"E-Mail\" aria-"
+"hidden=\"true\"></i><span>E-Mail</span>](mailto:andreanne.lemay@polymtl.ca)"
+msgstr ""
+
+#: ../../team/README.md:145
+msgid ""
+"Alexandru Foias [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/alexandrufoias)"
+msgstr ""
+
+#: ../../team/README.md:147
+msgid "[Ryan Topfer](phd-students/ryan-topfer.md)"
+msgstr ""
+
+#: ../../team/README.md:148
+msgid "Atef Badji"
+msgstr ""
+
+#: ../../team/README.md:149
+msgid "Srishti Yadav"
+msgstr ""
+
+#: ../../team/README.md:150
+msgid "[Gabriel Mangeat](alumni/gabriel-mangeat.md)"
+msgstr ""
+
+#: ../../team/README.md:151
+msgid "Benjamin Carrier"
+msgstr ""
+
+#: ../../team/README.md:152
+msgid "Alexandre Bernard"
+msgstr ""
+
+#: ../../team/README.md:153
+msgid "Noémie Roberge"
+msgstr ""
+
+#: ../../team/README.md:154
+msgid ""
+"Ainsleigh Hill [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/ainsleigh-hill-836296124/)"
+msgstr ""
+
+#: ../../team/README.md:156
+msgid "Olivier Vincent"
+msgstr ""
+
+#: ../../team/README.md:157
+msgid "Jan Valosek"
+msgstr ""
+
+#: ../../team/README.md:158
+msgid "Maylis Heussner"
+msgstr ""
+
+#: ../../team/README.md:159
+msgid "[Jennifer Campbell](http://www.bic.mni.mcgill.ca/\\~jcampbel/)"
+msgstr ""
+
+#: ../../team/README.md:160
+msgid "[Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana)"
+msgstr ""
+
+#: ../../team/README.md:161
+msgid "[Tommy Boshkovski](alumni/tommy-boshkovski.md)"
+msgstr ""
+
+#: ../../team/README.md:162
+msgid ""
+"Lucas Rouhier [<i class=\"fab fa-github\" title=\"GitHub\" aria-"
+"hidden=\"true\"></i><span>GitHub</span>](https://github.com/lrouhier)"
+msgstr ""
+
+#: ../../team/README.md:164
+msgid ""
+"Leander van Eekelen [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" "
+"aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://www.linkedin.com/in"
+"/leander-van-eekelen/)"
+msgstr ""
+
+#: ../../team/README.md:166
+msgid "Anne Kerbrat"
+msgstr ""
+
+#: ../../team/README.md:167
+msgid "Sara Paperi"
+msgstr ""
+
+#: ../../team/README.md:168
+msgid "Anthime Bucquet"
+msgstr ""
+
+#: ../../team/README.md:169
+msgid "[Harris Nami](alumni/harris-nami.md)"
+msgstr ""
+
+#: ../../team/README.md:170
+msgid "Thiago Junqueira"
+msgstr ""
+
+#: ../../team/README.md:171
+msgid "Valentine Louis-Lucas"
+msgstr ""
+
+#: ../../team/README.md:172
+msgid "Benoit Sauty-De-Chalon"
+msgstr ""
+
+#: ../../team/README.md:173
+msgid "Aurelien Gilliot"
+msgstr ""
+
+#: ../../team/README.md:174
+msgid "Hee-Min Yang"
+msgstr ""
+
+#: ../../team/README.md:175
+msgid ""
+"Vasudev Sharma [<i class=\"fab fa-linkedin\" title=\"LinkedIn\" aria-"
+"hidden=\"true\"></i><span>LinkedIn</span>](https://in.linkedin.com/in/vs74)"
+msgstr ""
+
+#: ../../team/README.md:177
+msgid "Alexa Mousley"
+msgstr ""
+
+#: ../../team/README.md:178
+msgid "Nicolas Pinon"
+msgstr ""
+
+#: ../../team/README.md:179
+msgid "[Christian S. Perone](alumni/christian-s.-perone.md)"
+msgstr ""
+
+#: ../../team/README.md:180
+msgid "Melanie Lubrano"
+msgstr ""
+
+#: ../../team/README.md:181
+msgid "Hadi Hammoud"
+msgstr ""
+
+#: ../../team/README.md:182
+msgid "Oumayma Bounou"
+msgstr ""
+
+#: ../../team/README.md:183
+msgid "François Paugam"
+msgstr ""
+
+#: ../../team/README.md:184
+msgid "Axel Guittonneau"
+msgstr ""
+
+#: ../../team/README.md:185
+msgid "Matthieu Parizet"
+msgstr ""
+
+#: ../../team/README.md:186
+msgid "Stephanie Alley"
+msgstr ""
+
+#: ../../team/README.md:187
+msgid "Hadi Begdouri"
+msgstr ""
+
+#: ../../team/README.md:188
+msgid "Angel Paul Chauffray"
+msgstr ""
+
+#: ../../team/README.md:189
+msgid "Pierre-Olivier Quirion"
+msgstr ""
+
+#: ../../team/README.md:190
+msgid "George Peristerakis"
+msgstr ""
+
+#: ../../team/README.md:191
+msgid "Haykel Snoussi"
+msgstr ""
+
+#: ../../team/README.md:192
+msgid "[Aldo Zaimi](alumni/aldo-zaimi.md)"
+msgstr ""
+
+#: ../../team/README.md:193
+msgid "Ariane Saliani"
+msgstr ""
+
+#: ../../team/README.md:194
+msgid "Dominique Eden"
+msgstr ""
+
+#: ../../team/README.md:195
+msgid "Maxime Wabartha"
+msgstr ""
+
+#: ../../team/README.md:196
+msgid "Darya Morozov"
+msgstr ""
+
+#: ../../team/README.md:197
+msgid "Pascale Beliveau"
+msgstr ""
+
+#: ../../team/README.md:198
+msgid "Manh-Tung Vuong"
+msgstr ""
+
+#: ../../team/README.md:199
+msgid "Alexandros Popov"
+msgstr ""
+
+#: ../../team/README.md:200
+msgid "Pierre-Louis Antonsanti"
+msgstr ""
+
+#: ../../team/README.md:201
+msgid "Sara Dupont"
+msgstr ""
+
+#: ../../team/README.md:202
+msgid "Grégoire Germain"
+msgstr ""
+
+#: ../../team/README.md:203
+msgid "Simon Lévy"
+msgstr ""
+
+#: ../../team/README.md:204
+msgid "Camille Van-Assel"
+msgstr ""
+
+#: ../../team/README.md:205
+msgid "Alexandre Daigle-Martel"
+msgstr ""
+
+#: ../../team/README.md:206
+msgid "Willis Pinaud"
+msgstr ""
+
+#: ../../team/README.md:207
+msgid "Tom Mingasson"
+msgstr ""
+
+#: ../../team/README.md:208
+msgid "Victor Herman"
+msgstr ""
+
+#: ../../team/README.md:209
+msgid "Olivier Comtois"
+msgstr ""
+
+#: ../../team/README.md:210
+msgid "Jean François Pelletier Paquette"
+msgstr ""
+
+#: ../../team/README.md:211
+msgid "Nadir Faci"
+msgstr ""
+
+#: ../../team/README.md:212
+msgid "Jean-François Cabana"
+msgstr ""
+
+#: ../../team/README.md:213
+msgid "Blanche Perraud"
+msgstr ""
+
+#: ../../team/README.md:214
+msgid "William Perrault"
+msgstr ""
+
+#: ../../team/README.md:215
+msgid "Tanguy Magnan"
+msgstr ""
+
+#: ../../team/README.md:216
+msgid "[Tanguy Duval](alumni/tanguy-duval.md)"
+msgstr ""
+
+#: ../../team/README.md:217
+msgid "Paul Picard"
+msgstr ""
+
+#: ../../team/README.md:218
+msgid "Ritesh Warty"
+msgstr ""
+
+#: ../../team/README.md:219
+msgid "Thomas Sharif-Kerdreux"
+msgstr ""
+
+#: ../../team/README.md:220
+msgid "Nicola Paolantonio"
+msgstr ""
+
+#: ../../team/README.md:221
+msgid "Augustin Roux"
+msgstr ""
+
+#: ../../team/README.md:222
+msgid "Julien Touati"
+msgstr ""
+
+#: ../../team/README.md:223
+msgid "Charles Naaman"
+msgstr ""
+
+#: ../../team/README.md:224
+msgid "Mathieu Flamand"
+msgstr ""
+
+#: ../../team/README.md:225
+msgid "Olivier Barron"
+msgstr ""
+
+#: ../../team/README.md:226
+msgid "Konstantinos Papoutsis"
+msgstr ""
+
+#: ../../team/README.md:227
+msgid "Karun Raju"
+msgstr ""
+
+#: ../../team/README.md:228
+msgid "Isabelle Bouchard"
+msgstr ""
+
+#: ../../team/README.md:229
+msgid "Eddie Magnide"
+msgstr ""
+
+#: ../../team/README.md:230
+msgid "William Thong"
+msgstr ""
+
+#: ../../team/README.md:231
+msgid "Geoffrey Levêque"
+msgstr ""
+
+#: ../../team/README.md:232
+msgid "Marc Benhamou"
+msgstr ""
+
+#: ../../team/README.md:233
+msgid "Felipe Reis"
+msgstr ""
+
+#: ../../team/README.md:234
+msgid "Eugénie Ullmann"
+msgstr ""
+
+#: ../../team/README.md:235
+msgid "Zaki Ajabi"
+msgstr ""
+
+#: ../../team/README.md:236
+msgid "Tanya Verma"
+msgstr ""
+
+#: ../../team/README.md:237
+msgid "Lamiaa Amzil"
+msgstr ""
+
+#: ../../team/README.md:238
+msgid "Genevieve Foley"
+msgstr ""
+
+#: ../../team/README.md:239
+msgid "Jennifer Khoury"
+msgstr ""
+
+#: ../../team/README.md:240
+msgid "Alexandre Brunet"
+msgstr ""
+
+#: ../../team/README.md:241
+msgid "Atma-Luseck Adoungotchodo"
+msgstr ""
+
+#: ../../team/README.md:242
+msgid "Elisabeth Chevalier"
+msgstr ""
+
+#: ../../team/README.md:243
+msgid "Marius Tuznick"
+msgstr ""
+
+#: ../../team/README.md:244
+msgid "Laura Brightman"
+msgstr ""
+
+#: ../../team/README.md:245
+msgid "Aamer Ar"
+msgstr ""
+
+#: ../../team/README.md:246
+msgid "Aram Sevag"
+msgstr ""
+

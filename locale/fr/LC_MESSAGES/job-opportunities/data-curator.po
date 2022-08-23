@@ -1,0 +1,273 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../job-opportunities/data-curator.md:1
+msgid "Data curator"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:3
+msgid "![](../_media/job_data_curator.png)"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:6
+msgid ""
+"At the Neuroimaging Research Laboratory (NeuroPoly) lab, based at Ecole "
+"Polytechnique, University of Montreal, we work to better understand the "
+"brain and the spinal cord using state-of-the-art imaging techniques, with"
+" many potential medical applications. We are developing advanced analysis"
+" methods to improve the quality of MRI data, as well as to extract "
+"meaningful clinical information."
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:8
+msgid ""
+"We recruit an IT expert in data curation to help managing our internal "
+"and public database of MRI images."
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:10
+msgid "`📌` Main tasks"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:12
+msgid ""
+"Collect raw data via email, DropBox, Google Drive, ssh, http, smb, and "
+"via our local LAN and reformat it to be [BIDS](https://bids-"
+"specification.readthedocs.io/)-compliant"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:13
+msgid ""
+"Anonymize data ([defacing](https://open-brain-"
+"consent.readthedocs.io/en/stable/anon_tools.html#faces-dental-stripping),"
+" removal of identifying metadata)"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:14
+msgid "Review data submitted by students and researchers."
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:15
+msgid "Verify:"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:16
+msgid "Image quality"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:17
+msgid "Taxonomy (i.e. file names)"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:18
+msgid "Metadata (in `.tsv` and `.json` files)"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:19
+msgid "Anonymization"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:20
+msgid "Merge pull requests"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:21
+msgid ""
+"Identify validation steps that could be automated and work with the dev "
+"team to implement them"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:22
+msgid "Monitor redundant data rate"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:23
+msgid "Comply with IRB, consent and copyright compliance terms"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:24
+msgid "Verify and perform data removal when requested by subjects"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:25
+msgid "Administer dataset access control; in compliance with license/ethics terms"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:26
+msgid "Add new contributors"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:27
+msgid "For private datasets: add new read-only accounts"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:28
+msgid "Remove users when they no longer need access"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:29
+msgid "Schedule quarterly access audits"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:30
+msgid "Provide basic technical support to users downloading datasets"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:31
+msgid "Diagnose network connection problems"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:32
+msgid "Isolate software version problems and incompatibilities"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:33
+msgid "Monitor weekly dataset backups"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:34
+msgid "Schedule and run data disaster recovery drills"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:35
+msgid ""
+"Participate in [BIDS](https://github.com/bids-standard/bids-"
+"specification) to extend its use-cases"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:37
+msgid "`🧠` Skills:"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:39
+msgid ""
+"Familiarity with the unix command line (`ls`, `find`, `diff`, `du`, "
+"`xargs`, `curl`, `sha256sum`/`md5sum`)"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:40
+msgid "Python scripting"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:41
+msgid "e.g. can you open 1013 images and find their average voxel count?"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:42
+msgid "can you write validation scripts?"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:43
+msgid "`git`"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:44
+msgid ""
+"The use of `git rebase`, `git commit --amend`, `git push --force` and "
+"their implications"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:45
+msgid "`git filter-repo`, and its implications"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:47
+msgid "`🙌` Bonus Skills"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:49
+msgid ""
+"Familiarity with [DICOM](https://en.wikipedia.org/wiki/DICOM) and "
+"[NIfTI](https://nifti.nimh.nih.gov/nifti-2) formats"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:50
+msgid "Familiarity with medical imaging"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:51
+msgid "[`jq`](https://stedolan.github.io/jq/)"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:52
+msgid "Experience with experimental ethics clearances"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:53
+msgid "Passion for open-source software and knowledge sharing ❤️"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:55
+msgid "`🏀` The team"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:57
+msgid ""
+"We are a friendly team composed of academic researchers, students and "
+"software developers"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:59
+msgid "`💰` Salary"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:61
+msgid "\\$30/h if you are good, up to \\$50/h if you are excellent."
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:63
+msgid "`📅` Schedule and work arrangement"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:65
+msgid "This is a long term position, which could be part-time or full time."
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:66
+msgid "Work can be done remotely or in-presence (Montreal)"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:68
+msgid "`🚀` Why take this job?"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:70
+msgid "Join an environment that fosters autonomy, passion and creativity"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:71
+msgid ""
+"Take leadership in open-source projects with strong impact in the medical"
+" field"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:72
+msgid "Develop strong image processing skills with experts in medical imaging"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:74
+msgid "✍️ ‎ How to apply?"
+msgstr ""
+
+#: ../../job-opportunities/data-curator.md:76
+msgid ""
+"Fill up the application form below. You might be contacted for an "
+"interview."
+msgstr ""
+

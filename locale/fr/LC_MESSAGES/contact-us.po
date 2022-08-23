@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../contact-us.md:1
+msgid "`📫` Contact Us"
+msgstr ""
+
+#: ../../contact-us.md:3
+msgid "Physical Address"
+msgstr ""
+
+#: ../../contact-us.md:5
+msgid ""
+"Ecole Polytechnique\\ Pavillon Lassonde 2700 Ch de la Tour\\ Montréal, "
+"QC\\ H3T 1N8\\ Canada"
+msgstr ""
+
+#: ../../contact-us.md:11
+msgid "![](.gitbook/assets/path_to_poly_noaddress.png)"
+msgstr ""
+
+#: ../../contact-us.md:13
+msgid "Campus Map"
+msgstr ""
+
+#: ../../contact-us.md:15
+msgid "[http://www.polymtl.ca/rensgen/en/coordonnees/campus.php](http://www.polymtl.ca/rensgen/en/coordonnees/campus.php)"
+msgstr ""
+
+#: ../../contact-us.md:17
+msgid "Delivery Address"
+msgstr ""
+
+#: ../../contact-us.md:19
+msgid ""
+"Julien Cohen-Adad\\ Ecole Polytechnique, Genie electrique\\ 2500, Chemin "
+"Polytechnique, Porte S-114\\ Montreal, QC\\ H3T 1J4\\ Canada"
+msgstr ""
+
+#: ../../contact-us.md:26
+msgid "E.g. used for Fedex, UPS, Amazon, etc."
+msgstr ""
+
+#: ../../contact-us.md:28
+msgid "Billing Address"
+msgstr ""
+
+#: ../../contact-us.md:30
+msgid ""
+"Ecole Polytechnique - Service des finances\\ B.P. 6079 SUCCURSALE CENTRE-"
+"VILLE\\ MONTRÉAL, QC\\ H3C 3A7\\ CANADA"
+msgstr ""
+
+#: ../../contact-us.md:36
+msgid "**Phone:** +1 514-340-4711"
+msgstr ""
+
+#: ../../contact-us.md:38
+msgid "**Fax:** +1 514-340-3272"
+msgstr ""
+
+#: ../../contact-us.md:40
+msgid "Email"
+msgstr ""
+
+#: ../../contact-us.md:42
+msgid "jcohen \"at\" polymtl.ca"
+msgstr ""
+
+#: ../../contact-us.md:44
+msgid "nikola.stikov \"at\" polymtl.ca"
+msgstr ""
+

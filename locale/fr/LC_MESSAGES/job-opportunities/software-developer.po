@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../job-opportunities/software-developer.md:1
+msgid "Software Developer"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:3
+msgid ""
+"At the Neuroimaging Research Laboratory (NeuroPoly) lab, based at Ecole "
+"Polytechnique, University of Montreal, we work to better understand the "
+"brain and the spinal cord using state-of-the-art imaging techniques, with"
+" many potential medical applications. We are developing advanced analysis"
+" methods to improve the quality of MRI data, as well as to extract "
+"meaningful clinical information."
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:5
+msgid ""
+"We recruit experienced software developers to work on our [medical "
+"imaging software projects](https://neuro.polymtl.ca/software.html)."
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:7
+msgid "`📌` Main tasks"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:9
+msgid "Implement new features, refactoring, bug fixes, suggest improvements"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:10
+msgid ""
+"Help managing the project, create software releases, establish best "
+"coding practices"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:11
+msgid "Contribute to the API and user documentation"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:12
+msgid ""
+"Organize courses for researchers and clinicians at international "
+"conferences"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:14
+msgid "`🏀` The team"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:16
+msgid ""
+"We are a friendly team composed of academic researchers, students and "
+"software developers"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:18
+msgid "`💰` Salary"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:20
+msgid "\\$40/h if you are good, up to \\$70/h if you are excellent."
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:22
+msgid "`📅` Schedule and work arrangement"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:24
+msgid "This is a long term position, which could be part-time or full time."
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:25
+msgid "Work can be done remotely or in-presence (Montreal)"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:27
+msgid "`🔍` What profile are we looking for?"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:29
+msgid "Strong coding skills in Python, proficient in git/GitHub"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:30
+msgid "Passion for open-source software and knowledge sharing ❤️"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:31
+msgid "Skills in data science and deep learning is an asset"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:33
+msgid "`🚀` Why take this job?"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:35
+msgid "Join an environment that fosters autonomy, passion and creativity"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:36
+msgid ""
+"Take leadership in open-source projects with strong impact in the medical"
+" field"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:37
+msgid "Develop strong image processing skills with experts in medical imaging"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:39
+msgid "✍️ ‎ How to apply?"
+msgstr ""
+
+#: ../../job-opportunities/software-developer.md:41
+msgid ""
+"Fill up the application form below. You might be contacted for an "
+"interview."
+msgstr ""
+

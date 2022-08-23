@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:1
+msgid "Labeling Medical Images for A.I. Applications"
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:3
+msgid "![](../../.gitbook/assets/deep_learning.png)"
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:5
+msgid ""
+"At the NeuroPoly lab at Polytechnique & Université de Montréal "
+"\\(www.neuro.polymtl.ca\\), we develop advanced MRI image analysis "
+"techniques using Artificial Intelligence \\(A.I.\\) and deep learning. We"
+" distribute these new methods as open-source software. In collaboration "
+"with neuroradiologists and world experts in deep learning \\(Mila\\), we "
+"apply these tools in patients with traumatic injury and neurodegenative "
+"diseases \\(multiple sclerosis, ALS, etc.\\)."
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:7
+msgid ""
+"In order to train A.I. algorithm, we need to manually label medical "
+"images. Examples include:"
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:9
+msgid "Segment tumors, edema and cavity on MRI scans"
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:10
+msgid "Label intervertebral discs on MRI scans"
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:11
+msgid "Segment neuronal cells on histology images"
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:13
+msgid ""
+"We are recruiting talented individuals, ideally medical students, to help"
+" us label those medical images."
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:15
+msgid "**Required background:**"
+msgstr ""
+
+#: ../../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.md:17
+msgid "Good knowledge of the anatomy"
+msgstr ""
+

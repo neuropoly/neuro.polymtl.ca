@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../research/rf-and-shim-coil-design.md:1
+msgid "RF & Shim Coil Design"
+msgstr ""
+
+#: ../../research/rf-and-shim-coil-design.md:3
+msgid ""
+"The RF Lab is supported by "
+"[TransMedTech](https://www.polymtl.ca/transmedtech/en/research-"
+"development/technology-platforms/imaging-technologies/design-and-"
+"manufacture-mri-antennas)."
+msgstr ""
+
+#: ../../research/rf-and-shim-coil-design.md:5
+msgid "RF Coils for MRI"
+msgstr ""
+
+#: ../../research/rf-and-shim-coil-design.md:9
+msgid "C-Spine Coil for 7T MRI"
+msgstr ""
+
+#: ../../research/rf-and-shim-coil-design.md:13
+msgid "Real-time shimming"
+msgstr ""
+
+#: ../../research/rf-and-shim-coil-design.md:17
+msgid ""
+"Topfer R et al., 2018. Integrated ΔB0/Rx coil array for improved spinal "
+"cord imaging at 3T. in ISMRM 26th Annual Meeting, Paris, France link : "
+"http://cds.ismrm.org/protected/18MPresentations/abstracts/0834.html"
+msgstr ""
+

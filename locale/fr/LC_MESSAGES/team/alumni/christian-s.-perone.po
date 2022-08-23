@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../team/alumni/christian-s.-perone.md:1
+msgid "Christian S. Perone"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:3
+msgid "![](../../.gitbook/assets/christian_perone.jpeg)"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:5
+msgid "Bachelors in Computer Science, Universidade de Passo Fundo \\(UPF\\)."
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:6
+msgid ""
+"M.Sc. Candidate, Biomedical Engineering, Polytechnique Montreal "
+"\\(2019\\)."
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:8
+msgid ""
+"I'm a master student working on Machine Learning \\(Deep Learning\\) for "
+"medical imaging."
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:10
+msgid "Publications <a id=\"publications\"></a>"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:12
+msgid ""
+"[Google "
+"Scholar](https://scholar.google.ca/citations?user=EQbv0qkAAAAJ&hl=en)"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:13
+#, python-format
+msgid "[Patents](https://patentscope.wipo.int/search/rss.jsf?query=ALLNAMES%3A%28christian+perone%29&office=&rss=true&sortOption=Pub+Date+Desc)"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:14
+msgid "[Presentations](https://www.slideshare.net/perone)"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:16
+msgid "Profiles <a id=\"profiles\"></a>"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:18
+msgid "[Blog](http://blog.christianperone.com/)"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:19
+msgid "[LinkedIn](https://www.linkedin.com/in/cperone)"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:20
+msgid "[Github](https://github.com/perone)"
+msgstr ""
+
+#: ../../team/alumni/christian-s.-perone.md:21
+msgid "[Twitter](https://twitter.com/tarantulae)"
+msgstr ""
+

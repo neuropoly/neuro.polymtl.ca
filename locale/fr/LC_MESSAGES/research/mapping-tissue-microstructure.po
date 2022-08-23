@@ -1,0 +1,404 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../research/mapping-tissue-microstructure.md:1
+msgid "Mapping Tissue Microstructure"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:3
+msgid "Biophysical Modelling"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:7
+msgid "![](../.gitbook/assets/diffusion_simulator.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:9
+msgid ""
+"Realistic tissue model for simulating the q-space diffusion MR signal. "
+"The tissue model shown on the left was based on real histological data "
+"and represents five different fibre calibre distributions for five "
+"different regions of the human corpus callosum. Shown is a simulation for"
+" one region \\(zoomed cube including fibres\\). The simulation software "
+"enables us to choose a distribution of axon diameter, density, "
+"orientation and myelin thickness. Here we set realistic values from "
+"histology. The right panel shows a simulated MR signal given a set of "
+"q-space acquisition parameters, e.g., the diffusion time \\(Δ\\) and the "
+"maximum gradient strength \\(Gmax\\)."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:11
+msgid "![](../.gitbook/assets/ax_caliber.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:13
+msgid ""
+"Above is an example of the application of biophysical models to "
+"characterizing white microstructure: the first mapping of axon diameter "
+"distributions in the human spinal cord in vivo. The scanning was "
+"performed using the 300 mT/m Connectome gradient system"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:15
+msgid ""
+"Duval T, McNab JA, Setsompop K, Witzel T, Schneider T, Huang SY, Keil B, "
+"Klawiter EC, Wald LL, and Cohen-Adad J, In vivo estimation of axon "
+"diameter in the human spinal cord using 300 mT/m gradients. Proceedings "
+"of the 22th Annual Meeting of ISMRM, Milan, Italy, 2014: p. 5005."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:17
+msgid "![](../.gitbook/assets/simulated_em.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:19
+msgid ""
+"Adding a myelin metric to the above data, and assuming a white matter "
+"model, it is possible to generate images with information on a scale that"
+" is orders of magnitude smaller than the native MR resolution. We call "
+"the images above 'simulated electron micrographs'."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:21
+msgid ""
+"Stikov N, Perry LM, Ryklevskaya E, Mezer A, Wandell BA, Pauly JM, "
+"Dougherty RF. Bound Pool Fractions Complement Diffusion Measures in "
+"Characterizing White Matter Micro and Macrostructure. Neuroimage 2011; "
+"54\\(2\\): 1112-1121."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:23
+msgid "In Vivo Measurement of Myelin G-Ratio"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:25
+msgid "![](../.gitbook/assets/g_ratio_framework.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:27
+msgid ""
+"The myelin g-ratio \\(defined as the ratio of the inner to the outer "
+"diameter of the myelin sheath\\) is a fundamental microstructural "
+"property of white matter that enables fast conduction of information. "
+"Variations in the g-ratio have been reported in histological studies of "
+"brain development and disease, but measuring it non-invasively in a "
+"living human being is a major challenge. Above is a white matter model "
+"that helps us define and compute the myelin g-ratio. This model allows us"
+" to extract microstructural information on a scale much smaller than the "
+"native MRI resolution. It assumes uniformity across the voxel of interest"
+" \\(much like the rest of quantitative MRI\\), and defines aggregate "
+"measures of the axon volume fraction, myelin volume fraction, fiber "
+"volume fraction, and the g-ratio."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:29
+msgid "![](../.gitbook/assets/whole_brain_g_ratio.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:31
+msgid ""
+"Using quantitative magnetization transfer (qMT) as a biomarker for MVF, "
+"and neurite orientation dispersion and density imaging (NODDI) as a "
+"biomarker for AVF, we can compute whole-brain maps of the AVF, MVF and "
+"the myelin g-ratio."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:33
+#: ../../research/mapping-tissue-microstructure.md:53
+msgid ""
+"Stikov N\\*, Campbell JSW\\*, Stroh T, Lavelée M, Frey S, Novek J, Nuara "
+"S, Ho M, Bedell BJ, Dougherty RF, Leppert IR, Boudreau M, Narayanan S, "
+"Picard P, Duval T, Cohen-Adad J, Gasecka A, Côté D, Pike GB. In vivo "
+"histology of the myelin g-ratio with magnetic resonance imaging. "
+"Neuroimage 2015; \\(in press\\) \\*These authors contributed equally to "
+"this work"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:35
+msgid "White Matter Microstructure in Multiple Sclerosis"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:37
+msgid "![](../.gitbook/assets/dti_bpf_top_fibers_left.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:39
+msgid ""
+"By combining myelin and diffusion imaging, we can perform magnetic "
+"resonance tractometry and detect the level of myelination along white "
+"matter fibers. Above is an illustration of the fibers with the highest "
+"bound pool fraction \\(myelin surrogate\\) in five healthy volunteers."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:41
+msgid ""
+"Stikov N, Perry LM, Ryklevskaya E, Mezer A, Wandell BA, Pauly JM, "
+"Dougherty RF. Bound Pool Fractions Complement Diffusion Measures in "
+"Characterizing White Matter Micro and Macrostructure. Neuroimage 2011; "
+"54\\(2\\): 1112-1121"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:43
+msgid "![](../.gitbook/assets/ms_tractometry.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:45
+msgid ""
+"Above is a tractometry analysis in a cohort of MS patients, compared "
+"against healthy controls. On average, MS patients have lower "
+"magnetization transfer ratio \\(myelin surrogate\\) along tracts, which "
+"is consistent with lower myelin content in normal appearing white matter."
+" However, the high MTR fibers \\(90th percentile and above\\) seem to be "
+"comparable in MS patients and in controls, suggesting that some normal "
+"appearing white matter may, in fact, be healthy."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:47
+msgid ""
+"Stikov N, Giorgio A, Campbell JSQ, Mazerolle E, Narayanan S, De Stefano "
+"N, Pike GB. A Region of Interest Approach to Multiple Sclerosis "
+"Tractometry. In: Proceedings of the ISMRM White Matter Study Group "
+"Workshop on Multiple Sclerosis as a Whole-brain Disease, London 201"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:49
+msgid "![](../.gitbook/assets/ms_whole_brain_g_ratio.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:51
+msgid ""
+"In addition to tractometry analysis, combining diffusion and myelin "
+"imaging allows a voxelwise computation of the aggregate g-ratio, a "
+"measure of the relative myelin thickness. Above is an image showing lower"
+" fiber and myelin content in MS lesions \\(arrows\\), but the g-ratio is "
+"elevated only in the most recent lesion."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:55
+msgid "Ex Vivo Imaging of Spinal Cord Injury"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:57
+msgid "Validation Using Histology"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:59
+msgid "![](../.gitbook/assets/exvivo_histology.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:61
+msgid ""
+"Model of spinal cord injury. The left panel shows the MRI performed in "
+"vivo after the injury. The middle and right panel respectively show the "
+"injury during dissection and after histology. The top histology slice "
+"shows that the injury spans the dorsal left segment, affecting both the "
+"dorsal column \\(sensory\\) and the corticospinal tract \\(ascending\\). "
+"The bottom histology slice shows uninjured tissue. V=Ventral, D=Dorsal, "
+"L=Left, R=Right"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:63
+msgid "![](../.gitbook/assets/exvivo_mri.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:65
+msgid ""
+"Custom-made transmit-receive solenoid coil with the cat spinal cord "
+"sample and the installation on the 7T MR system equipped with 600 mT/m "
+"insert gradients \\(Varian/Agilent\\)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:67
+msgid "![](../.gitbook/assets/exvivo_quantitative.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:69
+msgid ""
+"Quantitative magnetization transfer and q-space diffusion imaging to "
+"quantity axon features \\(density, diameter, myelination\\)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:71
+msgid "![](../.gitbook/assets/exvivo_em.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:73
+msgid "Electron microscopy imaging of axons to validate MRI measures."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:75
+msgid "Histological Validation of Quantitative MRI"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:77
+msgid "![](../.gitbook/assets/histology_table.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:79
+msgid ""
+"The table above shows mean values \\(± standard deviation\\) of the axon "
+"volume fraction \\(AVF\\), myelin volume fraction \\(MVF\\), and g-ratio "
+"in a mid-sagittal slice of the corpus callosum \\(CC\\) of a cynomolgus "
+"macaque. The values in the top half of the table are obtained from MRI "
+"and the electron microscopy \\(EM\\) validation is on the bottom. In the "
+"middle of the table are segmented EM images \\(myelin in red and axon in "
+"blue\\) taken from each of the eight CC segments."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:81
+msgid ""
+"Stikov N\\*, Campbell JSW\\*, Stroh T, Lavelée M, Frey S, Novek J, Nuara "
+"S, Ho M, Bedell BJ, Dougherty RF, Leppert IR, Boudreau M, Narayanan S, "
+"Picard P, Duval T, Cohen-Adad J, Gasecka A, Côté D, Pike GB. In vivo "
+"histology of the myelin g-ratio with magnetic resonance imaging. "
+"Neuroimage 2015; \\(in press\\) \\*_These authors contributed equally to "
+"this work_"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:83
+msgid "![](../.gitbook/assets/cars.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:85
+msgid ""
+"The biggest challenge for the experiment above was the small spatial "
+"coverage provided by the EM. To provide histological coverage that "
+"matches the scale of the MR images, we have recently imaged brain tissue "
+"using Coherent Anti-Stokes Raman Scattering \\(CARS\\). Image courtesy of"
+" Daniel Côté."
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:87
+msgid "Mapping Myeloarchitecture using T2\\* and Magnetization Transfer"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:89
+msgid "Data Acquisition"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:91
+msgid ""
+"7T MRI at the [Harvard Martinos Center for Biomedical "
+"Imaging](https://www.martinos.org/) \\(Boston\\)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:93
+msgid "![](../.gitbook/assets/myeloarchitecture_fig2.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:95
+msgid "Example of data:"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:97
+msgid "![](../.gitbook/assets/myeloarchitecture_figures.002.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:99
+msgid "Data Processing"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:101
+msgid "Correct artifacts and process T2\\*:"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:103
+msgid "![](../.gitbook/assets/myeloarchitecture_fig3.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:105
+msgid "Use FreeSurfer to reconstruct the surface:"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:107
+msgid "![](../.gitbook/assets/fig8_myeloarchitecture.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:109
+msgid ""
+"Map T2\\* values into the cortex of each individual and register to human"
+" surface template:"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:111
+msgid "![](../.gitbook/assets/myeloarchitecture_fig4.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:113
+msgid "Use Multimodal Information to Study Neuronal Architecture"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:115
+msgid "Reproducibility of T2\\* mapping and distribution across Brodmann areas:"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:117
+msgid "![](../.gitbook/assets/myeloarchitecture_figures.004.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:119
+msgid "Multimodal mapping:"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:121
+msgid "![](../.gitbook/assets/myeloarchitecture_fig6_v1.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:123
+msgid "Study the Effect of Tissue Orientation With Respect to B0"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:125
+msgid "Map the orientation of the cortical surface with respect to B0:"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:127
+msgid "![](../.gitbook/assets/myeloarchitecture_figures.001.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:129
+msgid ""
+"Results show an orientation dependence only in regions with high degree "
+"of myelination!"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:131
+msgid "![](../.gitbook/assets/myeloarchitecture_figures.005.png)"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:133
+msgid "References"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:135
+msgid ""
+"Cohen-Adad J. _What can we learn from T2\\* maps of the cortex?_ "
+"**Neuroimage** 2013. http://dx.doi.org/10.1016/j.neuroimage.2013.01.023"
+msgstr ""
+
+#: ../../research/mapping-tissue-microstructure.md:136
+msgid ""
+"Cohen-Adad J, Polimeni JR, Helmer KG, Benner T, McNab JA, Wald LL, Rosen "
+"B, Mainero C. T2\\* mapping and B0 orientation-dependence at 7T reveal "
+"cyto- and myeloarchitecture organization of the human cortex. "
+"**Neuroimage** 2012;DOI: 10.1016/j.neuroimage.2012.01.053. "
+"[PDF](https://dl.dropbox.com/u/20592661/publications/Cohen-"
+"Adad_2012_T2starB0dependence.pdf)"
+msgstr ""
+

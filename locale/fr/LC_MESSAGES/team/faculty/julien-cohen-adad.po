@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../team/faculty/julien-cohen-adad.md:1
+msgid "Julien Cohen-Adad"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:3
+msgid "![](../../.gitbook/assets/cohenadad_pic_square2_small.png)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:5
+msgid ""
+"Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal "
+"and pursued a 3-year postdoctoral fellowship at the MGH Martinos Center "
+"at Harvard University. He is now associate professor at [Polytechnique "
+"Montreal](https://www.polymtl.ca/en/), director of the Neuroimaging "
+"Research Laboratory at Polytechnique \\(NeuroPoly\\) and associate "
+"director of the [Neuroimaging Functional Unit](https://unf-montreal.ca/) "
+"at University of Montreal. Dr. Cohen-Adad has a background in MR physics "
+"and software development. His research focuses on the development of "
+"multi-parametric MRI techniques for quantifying microstructure in the "
+"brain and spinal cord. These developments include MRI coils, acquisition "
+"at ultra-high field \\(7 Tesla\\), quantitative techniques \\(diffusion "
+"imaging, magnetization transfer, functional MRI\\) and image processing "
+"software \\(multimodal registration, segmentation, motion correction\\). "
+"His lab has created and maintains multiple open-source software packages "
+"to process medical image data and control the MRI system remotely [more "
+"details here](https://github.com/sponsors/neuropoly). In collaboration "
+"with several international hospitals, he has been translating these "
+"advanced MRI techniques for studying patients with spinal cord injury and"
+" multiple sclerosis. He has published over 145 articles \\(see [Google "
+"Scholar](https://scholar.google.ca/citations?user=6cAZ028AAAAJ&hl=en)\\),"
+" edited [the first book on quantitative MRI of the spinal cord "
+"\\(Elsevier\\)](http://www.sciencedirect.com/science/book/9780123969736) "
+"and has organized several workshops at international conferences \\(OHBM,"
+" ISMRM\\)."
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:7
+msgid ""
+"[Curriculum "
+"Vitae](https://www.dropbox.com/s/pwokjjnrexg0zl6/cohenadad_cv__20190424.pdf?dl=0)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:9
+msgid "Positions"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:11
+msgid ""
+"Associate Professor, Department of Electrical Engineering, Institute of "
+"Biomedical Engineering, Ecole Polytechnique de Montréal"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:12
+msgid ""
+"Adjunct Professor, Department of Neuroscience, Faculty of Medicine, "
+"Université de Montréal"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:13
+msgid ""
+"[Canada Research Chair in Quantitative Magnetic Resonance "
+"Imaging](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-"
+"eng.aspx?profileId=3521)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:14
+msgid ""
+"Director, [NeuroPoly - Neuroimaging Research Laboratory at "
+"Polytechnique](http://www.neuro.polymtl.ca)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:15
+msgid ""
+"Associate Director and MR physicist, [Unité de Neuroimagerie "
+"Fonctionnelle](https://unf-montreal.ca/), CRIUGM, Université de Montréal "
+"\\(Office M-5818\\)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:16
+msgid ""
+"Associate Member, [Center for Research in Neurological "
+"Sciences](https://www.grsnc.org/home)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:17
+msgid ""
+"Associate Member, [Mila - Quebec AI "
+"Institute](https://mila.quebec/en/person/julien-cohen-adad/)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:19
+msgid "Other Memberships"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:21
+msgid "[Quebec Bio-Imaging Network](http://www.rbiq-qbin.qc.ca/)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:22
+msgid ""
+"[Centre for Systems, Technologies and Applications for Radiofrequency and"
+" Communication \\(STARaCom\\)](http://www.staracom.mcgill.ca/)"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:24
+msgid "Contact"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:26
+msgid "🏛  Address"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:28
+msgid ""
+"Dept. Genie Electrique, L5610   Ecole Polytechnique   2900 Edouard-"
+"Montpetit Bld   Montreal, QC   H3T 1J4   Canada"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:37
+msgid "📩 Email"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:39
+msgid "jcohen \"at\" polymtl.ca"
+msgstr ""
+
+#: ../../team/faculty/julien-cohen-adad.md:42
+msgid ""
+"**To potential applicants:** If you are interested in doing a Master/PhD,"
+" please **do not call**. Instead, send a CV + university transcripts and "
+"I will respond if I am interested. Thank you for your understanding."
+msgstr ""
+

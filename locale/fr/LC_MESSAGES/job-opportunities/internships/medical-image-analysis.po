@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:1
+msgid "Medical Image Analysis"
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:3
+msgid ""
+"At NeuroPoly we develop open-source software for medical image analysis. "
+"Here are links to internship opportunities in relation to these projects."
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:5
+#, python-format
+msgid ""
+"[Spinal Cord Toolbox \\(SCT\\) "
+"projects](https://github.com/neuropoly/spinalcordtoolbox/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+internship+project%22)"
+" \\| [What is SCT?](https://spinalcordtoolbox.com/)"
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:6
+#, python-format
+msgid ""
+"[ivadomed "
+"projects](https://github.com/ivadomed/ivadomed/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+intership+project%22)"
+" \\| [What is ivadomed?](https://ivadomed.org/)"
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:7
+#, python-format
+msgid ""
+"[AxonDeepSeg "
+"projects](https://github.com/neuropoly/axondeepseg/labels/good%20internship%20project)"
+" \\| [What is "
+"AxonDeepSeg?](https://axondeepseg.readthedocs.io/en/latest/)"
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:9
+msgid "**Requirements:**"
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:11
+msgid "Familiar with Python language 🐍"
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:12
+msgid "Familiar with GitHub 😺"
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:14
+msgid "**Assets:**"
+msgstr ""
+
+#: ../../job-opportunities/internships/medical-image-analysis.md:16
+msgid "Familiar with medical image analysis 🧠"
+msgstr ""
+

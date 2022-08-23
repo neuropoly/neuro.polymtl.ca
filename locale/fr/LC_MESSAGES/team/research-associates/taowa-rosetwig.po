@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, NeuroPoly
+# This file is distributed under the same license as the NeuroPoly package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NeuroPoly \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../team/research-associates/taowa-rosetwig.md:1
+msgid "Taowa Rosetwig"
+msgstr ""
+
+#: ../../team/research-associates/taowa-rosetwig.md:3
+msgid ""
+"Taowa Rosetwig is a consultant working primarily to maintain and improve "
+"NeuroPoly's computing infrastructure. As a Debian Developer with a "
+"background in Systems Administration, they can often be found in the "
+"library, tinkering with the lab's configuration management system, or "
+"trying to figure out what's gone wrong and how to fix it."
+msgstr ""
+
+#: ../../team/research-associates/taowa-rosetwig.md:5
+msgid "Contact"
+msgstr ""
+
+#: ../../team/research-associates/taowa-rosetwig.md:7
+msgid ""
+"Taowa can be reached at the Polytechnique email address beginning with "
+"`trosetwig@`."
+msgstr ""
+
