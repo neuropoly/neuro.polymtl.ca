@@ -113,10 +113,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Camille Coustaury
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
 * Justin De Meulemeester
-* Mathilde Dupouy
 * Theo Gnassounou
 * Nishka Katoch 
-* Julia Palaretti
 * Rachad Chazbek
 * Theo Badra
 
@@ -133,6 +131,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Mathilde Dupouy
+* Julia Palaretti
 * Louis Joseph Laberge
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/louis-joseph-laberge-8452b4207/)
 * Ambroise Odonnat
