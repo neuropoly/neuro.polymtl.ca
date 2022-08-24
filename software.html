@@ -1,0 +1,579 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>🖥 Software &#8212; NeuroPoly Lab</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/_static/theme.css" />
+    <link rel="stylesheet" type="text/css" href="_static/theme.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.59c74d8c95b765a7fd995ac71d459ebe.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script src="_static/design-tabs.js"></script>
+    <link rel="shortcut icon" href="_static/logo.png"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="📅 Events &amp; Workshops" href="events-and-workshops.html" />
+    <link rel="prev" title="📚 Publications" href="publications.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/logo.png" class="logo" alt="logo">
+      
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search..." aria-label="Search..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="current nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="README.html">
+   Welcome to NeuroPoly
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="team/README.html">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     👫
+    </span>
+   </code>
+   Team
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="facilities.html">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     🏛
+    </span>
+   </code>
+   Facilities
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="research/README.html">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     🔍
+    </span>
+   </code>
+   Research
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="research/rf-and-shim-coil-design.html">
+     RF &amp; Shim Coil Design
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="research/mapping-tissue-microstructure.html">
+     Mapping Tissue Microstructure
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="research/collaborations.html">
+     Collaborations
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="publications.html">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     📚
+    </span>
+   </code>
+   Publications
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     🖥
+    </span>
+   </code>
+   Software
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="events-and-workshops.html">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     📅
+    </span>
+   </code>
+   Events &amp; Workshops
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="job-opportunities/README.html">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     📣
+    </span>
+   </code>
+   Job Opportunities
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="job-opportunities/msc-or-phd-or-postdoc-positions.html">
+     MSc | PhD | PostDoc Positions
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="job-opportunities/software-developer.html">
+     Software Developer
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="job-opportunities/data-curator.html">
+     Data curator
+    </a>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="job-opportunities/internships/README.html">
+     Internships
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+    <label for="toctree-checkbox-3">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="job-opportunities/internships/labeling-medical-images-for-a.i.-applications.html">
+       Labeling Medical Images for A.I. Applications
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="job-opportunities/internships/medical-image-analysis.html">
+       Medical Image Analysis
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="job-opportunities/internships/mri-physics.html">
+       MRI physics
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="contact-us.html">
+   <code class="docutils literal notranslate">
+    <span class="pre">
+     📫
+    </span>
+   </code>
+   Contact Us
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference external" href="https://intranet.neuro.polymtl.ca">
+   Lab Manual
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right"><a href="https://github.com/neuropoly/neuro.polymtl.ca/edit/master/software.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="bottom"
+title="Edit this page"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+
+</a>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Page Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#image-analysis">
+   Image analysis
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#contributing">
+   Contributing
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>🖥 Software</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Page Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#image-analysis">
+   Image analysis
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#contributing">
+   Contributing
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section id="software">
+<h1><code class="docutils literal notranslate"><span class="pre">🖥</span></code> Software<a class="headerlink" href="#software" title="Permalink to this headline">#</a></h1>
+<p>Below is a list of software projects created at <strong>NeuroPoly</strong> or at collaborative institutions. These projects are open source and freely available.</p>
+<section id="image-analysis">
+<h2>Image analysis<a class="headerlink" href="#image-analysis" title="Permalink to this headline">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 full-width docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-2 sd-row-cols-md-3 sd-row-cols-lg-3 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<div style="background-image: url('https://raw.githubusercontent.com/spinalcordtoolbox/spinalcordtoolbox/master/documentation/source/_static/img/logo_sct.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Comprehensive library of analysis tools for multi-parametric MRI of the spinal cord</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://spinalcordtoolbox.com/"><span>website</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://twitter.com/SpinalToolbox"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SpinalToolbox?label=&amp;style=social" /></a>
+<a class="reference external" href="https://github.com/spinalcordtoolbox/spinalcordtoolbox"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/spinalcordtoolbox/spinalcordtoolbox?label=&amp;style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<div style="background-image: url('https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Integrated framework for medical image analysis with deep learning</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://ivadomed.org"><span>website</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://twitter.com/ivadomed"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ivadomed?label=&amp;style=social" /></a>
+<a class="reference external" href="https://github.com/ivadomed/ivadomed"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ivadomed/ivadomed?label=&amp;style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<div style="background-image: url('https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Simulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.)</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://qmrlab.readthedocs.io"><span>website</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://twitter.com/qmrlab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/qmrlab?label=&amp;style=social" /></a>
+<a class="reference external" href="https://github.com/qMRLab/qMRLab"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/qMRLab/qMRLab?label=&amp;style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<div style="background-image: url('https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Software tools to perform advanced static and real-time shimming experiments with MRI.</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://shimming-toolbox.org"><span>website</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://twitter.com/shimmingtoolbox"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/shimmingtoolbox?label=&amp;style=social" /></a>
+<a class="reference external" href="https://github.com/shimming-toolbox/shimming-toolbox"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/shimming-toolbox/shimming-toolbox?label=&amp;style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card-body docutils">
+<div style="background-image: url('https://raw.githubusercontent.com/neuropoly/axondeepseg/master/docs/source/_static/logo_ads-alpha.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Segmentation of axon and myelin on microscopy data.</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
+<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
+<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://axondeepseg.readthedocs.io/"><span>website</span></a></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
+<p class="sd-card-text"><a class="reference external" href="https://twitter.com/axondeepseg"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/axondeepseg?label=&amp;style=social" /></a>
+<a class="reference external" href="https://github.com/neuropoly/axondeepseg"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neuropoly/axondeepseg?label=&amp;style=social" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- ## Pipeline and template
+
+TODO: Add this section
+This section contains projects  -->
+<!-- Deprecated software:
+
+|  | Multiclass Segmentation | Code related to the NIH marmoset longitudinal segmentation project                                               | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/multiclass-segmentation) | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/multiclass-segmentation/blob/master/README.md) |
+
+|  | AxonSeg          | Automatic segmentation of axon and myelin from microscopy data    | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonseg)          | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonseg/blob/master/README.md)                           |
+
+
+|  | AxonPacking      | Simulation software for arrangements of axons in white matter     | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonpacking)      | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonpacking/blob/master/README.md)                       |
+-->
+<!-- Data / Atlas to add in another section
+
+|  | Template                | A framework for creating unbiased MRI templates of the spinal cord                                               | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/template)                | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/template/blob/master/README.md)                |
+
+|  | Atlas Rat        | Scripts to generate a microstructure atlas of the rat spinal cord | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/atlas-rat)        | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/atlas-rat/blob/master/README.md)          |
+
+|  | Tract Clustering | Data-driven approach for tracts in rat histology                  | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/tract-clustering) | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/tract-clustering/blob/master/README.md)                  |
+-->
+</section>
+<section id="contributing">
+<h2>Contributing<a class="headerlink" href="#contributing" title="Permalink to this headline">#</a></h2>
+<p><strong>NeuroPoly</strong> welcomes and appreciates contributions. To get started, please check out <a class="reference external" href="https://intranet.neuro.polymtl.ca/geek-tips/contributing"><strong>NeuroPoly</strong>’s contributing guidelines</a>.</p>
+</section>
+</section>
+
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="publications.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title"><code class="docutils literal notranslate"><span class="pre">📚</span></code> Publications</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="events-and-workshops.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title"><code class="docutils literal notranslate"><span class="pre">📅</span></code> Events &amp; Workshops</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By NeuroPoly<br/>
+  
+      &copy; Copyright 2021, NeuroPoly.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>
