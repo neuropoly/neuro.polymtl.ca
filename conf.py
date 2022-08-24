@@ -47,10 +47,6 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', '.venv', 'Thumbs.db', '.DS_Store']
 
-# I18N- Internationalization
-locale_dirs = ['locale/']
-gettext_compact = False
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
