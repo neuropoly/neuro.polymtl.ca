@@ -112,7 +112,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 * Camille Coustaury
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
-* Justin De Meulemeester
 * Theo Gnassounou
 * Nishka Katoch 
 * Rachad Chazbek
@@ -131,6 +130,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Justin De Meulemeester
 * Mathilde Dupouy
 * Julia Palaretti
 * Louis Joseph Laberge
