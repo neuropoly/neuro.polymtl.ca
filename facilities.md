@@ -28,7 +28,7 @@ In terms of software license, being part of Polygrames Research Center and Écol
 
 ![computer-lab-1](.gitbook/assets/img_2234_good.jpeg) ![computer-lab-2](.gitbook/assets/img_2240_good.jpeg)
 
-NeuroPoly has expertise in building radiofrequency \(RF\) coils for MRI applications. This RF lab is part of [TransMedTech's technology platform](https://www.polymtl.ca/transmedtech/en/research-development/technology-platforms/imaging-technologies/design-and-manufacture-mri-antennas). The infrastructure includes:
+NeuroPoly has expertise in building radiofrequency \(RF\) coils for MRI applications. This RF lab is part of [TransMedTech's technology platform]([https://www.polymtl.ca/transmedtech/en/research-development/technology-platforms/imaging-technologies/design-and-manufacture-mri-antennas](https://web.archive.org/web/20210731230418/https:/www.polymtl.ca/transmedtech/en/research-development/technology-platforms/imaging-technologies/design-and-manufacture-mri-antennas)). The infrastructure includes:
 
 * Three network analyzers
   * E5061B \(100kHz-3GHz, full two-port S-parameters\)
