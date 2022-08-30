@@ -14,6 +14,7 @@ publications
 software
 events-and-workshops
 job-opportunities/README
+edi
 contact-us
 Lab Manual <https://intranet.neuro.polymtl.ca>
 ```
