@@ -116,6 +116,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Rachad Chazbek
 * Theo Badra
 * Aurélien Pujol
+* Ismail Foudali 
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ismail-foudali-780728166/)
 
 ## Consultants
 
