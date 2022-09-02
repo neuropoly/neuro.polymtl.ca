@@ -118,6 +118,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Aurélien Pujol
 * Ismail Foudali 
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ismail-foudali-780728166/)
+* Lore Flipts
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/lore-flipts-251688234/)
 
 ## Consultants
 
