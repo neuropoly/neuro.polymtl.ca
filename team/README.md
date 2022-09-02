@@ -115,6 +115,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Nishka Katoch 
 * Rachad Chazbek
 * Theo Badra
+* Aurélien Pujol
 
 ## Consultants
 
