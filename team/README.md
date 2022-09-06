@@ -109,6 +109,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Evan Beal
 * Maxime Bouthillier
 * Arnaud Bréhéret
+* Michelle Chen
 * Camille Coustaury
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
 * Theo Gnassounou
