@@ -77,6 +77,11 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## MSc Students
 
+* [Rohan Banerjee](https://rohanbanerjee.netlify.app)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:banerjee.rohan98@gmail.com)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/rohanbanerjee1)
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/rohanbanerjee)
+  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/rohanbanerjeee)
 * Sandrine Bédard
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/sandrinebedard)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)
