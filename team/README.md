@@ -98,6 +98,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Daniel Ridani
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Danirid)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:daniel.ridani@polymtl.ca)
+* Armand Collin
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 
 ## Interns
 
@@ -107,8 +109,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Evan Beal
 * Maxime Bouthillier
 * Arnaud Bréhéret
-* Armand Collin
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 * Camille Coustaury
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
 * Theo Gnassounou
