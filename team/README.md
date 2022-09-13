@@ -25,6 +25,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Research Associates
 
 * Mathieu Boudreau
+* Mathieu Guay-Paquet
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mguaypaq)
 * Nick Guenther
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nick.guenther@polymtl.ca)
@@ -132,8 +134,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Consultants
 
 * Yang Ding
-* Mathieu Guay-Paquet
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mguaypaq)
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
