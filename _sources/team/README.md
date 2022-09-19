@@ -138,10 +138,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
 * Konstantinos Nasiotis
-* [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
 
 ## Alumni
 
+* [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
 * David Arsenault-Belley
 * Justin De Meulemeester
 * Mathilde Dupouy
