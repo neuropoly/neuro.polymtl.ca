@@ -92,8 +92,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/CollineBlanc)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/collineblc/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:colline.blanc@polymtl.ca)
-* Marie-Hélène Bourget
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mariehbourget)
 * Alexandre D'Astous
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)
 * Noée Ducros-Chabot
@@ -134,6 +132,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Consultants
 
+* Marie-Hélène Bourget
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mariehbourget)
 * Yang Ding
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
