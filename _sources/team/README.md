@@ -26,6 +26,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 * Mathieu Boudreau
 * Nadia Blostein
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/nadiablostein)
 * Mathieu Guay-Paquet
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mguaypaq)
 * Nick Guenther
