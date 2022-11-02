@@ -47,6 +47,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Postdoctoral Researchers
 
 * Daniel Papp
+* Jan Valosek
+  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/ValosekJan) 
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/valosekj)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jan-valosek)
 
 ## PhD Students
 
@@ -178,7 +182,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Ainsleigh Hill
 [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ainsleigh-hill-836296124/)
 * Olivier Vincent
-* Jan Valosek
 * Maylis Heussner
 * [Jennifer Campbell](http://www.bic.mni.mcgill.ca/\~jcampbel/)
 * [Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana)
