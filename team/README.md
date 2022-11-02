@@ -47,7 +47,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Postdoctoral Researchers
 
 * Daniel Papp
-* Jan Valosek
+* [Jan Valosek](postdoctoral-researchers/jan-valosek.md)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/ValosekJan) 
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/valosekj)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jan-valosek)
