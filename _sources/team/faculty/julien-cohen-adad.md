@@ -15,6 +15,7 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 * Associate Director and MR physicist, [Unité de Neuroimagerie Fonctionnelle](https://unf-montreal.ca/), CRIUGM, Université de Montréal \(Office M-5818\)
 * Associate Member, [Center for Research in Neurological Sciences](https://www.grsnc.org/home)
 * Associate Member, [Mila - Quebec AI Institute](https://mila.quebec/en/person/julien-cohen-adad/)
+* Member, Centre de recherche du CHU Sainte-Justine, Université de Montréal, Montréal, QC, Canada
 
 ## Other Memberships
 
