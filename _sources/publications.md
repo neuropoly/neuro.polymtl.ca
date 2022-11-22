@@ -1,6 +1,6 @@
 # `📚` Publications
 
-List of publications on [Pubmed]([http://www.ncbi.nlm.nih.gov/pubmed?term=Cohen-Adad%20J%5Bauthor%5D](https://pubmed.ncbi.nlm.nih.gov/?term=Cohen-Adad+J%5Bauthor%5D+OR+Stikov+N%5Bauthor%5D+OR+Alonso-Ortiz+E%5Bauthor%5D+OR+De+Leener+B%5Bauthor%5D&sort=pubdate)).
+List of publications on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Cohen-Adad+J%5Bauthor%5D+OR+Stikov+N%5Bauthor%5D+OR+Alonso-Ortiz+E%5Bauthor%5D+OR+De+Leener+B%5Bauthor%5D&sort=pubdate).
 
 ## Journal Articles
 
