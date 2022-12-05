@@ -56,10 +56,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## PhD Students
 
-* Étienne Boucher
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/lifetheater57)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/%C3%A9tienne-boucher-8aa18a83/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:etienne.boucher.2@umontreal.ca)
 * Andjela Dimitrijevic
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Andjelaaaa)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andjela-dimitrijevic-470651171/)
@@ -68,8 +64,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/ebadrian)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/adrian-el-baz/)
 * Vicente Enguix
-* [Charley Gros](phd-students/charley-gros.md)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/charleygros)
 * [Agah Karakuzu](phd-students/agah-karakuzu.md)
 * [Naga Karthik](https://naga-karthik.github.io)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:emvnagakarthik@gmail.com)
@@ -81,7 +75,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/kiri-stern-6a7199197/)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kiristern)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/_kastern) 
-* Juan-Jose Velazquez-Reyes
 * Erjun Zhang
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/zhangerjun)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/zhangerjun/)
