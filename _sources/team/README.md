@@ -115,20 +115,15 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 * Sina Fartoumi
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:sina.fartoumi@polymtl.ca)
+* Nishka Katoch 
+* Arnaud Bréhéret
 
 ## Interns
 
-* Shu Ai Song
-* Paul Bautin
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/paul-bautin-757690175/)
-* Evan Beal
 * Maxime Bouthillier
-* Arnaud Bréhéret
 * Michelle Chen
 * Camille Coustaury
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
-* Theo Gnassounou
-* Nishka Katoch 
 * Rachad Chazbek
 * Theo Badra
 * Aurélien Pujol
@@ -143,10 +138,15 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
-* Konstantinos Nasiotis
 
 ## Alumni
 
+* Konstantinos Nasiotis
+* Theo Gnassounou
+* Shu Ai Song
+* Paul Bautin
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/paul-bautin-757690175/)
+* Evan Beal
 * [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
 * David Arsenault-Belley
 * Justin De Meulemeester
