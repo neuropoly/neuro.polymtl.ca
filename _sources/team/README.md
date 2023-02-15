@@ -41,10 +41,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/joshuacwnewton)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/joshuacwnewton/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:joshua.newton@polymtl.ca)
-* Noel Rignon
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/RignonNoel/)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/rignonnoel/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:noel.rignon@fjnr.ca)
 
 ## Postdoctoral Researchers
 
@@ -53,9 +49,12 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/ValosekJan) 
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/valosekj)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jan-valosek)
+* [Agah Karakuzu](phd-students/agah-karakuzu.md)
 
 ## PhD Students
 
+* Alexandre D'Astous
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)
 * Andjela Dimitrijevic
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Andjelaaaa)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andjela-dimitrijevic-470651171/)
@@ -63,8 +62,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Adrian El Baz
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/ebadrian)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/adrian-el-baz/)
-* Vicente Enguix
-* [Agah Karakuzu](phd-students/agah-karakuzu.md)
 * [Naga Karthik](https://naga-karthik.github.io)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:emvnagakarthik@gmail.com)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/naga-karthik-enamundram-7b1559174/)
@@ -99,8 +96,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/CollineBlanc)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/collineblc/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:colline.blanc@polymtl.ca)
-* Alexandre D'Astous
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)
 * Noée Ducros-Chabot
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/noeedc)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/no%C3%A9e-ducros-chabot-1bb6a51a1/)
@@ -139,6 +134,11 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Vicente Enguix
+* Noel Rignon
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/RignonNoel/)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/rignonnoel/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:noel.rignon@fjnr.ca)
 * Lore Flipts
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/lore-flipts-251688234/)
 * Konstantinos Nasiotis
