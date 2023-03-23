@@ -81,6 +81,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/whats-ai/)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/louisfb01)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/Whats_AI) 
+* Daniel Ridani
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Danirid)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:daniel.ridani@polymtl.ca)
   
 ## MSc Students
 
@@ -103,9 +106,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Antoine El Hachem
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/antoineelhachem/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:antoine-2.el-hachem@polymtl.ca)
-* Daniel Ridani
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Danirid)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:daniel.ridani@polymtl.ca)
+
 * Armand Collin
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 * Sina Fartoumi
