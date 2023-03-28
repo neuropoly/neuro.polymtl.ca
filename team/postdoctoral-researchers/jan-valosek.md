@@ -2,15 +2,16 @@
 
 ### Background
 
-M.Sc. in Biomedical Engineering
-
-Ph.D. in Neurosciences
+* M.Sc. in Biomedical Engineering
+* Ph.D. in Neurosciences
 
 ### Research Interests
 
-* Advanced spinal cord MRI data analysis
-* Deep learning 
-* Open-science
+* Spinal cord MRI
+* Medical AI
+* Deep Learning
+* MRI data management
+* Software development
 
 ### Contact
 
