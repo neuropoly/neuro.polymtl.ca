@@ -14,5 +14,4 @@ The RF Lab is supported by [TransMedTech](https://www.polymtl.ca/transmedtech/en
 
 <iframe src="https://docs.google.com/presentation/d/1_oNufd9VXY3xQiaHLgXZR5f6UnJfrEAx/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Topfer R et al., 2018. Integrated ΔB0/Rx coil array for improved spinal cord imaging at 3T. in ISMRM 26th Annual Meeting, Paris, France
-link : http://cds.ismrm.org/protected/18MPresentations/abstracts/0834.html
+Topfer R et al., 2018. _Integrated ΔB0/Rx coil array for improved spinal cord imaging at 3T_. in ISMRM 26th Annual Meeting, Paris, France
