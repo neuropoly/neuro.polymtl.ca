@@ -129,6 +129,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/NathanMolinier) 
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/nathan-molinier-743972180/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nathan.molinier@polymtl.ca)
+* Victor Baillet
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/victor-baillet-a098a2202/)
 
 ## Consultants
 
