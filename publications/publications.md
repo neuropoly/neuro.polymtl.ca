@@ -11,9 +11,13 @@ title: All Publications
 
 <button class="label" data-label="mri-physics">mri-physics</button>
 <button class="label" data-label="shimming">shimming</button>
-<button class="label" data-label="deep-learning">deep-learning</button>
+<button class="label" data-label="quantitative-mri">quantitative-mri</button>
+<button class="label" data-label="fmri">fmri</button>
 <button class="label" data-label="image-analysis">image-analysis</button>
 <button class="label" data-label="microscopy">microscopy</button>
+<button class="label" data-label="spinal-cord-injury">spinal-cord-injury</button>
+<button class="label" data-label="multiple-sclerosis">multiple-sclerosis</button>
+<button class="label" data-label="neuroscience">neuroscience</button>
 
 ## Publications
 
@@ -59,46 +63,46 @@ title: All Publications
     <p><em>Bourget M-H, Kamentsky L, Ghosh SS, Mazzamuto G, Lazari A, Markiewicz CJ, Oostenveld R, Niso G, Halchenko YO, Lipp I, Takerkart S, Toussaint P-J, Khan AR, Nilsonne G, Castelli FM, The BIDS Maintainers, Cohen-Adad J</em></p>
     <p><strong>Front Neurosci</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.871228/full">Link to paper</a><span class="publication-label"> (Labels: microscopy)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="neuroscience fmri image-analysis">
     <h3>Brain-spinal cord interaction in long-term motor sequence learning in human: An fMRI study</h3>
     <p><em>Khatibi A, Vahdat S, Lungu O, Finsterbusch J, Büchel C, Cohen-Adad J, Marchand-Pauvert V, Doyon J</em></p>
-    <p><strong>Neuroimage</strong> (2022) <a href="https://www.ncbi.nlm.nih.gov/pubmed/35331873">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Neuroimage</strong> (2022) <a href="https://www.ncbi.nlm.nih.gov/pubmed/35331873">Link to paper</a><span class="publication-label"> (Labels: neuroscience, fmri, image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="multiple-sclerosis quantitative-mri">
     <h3>Advanced Diffusion MR Imaging for Multiple Sclerosis in the Brain and Spinal Cord</h3>
     <p><em>Hori M, Maekawa T, Kamiya K, Hagiwara A, Goto M, Takemura MY, Fujita S, Andica C, Kamagata K, Cohen-Adad J, Aoki S</em></p>
-    <p><strong>Magn Reson Med Sci</strong> (2022) <a href="https://pubmed.ncbi.nlm.nih.gov/35173096/">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Magn Reson Med Sci</strong> (2022) <a href="https://pubmed.ncbi.nlm.nih.gov/35173096/">Link to paper</a><span class="publication-label"> (Labels: multiple-sclerosis, quantitative-mri)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="quantitative-mri">
     <h3>Diffusion kurtosis imaging of neonatal spinal cord in clinical routine</h3>
     <p><em>Trò R, Roascio M, Tortora D, Severino M, Rossi A, Cohen-Adad J, Fato MM, Arnulfo G</em></p>
-    <p><strong>Front Neurol</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fradi.2022.794981">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Front Neurol</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fradi.2022.794981">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="quantitative-mri image-analysis">
     <h3>The myelin-weighted connectome in Parkinson’s disease</h3>
     <p><em>Boshkovski T, Cohen-Adad J, Misic B, Aranult I, Corvol J-C, Vidailhet M, Lehéricy S, Mancini M, Stikov N</em></p>
-    <p><strong>Mov Disord</strong> (2022) <a href="http://doi.org/10.1002/mds.28891 ">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Mov Disord</strong> (2022) <a href="http://doi.org/10.1002/mds.28891 ">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="spinal-cord-injury">
     <h3>Quantitative electrophysiological assessments as predictive markers of lower limb motor recovery after spinal cord injury: a pilot study with an adaptive trial design</h3>
     <p><em>Huang YN, Meftah EM, Pion CH, Mac-Thiong JM, Cohen-Adad J, Barthélemy D</em></p>
-    <p><strong>Spinal Cord Ser Cases</strong> (2022) <a href="https://www.nature.com/articles/s41394-022-00491-0">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Spinal Cord Ser Cases</strong> (2022) <a href="https://www.nature.com/articles/s41394-022-00491-0">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury)</span></p>
 </div>
 <h3>2021</h3>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="microscopy">
     <h3>Reduced Axon Calibre in the Associative Striatum of the Sapap3 Knockout Mouse</h3>
     <p><em>Lousada E, Boudreau M, Cohen-Adad J, Oumesmar BN, Burguiere E, Schreiweis C</em></p>
-    <p><strong>Brain Sci</strong> (2021) <a href="https://www.mdpi.com/2076-3425/11/10/1353">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Brain Sci</strong> (2021) <a href="https://www.mdpi.com/2076-3425/11/10/1353">Link to paper</a><span class="publication-label"> (Labels: microscopy)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="quantitative-mri multiple-sclerosis">
     <h3>Quantitative 7-Tesla imaging of cortical myelin changes in early multiple sclerosis</h3>
     <p><em>Barletta V, Herranz E, Treaba CA, Mehndiratta A, Ouellette R, Mangeat G, Granberg T, Sloane JA, Klawiter EC, Cohen-Adad J, Mainero C</em></p>
-    <p><strong>Front Neurol</strong> (2021) <a href="https://www.frontiersin.org/articles/10.3389/fneur.2021.714820">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Front Neurol</strong> (2021) <a href="https://www.frontiersin.org/articles/10.3389/fneur.2021.714820">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, multiple-sclerosis)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="quantitative-mri image-analysis">
     <h3>The R1-weighted connectome: complementing brain networks with a myelin-sensitive measure</h3>
     <p><em>Boshkovski T, Kocarev L, Cohen-Adad J, Mišić B, Lehéricy S, Stikov N, Mancini M</em></p>
-    <p><strong>Netw Neurosci</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/34189369/">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Netw Neurosci</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/34189369/">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="">
     <h3>Automatic multiclass intramedullary spinal cord tumor segmentation on MRI with deep learning</h3>
