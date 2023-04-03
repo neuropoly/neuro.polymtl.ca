@@ -9,52 +9,55 @@ title: All Publications
 <div id="filter-box">
 </div>
 
-<button class="label" data-label="label1">Label 1</button>
-<button class="label" data-label="label2">Label 2</button>
-<button class="label" data-label="label3">Label 3</button>
+<button class="label" data-label="mri-physics">mri-physics</button>
+<button class="label" data-label="shimming">shimming</button>
+<button class="label" data-label="deep-learning">deep-learning</button>
+<button class="label" data-label="image-analysis">image-analysis</button>
+<button class="label" data-label="microscopy">microscopy</button>
 
 ## Publications
 
 <div class="publications-container">
-<div class="publication" data-labels="deep-learning segmentation">
+<h3>2022</h3>
+<div class="publication" data-labels="deep-learning image-analysis">
     <h3>Label fusion and training methods for reliable representation of inter-rater uncertainty</h3>
     <p><em>Lemay A, Gros C, Karthik EN, Cohen-Adad J</em></p>
-    <p><strong>Machine Learning for Biomedical Imaging</strong> (2022) <a href="https://www.melba-journal.org/pdf/2022:031.pdf">Link to paper</a><span class="publication-label"> (Labels: deep-learning, segmentation)</span></p>
+    <p><strong>Machine Learning for Biomedical Imaging</strong> (2022) <a href="https://www.melba-journal.org/pdf/2022:031.pdf">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="microscropy">
+<div class="publication" data-labels="microscopy">
     <h3>Histology-informed automatic parcellation of white matter tracts in the rat spinal cord</h3>
     <p><em>Nami H, Perone CS, Cohen-Adad J</em></p>
-    <p><strong>Front Neuroanat</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnana.2022.960475">Link to paper</a><span class="publication-label"> (Labels: microscropy)</span></p>
+    <p><strong>Front Neuroanat</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnana.2022.960475">Link to paper</a><span class="publication-label"> (Labels: microscopy)</span></p>
 </div>
-<div class="publication" data-labels="MRI physics shimming">
+<div class="publication" data-labels="mri-physics shimming">
     <h3>Shimming Toolbox: An open-source software toolbox for B0 and B1 shimming in Magnetic Resonance Imaging</h3>
     <p><em>D’Astous A, Cereza G, Papp D, Gilbert KM, Stockmann JP, Alonso-Ortiz E, Cohen-Adad J</em></p>
-    <p><strong>Magn Reson Med</strong> (2022) <a href="https://doi.org/10.1002/mrm.29528">Link to paper</a><span class="publication-label"> (Labels: MRI physics, shimming)</span></p>
+    <p><strong>Magn Reson Med</strong> (2022) <a href="https://doi.org/10.1002/mrm.29528">Link to paper</a><span class="publication-label"> (Labels: mri-physics, shimming)</span></p>
 </div>
-<div class="publication" data-labels="segmentation">
+<div class="publication" data-labels="image-analysis">
     <h3>Automatic measure and normalization of spinal cord cross-sectional area using the pontomedullary junction</h3>
     <p><em>Bédard S, Cohen-Adad J</em></p>
-    <p><strong>Front Neuroimaging</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnimg.2022.1031253/full">Link to paper</a><span class="publication-label"> (Labels: segmentation)</span></p>
+    <p><strong>Front Neuroimaging</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnimg.2022.1031253/full">Link to paper</a><span class="publication-label"> (Labels: image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="mri-physics">
     <h3>Vendor-neutral sequences and fully transparent workflows improve inter-vendor reproducibility of quantitative MRI</h3>
     <p><em>Karakuzu A, Biswas L, Cohen-Adad J, Stikov N</em></p>
-    <p><strong>Magn Reson Med</strong> (2022) <a href="https://doi.org/10.1002/mrm.29292">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Magn Reson Med</strong> (2022) <a href="https://doi.org/10.1002/mrm.29292">Link to paper</a><span class="publication-label"> (Labels: mri-physics)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="mri-physics">
     <h3>Comparison of multicenter MRI protocols for visualizing the spinal cord gray matter</h3>
     <p><em>Cohen-Adad J, Alonso-Ortiz E, Alley S, Lagana MM, Baglio F, Vannesjo SJ, Karbasforoushan H, Seif M, Seifert AC, Xu J, Kim J-W, Labounek R, Vojtíšek L, Dostál M, Valošek J, Samson RS, Grussu F, Battiston M, Gandini Wheeler-Kingshott CAM, Yiannakas MC, Gilbert G, Schneider T, Johnson B, Prados F</em></p>
-    <p><strong>Magn Reson Med</strong> (2022) <a href="http://doi.org/10.1002/mrm.29249">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Magn Reson Med</strong> (2022) <a href="http://doi.org/10.1002/mrm.29249">Link to paper</a><span class="publication-label"> (Labels: mri-physics)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="microscopy deep-learning image-analysis">
     <h3>Rapid, automated nerve histomorphometry through open-source artificial intelligence</h3>
     <p><em>Daeschler SC, Bourget M-H, Derakhshan D, Sharma V, Asenov SI, Gordon T, Cohen-Adad J, Borschel GH</em></p>
-    <p><strong>Sci Rep</strong> (2022) <a href="https://www.nature.com/articles/s41598-022-10066-6">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Sci Rep</strong> (2022) <a href="https://www.nature.com/articles/s41598-022-10066-6">Link to paper</a><span class="publication-label"> (Labels: microscopy, deep-learning, image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="">
+<div class="publication" data-labels="microscopy">
     <h3>Microscopy-BIDS: An Extension to the Brain Imaging Data Structure for Microscopy Data</h3>
     <p><em>Bourget M-H, Kamentsky L, Ghosh SS, Mazzamuto G, Lazari A, Markiewicz CJ, Oostenveld R, Niso G, Halchenko YO, Lipp I, Takerkart S, Toussaint P-J, Khan AR, Nilsonne G, Castelli FM, The BIDS Maintainers, Cohen-Adad J</em></p>
-    <p><strong>Front Neurosci</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.871228/full">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+    <p><strong>Front Neurosci</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.871228/full">Link to paper</a><span class="publication-label"> (Labels: microscopy)</span></p>
 </div>
 <div class="publication" data-labels="">
     <h3>Brain-spinal cord interaction in long-term motor sequence learning in human: An fMRI study</h3>
@@ -77,6 +80,12 @@ title: All Publications
     <p><strong>Mov Disord</strong> (2022) <a href="http://doi.org/10.1002/mds.28891 ">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
 <div class="publication" data-labels="">
+    <h3>Quantitative electrophysiological assessments as predictive markers of lower limb motor recovery after spinal cord injury: a pilot study with an adaptive trial design</h3>
+    <p><em>Huang YN, Meftah EM, Pion CH, Mac-Thiong JM, Cohen-Adad J, Barthélemy D</em></p>
+    <p><strong>Spinal Cord Ser Cases</strong> (2022) <a href="https://www.nature.com/articles/s41394-022-00491-0">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
+</div>
+<h3>2021</h3>
+<div class="publication" data-labels="">
     <h3>Reduced Axon Calibre in the Associative Striatum of the Sapap3 Knockout Mouse</h3>
     <p><em>Lousada E, Boudreau M, Cohen-Adad J, Oumesmar BN, Burguiere E, Schreiweis C</em></p>
     <p><strong>Brain Sci</strong> (2021) <a href="https://www.mdpi.com/2076-3425/11/10/1353">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
@@ -85,11 +94,6 @@ title: All Publications
     <h3>Quantitative 7-Tesla imaging of cortical myelin changes in early multiple sclerosis</h3>
     <p><em>Barletta V, Herranz E, Treaba CA, Mehndiratta A, Ouellette R, Mangeat G, Granberg T, Sloane JA, Klawiter EC, Cohen-Adad J, Mainero C</em></p>
     <p><strong>Front Neurol</strong> (2021) <a href="https://www.frontiersin.org/articles/10.3389/fneur.2021.714820">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
-</div>
-<div class="publication" data-labels="">
-    <h3>Quantitative electrophysiological assessments as predictive markers of lower limb motor recovery after spinal cord injury: a pilot study with an adaptive trial design</h3>
-    <p><em>Huang YN, Meftah EM, Pion CH, Mac-Thiong JM, Cohen-Adad J, Barthélemy D</em></p>
-    <p><strong>Spinal Cord Ser Cases</strong> (2022) <a href="https://www.nature.com/articles/s41394-022-00491-0">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
 <div class="publication" data-labels="">
     <h3>The R1-weighted connectome: complementing brain networks with a myelin-sensitive measure</h3>
@@ -166,6 +170,7 @@ title: All Publications
     <p><em>McLachlin S, Leung J, Sivan V, Quirion P-O, Wilkie P, Cohen-Adad J, Whyne C M, Hardisty M R</em></p>
     <p><strong>Neuroradiology</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/33447915/">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2020</h3>
 <div class="publication" data-labels="">
     <h3>Injury Volume Extracted from MRI Predicts Neurologic Outcome in Acute Spinal Cord Injury: A Prospective TRACK-SCI Pilot Study</h3>
     <p><em>Mummaneni N, Burke JF, DiGiorgio AM, Thomas LH, Duong-Fernandez X, Harris M, Pascual LU, Ferguson AR, Russell Huie J, Pan JZ, Hemmerle DD, Singh V, Torres-Espin A, Omondi C, Kyritsis N, Weinstein PR, Whetstone WD, Manley GT, Bresnahan JC, Beattie MS, Cohen-Adad J, Dhall SS, Talbott JF</em></p>
@@ -231,6 +236,7 @@ title: All Publications
     <p><em>Ouellette R, Mangeat G, Polyak I, Warntjes M, Forslin Y, Bergendal Å, Plattén M, Uppman M, Treaba CA, Cohen-Adad J, Piehl F, Wiberg MK, Fredrikson S, Mainero C, Granberg T</em></p>
     <p><strong>Ann Neurol</strong> (2020) <a href="https://www.ncbi.nlm.nih.gov/pubmed/32057118">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2019</h3>
 <div class="publication" data-labels="">
     <h3>Arterial stiffness cut-off value and white matter integrity in the elderly</h3>
     <p><em>Badji A, Noriega de la Colina A, Karakuzu A, Duval T, Desjardins-Crépeau L, Parizet M, Joubert S, Bherer L, Lamarre-Cliche M, Stikov N, Cohen-Adad J, Girouard H</em></p>
@@ -331,6 +337,7 @@ title: All Publications
     <p><em>Querin G, El Mendili MM, Lenglet T, Behin A, Stojkovic T, Salachas F, Devos D, Le Forestier N, Del Mar Amador M, Debs R, Lacomblez L, Meninger V, Bruneteau G, Cohen-Adad J, Lehéricy S, Laforêt P, Blancho S, Benali H, Catala M, Li M, Marchand-Pauvert V, Hogrel JY, Bede P, Pradat PF</em></p>
     <p><strong>Neuroimage Clin</strong> (2019) <a href="https://www.ncbi.nlm.nih.gov/pubmed/30522974">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2018</h3>
 <div class="publication" data-labels="">
     <h3>Inter-Vendor Reproducibility of Myelin Water Imaging Using a 3D Gradient and Spin Echo Sequence</h3>
     <p><em>Lee L, Ljungberg E, Shin D, Figley C, Vavasour I, Rauscher A, Cohen-Adad J, Li D, Traboulsee A, MacKay A, Lee J, Kolind S</em></p>
@@ -436,6 +443,7 @@ title: All Publications
     <p><em>De Tillieux P, Topfer R, Foias A, Leroux I, El Maachi I, Leblond H, Stikov N, Cohen-Adad J</em></p>
     <p><strong>Magn Reson Med</strong> (2018) <a href="https://www.ncbi.nlm.nih.gov/pubmed/28321901">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2017</h3>
 <div class="publication" data-labels="">
     <h3>Axon and Myelin Morphology in Animal and Human Spinal Cord</h3>
     <p><em>Saliani A, Perraud B, Duval T, Stikov N, Rossignol S, Cohen-Adad J</em></p>
@@ -501,6 +509,7 @@ title: All Publications
     <p><em>Dupont SM, De Leener B, Taso M, Le Troter A, Nadeau S, Stikov N, Callot V, Cohen-Adad J</em></p>
     <p><strong>Neuroimage</strong> (2017) <a href="https://www.ncbi.nlm.nih.gov/pubmed/27663988">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2016</h3>
 <div class="publication" data-labels="">
     <h3>Modeling white matter microstructure</h3>
     <p><em>Duval T, Stikov N, Cohen-Adad J</em></p>
@@ -541,6 +550,7 @@ title: All Publications
     <p><em>Cabana J-F, Gu Y, Boudreau M, Levesque IR, Atchia Y, Sled JG, Narayanan S, Arnold DL, Pike GB, Cohen-Adad J, Duval T, Vuong M-T, Stikov N</em></p>
     <p><strong>Concepts in Magnetic Resonance Part A</strong> (2016) <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cmr.a.21357">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2015</h3>
 <div class="publication" data-labels="">
     <h3>Translating state-of-the-art spinal cord MRI techniques to clinical use: A systematic review of clinical studies utilizing DTI, MT, MWF, MRS, and fMRI</h3>
     <p><em>Martin AR, Aleksanderek I, Cohen-Adad J, Tarmohamed Z, Tetreault L, Smith N, Cadotte DW, Crawley AP, Ginsberg H, Mikulis D, Fehlings MG</em></p>
@@ -641,6 +651,7 @@ title: All Publications
     <p><em>El Mendili MM, Chen R, Tiret B, Pelegrini-Issac M, Cohen-Adad J, Lehericy S, Pradat PF, Benali H</em></p>
     <p><strong>J Magn Reson Imaging</strong> (2015) <a href="https://www.ncbi.nlm.nih.gov/pubmed/24436309">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2014</h3>
 <div class="publication" data-labels="">
     <h3>Framework for integrated MRI average of the spinal cord white and gray matter: the MNI-Poly-AMU template</h3>
     <p><em>Fonov VS, Le Troter A, Taso M, De Leener B, Leveque G, Benhamou M, Sdika M, Benali H, Pradat PF, Collins DL, Callot V, Cohen-Adad J</em></p>
@@ -691,6 +702,7 @@ title: All Publications
     <p><em>Cohen-Adad J</em></p>
     <p><strong>Neuroimage</strong> (2014) <a href="https://www.ncbi.nlm.nih.gov/pubmed/23357070">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2013</h3>
 <div class="publication" data-labels="">
     <h3>Identification of discrete functional subregions of the human periaqueductal gray</h3>
     <p><em>Satpute A, Wager T, Cohen-Adad J, Bianciardi M, Choi J-K, Buhle J, Wald LL, Fedman Barret L</em></p>
@@ -726,6 +738,7 @@ title: All Publications
     <p><em>Cohen-Adad J, Zhao W, Keil B, Ratai E-M, Triantafyllou C, Lawson R, Dheel C, Wald LL, Rosen BR, Cudkowicz M, Atassi N</em></p>
     <p><strong>Muscle Nerve</strong> (2013) <a href="https://www.ncbi.nlm.nih.gov/pubmed/23553571">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2012</h3>
 <div class="publication" data-labels="">
     <h3>Accelerated diffusion spectrum imaging with compressed sensing using adaptive dictionaries</h3>
     <p><em>Bilgic B, Setsompop K, Cohen-Adad J, Yendiki A, Wald LL, Adalsteinsson E</em></p>
@@ -761,6 +774,7 @@ title: All Publications
     <p><em>Nielsen AS, Kinkel RP, Tinelli E, Benner T, Cohen-Adad J, Mainero C</em></p>
     <p><strong>J Magn Reson Imaging</strong> (2012) <a href="https://www.ncbi.nlm.nih.gov/pubmed/22045554">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2011</h3>
 <div class="publication" data-labels="">
     <h3>Impact of outliers on diffusion tensor and Q-ball imaging: clinical implications and correction strategies</h3>
     <p><em>Sharman M, Cohen-Adad J, Descoteaux M, Messé A, Benali H, Lehericy S</em></p>
@@ -791,6 +805,7 @@ title: All Publications
     <p><em>Cohen-Adad J, Benner T, Greve DN, Kinkel RP, Radding A, Fischl B, Rosen BR, Mainero C</em></p>
     <p><strong>Neuroimage</strong> (2011) <a href="https://www.ncbi.nlm.nih.gov/pubmed/21511042">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2010</h3>
 <div class="publication" data-labels="">
     <h3>Human cervical spinal cord funiculi: investigation with magnetic resonance diffusion tensor imaging</h3>
     <p><em>Onu M, Gervai P, Cohen-Adad J, Lawrence J, Kornelsen J, Tomanek B, Sboto-Frankenstein UN</em></p>
@@ -806,6 +821,7 @@ title: All Publications
     <p><em>Cohen-Adad J, Gauthier CJ, Brooks JCW, Slessarev M, Han J, Fisher JA, Rossignol S, Hoge RD</em></p>
     <p><strong>Neuroimage</strong> (2010) <a href="https://www.ncbi.nlm.nih.gov/pubmed/20060914">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2009</h3>
 <div class="publication" data-labels="">
     <h3>Characterization of cardiac-related noise in fMRI of the cervical spinal cord</h3>
     <p><em>Piché M, Cohen-Adad J, Nejad MK, Perlbarg V, Xie G, Beaudoin G, Benali H, Rainville P</em></p>
@@ -816,6 +832,7 @@ title: All Publications
     <p><em>Cohen-Adad J, Hoge RD, Leblond H, Xie G, Beaudoin G, Song AW, Krueger G, Doyon J, Benali H, Rossignol S</em></p>
     <p><strong>Neuroimage</strong> (2009) <a href="https://www.ncbi.nlm.nih.gov/pubmed/18938251">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2008</h3>
 <div class="publication" data-labels="">
     <h3>Detection of multiple pathways in the spinal cord using q-ball imaging</h3>
     <p><em>Cohen-Adad J, Descoteaux M, Rossignol S, Hoge RD, Deriche R, Benali H</em></p>
@@ -831,6 +848,7 @@ title: All Publications
     <p><em>Cohen-Adad J, Benali H, Barrière G, Leblond H, Hoge RD, Rossignol S</em></p>
     <p><strong>IRBM</strong> (2008) <a href="">Link to paper</a><span class="publication-label"> (Labels: )</span></p>
 </div>
+<h3>2007</h3>
 <div class="publication" data-labels="">
     <h3>Activation detection in diffuse optical imaging by means of the general linear model</h3>
     <p><em>Cohen-Adad J, Chapuisat S, Doyon J, Rossignol S, Lina JM, Benali H, Lesage F</em></p>
