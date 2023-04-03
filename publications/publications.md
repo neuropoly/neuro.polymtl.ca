@@ -16,6 +16,7 @@ title: All Publications
 ## Publications
 
 <div class="publications-container">
+    <h3>2022</h3>
     <div class="publication" data-labels="label1">
         <h3>The myelin-weighted connectome in Parkinson’s disease</h3>
         <p><em>Boshkovski T, Cohen-Adad J, Misic B, Aranult I, Corvol J-C, Vidailhet M, Lehéricy S, Mancini M, Stikov N</em></p>
@@ -25,6 +26,7 @@ title: All Publications
     <div class="publication" data-labels="label2">
         Lousada E, Boudreau M, Cohen-Adad J, Oumesmar BN, Burguiere E, Schreiweis C. [A comprehensive structural characterization of the Sapap3 knockout mouse for repetitive behaviours](https://www.mdpi.com/2076-3425/11/10/1353). **Brain Sci** 2021
     </div>
+    <h3>2021</h3>
     <div class="publication" data-labels="label3">
         Barletta V, Herranz E, Treaba CA, Mehndiratta A, Ouellette R, Mangeat G, Granberg T, Sloane JA, Klawiter EC, Cohen-Adad J, Mainero C. [Quantitative 7-Tesla imaging of cortical myelin changes in early multiple sclerosis](https://www.frontiersin.org/articles/10.3389/fneur.2021.714820). **Front Neurol** 2021
     </div>
