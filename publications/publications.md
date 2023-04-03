@@ -19,7 +19,8 @@ title: All Publications
     <div class="publication" data-labels="label1">
         <h3>The myelin-weighted connectome in Parkinson’s disease</h3>
         <p><em>Boshkovski T, Cohen-Adad J, Misic B, Aranult I, Corvol J-C, Vidailhet M, Lehéricy S, Mancini M, Stikov N</em></p>
-        <p><strong>Mov Disord</strong> (2021) <a href="http://doi.org/10.1002/mds.28891">Link to paper</a></p>
+        <p><strong>Mov Disord</strong> (2021) <a href="http://doi.org/10.1002/mds.28891">Link to paper</a><span class="publication-label"> (Labels: Label 1, Label 2)</span></p>
+        </div>
     </div>
     <div class="publication" data-labels="label2">
         Lousada E, Boudreau M, Cohen-Adad J, Oumesmar BN, Burguiere E, Schreiweis C. [A comprehensive structural characterization of the Sapap3 knockout mouse for repetitive behaviours](https://www.mdpi.com/2076-3425/11/10/1353). **Brain Sci** 2021

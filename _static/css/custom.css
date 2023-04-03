@@ -52,6 +52,16 @@ body {
   margin-bottom: 4px;
 }
 
+.publication-labels {
+  margin-top: 8px;
+}
+
+.publication-label {
+  font-size: 14px;
+  color: #777; /* Gray color */
+  margin-right: 4px;
+}
+
 #filter-box {
   margin-bottom: 16px;
 }
