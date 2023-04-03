@@ -17,7 +17,10 @@ title: All Publications
 
 <div class="publications-container">
     <div class="publication" data-labels="label1">
-        Boshkovski T, Cohen-Adad J, Misic B, Aranult I, Corvol J-C, Vidailhet M, Lehéricy S, Mancini M, Stikov N. [The myelin-weighted connectome in Parkinson’s disease](http://doi.org/10.1002/mds.28891 ). **Mov Disord** 2021
+        <h3>The myelin-weighted connectome in Parkinson’s disease</h3>
+        <p><em>Boshkovski T, Cohen-Adad J, Misic B, Aranult I, Corvol J-C, Vidailhet M, Lehéricy S, Mancini M, Stikov N</em></p>
+        <p><a href="http://doi.org/10.1002/mds.28891">Link to Paper</a></p>
+        <p>Mov Disord 2021</p>
     </div>
     <div class="publication" data-labels="label2">
         Lousada E, Boudreau M, Cohen-Adad J, Oumesmar BN, Burguiere E, Schreiweis C. [A comprehensive structural characterization of the Sapap3 knockout mouse for repetitive behaviours](https://www.mdpi.com/2076-3425/11/10/1353). **Brain Sci** 2021
