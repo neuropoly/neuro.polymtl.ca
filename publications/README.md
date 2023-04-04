@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+# `🔍` Publications
+
+```{toctree}
+:maxdepth: 1
+publications
+```
+=======
 # `📚` Publications
 
 ```{toctree}
@@ -17,3 +25,4 @@ data
 ![alt-text-2](../.gitbook/assets/mangeat_2015_nimg_cover.png)
 ![alt-text-1](../.gitbook/assets/cover_neurotrauma_2018.jpeg)
 ![alt-text-2](../.gitbook/assets/cover_brain_2020.png)
+>>>>>>> a7eee3b44ec2c56273274d5674a7b75a84a6819e
