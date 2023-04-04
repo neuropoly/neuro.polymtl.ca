@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Journal articles
 ---
 
-# Publications
+# Journal articles
 
 Filter by Labels:
 
