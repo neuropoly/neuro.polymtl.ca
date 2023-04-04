@@ -10,7 +10,7 @@ self
 team/README
 facilities
 research/README
-publications
+publications/README
 software
 events-and-workshops
 job-opportunities/README
