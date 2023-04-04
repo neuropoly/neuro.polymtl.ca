@@ -3,10 +3,10 @@ body {
 }
 
 .label {
-  background-color: #007bff;
+  background-color: #777;
   border: none;
   color: white;
-  padding: 8px 16px;
+  padding: 4px 8px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -50,6 +50,22 @@ body {
   border-radius: 4px;
   margin-right: 4px;
   margin-bottom: 4px;
+}
+
+#filter-box {
+  padding: 5px;
+  width: calc(100% - 10px); /* Set the width to 100% of the container minus the padding on both sides */
+  height: auto; /* Set the height to auto */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-flex; /* Change from inline-block to inline-flex */
+  flex-wrap: wrap; /* Allow wrapping */
+  margin-bottom: 10px;
+  overflow-y: auto; /* Show a scrollbar when needed */
+}
+
+.label-hidden {
+  display: none;
 }
 
 .publication-labels {

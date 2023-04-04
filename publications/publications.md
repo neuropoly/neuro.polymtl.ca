@@ -1,18 +1,16 @@
 ---
-title: All Publications
+title: Publications
 ---
 
-# All Publications
+# Publications
 
-## Filter by Labels
+Filter by Labels:
 
 <div id="filter-box">
 </div>
 
 ```{include} label_definitions.md
 ```
-
-## Publications
 
 <div class="publications-container">
 <h3>2022</h3>
