@@ -132,6 +132,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Victor Baillet
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/victor-baillet-a098a2202/)
 * Busra Bulut
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/VictorBaillet)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/busra-bulut-a26420204/)
 * Etienne du Fayet
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>]([https://www.linkedin.com/in/etienne-d-610a9a134/])
