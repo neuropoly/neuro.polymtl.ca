@@ -30,12 +30,21 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function filterPublications() {
-    for (let pub of publications) {
-      const pubLabels = pub.getAttribute('data-labels').split(',');
-      if (Array.from(selectedLabels).every((lbl) => pubLabels.includes(lbl))) {
-        pub.style.display = 'block';
+    for (let publication of publications) {
+      const publicationLabels = publication.dataset.labels.split(' ').map(label => label.trim());
+      let hasAnyLabel = selectedLabels.size === 0;
+
+      for (const selectedLabel of selectedLabels) {
+        if (publicationLabels.includes(selectedLabel)) {
+          hasAnyLabel = true;
+          break;
+        }
+      }
+
+      if (hasAnyLabel) {
+        publication.style.display = 'block';
       } else {
-        pub.style.display = 'none';
+        publication.style.display = 'none';
       }
     }
   }
