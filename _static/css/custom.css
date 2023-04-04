@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.label {
+  background-color: #777;
+  border: none;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.publications-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.publication {
+  background-color: #f1f1f1;
+  width: 100%;
+  margin-bottom: 16px;
+  padding: 16px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.publication h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.publication p {
+  margin: 0;
+}
+
+.filter-label {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 4px 8px;
+  font-size: 14px;
+  border-radius: 4px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
+
+#filter-box {
+  padding: 5px;
+  width: calc(100% - 10px); /* Set the width to 100% of the container minus the padding on both sides */
+  height: auto; /* Set the height to auto */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-flex; /* Change from inline-block to inline-flex */
+  flex-wrap: wrap; /* Allow wrapping */
+  margin-bottom: 10px;
+  overflow-y: auto; /* Show a scrollbar when needed */
+}
+
+.label-hidden {
+  display: none;
+}
+
+.publication-labels {
+  margin-top: 8px;
+}
+
+.publication-label {
+  font-size: 14px;
+  color: #777; /* Gray color */
+  margin-right: 4px;
+}
+
+#filter-box {
+  margin-bottom: 16px;
+}
+
+/* Responsive style */
+@media (max-width: 767px) {
+  .publication {
+    width: 100%;
+  }
+}
