@@ -12,5 +12,5 @@ Filter by Labels:
 ```{include} label_definitions.md
 ```
 
-```{include} publications-article.md
+```{include} publications-combined.md
 ```
