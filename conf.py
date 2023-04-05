@@ -205,8 +205,5 @@ def build_gallery(app: Sphinx):
 def setup(app: Sphinx):
     app.add_css_file("_static/theme.css")
     app.connect("builder-inited", build_gallery)
-<<<<<<< HEAD
-=======
     app.add_css_file('css/custom.css')
->>>>>>> a7eee3b44ec2c56273274d5674a7b75a84a6819e
     app.add_js_file('js/custom.js')

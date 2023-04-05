@@ -1,6 +1,6 @@
 # RF & Shim Coil Design
 
-The RF Lab is supported by [TransMedTech](https://www.polymtl.ca/transmedtech/en/research-development/technology-platforms/imaging-technologies/design-and-manufacture-mri-antennas).
+![Alt text](../_media/coil_building_workflow.png)
 
 ## RF Coils for MRI
 
