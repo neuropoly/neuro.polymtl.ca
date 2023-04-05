@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# `🔍` Publications
-
-```{toctree}
-:maxdepth: 1
-publications
-```
-=======
 # `📚` Publications
 
 ```{toctree}
