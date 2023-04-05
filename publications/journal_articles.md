@@ -9,7 +9,7 @@ Filter by Labels:
 <div id="filter-box">
 </div>
 
-```{include} label_definitions.md
+```{include} label_definitions.html
 ```
 
 ```{include} publications-combined.md
