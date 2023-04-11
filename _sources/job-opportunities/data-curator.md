@@ -75,11 +75,12 @@ We recruit an IT expert in data curation to help managing our internal and publi
 
 * Fill up the application form below. You might be contacted for an interview.
 
-````{tabbed} FR
+::::{tab-set}
+:::{tab-item} FR
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDCPOwfahJtUFDrXRdMkAkPx354c8-1u-Mq4E6mrS0MNb19A/viewform?embedded=true" width="640" height="1013" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-````
+:::
 
-````{tabbed} EN
+:::{tab-item} EN
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgmvEzh2mNfcLn1SiiVsmuHDyYIHP9EGw97aUauNNfvHSEXQ/viewform?embedded=true" width="640" height="1013" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-```
-
+:::
+::::
