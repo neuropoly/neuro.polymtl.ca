@@ -40,10 +40,12 @@ We recruit experienced software developers to work on our [medical imaging softw
 
 * Fill up the application form below. You might be contacted for an interview.
 
-````{tabbed} FR
+::::{tab-set}
+:::{tab-item} FR
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_8jK6vmiwaK4h0WS5qKeKBkxdZ179S3l7fQvAU1NJfWKKlw/viewform?embedded=true" width="640" height="1013" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-````
+:::
 
-````{tabbed} EN
+:::{tab-item} EN
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6whLxv56ZlgU1rqGg1ApL92kO4gOwMDJZA-foSiERwVF9oQ/viewform?embedded=true" width="640" height="1013" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-```
+:::
+::::

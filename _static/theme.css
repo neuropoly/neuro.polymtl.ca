@@ -1,12 +1,3 @@
-
-/* #main-content {
-    font-size: 14px;
-} */
-
-#site-navigation {
-    background: #f3f5f6;
-}
-
 /* hack: sphinx-panels overrides sphinx-book-theme's overrriding of bootstrap.css's default design,
    which makes the sidebar end up wider than it needs to be.
 
@@ -14,7 +5,8 @@
 
    It's fragile to do it this way but it's just a small patch, hopefully it will be manageable.
 */
-.bd-sidebar,.bd-topbar-whitespace {
+.bd-sidebar {
+  background: #f3f5f6;
   max-width: 275px;
 }
 
@@ -29,10 +21,9 @@
  * the container-fluid class, but I don't know how to do that without
  * forking and editing sphinx-book-theme itself.
  */
-.container-xl {
+.bd-page-width {
   max-width: none;
 }
-
 
 /* Make sure the sub-ToC's header doesn't overflow its boundary.
  * This is mostly an issue on mobile.
@@ -41,15 +32,6 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-/* fix the width of the leading emojis.
- * unfortunately we can't use a css class because sphinx rolls CSS classes
- * into the anchor links it generates for these titles.
- */
-li.toctree-l1 > a > code:nth-child(1) > span.pre {
-  display: inline-block;
-  width: 1.5em;
 }
 
 /* space out lists */
@@ -64,27 +46,18 @@ i[class*="fa-"] ~ span {
   display: none;
 }
 
-#main-content :is(.fa, .fab) {
-    /* style the social media icons */
-    color: rgb(90, 90, 90);
-    font-size: 1.4em;
+#main-content :is(.fa,.fab) {
+  /* style the social media icons */
+  color: rgb(90, 90, 90);
+  font-size: 1.4em;
 }
 #main-content :is(.fa,.fab).fa-twitter {
-    /* style the social media icons */
-    color: #04b5e3;
+  /* style the social media icons */
+  color: #04b5e3;
 }
 #main-content :is(.fa,.fab).fa-linkedin {
-    /* style the social media icons */
-    color: #0086c1;
-}
-
-
-/* Center the Github/Docs columns on software.html and make sure they align across all tables on the page.
- * This is a bit of a hack to do in the main theme file but it works.
- */
-#open-source-projects table tr > :is(th,td):is(:nth-child(3),:nth-child(4)) {
-  text-align: center;
-  min-width: 15%; /* this forces these columns to get 30%, text-wrapping the description column as necessary */
+  /* style the social media icons */
+  color: #0086c1;
 }
 
 /* make clicking anchor links scroll to their target instead of jump to them */
@@ -97,18 +70,18 @@ i[class*="fa-"] ~ span {
  scroll-behavior: smooth;
 }
 
-
 /* All of our top-level titles have leading emojis,
  * which means the top level *titles* appear to line up with the second level titles.
  * So indent the second an extra step to clarify.
  */
 .toctree-l2 {
-    margin-left: 1em;
+  margin-left: 1em;
 }
 
-/* clear sphinx-book-theme's default whitespace above the siderbar */
-div.navbar-brand-box {
-  padding-top: 0;
+/* clear sphinx-book-theme's default whitespace around sidebar items */
+.bd-sidebar-primary .sidebar-primary-items__end .sidebar-primary-item,
+.bd-sidebar-primary .sidebar-primary-items__start .sidebar-primary-item {
+  padding: 0;
 }
 
 /* vertically center table contents */
@@ -160,15 +133,15 @@ div.pdf-container > div > object[type="application/pdf"] {
 /* G-Translate */
 
 .center-g-translate {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .center-g-translate > * {
-    margin-right: 5px;
+  margin-right: 5px;
 }
 
 .center-g-translate > *:last-child {
-    margin-right: 0;
+  margin-right: 0;
 }

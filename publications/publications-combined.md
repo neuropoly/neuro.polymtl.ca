@@ -1,5 +1,5 @@
 
-## 2023
+# 2023
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis deep-learning">
     <h3>HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation</h3>
@@ -7,7 +7,7 @@
     <p><strong>Winter Conference on Applications of Computer Vision (WACV) </strong> (2023) <a href="https://arxiv.org/pdf/2207.08518.pdf">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 
-## 2022
+# 2022
 <div class="publications-container">
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>Label fusion and training methods for reliable representation of inter-rater uncertainty</h3>
@@ -85,7 +85,7 @@
     <p><strong>IEEE International Symposium on Biomedical Imaging (ISBI) 2022, Kolkata, India</strong> (2022) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
 
-## 2021
+# 2021
 <div class="publications-container">
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>Automatic multiclass intramedullary spinal cord tumor segmentation on MRI with deep learning</h3>
@@ -183,7 +183,7 @@
     <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2021) <a href="https://arxiv.org/pdf/2102.09582.pdf">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 
-## 2020
+# 2020
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri">
     <h3>An interactive meta-analysis of MRI biomarkers of myelin</h3>
@@ -251,7 +251,7 @@
     <p><strong>J Clin Neurosci</strong> (2020) <a href="https://pubmed.ncbi.nlm.nih.gov/33248950/">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury, quantitative-mri)</span></p>
 </div>
 
-## 2019
+# 2019
 <div class="publications-container">
 <div class="publication" data-labels="multiple-sclerosis quantitative-mri">
     <h3>Gray Matter Alterations in Early and Late Relapsing-Remitting Multiple Sclerosis Evaluated with Synthetic Quantitative Magnetic Resonance Imaging</h3>
@@ -364,7 +364,7 @@
     <p><strong>Nat Commun</strong> (2019) <a href="https://www.ncbi.nlm.nih.gov/pubmed/31388003">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, neuroscience)</span></p>
 </div>
 
-## 2018
+# 2018
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri">
     <h3>Test-retest reliability of myelin imaging in the human spinal cord: Measurement errors versus region- and aging-induced variations</h3>
@@ -477,7 +477,7 @@
     <p><strong>4th Deep Learning in Medical Image Analysis (DLMIA) Workshop, Granada, Spain</strong> (2018) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 
-## 2017
+# 2017
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis">
     <h3>Spinal cord grey matter segmentation challenge</h3>
@@ -545,7 +545,7 @@
     <p><strong>Brain</strong> (2017) <a href="https://www.ncbi.nlm.nih.gov/pubmed/29053798">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, multiple-sclerosis)</span></p>
 </div>
 
-## 2016
+# 2016
 <div class="publications-container">
 <div class="publication" data-labels="microscopy image-analysis">
     <h3>AxonSeg: open source software for axon and myelin segmentation and morphometric analysis</h3>
@@ -588,7 +588,7 @@
     <p><strong>Funct Neurol</strong> (2016) <a href="https://www.ncbi.nlm.nih.gov/pubmed/28072382">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri)</span></p>
 </div>
 
-## 2015
+# 2015
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri">
     <h3>Spinal diffusion tensor imaging: A comprehensive review with emphasis on spinal cord anatomy and clinical applications</h3>
@@ -696,7 +696,7 @@
     <p><strong>Data Brief</strong> (2015) <a href="https://www.ncbi.nlm.nih.gov/pubmed/26217818">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, microscopy, neuroscience)</span></p>
 </div>
 
-## 2014
+# 2014
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri neuroscience">
     <h3>Multi-parametric spinal cord MRI as potential progression marker in amyotrophic lateral sclerosis</h3>
@@ -754,7 +754,7 @@
     <p><strong>Proceedings of the SPIE</strong> (2014) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis)</span></p>
 </div>
 
-## 2013
+# 2013
 <div class="publications-container">
 <div class="publication" data-labels="mri-physics quantitative-mri">
     <h3>The Human Connectome Project and beyond: initial applications of 300 mT/m gradients</h3>
@@ -792,7 +792,7 @@
     <p><strong>Proc Natl Acad Sci U S A</strong> (2013) <a href="https://www.ncbi.nlm.nih.gov/pubmed/24082116">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, neuroscience)</span></p>
 </div>
 
-## 2012
+# 2012
 <div class="publications-container">
 <div class="publication" data-labels="mri-physics image-analysis">
     <h3>Accelerated Diffusion Spectrum Imaging with Compressed Sensing using Adaptive Dictionaries</h3>
@@ -835,7 +835,7 @@
     <p><strong>J Magn Reson Imaging</strong> (2012) <a href="https://www.ncbi.nlm.nih.gov/pubmed/22045554">Link to paper</a><span class="publication-label"> (Labels: multiple-sclerosis, quantitative-mri)</span></p>
 </div>
 
-## 2011
+# 2011
 <div class="publications-container">
 <div class="publication" data-labels="spinal-cord-injury quantitative-mri">
     <h3>Demyelination and degeneration in the injured human spinal cord detected with diffusion and magnetization transfer MRI</h3>
@@ -868,7 +868,7 @@
     <p><strong>J Magn Reson Imaging</strong> (2011) <a href="https://www.ncbi.nlm.nih.gov/pubmed/21591020">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
 
-## 2010
+# 2010
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri image-analysis neuroscience">
     <h3>Human cervical spinal cord funiculi: investigation with magnetic resonance diffusion tensor imaging</h3>
@@ -886,7 +886,7 @@
     <p><strong>Neuroimage</strong> (2010) <a href="https://www.ncbi.nlm.nih.gov/pubmed/20060914">Link to paper</a><span class="publication-label"> (Labels: fmri, neuroscience)</span></p>
 </div>
 
-## 2009
+# 2009
 <div class="publications-container">
 <div class="publication" data-labels="fmri">
     <h3>Characterization of cardiac-related noise in fMRI of the cervical spinal cord</h3>
@@ -899,7 +899,7 @@
     <p><strong>Neuroimage</strong> (2009) <a href="https://www.ncbi.nlm.nih.gov/pubmed/18938251">Link to paper</a><span class="publication-label"> (Labels: fmri, neuroscience)</span></p>
 </div>
 
-## 2008
+# 2008
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri">
     <h3>Detection of multiple pathways in the spinal cord using q-ball imaging</h3>
@@ -917,7 +917,7 @@
     <p><strong>IRBM</strong> (2008) <a href="">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury, quantitative-mri)</span></p>
 </div>
 
-## 2007
+# 2007
 <div class="publications-container">
 <div class="publication" data-labels="fmri neuroscience">
     <h3>Application of the general linear model to hemodynamic response estimation in diffuse optical imaging</h3>
@@ -930,7 +930,7 @@
     <p><strong>Med Image Anal</strong> (2007) <a href="https://www.ncbi.nlm.nih.gov/pubmed/17643341">Link to paper</a><span class="publication-label"> (Labels: fmri)</span></p>
 </div>
 
-## 2006
+# 2006
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis neuroscience">
     <h3>Knowledge modeling in image guided neurosurgery: application in understanding intra-operative brain shift</h3>

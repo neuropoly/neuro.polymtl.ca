@@ -13,4 +13,5 @@ Filter by Labels:
 ```
 
 ```{include} publications-combined.md
+:heading-offset: 1
 ```

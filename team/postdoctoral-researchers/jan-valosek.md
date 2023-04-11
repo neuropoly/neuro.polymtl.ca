@@ -1,11 +1,11 @@
 # Jan Valosek
 
-### Background
+## Background
 
 * M.Sc. in Biomedical Engineering
 * Ph.D. in Neurosciences
 
-### Research Interests
+## Research Interests
 
 * Spinal cord MRI
 * Medical AI
@@ -13,6 +13,6 @@
 * MRI data management
 * Software development
 
-### Contact
+## Contact
 
 [Personal web](https://janvalosek.com)

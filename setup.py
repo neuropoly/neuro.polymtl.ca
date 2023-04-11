@@ -15,15 +15,15 @@ setup(
     name="neuro.polymtl.ca",
     python_requires=">=3.6",
     author="NeuroPoly",
+    packages=[],
     extras_require={
         "sphinx": [
             "myst-parser",
             "ghapi",
             "pandas",
             "sphinx-book-theme",
-            "sphinx-panels",
-            "sphinx-design~=0.0.11", # pinned because of this bug https://github.com/pydata/pydata-sphinx-theme/pull/50# and that the patched sphinx-book-theme isn't out yet: https://github.com/executablebooks/sphinx-book-theme/issues/428#issuecomment-966021270
-            "sphinx~=4.2.0", # TODO: unpin when the next sphinx-book-theme is released
+            "sphinx-design",
+            "sphinx",
         ],
     },
 )

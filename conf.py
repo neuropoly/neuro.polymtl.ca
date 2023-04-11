@@ -31,13 +31,11 @@ root_doc = 'README'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-        'myst_parser', # there's also myst_nb, which supports embedding Jupyter notebooks, but is heavier.
-        'sphinx_panels',
-        'sphinx_design',
-]
+extensions = ['myst_parser', 'sphinx_design']
+myst_enable_extensions = ["colon_fence"]
 
-myst_heading_anchors = 4 # enable #section links: https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-header-anchors
+# enable #section links: https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-header-anchors
+myst_heading_anchors = 4
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -45,7 +43,13 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', '.venv', 'Thumbs.db', '.DS_Store']
+exclude_patterns = [
+    '_build',
+    '.venv',
+    'Thumbs.db',
+    '.DS_Store',
+    'publications/publications-combined.md',  # included in publications/journal_articles.md
+]
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -62,32 +66,39 @@ html_css_files = ["theme.css"]
 
 html_sidebars = {
     "**": [
-        "sidebar-logo.html",
+        "navbar-logo.html",
         "gtranslate.html",
         "search-field.html",
         "sbt-sidebar-nav.html",
     ]
 }
 
-html_title = "NeuroPoly Lab"
-html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
 panels_add_bootstrap_css = False
 
 html_sourcelink_suffix = ".md" # our sources are in markdown; but this only has an effect if "use_download_button": True
 
 html_theme_options = {
+    "logo": {
+        "image_light": "_static/logo.png",
+        "image_dark": "_static/logo.png",
+        "alt_text": "NeuroPoly Lab",
+    },
     "toc_title": "Page Contents",
     "search_bar_text": "Search...",
 
-    "repository_url": "https://github.com/neuropoly/neuro.polymtl.ca",
     "use_fullscreen_button": False,
     "use_edit_page_button": True,
     "use_download_button": False,
-
-    "logo_only": True, # hides html_title and just shows html_logo
 }
 
+html_context = {
+    "default_mode": "light",
+    "github_user": "neuropoly",
+    "github_repo": "neuro.polymtl.ca",
+    "github_version": "master",
+    "doc_path": "",
+}
 
 # On Github's UI, README.{md,txt,rst} are treated as front pages
 # On every other web site, index.{html,php,py,....} are.
@@ -201,9 +212,11 @@ def build_gallery(app: Sphinx):
     """
     (Path(app.srcdir) / "gallery_software.txt").write_text(panels)
 
+def build_publications(app: Sphinx, pagename, templatename, context, doctree):
+    if pagename == "publications/journal_articles":
+        app.add_js_file("js/custom.js")
+        app.add_css_file("css/custom.css")
 
 def setup(app: Sphinx):
-    app.add_css_file("_static/theme.css")
     app.connect("builder-inited", build_gallery)
-    app.add_css_file('css/custom.css')
-    app.add_js_file('js/custom.js')
+    app.connect("html-page-context", build_publications)
