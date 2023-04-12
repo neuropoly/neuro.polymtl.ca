@@ -31,17 +31,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function filterPublications() {
     for (let publication of publications) {
-      const publicationLabels = publication.dataset.labels.split(' ').map(label => label.trim());
-      let hasAnyLabel = selectedLabels.size === 0;
-
-      for (const selectedLabel of selectedLabels) {
-        if (publicationLabels.includes(selectedLabel)) {
-          hasAnyLabel = true;
+      const publicationLabels = publication.dataset.labels.trim().split(/\s+/);
+      let hasAllLabels = true;
+      for (let selectedLabel of selectedLabels) {
+        if (!publicationLabels.includes(selectedLabel)) {
+          hasAllLabels = false;
           break;
         }
       }
 
-      if (hasAnyLabel) {
+      if (hasAllLabels) {
         publication.style.display = 'block';
       } else {
         publication.style.display = 'none';
