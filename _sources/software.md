@@ -1,4 +1,4 @@
-# `🖥` Software
+# <span>🖥</span> Software
 
 Below is a list of software projects created at **NeuroPoly** or at collaborative institutions. These projects are open source and freely available.
 
