@@ -1,4 +1,4 @@
-# `📚` Publications
+# <span>📚</span> Publications
 
 ```{toctree}
 :maxdepth: 1

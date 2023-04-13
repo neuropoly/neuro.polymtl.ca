@@ -1,4 +1,4 @@
-# `👫` Team
+# <span>👫</span> Team
 
 ![](../.gitbook/assets/lab_2021.jpeg)
 

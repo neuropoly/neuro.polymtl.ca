@@ -1,4 +1,4 @@
-# `📣` Job Opportunities
+# <span>📣</span> Job Opportunities
 
 ```{toctree}
 :maxdepth: 1
