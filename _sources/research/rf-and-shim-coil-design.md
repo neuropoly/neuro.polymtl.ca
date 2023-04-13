@@ -1,6 +1,6 @@
 # RF & Shim Coil Design
 
-```{warning}
+```{Important}
 **Open position as an RF engineer!** More details at: [https://www.ismrm.org/jobs/j08204.pdf](https://www.ismrm.org/jobs/j08204.pdf)
 ```
 
