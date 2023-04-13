@@ -1,5 +1,9 @@
 # RF & Shim Coil Design
 
+```{warning}
+**Open position as an RF engineer! More details at: [https://www.ismrm.org/jobs/j08204.pdf](https://www.ismrm.org/jobs/j08204.pdf)
+```
+
 ![Alt text](../_media/coil_building_workflow.png)
 
 ## RF Coils for MRI
