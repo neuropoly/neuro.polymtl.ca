@@ -143,9 +143,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Consultants
 
 * Yang Ding
-* [Uzay Macar](https://uzaymacar.github.io)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
 
 ## Alumni
 
@@ -279,3 +276,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Laura Brightman
 * Aamer Ar
 * Aram Sevag
+* [Uzay Macar](https://uzaymacar.github.io)
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
