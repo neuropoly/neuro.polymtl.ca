@@ -84,6 +84,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Daniel Ridani
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Danirid)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:daniel.ridani@polymtl.ca)
+* Nilser Laines Medina
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Nilser3)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/nilser-laines/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nilser.laines@gmail.com)
   
 ## MSc Students
 
