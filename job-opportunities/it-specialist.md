@@ -33,4 +33,4 @@ The Neuroimaging Research Laboratory (https://neuro.polymtl.ca/) is based at Pol
 - Participate in exciting open-source medical imaging research
 
 ## ✍️ How to apply?
-- Send your CV to [neuropoly-jobs@googlegroups.com](neuropoly-jobs@googlegroups.com) with the subject `[IT specialist]`
+- Send your CV to <neuropoly-jobs@googlegroups.com> with the subject `[IT specialist]`
