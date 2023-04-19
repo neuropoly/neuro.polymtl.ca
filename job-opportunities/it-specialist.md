@@ -1,4 +1,4 @@
-# Open-source IT specialist (research associate)
+# Open-source IT specialist
 
 The Neuroimaging Research Laboratory (https://neuro.polymtl.ca/) is based at Polytechnique Montreal / University of Montreal. We work to better understand the healthy and pathological brain and spinal cord using medical imaging techniques. We develop automatic analysis methods and software (https://neuro.polymtl.ca/software.html) to improve the quality of MRI data to be used by researchers and clinicians. We advocate for open-source software solutions.
 
