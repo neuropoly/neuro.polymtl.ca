@@ -278,6 +278,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Elisabeth Chevalier
 * Marius Tuznick
 * Laura Brightman
+* Mathieu Théo
 * Aamer Ar
 * Aram Sevag
 * [Uzay Macar](https://uzaymacar.github.io)
