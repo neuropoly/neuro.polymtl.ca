@@ -1,6 +1,6 @@
 # Open-source IT specialist
 
-The Neuroimaging Research Laboratory (https://neuro.polymtl.ca/) is based at Polytechnique Montreal / University of Montreal. We work to better understand the healthy and pathological brain and spinal cord using medical imaging techniques. We develop automatic analysis methods and software (https://neuro.polymtl.ca/software.html) to improve the quality of MRI data to be used by researchers and clinicians. We advocate for open-source software solutions.
+The Neuroimaging Research Laboratory ([https://neuro.polymtl.ca/](https://neuro.polymtl.ca/)) is based at Polytechnique Montreal / University of Montreal. We work to better understand the healthy and pathological brain and spinal cord using medical imaging techniques. We develop automatic analysis methods and software ([https://neuro.polymtl.ca/software.html](https://neuro.polymtl.ca/software.html)) to improve the quality of MRI data to be used by researchers and clinicians. We advocate for open-source software solutions.
 
 **We are looking for a research associate to support the laboratory activities in various IT-related tasks.**
 
@@ -22,7 +22,7 @@ The Neuroimaging Research Laboratory (https://neuro.polymtl.ca/) is based at Pol
 
 ## 💰 Salary
 - $30/h if you are good, up to $60/h if you are excellent.
-- The position is part of the Research Professional Association (https://aarep.polymtl.ca/), which includes several benefits (pension plan, dental/medical insurance, holidays, etc.)
+- The position is part of the Research Professional Association ([https://aarep.polymtl.ca/](https://aarep.polymtl.ca/)), which includes several benefits (pension plan, dental/medical insurance, holidays, etc.)
 
 ## 📅 Schedule and work arrangement
 - This is a long term position, which could be part-time or full time.
