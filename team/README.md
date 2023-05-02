@@ -127,8 +127,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Rachad Chazbek
 * Theo Badra
 * Aurélien Pujol
-* Ismail Foudali 
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ismail-foudali-780728166/)
 * Nathan Molinier
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/NathanMolinier) 
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/nathan-molinier-743972180/)
@@ -154,6 +152,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Ismail Foudali 
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ismail-foudali-780728166/)
 * Vicente Enguix
 * Noel Rignon
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/RignonNoel/)
