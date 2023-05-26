@@ -159,6 +159,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Consultants
 
 * Yang Ding
+* Nathan Gorvett
+[<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nathan@nzm.ca)
 
 ## Alumni
 
