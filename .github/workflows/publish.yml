@@ -21,10 +21,11 @@ jobs:
         uses: actions/checkout@main
         with:
           repository: neuropoly/bibeasy
+          path: ./bibeasy/
       
       - name: hmmm
         run: |
-          ls bibeasy/
+          ls .
 
       - name: Install dependencies
         run: |
