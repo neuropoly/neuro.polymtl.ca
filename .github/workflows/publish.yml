@@ -23,15 +23,16 @@ jobs:
           repository: neuropoly/bibeasy
           path: ./bibeasy/
       
-      - name: hmmm
+      - name: Build bibeasy
         run: |
           cd ./bibeasy/ && pip install .
+          python ./bibeasy/scripts/bibeasy_cli.py -l /bibeasy/labels_publication.txt --type article conf-article --reverse --freshen-cache --combine -o ../publications/gen.md
 
       - name: Install dependencies
         run: |
           pip install '.[sphinx]'
 
-      - name: Build
+      - name: Build website
         run: |
           make html
 
