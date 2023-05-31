@@ -20,7 +20,7 @@ jobs:
       - name: Pull bibeasy
         uses: actions/checkout@main
         with:
-          name: neuropoly/bibeasy
+          repository: neuropoly/bibeasy
       
       - name: hmmm
         run: |
