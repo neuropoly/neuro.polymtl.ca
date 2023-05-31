@@ -26,7 +26,8 @@ jobs:
       - name: Build bibeasy
         run: |
           cd ./bibeasy/ && pip install .
-          python ./bibeasy/scripts/bibeasy_cli.py -l /bibeasy/labels_publication.txt --type article conf-article --reverse --freshen-cache --combine -o ../publications/gen.md
+          cd ../publications/
+          python ../bibeasy/bibeasy/scripts/bibeasy_cli.py -l ../bibeasy/bibeasy/labels_publication.txt --type article conf-article --reverse --freshen-cache --combine -o gen.md
 
       - name: Install dependencies
         run: |
