@@ -21,7 +21,6 @@ jobs:
         uses: actions/checkout@main
         with:
           name: neuropoly/bibeasy
-          ref: refs/heads/main
       
       - name: hmmm
         run: |
