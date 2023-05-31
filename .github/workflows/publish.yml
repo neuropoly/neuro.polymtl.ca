@@ -25,7 +25,7 @@ jobs:
       
       - name: hmmm
         run: |
-          ls .
+          cd ./bibeasy/ && pip install .
 
       - name: Install dependencies
         run: |
