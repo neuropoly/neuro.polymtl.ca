@@ -7,6 +7,9 @@ books
 theses
 public_news
 data
+gen-article
+gen-conf-article
+gen-combined
 ```
 
 ![alt-text-1](../.gitbook/assets/cover_cohenadad11_in_vivo_evidence_of_disseminated_subpial_t2_signal_changes_in_multiple_sclerosis_at_7_t.png) 
