@@ -2,8 +2,11 @@ document.addEventListener('DOMContentLoaded', function () {
   const labels = document.getElementsByClassName('label');
   const publications = document.getElementsByClassName('publication');
     //const filterBox = document.getElementById('filter-box');
-    const insertHere = document.getElementById('combined').firstChild;
-    const filterBox = insertHere.append('<div id="filter-box"></div>');
+    const x = document.getElementById('combined');
+    const filterBoxEl = document.createElement('div');
+    filterBoxEl.setAttribute('id', 'filter-box');
+    const filterBox = x.appendChild(filterBoxEl);
+
   const selectedLabels = new Set();
 
   for (let label of labels) {
