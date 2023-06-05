@@ -1,7 +1,9 @@
 document.addEventListener('DOMContentLoaded', function () {
   const labels = document.getElementsByClassName('label');
   const publications = document.getElementsByClassName('publication');
-  const filterBox = document.getElementById('filter-box');
+    //const filterBox = document.getElementById('filter-box');
+    const insertHere = document.getElementById('combined').firstChild;
+    const filterBox = insertHere.append('<div id="filter-box"></div>');
   const selectedLabels = new Set();
 
   for (let label of labels) {
