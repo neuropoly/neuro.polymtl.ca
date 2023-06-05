@@ -33,8 +33,8 @@ jobs:
           
       - name: remove unused files
         run: |
-          rm gen-article.md gen-conf-article.md
-          mv gen-combined.md articles.md
+          rm publications/gen-article.md publications/gen-conf-article.md
+          mv publications/gen-combined.md publications/articles.md
              
           
       - name: Install dependencies
