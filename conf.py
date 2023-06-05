@@ -213,8 +213,7 @@ def build_gallery(app: Sphinx):
     (Path(app.srcdir) / "gallery_software.txt").write_text(panels)
 
 def build_publications(app: Sphinx, pagename, templatename, context, doctree):
-    print(pagename) #debugging
-    if pagename == "articles":
+    if pagename == "publications/articles":
         app.add_js_file("js/custom.js")
         app.add_css_file("css/custom.css")
 
