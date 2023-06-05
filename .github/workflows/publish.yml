@@ -31,6 +31,12 @@ jobs:
           cd ../publications/
           python ../bibeasy/bibeasy/scripts/bibeasy_cli.py -l ../bibeasy/bibeasy/labels_publication.txt --type article conf-article --reverse --freshen-cache --combine -o gen.md
           
+      - name: remove unused files
+        run: |
+          rm gen-article.md gen-conf-article.md
+          mv gen-combined.md articles.md
+             
+          
       - name: Install dependencies
         run: |
           pip install '.[sphinx]'
