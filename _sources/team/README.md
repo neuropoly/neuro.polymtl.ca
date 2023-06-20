@@ -54,6 +54,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## PhD Students
 
 * Alexandre D'Astous
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/po09i)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)
 * Andjela Dimitrijevic
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Andjelaaaa)
