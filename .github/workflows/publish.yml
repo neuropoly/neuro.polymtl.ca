@@ -1,6 +1,8 @@
 name: website
 
 on:
+  schedule:
+  - cron: "0 0 * * *"
   push:
     branches: [ master ]
   workflow_dispatch:
@@ -16,12 +18,28 @@ jobs:
         uses: actions/setup-python@v1
         with:
           python-version: '3.10'
-
+        
+      - name: Pull bibeasy
+        uses: actions/checkout@main
+        with:
+          repository: neuropoly/bibeasy
+          path: ./bibeasy/
+      
+      - name: Build bibeasy
+        run: |
+          cd ./bibeasy/ && pip install .
+          cd ../publications/
+          python ../bibeasy/bibeasy/scripts/bibeasy_cli.py -l ../bibeasy/bibeasy/labels_publication.txt --type article conf-article --reverse --freshen-cache --combine -o gen.md
+          
+      - name: remove unused files
+        run: |
+          rm publications/gen-article.md publications/gen-conf-article.md
+          
       - name: Install dependencies
         run: |
           pip install '.[sphinx]'
 
-      - name: Build
+      - name: Build website
         run: |
           make html
 
