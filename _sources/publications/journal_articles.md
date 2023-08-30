@@ -12,6 +12,6 @@ Filter by Labels:
 ```{include} labels_publication.html
 ```
 
-```{include} publications-combined.md
+```{include} gen-combined.md
 :heading-offset: 1
 ```
