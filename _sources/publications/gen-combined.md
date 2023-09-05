@@ -8,8 +8,8 @@
 </div>
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>Contrast-agnostic deep learning–based registration pipeline: Validation in spinal cord multimodal MRI data</h3>
-    <p><em>Cohen-Adad J, Beal E</em></p>
-    <p><strong>Aperture Neuro</strong> (2023) <a href="https://apertureneuro.org/article/83902-contrast-agnostic-deep-learning-based-registration-pipeline-validation-in-spinal-cord-multimodal-mri-data">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
+    <p><em>Beal E, Cohen-Adad J</em></p>
+    <p><strong>Aperture Neuro</strong> (2023) <a href="https://doi.org/10.52294/f662441d-2678-4683-8a8c-6ad7be2c4b29">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="mri-physics">
     <h3>An 8-channel Tx dipole and 20-channel Rx loop coil array for MRI of the cervical spinal cord at 7 Tesla</h3>
