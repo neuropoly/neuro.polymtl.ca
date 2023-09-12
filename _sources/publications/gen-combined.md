@@ -4,7 +4,7 @@
 <div class="publication" data-labels="image-analysis neuroscience">
     <h3>Pontomedullary junction as a reference for spinal cord cross-sectional area: validation across neck positions</h3>
     <p><em>Bédard S, Bouthillier M, Cohen-Adad J</em></p>
-    <p><strong>Sci Rep</strong> (2023) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis, neuroscience)</span></p>
+    <p><strong>Sci Rep</strong> (2023) <a href="https://www.nature.com/articles/s41598-023-40731-3">Link to paper</a><span class="publication-label"> (Labels: image-analysis, neuroscience)</span></p>
 </div>
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>Contrast-agnostic deep learning–based registration pipeline: Validation in spinal cord multimodal MRI data</h3>
