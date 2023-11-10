@@ -9,7 +9,7 @@
 <div class="publication" data-labels="multiple-sclerosis image-analysis">
     <h3>Effectiveness of regional diffusion MRI measures in distinguishing multiple sclerosis abnormalities within the cervical spinal cord</h3>
     <p><em>Snoussi H, Cohen-Adad J, Combès B, Bannier É, Tounekti S, Kerbrat A, Barillot C, Caruyer E</em></p>
-    <p><strong>Brain Behav</strong> (2023) <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.3159">Link to paper</a><span class="publication-label"> (Labels: multiple-sclerosis, image-analysis)</span></p>
+    <p><strong>Brain Behav</strong> (2023) <a href="https://doi.org/10.1002/brb3.3159">Link to paper</a><span class="publication-label"> (Labels: multiple-sclerosis, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="mri-physics shimming">
     <h3>Dynamic shimming in the cervical spinal cord for multi-echo gradient-echo imaging at 3 T</h3>

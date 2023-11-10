@@ -73,6 +73,10 @@ We recruit an IT expert in data curation to help managing our internal and publi
 
 ## ✍️ ‎ How to apply?
 
+Sorry there is currently no opening for this position. 
+
+<!---
+UNCOMMENT IF POSITION IS REOPENED
 * Fill up the application form below. You might be contacted for an interview.
 
 ::::{tab-set}
@@ -84,3 +88,4 @@ We recruit an IT expert in data curation to help managing our internal and publi
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgmvEzh2mNfcLn1SiiVsmuHDyYIHP9EGw97aUauNNfvHSEXQ/viewform?embedded=true" width="640" height="1013" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 :::
 ::::
+--->
