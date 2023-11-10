@@ -294,9 +294,7 @@ document.write(`
   </button>
 `);
 </script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="fa-solid fa-list"></span>
-</label>
+
 </div></div>
       
     </div>
@@ -312,21 +310,6 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
-            <div>
-                <h2> Page Contents </h2>
-            </div>
-            <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#main-tasks"><code class="docutils literal notranslate"><span class="pre">📌</span></code> Main tasks</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#skills"><code class="docutils literal notranslate"><span class="pre">🧠</span></code> Skills:</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bonus-skills"><code class="docutils literal notranslate"><span class="pre">🙌</span></code> Bonus Skills</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-team"><code class="docutils literal notranslate"><span class="pre">🏀</span></code> The team</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#salary"><code class="docutils literal notranslate"><span class="pre">💰</span></code> Salary</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schedule-and-work-arrangement"><code class="docutils literal notranslate"><span class="pre">📅</span></code> Schedule and work arrangement</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-take-this-job"><code class="docutils literal notranslate"><span class="pre">🚀</span></code> Why take this job?</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-apply">✍️ ‎ How to apply?</a></li>
-</ul>
-            </nav>
         </div>
     </div>
 </div>
@@ -338,114 +321,84 @@ document.write(`
                   
   <section id="data-curator">
 <h1>Data curator<a class="headerlink" href="#data-curator" title="Permalink to this heading">#</a></h1>
-<p><img alt="" src="../_images/job_data_curator.png" /></p>
-<!-- TODO: include the blurb below in separate file to avoid duplication -->
-<p>At the Neuroimaging Research Laboratory (NeuroPoly) lab, based at Ecole Polytechnique, University of Montreal, we work to better understand the brain and the spinal cord using state-of-the-art imaging techniques, with many potential medical applications. We are developing advanced analysis methods to improve the quality of MRI data, as well as to extract meaningful clinical information.</p>
-<p>We recruit an IT expert in data curation to help managing our internal and public database of MRI images.</p>
-<section id="main-tasks">
-<h2><code class="docutils literal notranslate"><span class="pre">📌</span></code> Main tasks<a class="headerlink" href="#main-tasks" title="Permalink to this heading">#</a></h2>
-<ul class="simple">
-<li><p>Collect raw data via email, DropBox, Google Drive, ssh, http, smb, and via our local LAN and reformat it to be <a class="reference external" href="https://bids-specification.readthedocs.io/">BIDS</a>-compliant</p></li>
-<li><p>Anonymize data (<a class="reference external" href="https://open-brain-consent.readthedocs.io/en/stable/anon_tools.html#faces-dental-stripping">defacing</a>, removal of identifying metadata)</p></li>
-<li><p>Review data submitted by students and researchers.</p>
-<ul>
-<li><p>Verify:</p>
-<ul>
-<li><p>Image quality</p></li>
-<li><p>Taxonomy (i.e. file names)</p></li>
-<li><p>Metadata (in <code class="docutils literal notranslate"><span class="pre">.tsv</span></code> and <code class="docutils literal notranslate"><span class="pre">.json</span></code> files)</p></li>
-<li><p>Anonymization</p></li>
-</ul>
-</li>
-<li><p>Merge pull requests</p></li>
-</ul>
-</li>
-<li><p>Identify validation steps that could be automated and work with the dev team to implement them</p></li>
-<li><p>Monitor redundant data rate</p></li>
-<li><p>Comply with IRB, consent and copyright compliance terms</p>
-<ul>
-<li><p>Verify and perform data removal when requested by subjects</p></li>
-</ul>
-</li>
-<li><p>Administer dataset access control; in compliance with license/ethics terms</p>
-<ul>
-<li><p>Add new contributors</p></li>
-<li><p>For private datasets: add new read-only accounts</p></li>
-<li><p>Remove users when they no longer need access</p></li>
-<li><p>Schedule quarterly access audits</p></li>
-</ul>
-</li>
-<li><p>Provide basic technical support to users downloading datasets</p>
-<ul>
-<li><p>Diagnose network connection problems</p></li>
-<li><p>Isolate software version problems and incompatibilities</p></li>
-</ul>
-</li>
-<li><p>Monitor weekly dataset backups</p></li>
-<li><p>Schedule and run data disaster recovery drills</p></li>
-<li><p>Participate in <a class="reference external" href="https://github.com/bids-standard/bids-specification">BIDS</a> to extend its use-cases</p></li>
-</ul>
-</section>
-<section id="skills">
-<h2><code class="docutils literal notranslate"><span class="pre">🧠</span></code> Skills:<a class="headerlink" href="#skills" title="Permalink to this heading">#</a></h2>
-<ul class="simple">
-<li><p>Familiarity with the unix command line (<code class="docutils literal notranslate"><span class="pre">ls</span></code>, <code class="docutils literal notranslate"><span class="pre">find</span></code>, <code class="docutils literal notranslate"><span class="pre">diff</span></code>, <code class="docutils literal notranslate"><span class="pre">du</span></code>, <code class="docutils literal notranslate"><span class="pre">xargs</span></code>, <code class="docutils literal notranslate"><span class="pre">curl</span></code>, <code class="docutils literal notranslate"><span class="pre">sha256sum</span></code>/<code class="docutils literal notranslate"><span class="pre">md5sum</span></code>)</p></li>
-<li><p>Python scripting</p>
-<ul>
-<li><p>e.g. can you open 1013 images and find their average voxel count?</p></li>
-<li><p>can you write validation scripts?</p></li>
-</ul>
-</li>
-<li><p><code class="docutils literal notranslate"><span class="pre">git</span></code></p>
-<ul>
-<li><p>The use of <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">rebase</span></code>, <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">commit</span> <span class="pre">--amend</span></code>, <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">push</span> <span class="pre">--force</span></code> and their implications</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">filter-repo</span></code>, and its implications</p></li>
-</ul>
-</li>
-</ul>
-</section>
-<section id="bonus-skills">
-<h2><code class="docutils literal notranslate"><span class="pre">🙌</span></code> Bonus Skills<a class="headerlink" href="#bonus-skills" title="Permalink to this heading">#</a></h2>
-<ul class="simple">
-<li><p>Familiarity with <a class="reference external" href="https://en.wikipedia.org/wiki/DICOM">DICOM</a> and <a class="reference external" href="https://nifti.nimh.nih.gov/nifti-2">NIfTI</a> formats</p></li>
-<li><p>Familiarity with medical imaging</p></li>
-<li><p><a class="reference external" href="https://stedolan.github.io/jq/"><code class="docutils literal notranslate"><span class="pre">jq</span></code></a></p></li>
-<li><p>Experience with experimental ethics clearances</p></li>
-<li><p>Passion for open-source software and knowledge sharing ❤️</p></li>
-</ul>
-</section>
-<section id="the-team">
-<h2><code class="docutils literal notranslate"><span class="pre">🏀</span></code> The team<a class="headerlink" href="#the-team" title="Permalink to this heading">#</a></h2>
-<ul class="simple">
-<li><p>We are a friendly team composed of academic researchers, students and software developers</p></li>
-</ul>
-</section>
-<section id="salary">
-<h2><code class="docutils literal notranslate"><span class="pre">💰</span></code> Salary<a class="headerlink" href="#salary" title="Permalink to this heading">#</a></h2>
-<ul class="simple">
-<li><p>$30/h if you are good, up to $50/h if you are excellent.</p></li>
-</ul>
-</section>
-<section id="schedule-and-work-arrangement">
-<h2><code class="docutils literal notranslate"><span class="pre">📅</span></code> Schedule and work arrangement<a class="headerlink" href="#schedule-and-work-arrangement" title="Permalink to this heading">#</a></h2>
-<ul class="simple">
-<li><p>This is a long term position, which could be part-time or full time.</p></li>
-<li><p>Work can be done remotely or in-presence (Montreal)</p></li>
-</ul>
-</section>
-<section id="why-take-this-job">
-<h2><code class="docutils literal notranslate"><span class="pre">🚀</span></code> Why take this job?<a class="headerlink" href="#why-take-this-job" title="Permalink to this heading">#</a></h2>
-<ul class="simple">
-<li><p>Join an environment that fosters autonomy, passion and creativity</p></li>
-<li><p>Take leadership in open-source projects with strong impact in the medical field</p></li>
-<li><p>Develop strong image processing skills with experts in medical imaging</p></li>
-</ul>
-</section>
-<section id="how-to-apply">
-<h2>✍️ ‎ How to apply?<a class="headerlink" href="#how-to-apply" title="Permalink to this heading">#</a></h2>
 <p>Sorry there is currently no opening for this position.</p>
 <!---
-UNCOMMENT IF POSITION IS REOPENED
+UNCOMMENT IF POSITION REOPENS
+
+
+![](../_media/job_data_curator.png)
+
+[//]: # include the blurb below in separate file to avoid duplication
+At the Neuroimaging Research Laboratory (NeuroPoly) lab, based at Ecole Polytechnique, University of Montreal, we work to better understand the brain and the spinal cord using state-of-the-art imaging techniques, with many potential medical applications. We are developing advanced analysis methods to improve the quality of MRI data, as well as to extract meaningful clinical information. 
+
+We recruit an IT expert in data curation to help managing our internal and public database of MRI images.
+
+## `📌` Main tasks
+
+* Collect raw data via email, DropBox, Google Drive, ssh, http, smb, and via our local LAN and reformat it to be [BIDS](https://bids-specification.readthedocs.io/)-compliant
+* Anonymize data ([defacing](https://open-brain-consent.readthedocs.io/en/stable/anon_tools.html#faces-dental-stripping), removal of identifying metadata)
+* Review data submitted by students and researchers.
+  * Verify:
+    * Image quality
+    * Taxonomy (i.e. file names)
+    * Metadata (in `.tsv` and `.json` files)
+    * Anonymization
+  * Merge pull requests
+* Identify validation steps that could be automated and work with the dev team to implement them
+* Monitor redundant data rate
+* Comply with IRB, consent and copyright compliance terms
+  * Verify and perform data removal when requested by subjects
+* Administer dataset access control; in compliance with license/ethics terms
+  * Add new contributors
+  * For private datasets: add new read-only accounts
+  * Remove users when they no longer need access
+  * Schedule quarterly access audits 
+* Provide basic technical support to users downloading datasets
+  * Diagnose network connection problems 
+  * Isolate software version problems and incompatibilities
+* Monitor weekly dataset backups
+* Schedule and run data disaster recovery drills
+* Participate in [BIDS](https://github.com/bids-standard/bids-specification) to extend its use-cases
+
+## `🧠` Skills:
+
+* Familiarity with the unix command line (`ls`, `find`, `diff`, `du`, `xargs`, `curl`, `sha256sum`/`md5sum`)
+* Python scripting
+  * e.g. can you open 1013 images and find their average voxel count?
+  * can you write validation scripts?
+* `git`
+  * The use of `git rebase`, `git commit --amend`, `git push --force` and their implications
+  * `git filter-repo`, and its implications
+
+## `🙌` Bonus Skills
+
+* Familiarity with [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIfTI](https://nifti.nimh.nih.gov/nifti-2) formats
+* Familiarity with medical imaging
+* [`jq`](https://stedolan.github.io/jq/)
+* Experience with experimental ethics clearances
+* Passion for open-source software and knowledge sharing ❤️
+
+## `🏀` The team
+
+* We are a friendly team composed of academic researchers, students and software developers
+
+## `💰` Salary
+
+* \$30/h if you are good, up to \$50/h if you are excellent.
+
+## `📅` Schedule and work arrangement
+
+* This is a long term position, which could be part-time or full time.
+* Work can be done remotely or in-presence (Montreal)
+
+## `🚀` Why take this job?
+
+* Join an environment that fosters autonomy, passion and creativity
+* Take leadership in open-source projects with strong impact in the medical field
+* Develop strong image processing skills with experts in medical imaging
+
+## ✍️ ‎ How to apply?
+
 * Fill up the application form below. You might be contacted for an interview.
 
 ::::{tab-set}
@@ -458,7 +411,6 @@ UNCOMMENT IF POSITION IS REOPENED
 :::
 ::::
 --->
-</section>
 </section>
 
 
@@ -496,27 +448,6 @@ UNCOMMENT IF POSITION IS REOPENED
             </div>
             
             
-              
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
-
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
-    <i class="fa-solid fa-list"></i> Page Contents
-  </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#main-tasks"><code class="docutils literal notranslate"><span class="pre">📌</span></code> Main tasks</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#skills"><code class="docutils literal notranslate"><span class="pre">🧠</span></code> Skills:</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bonus-skills"><code class="docutils literal notranslate"><span class="pre">🙌</span></code> Bonus Skills</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-team"><code class="docutils literal notranslate"><span class="pre">🏀</span></code> The team</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#salary"><code class="docutils literal notranslate"><span class="pre">💰</span></code> Salary</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schedule-and-work-arrangement"><code class="docutils literal notranslate"><span class="pre">📅</span></code> Schedule and work arrangement</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-take-this-job"><code class="docutils literal notranslate"><span class="pre">🚀</span></code> Why take this job?</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-apply">✍️ ‎ How to apply?</a></li>
-</ul>
-  </nav></div>
-
-</div></div>
               
             
           </div>
