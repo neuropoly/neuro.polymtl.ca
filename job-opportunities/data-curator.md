@@ -1,8 +1,14 @@
 # Data curator
 
+Sorry there is currently no opening for this position. 
+
+<!---
+UNCOMMENT IF POSITION REOPENS
+
+
 ![](../_media/job_data_curator.png)
 
-<!-- TODO: include the blurb below in separate file to avoid duplication -->
+[//]: # include the blurb below in separate file to avoid duplication
 At the Neuroimaging Research Laboratory (NeuroPoly) lab, based at Ecole Polytechnique, University of Montreal, we work to better understand the brain and the spinal cord using state-of-the-art imaging techniques, with many potential medical applications. We are developing advanced analysis methods to improve the quality of MRI data, as well as to extract meaningful clinical information. 
 
 We recruit an IT expert in data curation to help managing our internal and public database of MRI images.
@@ -73,10 +79,6 @@ We recruit an IT expert in data curation to help managing our internal and publi
 
 ## ✍️ ‎ How to apply?
 
-Sorry there is currently no opening for this position. 
-
-<!---
-UNCOMMENT IF POSITION IS REOPENED
 * Fill up the application form below. You might be contacted for an interview.
 
 ::::{tab-set}
