@@ -129,6 +129,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Arnaud Bréhéret
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/4rnaudB)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
+
+* Sebastian Rios
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)
+  
 * Alexia Mahlig
 * Julien Thouveny
 
