@@ -1,5 +1,8 @@
 # bibeasy
-Set of tools to manage academic bibliography, convert to [CCV](https://www.ccv-cvc.ca) indexes, and other fun stuff.
+
+[![DOI Badge](https://zenodo.org/badge/DOI/10.5281/zenodo.10650998.svg)](https://zenodo.org/doi/10.5281/zenodo.10650997)
+
+Set of tools to manage academic bibliography, convert to [Canadian CV (CCV)](https://www.ccv-cvc.ca) indexes, and other fun stuff.
 
 ## Getting started
 
