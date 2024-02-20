@@ -34,4 +34,4 @@ This section contains projects  -->
 
 ## Contributing
 
-**NeuroPoly** welcomes and appreciates contributions. To get started, please check out [**NeuroPoly**'s contributing guidelines](https://intranet.neuro.polymtl.ca/geek-tips/contributing).
+**NeuroPoly** welcomes and appreciates contributions. To get started, please check out [**NeuroPoly**'s contributing guidelines](https://intranet.neuro.polymtl.ca/onboarding/software-development.html).
