@@ -113,7 +113,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Antoine El Hachem
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/antoineelhachem/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:antoine-2.el-hachem@polymtl.ca)
-
 * Armand Collin
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
 * Sina Fartoumi
@@ -122,16 +121,14 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Arnaud Bréhéret
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/4rnaudB)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
-
 * Sebastian Rios
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)
-  
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)  
 * Alexia Mahlig
 * Julien Thouveny
+* Maxime Bouthillier
 
 ## Interns
 
-* Maxime Bouthillier
 * Camille Coustaury
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
 * Rachad Chazbek
@@ -144,14 +141,15 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/MalecotJeanne)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jeannemalecot/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:jeanne.malecot@telecom-paris.fr)
+
 ## Consultants
 
-* Yang Ding
 * Nathan Gorvett
 [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nathan@nzm.ca)
 
 ## Alumni
 
+* Yang Ding
 * Nick Guenther
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nick.guenther@polymtl.ca)
