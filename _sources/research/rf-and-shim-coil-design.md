@@ -1,7 +1,7 @@
 # RF & Shim Coil Design
 
 ```{Important}
-**Open position as an RF engineer!** More details at: [https://www.ismrm.org/jobs/j08204.pdf](https://www.ismrm.org/jobs/j08204.pdf)
+**Open position for PhD and Postdoc!** More details at: [https://www.ismrm.org/jobs/j08466.pdf](https://www.ismrm.org/jobs/j08466.pdf)
 ```
 
 ![Alt text](../_media/coil_building_workflow.png)
