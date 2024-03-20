@@ -25,12 +25,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Research Associates
 
 * Mathieu Boudreau
-* Marie-Hélène Bourget
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mariehbourget)
-* Nadia Blostein
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/BlosteinNadia)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/nadiablostein)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nadia.blostein@polymtl.ca)
 * Mathieu Guay-Paquet
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mguaypaq)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
@@ -42,7 +36,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Postdoctoral Researchers
 
-* Daniel Papp
 * [Jan Valosek](postdoctoral-researchers/jan-valosek.md)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/ValosekJan) 
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/valosekj)
@@ -149,6 +142,13 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Daniel Papp
+* Marie-Hélène Bourget
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mariehbourget)
+* Nadia Blostein
+  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/BlosteinNadia)
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/nadiablostein)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nadia.blostein@polymtl.ca)
 * Yang Ding
 * Nick Guenther
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
