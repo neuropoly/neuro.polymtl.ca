@@ -120,7 +120,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Julien Thouveny
 * Maxime Bouthillier
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/maxradx)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](www.linkedin.com/in/maxime-bouthilliermd)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/maxime-bouthilliermd)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:mbmsc2025@gmail.com)  
 
 ## Interns
