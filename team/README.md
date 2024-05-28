@@ -95,21 +95,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/sandrinebedard)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)
    [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/SandBedard)
-* Colline Blanc
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/CollineBlanc)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/collineblc/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:colline.blanc@polymtl.ca)
-* Noée Ducros-Chabot
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/noeedc)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/no%C3%A9e-ducros-chabot-1bb6a51a1/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:noee.ducros-chabot@polymtl.ca)
-* Antoine El Hachem
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/antoineelhachem/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:antoine-2.el-hachem@polymtl.ca)
 * Armand Collin
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
-* Sina Fartoumi
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:sina.fartoumi@polymtl.ca)
 * Nishka Katoch 
 * Arnaud Bréhéret
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/4rnaudB)
@@ -125,10 +112,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Interns
 
-* Camille Coustaury
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
-* Rachad Chazbek
-* Theo Badra
 * Arthur Boschet
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/ArthurBoschet)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/arthur-boschet/)
@@ -154,6 +137,23 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Colline Blanc
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/CollineBlanc)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/collineblc/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:colline.blanc@polymtl.ca)
+* Noée Ducros-Chabot
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/noeedc)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/no%C3%A9e-ducros-chabot-1bb6a51a1/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:noee.ducros-chabot@polymtl.ca)
+* Antoine El Hachem
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/antoineelhachem/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:antoine-2.el-hachem@polymtl.ca)
+* Sina Fartoumi
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:sina.fartoumi@polymtl.ca)
+* Camille Coustaury
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
+* Rachad Chazbek
+* Theo Badra
 * Pierre Lechat
 * Daniel Papp
 * Marie-Hélène Bourget
