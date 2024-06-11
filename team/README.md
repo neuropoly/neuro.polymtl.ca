@@ -107,7 +107,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Sebastian Rios
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)  
 * Alexia Mahlig
-* Julien Thouveny
 * Maxime Bouthillier
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/maxradx)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/maxime-bouthilliermd)
@@ -144,6 +143,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Julien Thouveny
 * Colline Blanc
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/CollineBlanc)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/collineblc/)
