@@ -2,14 +2,19 @@
 ## 2024
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis deep-learning">
-    <h3>Contrast-agnostic Spinal Cord Segmentation: A Comparative Study of ConvNets and Vision Transformers</h3>
-    <p><em>Karthik EN, Bedard S, Valosek J, Chandar S, Cohen-Adad J</em></p>
-    <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2024) <a href="https://openreview.net/pdf?id=n6D25aqdV3">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+    <h3>SCIsegV2: A Universal Tool for Segmentation of Intramedullary Lesions in Spinal Cord Injury</h3>
+    <p><em>Karthik EN, Valosek J, Farner L, Pfyffer D, Schading-Sassenhausen S, Lebret A, David G, Smith AC, Weber II KA, Seif M, Freund P, Cohen-Adad J, RHSCIR Network Imaging Group</em></p>
+    <p><strong>MICCAI Workshop on Applications of Medical AI (AMAI)</strong> (2024) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 <div class="publication" data-labels="image-analysis deep-learning">
     <h3>Automatic segmentation of the spinal cord nerve rootlets</h3>
     <p><em>Valošek J, Mathieu T, Schlienger R, Kowalczyk OS, Cohen-Adad J</em></p>
     <p><strong>Imaging Neuroscience</strong> (2024) <a href="https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00218/122601/Automatic-segmentation-of-the-spinal-cord-nerve?searchresult=1">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+</div>
+<div class="publication" data-labels="image-analysis deep-learning">
+    <h3>Contrast-agnostic Spinal Cord Segmentation: A Comparative Study of ConvNets and Vision Transformers</h3>
+    <p><em>Karthik EN, Bedard S, Valosek J, Chandar S, Cohen-Adad J</em></p>
+    <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2024) <a href="https://openreview.net/pdf?id=n6D25aqdV3">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 <div class="publication" data-labels="image-analysis quantitative-mri">
     <h3>A database of the healthy human spinal cord morphometry in the PAM50 template space</h3>
@@ -72,6 +77,11 @@
 
 ## 2022
 <div class="publications-container">
+<div class="publication" data-labels="microscopy">
+    <h3>Histology-informed automatic parcellation of white matter tracts in the rat spinal cord</h3>
+    <p><em>Nami H, Perone CS, Cohen-Adad J</em></p>
+    <p><strong>Front Neuroanat</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnana.2022.960475">Link to paper</a><span class="publication-label"> (Labels: microscopy)</span></p>
+</div>
 <div class="publication" data-labels="mri-physics">
     <h3>Comparison of multicenter MRI protocols for visualizing the spinal cord gray matter</h3>
     <p><em>Cohen-Adad J, Alonso-Ortiz E, Alley S, Lagana MM, Baglio F, Vannesjo SJ, Karbasforoushan H, Seif M, Seifert AC, Xu J, Kim J-W, Labounek R, Vojtíšek L, Dostál M, Valošek J, Samson RS, Grussu F, Battiston M, Gandini Wheeler-Kingshott CAM, Yiannakas MC, Gilbert G, Schneider T, Johnson B, Prados F</em></p>
@@ -110,17 +120,12 @@
 <div class="publication" data-labels="image-analysis deep-learning">
     <h3>Intervertebral Disc Labeling with Learning Shape Information, a Look once Approach</h3>
     <p><em>Azad R, Heidari M, Cohen-Adad J, Adeli E, Merhof D</em></p>
-    <p><strong>Predictive Intelligence in Medicine: 5th International Workshop, PRIME 2022, Held in Conjunction with MICCAI 2022, Singapore, September 22, 2022, Proceedings</strong> (2022) <a href="https://doi.org/10.1007/978-3-031-16919-9_5">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+    <p><strong>Predictive Intelligence in Medicine: 5th International Workshop, PRIME 2022, Held in Conjunction with MICCAI</strong> (2022) <a href="https://doi.org/10.1007/978-3-031-16919-9_5">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 <div class="publication" data-labels="quantitative-mri image-analysis">
     <h3>Reproducibility and Evolution of Diffusion MRI Measurements within the Cervical Spinal Cord in Multiple Sclerosis</h3>
     <p><em>Snoussi H, Caruyer E, Combes B, Commowick O, Bannier E, Kerbrat A, Cohen-Adad J</em></p>
-    <p><strong>IEEE International Symposium on Biomedical Imaging (ISBI) 2022, Kolkata, India</strong> (2022) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
-</div>
-<div class="publication" data-labels="microscopy">
-    <h3>Histology-informed automatic parcellation of white matter tracts in the rat spinal cord</h3>
-    <p><em>Nami H, Perone CS, Cohen-Adad J</em></p>
-    <p><strong>Front Neuroanat</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnana.2022.960475">Link to paper</a><span class="publication-label"> (Labels: microscopy)</span></p>
+    <p><strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong> (2022) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="microscopy">
     <h3>Microscopy-BIDS: An Extension to the Brain Imaging Data Structure for Microscopy Data</h3>
@@ -547,7 +552,7 @@
 <div class="publication" data-labels="image-analysis deep-learning">
     <h3>Deep semi-supervised segmentation with weight-averaged consistency targets</h3>
     <p><em>Perone CS, Cohen-Adad J</em></p>
-    <p><strong>4th Deep Learning in Medical Image Analysis (DLMIA) Workshop, Granada, Spain</strong> (2018) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+    <p><strong>4th Deep Learning in Medical Image Analysis (DLMIA) Workshop</strong> (2018) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 
 ## 2017
@@ -741,7 +746,7 @@
 <div class="publication" data-labels="mri-physics quantitative-mri">
     <h3>A Temperature Phantom to Probe the Ensemble Average Propagator Asymmetry: an In-Silico Study</h3>
     <p><em>Piazzolato M, Wassermann D, Duval T, Campbell JSW, Boutelier T, Cohen-Adad J, Deriche R</em></p>
-    <p><strong>Computational Diffusion MRI: MICCAI Workshop, Munich, Germany</strong> (2015) <a href="">Link to paper</a><span class="publication-label"> (Labels: mri-physics, quantitative-mri)</span></p>
+    <p><strong>MICCAI Workshop on Computational Diffusion MRI</strong> (2015) <a href="">Link to paper</a><span class="publication-label"> (Labels: mri-physics, quantitative-mri)</span></p>
 </div>
 <div class="publication" data-labels="quantitative-mri image-analysis spinal-cord-injury multiple-sclerosis fmri">
     <h3>Translating state-of-the-art spinal cord MRI techniques to clinical use: A systematic review of clinical studies utilizing DTI, MT, MWF, MRS, and fMRI</h3>
