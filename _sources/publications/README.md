@@ -17,3 +17,4 @@ data
 ![alt-text-2](../.gitbook/assets/mangeat_2015_nimg_cover.png)
 ![alt-text-1](../.gitbook/assets/cover_neurotrauma_2018.jpeg)
 ![alt-text-2](../.gitbook/assets/cover_brain_2020.png)
+![alt-text-2](../.gitbook/assets/cover_aigner24.png)
