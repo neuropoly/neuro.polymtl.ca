@@ -114,7 +114,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Thomas Dagonneau
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/thomas-dagonneau-83630a234/)
 * Arthur Toulouse
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>]([https://github.com/arthurtoulouse])
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/arthurtoulouse)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/arthur-toulouse)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:t.arthur1729@gmail.com)  
 
