@@ -36,6 +36,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Emma Lichtenstein
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/nullnik-0)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:emma.lichtenstein@polymtl.ca)
+* Kalum Ost
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/SomeoneInParticular)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:kalum.ost@polymtl.ca)
 
 ## Postdoctoral Researchers
 
