@@ -24,7 +24,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Research Associates
 
-* Mathieu Boudreau
+* [Mathieu Boudreau](research-associates/mathieu-boudreau.md)
   [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/_mattboud)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mathieuboudreau)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/mathieujboudreau)
