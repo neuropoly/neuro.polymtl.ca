@@ -24,21 +24,23 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Research Associates
 
-* Mathieu Boudreau
+* [Mathieu Boudreau](research-associates/mathieu-boudreau.md)
+  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/_mattboud)
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mathieuboudreau)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/mathieujboudreau)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:mathieu.boudreau@polymtl.ca)
 * Mathieu Guay-Paquet
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mguaypaq)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:mathieu.guay-paquet@polymtl.ca)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
+* Emma Lichtenstein
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/nullnik-0)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:emma.lichtenstein@polymtl.ca)
 * Joshua Newton 
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/joshuacwnewton)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/joshuacwnewton/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:joshua.newton@polymtl.ca)
 * Jan Paška
-* Emma Lichtenstein
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/nullnik-0)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:emma.lichtenstein@polymtl.ca)
 * Kalum Ost
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/SomeoneInParticular)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:kalum.ost@polymtl.ca)
@@ -156,6 +158,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/MurielleMardenli200)
   [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/murielle-mardenli-7a0804238/)
   [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:murielle.mardenli@polymtl.ca)
+* Edgar Kappauf
+  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/edgark31)
+  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/edgar-k-40a4641b6/)
+  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:edgar.kappauf@polymtl.ca)
   
 ## Consultants
 
