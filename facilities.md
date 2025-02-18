@@ -30,7 +30,8 @@ In terms of software license, being part of Polygrames Research Center and Écol
 
 NeuroPoly has expertise in building radiofrequency (RF) coils for MRI applications. The infrastructure includes:
 
-* Three network analyzers
+* Vector network analyzers (VNA)
+  * Keysight PXIe 8-port
   * E5061B \(100kHz-3GHz, full two-port S-parameters\)
   * E5061A \(300kHz-1.5GHz, two-port\)
   * FieldFox N9923A \(portable, shielded, full two-port S-parameters\)
