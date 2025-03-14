@@ -10,245 +10,247 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-twitter"></i>](https://twitter.com/evaalonsoortiz)
   [<i class="fab fa-github"></i>](https://github.com/evaalonsoortiz)
 * [Julien Cohen-Adad](faculty/julien-cohen-adad.md)
-  [<i class="fab fa-twitter"></i>](https://twitter.com/jcohenadad)
-  [<i class="fab fa-github"></i>](https://github.com/jcohenadad/)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jcohenadad/)
   [<i class="fa fa-envelope"></i>](mailto:julien.cohen-adad@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jcohenadad/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/jcohenadad)
   [<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/jcohenadad.bsky.social)
+  [<i class="fab fa-github"></i>](https://github.com/jcohenadad/)
 * [Benjamin De Leener](faculty/benjamin-de-leener.md)
-  [<i class="fab fa-twitter"></i><span></span>](https://twitter.com/bendeleener)
-  [<i class="fab fa-github"></i><span></span>](https://github.com/benjamindeleener)
-  [<i class="fab fa-linkedin"></i><span></span>](https://www.linkedin.com/in/benjamindeleener/)
-  [<i class="fa fa-envelope"></i><span></span>](mailto:benjamin.de-leener@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:benjamin.de-leener@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/benjamindeleener/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/bendeleener)
+  [<i class="fab fa-github"></i>](https://github.com/benjamindeleener)
 * [Nikola Stikov](faculty/nikola-stikov.md)
-  [<i class="fab fa-twitter"></i><span></span>](https://twitter.com/stikov)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/stikov)
 
 ## Research Associates
 
 * [Mathieu Boudreau](research-associates/mathieu-boudreau.md)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/_mattboud)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mathieuboudreau)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/mathieujboudreau)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:mathieu.boudreau@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:mathieu.boudreau@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://ca.linkedin.com/in/mathieujboudreau)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/_mattboud)
+  [<i class="fab fa-github"></i>](https://github.com/mathieuboudreau)
 * Mathieu Guay-Paquet
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mguaypaq)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:mathieu.guay-paquet@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:mathieu.guay-paquet@polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/mguaypaq)
 * [Nibardo Lopez Rios](research-associates/nibardo-lopez-rios.md)
 * Emma Lichtenstein
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/nullnik-0)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:emma.lichtenstein@polymtl.ca)
-* Joshua Newton 
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/joshuacwnewton)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/joshuacwnewton/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:joshua.newton@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:emma.lichtenstein@polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/nullnik-0)
+* Joshua Newton
+  [<i class="fa fa-envelope"></i>](mailto:joshua.newton@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/joshuacwnewton/)
+  [<i class="fab fa-github"></i>](https://github.com/joshuacwnewton)
 * Jan Paška
 * Kalum Ost
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/SomeoneInParticular)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:kalum.ost@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:kalum.ost@polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/SomeoneInParticular)
 
 ## Postdoctoral Researchers
 
 * [Jan Valosek](postdoctoral-researchers/jan-valosek.md)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/ValosekJan) 
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/valosekj)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jan-valosek)
+  [<i class="fa fa-envelope"></i>](mailto:jan.valosek@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jan-valosek)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/ValosekJan)
+  [<i class="fab fa-github"></i>](https://github.com/valosekj)
 * [Agah Karakuzu](phd-students/agah-karakuzu.md)
 
 ## PhD Students
 
 * Alexandre D'Astous
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/po09i)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:adastous023@gmail.com)
+  [<i class="fa fa-envelope"></i>](mailto:adastous023@gmail.com)
+  [<i class="fab fa-github"></i>](https://github.com/po09i)
 * Andjela Dimitrijevic
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Andjelaaaa)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andjela-dimitrijevic-470651171/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:andjela.dimitrijevic@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:andjela.dimitrijevic@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/andjela-dimitrijevic-470651171/)
+  [<i class="fab fa-github"></i>](https://github.com/Andjelaaaa)
 * [Naga Karthik](https://naga-karthik.github.io)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:emvnagakarthik@gmail.com)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/naga-karthik-enamundram-7b1559174/)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/naga-karthik)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/naga_karthik7)
-* Erjun Zhang
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/zhangerjun)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/zhangerjun/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:erjun.zhang@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:emvnagakarthik@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/naga-karthik-enamundram-7b1559174/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/naga_karthik7)
+  [<i class="fab fa-github"></i>](https://github.com/naga-karthik)
 * Daniel Ridani
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Danirid)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:daniel.ridani@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:daniel.ridani@polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/Danirid)
+* Erjun Zhang
+  [<i class="fa fa-envelope"></i>](mailto:erjun.zhang@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zhangerjun/)
+  [<i class="fab fa-github"></i>](https://github.com/zhangerjun)
 * Nathan Molinier
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/NathanMolinier) 
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/nathan-molinier-743972180/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nathan.molinier@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:nathan.molinier@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nathan-molinier-743972180/)
+  [<i class="fab fa-github"></i>](https://github.com/NathanMolinier)
 * Nilser Laines Medina
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/Nilser3)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/nilser-laines/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nilser.laines@gmail.com)
+  [<i class="fa fa-envelope"></i>](mailto:nilser.laines@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nilser-laines/)
+  [<i class="fab fa-github"></i>](https://github.com/Nilser3)
 * Samuelle St-Onge
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/samuellestonge)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/samuelle-st-onge-578b89185/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:samuelle.st-onge@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:samuelle.st-onge@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/samuelle-st-onge-578b89185/)
+  [<i class="fab fa-github"></i>](https://github.com/samuellestonge)
 * Behrouz Vejdani Afkham
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/behrouzvia)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/behrouz-vejdani-afkham-864913141/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:behrouz.vejdani-afkham@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:behrouz.vejdani-afkham@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/behrouz-vejdani-afkham-864913141/)
+  [<i class="fab fa-github"></i>](https://github.com/behrouzvia)
 * [Pierre-Louis Benveniste ](https://plbenveniste.github.io/)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/plbenveniste)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/pierre-louis-benveniste/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:pierrelouis.benveniste03@gmail.com)
+  [<i class="fa fa-envelope"></i>](mailto:pierrelouis.benveniste03@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/pierre-louis-benveniste/)
+  [<i class="fab fa-github"></i>](https://github.com/plbenveniste)
 * Sandrine Bédard
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/sandrinebedard)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/SandBedard)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/SandBedard)
+  [<i class="fab fa-github"></i>](https://github.com/sandrinebedard)
 * Armand Collin
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/hermancollin)
-  
+  [<i class="fab fa-github"></i>](https://github.com/hermancollin)
+
 ## MSc Students
 
 * [Rohan Banerjee](https://rohanbanerjee.netlify.app)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:banerjee.rohan98@gmail.com)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/rohanbanerjee1)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/rohanbanerjee)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/rohanbanerjeee)
-* Nishka Katoch 
+  [<i class="fa fa-envelope"></i>](mailto:banerjee.rohan98@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/rohanbanerjee1)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/rohanbanerjeee)
+  [<i class="fab fa-github"></i>](https://github.com/rohanbanerjee)
+* Nishka Katoch
 * Arnaud Bréhéret
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/4rnaudB)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
+  [<i class="fab fa-github"></i>](https://github.com/4rnaudB)
 * Sebastian Rios
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)  
+  [<i class="fab fa-linkedin"></i>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)
 * Alexia Mahlig
 * Maxime Bouthillier
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/maxradx)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/maxime-bouthilliermd)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:mbmsc2025@gmail.com)  
+  [<i class="fa fa-envelope"></i>](mailto:mbmsc2025@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maxime-bouthilliermd)
+  [<i class="fab fa-github"></i>](https://github.com/maxradx)
 * Thomas Dagonneau
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/tomDag25)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/thomas-dagonneau-83630a234/)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://x.com/ThomasDagonneau)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/thomas-dagonneau-83630a234/)
+  [<i class="fab fa-twitter"></i>](https://x.com/ThomasDagonneau)
+  [<i class="fab fa-github"></i>](https://github.com/tomDag25)
 * Arthur Toulouse
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/arthurtoulouse)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/arthur-toulouse)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:t.arthur1729@gmail.com)  
+  [<i class="fa fa-envelope"></i>](mailto:t.arthur1729@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arthur-toulouse)
+  [<i class="fab fa-github"></i>](https://github.com/arthurtoulouse)
 
 ## Interns
 
 * Arthur Boschet
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/ArthurBoschet)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/arthur-boschet/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:arthur.boschet@mila.quebec)
+  [<i class="fa fa-envelope"></i>](mailto:arthur.boschet@mila.quebec)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arthur-boschet/)
+  [<i class="fab fa-github"></i>](https://github.com/ArthurBoschet)
 * Baptiste Taverne
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/BreziTasbi)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/baptiste-taverne-26739a254/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:baptiste.taverne@polytechnique.edu)
+  [<i class="fa fa-envelope"></i>](mailto:baptiste.taverne@polytechnique.edu)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/baptiste-taverne-26739a254/)
+  [<i class="fab fa-github"></i>](https://github.com/BreziTasbi)
 * Simon Queric
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/simonqueric)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/simon-queric-157b81225)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:simon.queric@telecom-paris.fr)
+  [<i class="fa fa-envelope"></i>](mailto:simon.queric@telecom-paris.fr)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/simon-queric-157b81225)
+  [<i class="fab fa-github"></i>](https://github.com/simonqueric)
 * Kateřina Krejčí
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/KaterinaKrejci231054)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/kate%C5%99ina-krej%C4%8D%C3%AD-0766062b6/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:xkrejc78@vutbr.cz)
+  [<i class="fa fa-envelope"></i>](mailto:xkrejc78@vutbr.cz)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/kate%C5%99ina-krej%C4%8D%C3%AD-0766062b6/)
+  [<i class="fab fa-github"></i>](https://github.com/KaterinaKrejci231054)
 * Charles Pageot
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/CharlesPageot)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/charles-pageot-147b97262)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:charles.pageot@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:charles.pageot@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://ca.linkedin.com/in/charles-pageot-147b97262)
+  [<i class="fab fa-github"></i>](https://github.com/CharlesPageot)
 * Abel Salmona
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/abelsalm)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/abel-salmona-a197b3189/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:abel.salmona@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:abel.salmona@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/abel-salmona-a197b3189/)
+  [<i class="fab fa-github"></i>](https://github.com/abelsalm)
 * Murielle Mardenli
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/MurielleMardenli200)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/murielle-mardenli-7a0804238/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:murielle.mardenli@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:murielle.mardenli@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/murielle-mardenli-7a0804238/)
+  [<i class="fab fa-github"></i>](https://github.com/MurielleMardenli200)
 * Edgar Kappauf
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/edgark31)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/edgar-k-40a4641b6/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:edgar.kappauf@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:edgar.kappauf@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/edgar-k-40a4641b6/)
+  [<i class="fab fa-github"></i>](https://github.com/edgark31)
 * Antoine Guénette
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/AntoineGuenette)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](www.linkedin.com/in/antoine-guénette-569905260)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:antoine.guenette@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:antoine.guenette@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](www.linkedin.com/in/antoine-guénette-569905260)
+  [<i class="fab fa-github"></i>](https://github.com/AntoineGuenette)
 * Camille Lortie
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/camillelortie)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:camille.lortie@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:camille.lortie@polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/camillelortie)
+
 ## Consultants
 
 * Nathan Gorvett
-[<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nathan@nzm.ca)
+  [<i class="fa fa-envelope"></i>](mailto:nathan@nzm.ca)
 
 ## Alumni
 
 * Jeanne Malécot
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/MalecotJeanne)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/jeannemalecot/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:jeanne.malecot@telecom-paris.fr)
+  [<i class="fa fa-envelope"></i>](mailto:jeanne.malecot@telecom-paris.fr)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jeannemalecot/)
+  [<i class="fab fa-github"></i>](https://github.com/MalecotJeanne)
 * Julien Thouveny
 * Colline Blanc
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/CollineBlanc)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/collineblc/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:colline.blanc@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:colline.blanc@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/collineblc/)
+  [<i class="fab fa-github"></i>](https://github.com/CollineBlanc)
 * Noée Ducros-Chabot
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/noeedc)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/no%C3%A9e-ducros-chabot-1bb6a51a1/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:noee.ducros-chabot@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:noee.ducros-chabot@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/no%C3%A9e-ducros-chabot-1bb6a51a1/)
+  [<i class="fab fa-github"></i>](https://github.com/noeedc)
 * Antoine El Hachem
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/antoineelhachem/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:antoine-2.el-hachem@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:antoine-2.el-hachem@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/antoineelhachem/)
 * Sina Fartoumi
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:sina.fartoumi@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:sina.fartoumi@polymtl.ca)
 * Camille Coustaury
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/camille-coustaury/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/camille-coustaury/)
 * Rachad Chazbek
 * Theo Badra
 * Pierre Lechat
 * Daniel Papp
 * Marie-Hélène Bourget
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/mariehbourget)
+  [<i class="fab fa-github"></i>](https://github.com/mariehbourget)
 * Nadia Blostein
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/BlosteinNadia)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/nadiablostein)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nadia.blostein@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:nadia.blostein@polymtl.ca)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/BlosteinNadia)
+  [<i class="fab fa-github"></i>](https://github.com/nadiablostein)
 * Yang Ding
 * Nick Guenther
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kousu)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:nick.guenther@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:nick.guenther@polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/kousu)
 * Aurélien Pujol
 * Victor Baillet
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/VictorBaillet)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/victor-baillet-a098a2202/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:victor.baillet@polytechnique.edu)
+  [<i class="fa fa-envelope"></i>](mailto:victor.baillet@polytechnique.edu)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/victor-baillet-a098a2202/)
+  [<i class="fab fa-github"></i>](https://github.com/VictorBaillet)
 * Etienne du Fayet
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/etdufay)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/etienne-d-610a9a134/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:etienne.du-fayet-de-la-tour@polytechnique.edu)
+  [<i class="fa fa-envelope"></i>](mailto:etienne.du-fayet-de-la-tour@polytechnique.edu)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/etienne-d-610a9a134/)
+  [<i class="fab fa-github"></i>](https://github.com/etdufay)
 * Théo Mathieu
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/tzebre)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/theo-mathieu7/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:theo.mathieu@insa-lyon.fr)
+  [<i class="fa fa-envelope"></i>](mailto:theo.mathieu@insa-lyon.fr)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/theo-mathieu7/)
+  [<i class="fab fa-github"></i>](https://github.com/tzebre)
 * Adrian El Baz
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/ebadrian)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/adrian-el-baz/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/adrian-el-baz/)
+  [<i class="fab fa-github"></i>](https://github.com/ebadrian)
 * Louis-François Bouchard
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:bouchard.lf@gmail.com)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/whats-ai/)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/louisfb01)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/Whats_AI) 
+  [<i class="fa fa-envelope"></i>](mailto:bouchard.lf@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/whats-ai/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/Whats_AI)
+  [<i class="fab fa-github"></i>](https://github.com/louisfb01)
 * Michelle Chen
 * Busra Bulut
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/busra-bulut-a26420204/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/busra-bulut-a26420204/)
 * Ismail Foudali 
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ismail-foudali-780728166/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ismail-foudali-780728166/)
 * Vicente Enguix
 * Noel Rignon
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/RignonNoel/)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/rignonnoel/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:noel.rignon@fjnr.ca)
+  [<i class="fa fa-envelope"></i>](mailto:noel.rignon@fjnr.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/rignonnoel/)
+  [<i class="fab fa-github"></i>](https://github.com/RignonNoel/)
 * Lore Flipts
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/lore-flipts-251688234/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/lore-flipts-251688234/)
 * Konstantinos Nasiotis
 * Theo Gnassounou
 * Shu Ai Song
 * Paul Bautin
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/paul-bautin-757690175/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/paul-bautin-757690175/)
 * Evan Beal
 * [Taowa Rosetwig](research-associates/taowa-rosetwig.md)
 * David Arsenault-Belley
@@ -256,18 +258,18 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Mathilde Dupouy
 * Julia Palaretti
 * Louis Joseph Laberge
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/louis-joseph-laberge-8452b4207/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/louis-joseph-laberge-8452b4207/)
 * Ambroise Odonnat
 * Gaspard Cereza
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/gaspardcereza)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/gaspard-cereza-495584144/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:gaspard.cereza@gmail.com)
+  [<i class="fa fa-envelope"></i>](mailto:gaspard.cereza@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/gaspard-cereza-495584144/)
+  [<i class="fab fa-github"></i>](https://github.com/gaspardcereza)
 * Andréanne Lemay
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/andreanne-lemay)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/andreanne-lemay/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:andreanne.lemay@polymtl.ca)
+  [<i class="fa fa-envelope"></i>](mailto:andreanne.lemay@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/andreanne-lemay/)
+  [<i class="fab fa-github"></i>](https://github.com/andreanne-lemay)
 * Alexandru Foias
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://ca.linkedin.com/in/alexandrufoias)
+  [<i class="fab fa-linkedin"></i>](https://ca.linkedin.com/in/alexandrufoias)
 * [Ryan Topfer](phd-students/ryan-topfer.md)
 * Atef Badji
 * Srishti Yadav
@@ -276,16 +278,16 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Alexandre Bernard
 * Noémie Roberge
 * Ainsleigh Hill
-[<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/ainsleigh-hill-836296124/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ainsleigh-hill-836296124/)
 * Olivier Vincent
 * Maylis Heussner
-* [Jennifer Campbell](http://www.bic.mni.mcgill.ca/\~jcampbel/)
+* [Jennifer Campbell](http://www.bic.mni.mcgill.ca/~jcampbel/)
 * [Ilana Leppert](http://www.bic.mni.mcgill.ca/PeopleStaff/LeppertIlana)
 * [Tommy Boshkovski](alumni/tommy-boshkovski.md)
 * Lucas Rouhier
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/lrouhier)
+  [<i class="fab fa-github"></i>](https://github.com/lrouhier)
 * Leander van Eekelen
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/leander-van-eekelen/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/leander-van-eekelen/)
 * Anne Kerbrat
 * Sara Paperi
 * Anthime Bucquet
@@ -296,7 +298,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Aurelien Gilliot
 * Hee-Min Yang
 * Vasudev Sharma
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://in.linkedin.com/in/vs74)
+  [<i class="fab fa-linkedin"></i>](https://in.linkedin.com/in/vs74)
 * Alexa Mousley
 * Nicolas Pinon
 * [Christian S. Perone](alumni/christian-s.-perone.md)
@@ -367,11 +369,11 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Laura Brightman
 * Aamer Ar
 * Aram Sevag
-* [Uzay Macar](https://uzaymacar.github.io)
 * Kiri Stern
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:kiri.stern@mail.mcgill.ca)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/kiri-stern-6a7199197/)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/kiristern)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/_kastern) 
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/uzaymacar)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:uzay.macar@gmail.com)
+  [<i class="fa fa-envelope"></i>](mailto:kiri.stern@mail.mcgill.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/kiri-stern-6a7199197/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/_kastern)
+  [<i class="fab fa-github"></i>](https://github.com/kiristern)
+* [Uzay Macar](https://uzaymacar.github.io)
+  [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
+  [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
