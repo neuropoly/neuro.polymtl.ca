@@ -7,21 +7,21 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 ## Faculty
 
 * [Eva Alonso Ortiz](faculty/eva-alonso-ortiz.md)
-  [<i class="fab fa-twitter" title="" aria-hidden="true"></i>](https://twitter.com/evaalonsoortiz)
-  [<i class="fab fa-github" title="" aria-hidden="true"></i>](https://github.com/evaalonsoortiz)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/evaalonsoortiz)
+  [<i class="fab fa-github"></i>](https://github.com/evaalonsoortiz)
 * [Julien Cohen-Adad](faculty/julien-cohen-adad.md)
-  [<i class="fab fa-twitter" title="" aria-hidden="true"></i>](https://twitter.com/jcohenadad)
-  [<i class="fab fa-github" title="" aria-hidden="true"></i>](https://github.com/jcohenadad/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/jcohenadad)
+  [<i class="fab fa-github"></i>](https://github.com/jcohenadad/)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jcohenadad/)
-  [<i class="fa fa-envelope" aria-hidden="true"></i>](mailto:julien.cohen-adad@polymtl.ca)
-  [Bluesky](https://bsky.app/profile/jcohenadad.bsky.social)
+  [<i class="fa fa-envelope"></i>](mailto:julien.cohen-adad@polymtl.ca)
+  [<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/jcohenadad.bsky.social)
 * [Benjamin De Leener](faculty/benjamin-de-leener.md)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/bendeleener)
-  [<i class="fab fa-github" title="GitHub" aria-hidden="true"></i><span>GitHub</span>](https://github.com/benjamindeleener)
-  [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/benjamindeleener/)
-  [<i class="fa fa-envelope" title="E-Mail" aria-hidden="true"></i><span>E-Mail</span>](mailto:benjamin.de-leener@polymtl.ca)
+  [<i class="fab fa-twitter"></i><span></span>](https://twitter.com/bendeleener)
+  [<i class="fab fa-github"></i><span></span>](https://github.com/benjamindeleener)
+  [<i class="fab fa-linkedin"></i><span></span>](https://www.linkedin.com/in/benjamindeleener/)
+  [<i class="fa fa-envelope"></i><span></span>](mailto:benjamin.de-leener@polymtl.ca)
 * [Nikola Stikov](faculty/nikola-stikov.md)
-  [<i class="fab fa-twitter" title="Twitter" aria-hidden="true"></i><span>Twitter</span>](https://twitter.com/stikov)
+  [<i class="fab fa-twitter"></i><span></span>](https://twitter.com/stikov)
 
 ## Research Associates
 
