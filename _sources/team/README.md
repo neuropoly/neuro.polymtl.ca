@@ -19,6 +19,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:benjamin.de-leener@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/benjamindeleener/)
   [<i class="fab fa-twitter"></i>](https://twitter.com/bendeleener)
+  [<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/benjamindeleener.bsky.social)
   [<i class="fab fa-github"></i>](https://github.com/benjamindeleener)
 * [Nikola Stikov](faculty/nikola-stikov.md)
   [<i class="fab fa-twitter"></i>](https://twitter.com/stikov)
