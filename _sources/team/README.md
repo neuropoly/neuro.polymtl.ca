@@ -83,6 +83,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Nilser Laines Medina
   [<i class="fa fa-envelope"></i>](mailto:nilser.laines@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nilser-laines/)
+  [<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/nilserlaines.bsky.social)
   [<i class="fab fa-github"></i>](https://github.com/Nilser3)
 * Samuelle St-Onge
   [<i class="fa fa-envelope"></i>](mailto:samuelle.st-onge@polymtl.ca)
