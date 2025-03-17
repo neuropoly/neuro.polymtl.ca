@@ -101,6 +101,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Sandrine Bédard
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/sandrine-b%C3%A9dard-453939186/)
   [<i class="fab fa-twitter"></i>](https://twitter.com/SandBedard)
+  [<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/sandbedard.bsky.social)
   [<i class="fab fa-github"></i>](https://github.com/sandrinebedard)
 * Armand Collin
   [<i class="fab fa-github"></i>](https://github.com/hermancollin)
