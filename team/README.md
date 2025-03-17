@@ -1,6 +1,6 @@
 # <span>👫</span> Team
 
-![](../.gitbook/assets/lab_2024.jpeg)
+![](../.gitbook/assets/20250125_NeuroPoly_Bowling.jpg)
 
 See [us on Github](https://github.com/orgs/neuropoly/people), or our more specific profiles below.
 
