@@ -28,6 +28,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Research Associates
 
+* Arnaud Bréhéret
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
+  [<i class="fab fa-github"></i>](https://github.com/4rnaudB)
 * [Mathieu Boudreau](research-associates/mathieu-boudreau.md)
   [<i class="fa fa-envelope"></i>](mailto:mathieu.boudreau@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://ca.linkedin.com/in/mathieujboudreau)
@@ -92,10 +95,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:samuelle.st-onge@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/samuelle-st-onge-578b89185/)
   [<i class="fab fa-github"></i>](https://github.com/samuellestonge)
-* Behrouz Vejdani Afkham
-  [<i class="fa fa-envelope"></i>](mailto:behrouz.vejdani-afkham@polymtl.ca)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/behrouz-vejdani-afkham-864913141/)
-  [<i class="fab fa-github"></i>](https://github.com/behrouzvia)
 * [Pierre-Louis Benveniste ](https://plbenveniste.github.io/)
   [<i class="fa fa-envelope"></i>](mailto:pierrelouis.benveniste03@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/pierre-louis-benveniste/)
@@ -115,10 +114,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/rohanbanerjee1)
   [<i class="fab fa-twitter"></i>](https://twitter.com/rohanbanerjeee)
   [<i class="fab fa-github"></i>](https://github.com/rohanbanerjee)
-* Nishka Katoch
-* Arnaud Bréhéret
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
-  [<i class="fab fa-github"></i>](https://github.com/4rnaudB)
 * Sebastian Rios
   [<i class="fab fa-linkedin"></i>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)
 * Alexia Mahlig
@@ -137,26 +132,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Interns
 
-* Arthur Boschet
-  [<i class="fa fa-envelope"></i>](mailto:arthur.boschet@mila.quebec)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arthur-boschet/)
-  [<i class="fab fa-github"></i>](https://github.com/ArthurBoschet)
-* Baptiste Taverne
-  [<i class="fa fa-envelope"></i>](mailto:baptiste.taverne@polytechnique.edu)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/baptiste-taverne-26739a254/)
-  [<i class="fab fa-github"></i>](https://github.com/BreziTasbi)
-* Simon Queric
-  [<i class="fa fa-envelope"></i>](mailto:simon.queric@telecom-paris.fr)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/simon-queric-157b81225)
-  [<i class="fab fa-github"></i>](https://github.com/simonqueric)
-* Kateřina Krejčí
-  [<i class="fa fa-envelope"></i>](mailto:xkrejc78@vutbr.cz)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/kate%C5%99ina-krej%C4%8D%C3%AD-0766062b6/)
-  [<i class="fab fa-github"></i>](https://github.com/KaterinaKrejci231054)
-* Charles Pageot
-  [<i class="fa fa-envelope"></i>](mailto:charles.pageot@polymtl.ca)
-  [<i class="fab fa-linkedin"></i>](https://ca.linkedin.com/in/charles-pageot-147b97262)
-  [<i class="fab fa-github"></i>](https://github.com/CharlesPageot)
 * Abel Salmona
   [<i class="fa fa-envelope"></i>](mailto:abel.salmona@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/abel-salmona-a197b3189/)
@@ -184,6 +159,31 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Arthur Boschet
+  [<i class="fa fa-envelope"></i>](mailto:arthur.boschet@mila.quebec)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arthur-boschet/)
+  [<i class="fab fa-github"></i>](https://github.com/ArthurBoschet)
+* Baptiste Taverne
+  [<i class="fa fa-envelope"></i>](mailto:baptiste.taverne@polytechnique.edu)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/baptiste-taverne-26739a254/)
+  [<i class="fab fa-github"></i>](https://github.com/BreziTasbi)
+* Simon Queric
+  [<i class="fa fa-envelope"></i>](mailto:simon.queric@telecom-paris.fr)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/simon-queric-157b81225)
+  [<i class="fab fa-github"></i>](https://github.com/simonqueric)
+* Kateřina Krejčí
+  [<i class="fa fa-envelope"></i>](mailto:xkrejc78@vutbr.cz)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/kate%C5%99ina-krej%C4%8D%C3%AD-0766062b6/)
+  [<i class="fab fa-github"></i>](https://github.com/KaterinaKrejci231054)
+* Charles Pageot
+  [<i class="fa fa-envelope"></i>](mailto:charles.pageot@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://ca.linkedin.com/in/charles-pageot-147b97262)
+  [<i class="fab fa-github"></i>](https://github.com/CharlesPageot)
+* Nishka Katoch
+* Behrouz Vejdani Afkham
+  [<i class="fa fa-envelope"></i>](mailto:behrouz.vejdani-afkham@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/behrouz-vejdani-afkham-864913141/)
+  [<i class="fab fa-github"></i>](https://github.com/behrouzvia)
 * Jeanne Malécot
   [<i class="fa fa-envelope"></i>](mailto:jeanne.malecot@telecom-paris.fr)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jeannemalecot/)
