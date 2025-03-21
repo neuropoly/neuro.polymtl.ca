@@ -8,7 +8,7 @@ Realistic digital brain tissue phantom for testing magnetic susceptiblity imagin
 
 > Ridani, D., De Leener, B., & Alonso Ortiz, E. (2024, May). A realistic in-silico brain phantom for magnetic susceptibility-separation algorithm validation [Paper]. ISMRM & ISMRT annual Meeting & Exhibition, Singapore. Published in Proceedings on CD-ROM - International Society for Magnetic Resonance in Medicine. Scientific Meeting and Exhibition/Proceedings of the International Society for Magnetic Resonance in Medicine, Scientific Meeting and Exhibition. https://doi.org/10.58530/2024/4826
 
-<img src="../.gitbook/assets/SC_chi_phantom_MC.jpg" alt="drawing" width="600"/>
+<img src="../.gitbook/assets/SC_chi_phantom_MC.jpg" alt="drawing" width="400"/>
 
 Realistic digital body tissue phantom for testing magnetic susceptiblity imaging techniques. The above images show simulated body tissue properties such as magnetic susceptiblity and relaxation. This digital phantom can be used to simulate data and test MR imaging techniques in different organs. 
 
