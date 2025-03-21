@@ -57,6 +57,7 @@ NeuroPoly has expertise in building radiofrequency (RF) coils for MRI applicatio
   * [Path to "Unité de Neuroimagerie Fonctionnelle"](https://www.neuro.polymtl.ca/_media/path_to_unf.pdf)
 * [3T Skyra \(Siemens\)](https://www.siemens-healthineers.com/magnetic-resonance-imaging/3t-mri-scanner/magnetom-skyra) located at Polytechnique Montreal \(JAB building\).
 * 3T Skyra \(Siemens\) located at [Montreal Heart Institute](https://www.icm-mhi.org/).
+* 3T Cima.X \(Siemens\) located at [CHU Sainte-Justine](https://research.chusj.org/en/Core-Facilities/Major-institutional-initiatives/IMAGINE-Center/Imagine-center/For-Researchers/Data-Acquisition-Systems).
 
 **Features:**
 
