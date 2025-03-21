@@ -99,9 +99,10 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 * **Contact**: [Julien Cohen-Adad](mailto:jcohen@polymtl.ca)
 
 
-### Diffusion Tensor Imaging (DTI) for Radiotherapy Treatment Planning of Glioma
-  * **Description**: We are recruiting an MSc student to work on DTI-based tractography for predicting paths of tumor spread during radiotherapy treatment planning of gliomas. Research will be conducted at the NeuroPoly (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and in collaboration with the Radiation Oncology department of the McGill University Health Center (MUHC).
-  * **Skills**: MRI (acquisition and analysis) \| Radiotherapy \| Cancer
+### Spinal Cord QSM
+![](../.gitbook/assetsSC_chi_phantom_MC.jpg)
+  * **Description**: We are recruiting a PhD student to work on quantitative susceptibility mapping (QSM) for the spinal cord. Research will be conducted at the NeuroPoly (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and in collaboration with the Radiation Oncology department of the McGill University Health Center (MUHC).
+  * **Skills**: Physics | Familiarity with MRI | Computer programming | Image analysis
   * **Contact**: [Eva Alonso-Ortiz](mailto:eva.alonso-ortiz@polymtl.ca)
 
 
