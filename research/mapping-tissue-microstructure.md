@@ -2,7 +2,7 @@
 
 ## Biophysical Modelling
 
-<img src="../.gitbook/assets/Brain_sus_phantom.png" alt="drawing" width="600" />
+<img src="../.gitbook/assets/Brain_sus_phantom.png" width="600">
 
 Realistic digital brain tissue phantom for testing magnetic susceptiblity imaging techniques. The above figure shows simulated brain tissue property maps (inlcluding magnetic susceptiblity and relaxation properties) that can be used to simulate data and test different biophysical models. 
 
