@@ -91,6 +91,6 @@ NeuroPoly has expertise in building radiofrequency (RF) coils for MRI applicatio
 * Access to histology for ex vivo scans.
 * [Wiki for coil dev / pulse seq programming / MR acquisition](http://liom2.polymtl.ca/internal/systems_and_their_operation/mri) \(login required + only accessible from campus/[VPN](https://intranet.neuro.polymtl.ca/computing-resources/computing-resources-neuropoly#vpn)\)
 
-### 64mT Animal - Small Bore
+### 64mT Human - Small Bore
 
 * [64mT \(Hyperfine Swoop\)](https://hyperfine.io/swoop/overview) located at the [CHU Sainte-Justine](https://research.chusj.org/en/Core-Facilities/Major-institutional-initiatives/IMAGINE-Center/Imagine-center/For-Researchers/Data-Acquisition-Systems).
