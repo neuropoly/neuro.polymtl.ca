@@ -100,9 +100,9 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 
 ### Spinal Cord QSM
-<img src="../.gitbook/assets/SC_chi_phantom_MC.png" width="300">
+![](../.gitbook/assets/SC_chi_phantom_MC.jpg)
 
-  * **Description**: We are recruiting a PhD student to work on quantitative susceptibility mapping (QSM) for the spinal cord. Research will be conducted at the NeuroPoly (Polytechnique, University of Montreal, [www.neuro.polymtl.ca](http://www.neuro.polymtl.ca/)\), and in collaboration with the Radiation Oncology department of the McGill University Health Center (MUHC).
+  * **Description**: We are recruiting a PhD student to work on quantitative susceptibility mapping (QSM) for the spinal cord. 
   * **Skills**: Physics | Familiarity with MRI | Computer programming | Image analysis
   * **Contact**: [Eva Alonso-Ortiz](mailto:eva.alonso-ortiz@polymtl.ca)
 
