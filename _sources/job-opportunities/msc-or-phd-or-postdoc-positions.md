@@ -100,7 +100,7 @@ These projects are done in partnership with [Mila](https://mila.quebec/), with p
 
 
 ### Spinal Cord QSM
-![](../.gitbook/assets/SC_chi_phantom_MC.jpg)
+![](../.gitbook/assets/SC_chi_phantom.jpg)
 
   * **Description**: We are recruiting a PhD student to work on quantitative susceptibility mapping (QSM) for the spinal cord. 
   * **Skills**: Physics | Familiarity with MRI | Computer programming | Image analysis
