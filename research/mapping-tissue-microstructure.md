@@ -8,10 +8,6 @@ Realistic digital brain tissue phantom for testing magnetic susceptiblity imagin
 
 > Ridani, D., De Leener, B., & Alonso Ortiz, E. (2024, May). A realistic in-silico brain phantom for magnetic susceptibility-separation algorithm validation [Paper]. ISMRM & ISMRT annual Meeting & Exhibition, Singapore. Published in Proceedings on CD-ROM - International Society for Magnetic Resonance in Medicine. Scientific Meeting and Exhibition/Proceedings of the International Society for Magnetic Resonance in Medicine, Scientific Meeting and Exhibition. https://doi.org/10.58530/2024/4826
 
-<img src="../.gitbook/assets/SC_chi_phantom_MC.jpg" alt="drawing" width="300" /> 
-
-Realistic digital body tissue phantom for testing magnetic susceptiblity imaging techniques. The above images show simulated body tissue properties such as magnetic susceptiblity and relaxation. This digital phantom can be used to simulate data and test MR imaging techniques in different organs. 
-
 ![](../.gitbook/assets/diffusion_simulator.png)
 
 Realistic tissue model for simulating the q-space diffusion MR signal. The tissue model shown on the left was based on real histological data and represents five different fibre calibre distributions for five different regions of the human corpus callosum. Shown is a simulation for one region \(zoomed cube including fibres\). The simulation software enables us to choose a distribution of axon diameter, density, orientation and myelin thickness. Here we set realistic values from histology. The right panel shows a simulated MR signal given a set of q-space acquisition parameters, e.g., the diffusion time \(Δ\) and the maximum gradient strength \(Gmax\).
