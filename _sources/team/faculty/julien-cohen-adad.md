@@ -19,7 +19,7 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 
 ## Other Memberships
 
-* [Quebec Bio-Imaging Network](http://www.rbiq-qbin.qc.ca/)
+* [UNIQUE](https://www.unique.quebec/home)
 * Réseau Santé Numérique (regroupement FRQS)
 * [Centre for Systems, Technologies and Applications for Radiofrequency and Communication \(STARaCom\)](http://www.staracom.mcgill.ca/)
 
