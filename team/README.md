@@ -8,9 +8,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 * [Eva Alonso Ortiz](faculty/eva-alonso-ortiz.md)
   [<i class="fa fa-envelope"></i>](mailto:eva.alonso-ortiz@polymtl.ca)
-  [<i class="fab fa-twitter"></i>](https://twitter.com/evaalonsoortiz)
-  [<i class="fab fa-github"></i>](https://github.com/evaalonsoortiz)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/eva-alonso-ortiz/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/evaalonsoortiz)
+  [<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/evaalonsoortiz.bsky.social)
+  [<i class="fab fa-github"></i>](https://github.com/evaalonsoortiz)
 * [Julien Cohen-Adad](faculty/julien-cohen-adad.md)
   [<i class="fa fa-envelope"></i>](mailto:julien.cohen-adad@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jcohenadad/)
