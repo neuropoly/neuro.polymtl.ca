@@ -153,6 +153,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Camille Lortie
   [<i class="fa fa-envelope"></i>](mailto:camille.lortie@polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/camillelortie)
+* Alexandre Babic
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/alexandre-babic-b4419b328/)
+  [<i class="fab fa-github"></i>](https://github.com/ababic12)
 
 ## Consultants
 
