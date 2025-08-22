@@ -134,6 +134,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Interns
 
+* Hugo Albert Plante
+  [<i class="fa fa-envelope"></i>](mailto:hugo.albert-plante@etud.polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/hugo-albert-plante-55a99b2b3)
+  [<i class="fab fa-github"></i>](https://github.com/haplante)
 * Abel Salmona
   [<i class="fa fa-envelope"></i>](mailto:abel.salmona@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/abel-salmona-a197b3189/)
@@ -391,3 +395,4 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
