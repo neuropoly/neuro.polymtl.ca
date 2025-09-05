@@ -165,7 +165,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/kuan-yi-wang-443871319/)
   [<i class="fab fa-github"></i>](https://github.com/AcastaPaloma)
 * Kahina Baouche
-
+  [<i class="fa fa-envelope"></i>](mailto:kahina.baouche@polymtl.com)
+  [<i class="fab fa-linkedin"></i>](www.linkedin.com/in/kahina-baouche)
+  [<i class="fab fa-github"></i>](https://github.com/KahinaBch)
 
 ## Consultants
 
