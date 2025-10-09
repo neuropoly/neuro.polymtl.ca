@@ -29,9 +29,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Research Associates
 
-* Arnaud Bréhéret
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
-  [<i class="fab fa-github"></i>](https://github.com/4rnaudB)
 * [Mathieu Boudreau](research-associates/mathieu-boudreau.md)
   [<i class="fa fa-envelope"></i>](mailto:mathieu.boudreau@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://ca.linkedin.com/in/mathieujboudreau)
@@ -157,9 +154,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Camille Lortie
   [<i class="fa fa-envelope"></i>](mailto:camille.lortie@polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/camillelortie)
-* Alexandre Babic
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/alexandre-babic-b4419b328/)
-  [<i class="fab fa-github"></i>](https://github.com/ababic12)
 * Kuan Yi Wang
   [<i class="fa fa-envelope"></i>](mailto:kuanyi.wang0906@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/kuan-yi-wang-443871319/)
@@ -171,11 +165,16 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Consultants
 
-* Nathan Gorvett
-  [<i class="fa fa-envelope"></i>](mailto:nathan@nzm.ca)
-
 ## Alumni
 
+* Arnaud Bréhéret
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
+  [<i class="fab fa-github"></i>](https://github.com/4rnaudB)
+* Alexandre Babic
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/alexandre-babic-b4419b328/)
+  [<i class="fab fa-github"></i>](https://github.com/ababic12)
+* Nathan Gorvett
+  [<i class="fa fa-envelope"></i>](mailto:nathan@nzm.ca)
 * Arthur Boschet
   [<i class="fa fa-envelope"></i>](mailto:arthur.boschet@mila.quebec)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arthur-boschet/)
@@ -399,5 +398,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
