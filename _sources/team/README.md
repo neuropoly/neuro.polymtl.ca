@@ -162,6 +162,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:artem.sp28@@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/artem-kovalchuk-8678491b5/)
   [<i class="fab fa-github"></i>](https://github.com/artm00)
+ * Axelle Monnot
+  [<i class="fa fa-envelope"></i>](mailto:axelle.monnot@etud.polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/axelle-m)
 
 ## Consultants
 
@@ -398,6 +401,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
