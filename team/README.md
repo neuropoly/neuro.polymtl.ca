@@ -128,6 +128,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:t.arthur1729@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arthur-toulouse)
   [<i class="fab fa-github"></i>](https://github.com/arthurtoulouse)
+  * Nolan Beaujault
+  [<i class="fa fa-envelope"></i>](mailto:beaujaultnolan@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nolan-beaujault/)
+  [<i class="fab fa-github"></i>](https://github.com/NolanBeaujault)
 
 ## Interns
 
@@ -401,7 +405,3 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
-
-
-
-
