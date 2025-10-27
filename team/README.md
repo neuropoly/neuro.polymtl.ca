@@ -135,6 +135,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Interns
 
+* Julien Laborde-Peyré
+  [<i class="fa fa-envelope"></i>](mailto:julien.lbrd@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/julien-laborde-peyre/)
+  [<i class="fab fa-github"></i>](https://github.com/julaborde)
 * Hugo Albert Plante
   [<i class="fa fa-envelope"></i>](mailto:hugo.albert-plante@etud.polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/hugo-albert-plante-55a99b2b3)
@@ -405,4 +409,5 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
