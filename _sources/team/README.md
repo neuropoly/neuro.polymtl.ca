@@ -173,6 +173,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
  * Axelle Monnot
   [<i class="fa fa-envelope"></i>](mailto:axelle.monnot@etud.polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/axelle-m)
+* Nontharat Tucksinapinunchai
+  [<i class="fa fa-envelope"></i>](mailto:nontharatt@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nontharat-tucksinapinunchai-50a475365/)
+  [<i class="fab fa-github"></i>](https://github.com/NTucksinapinunchai)
 
 ## Consultants
 
