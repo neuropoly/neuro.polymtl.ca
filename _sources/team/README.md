@@ -25,7 +25,11 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/benjamindeleener.bsky.social)
   [<i class="fab fa-github"></i>](https://github.com/benjamindeleener)
 * [Nikola Stikov](faculty/nikola-stikov.md)
+  [<i class="fa fa-envelope"></i>](mailto:nikola.stikov@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nikola-stikov-20a4a34/)
   [<i class="fab fa-twitter"></i>](https://twitter.com/stikov)
+  [<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/stikov.bsky.social)
+  [<i class="fab fa-github"></i>](https://github.com/nstikov/)
 
 ## Research Associates
 
@@ -417,6 +421,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
