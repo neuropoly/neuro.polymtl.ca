@@ -117,6 +117,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:yousseflaatar@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yolaatar/)
   [<i class="fab fa-github"></i>](https://github.com/yolaatar)
+* Morane Bienvenu
+  [<i class="fa fa-envelope"></i>](mailto:morane.bienvenu01@gmail.com)
+  [<i class="fab fa-github"></i>](https://github.com/moranebienvenu/)
 
 ## Interns
 
@@ -419,6 +422,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
