@@ -112,26 +112,12 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## MSc Students
 
-* [Rohan Banerjee](https://rohanbanerjee.netlify.app)
-  [<i class="fa fa-envelope"></i>](mailto:banerjee.rohan98@gmail.com)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/rohanbanerjee1)
-  [<i class="fab fa-twitter"></i>](https://twitter.com/rohanbanerjeee)
-  [<i class="fab fa-github"></i>](https://github.com/rohanbanerjee)
 * Sebastian Rios
   [<i class="fab fa-linkedin"></i>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)
-* Alexia Mahlig
-* Maxime Bouthillier
-  [<i class="fa fa-envelope"></i>](mailto:mbmsc2025@gmail.com)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maxime-bouthilliermd)
-  [<i class="fab fa-github"></i>](https://github.com/maxradx)
 * Thomas Dagonneau
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/thomas-dagonneau-83630a234/)
   [<i class="fab fa-twitter"></i>](https://x.com/ThomasDagonneau)
   [<i class="fab fa-github"></i>](https://github.com/tomDag25)
-* Arthur Toulouse
-  [<i class="fa fa-envelope"></i>](mailto:t.arthur1729@gmail.com)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arthur-toulouse)
-  [<i class="fab fa-github"></i>](https://github.com/arthurtoulouse)
 * Nolan Beaujault
   [<i class="fa fa-envelope"></i>](mailto:beaujaultnolan@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nolan-beaujault/)
@@ -190,6 +176,20 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* [Rohan Banerjee](https://rohanbanerjee.netlify.app)
+  [<i class="fa fa-envelope"></i>](mailto:banerjee.rohan98@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/rohanbanerjee1)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/rohanbanerjeee)
+  [<i class="fab fa-github"></i>](https://github.com/rohanbanerjee)
+* Alexia Mahlig
+* Maxime Bouthillier
+  [<i class="fa fa-envelope"></i>](mailto:mbmsc2025@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maxime-bouthilliermd)
+  [<i class="fab fa-github"></i>](https://github.com/maxradx)
+* Arthur Toulouse
+  [<i class="fa fa-envelope"></i>](mailto:t.arthur1729@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arthur-toulouse)
+  [<i class="fab fa-github"></i>](https://github.com/arthurtoulouse)
 * Arnaud Bréhéret
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/arnaud-br%C3%A9h%C3%A9ret-8ba353232/)
   [<i class="fab fa-github"></i>](https://github.com/4rnaudB)
@@ -421,6 +421,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
