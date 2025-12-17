@@ -73,18 +73,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:andjela.dimitrijevic@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/andjela-dimitrijevic-470651171/)
   [<i class="fab fa-github"></i>](https://github.com/Andjelaaaa)
-* [Naga Karthik](https://naga-karthik.github.io)
-  [<i class="fa fa-envelope"></i>](mailto:emvnagakarthik@gmail.com)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/naga-karthik-enamundram-7b1559174/)
-  [<i class="fab fa-twitter"></i>](https://twitter.com/naga_karthik7)
-  [<i class="fab fa-github"></i>](https://github.com/naga-karthik)
 * Daniel Ridani
   [<i class="fa fa-envelope"></i>](mailto:daniel.ridani@polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/Danirid)
-* Erjun Zhang
-  [<i class="fa fa-envelope"></i>](mailto:erjun.zhang@polymtl.ca)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zhangerjun/)
-  [<i class="fab fa-github"></i>](https://github.com/zhangerjun)
 * Nathan Molinier
   [<i class="fa fa-envelope"></i>](mailto:nathan.molinier@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nathan-molinier-743972180/)
@@ -137,10 +128,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:hugo.albert-plante@etud.polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/hugo-albert-plante-55a99b2b3)
   [<i class="fab fa-github"></i>](https://github.com/haplante)
-* Abel Salmona
-  [<i class="fa fa-envelope"></i>](mailto:abel.salmona@polymtl.ca)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/abel-salmona-a197b3189/)
-  [<i class="fab fa-github"></i>](https://github.com/abelsalm)
 * Murielle Mardenli
   [<i class="fa fa-envelope"></i>](mailto:murielle.mardenli@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/murielle-mardenli-7a0804238/)
@@ -149,10 +136,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:edgar.kappauf@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/edgar-k-40a4641b6/)
   [<i class="fab fa-github"></i>](https://github.com/edgark31)
-* Antoine Guénette
-  [<i class="fa fa-envelope"></i>](mailto:antoine.guenette@polymtl.ca)
-  [<i class="fab fa-linkedin"></i>](www.linkedin.com/in/antoine-guénette-569905260)
-  [<i class="fab fa-github"></i>](https://github.com/AntoineGuenette)
 * Camille Lortie
   [<i class="fa fa-envelope"></i>](mailto:camille.lortie@polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/camillelortie)
@@ -164,7 +147,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:artem.sp28@@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/artem-kovalchuk-8678491b5/)
   [<i class="fab fa-github"></i>](https://github.com/artm00)
- * Axelle Monnot
+* Axelle Monnot
   [<i class="fa fa-envelope"></i>](mailto:axelle.monnot@etud.polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/axelle-m)
 * Nontharat Tucksinapinunchai
@@ -176,6 +159,23 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Antoine Guénette
+  [<i class="fa fa-envelope"></i>](mailto:antoine.guenette@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](www.linkedin.com/in/antoine-guénette-569905260)
+  [<i class="fab fa-github"></i>](https://github.com/AntoineGuenette)
+* Abel Salmona
+  [<i class="fa fa-envelope"></i>](mailto:abel.salmona@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/abel-salmona-a197b3189/)
+  [<i class="fab fa-github"></i>](https://github.com/abelsalm)
+* Erjun Zhang
+  [<i class="fa fa-envelope"></i>](mailto:erjun.zhang@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zhangerjun/)
+  [<i class="fab fa-github"></i>](https://github.com/zhangerjun)
+* [Naga Karthik](https://naga-karthik.github.io)
+  [<i class="fa fa-envelope"></i>](mailto:emvnagakarthik@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/naga-karthik-enamundram-7b1559174/)
+  [<i class="fab fa-twitter"></i>](https://twitter.com/naga_karthik7)
+  [<i class="fab fa-github"></i>](https://github.com/naga-karthik)
 * [Rohan Banerjee](https://rohanbanerjee.netlify.app)
   [<i class="fa fa-envelope"></i>](mailto:banerjee.rohan98@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/rohanbanerjee1)
@@ -421,6 +421,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
