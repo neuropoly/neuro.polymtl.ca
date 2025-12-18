@@ -120,6 +120,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Morane Bienvenu
   [<i class="fa fa-envelope"></i>](mailto:morane.bienvenu01@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/moranebienvenu/)
+* Paul Hoareau
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/paul-hoareau-6a35ba252/)
+  [<i class="fab fa-github"></i>]([https://github.com/tomDag25](https://github.com/Luugaaa))
 
 ## Interns
 
@@ -422,6 +425,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
