@@ -161,6 +161,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:nontharatt@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nontharat-tucksinapinunchai-50a475365/)
   [<i class="fab fa-github"></i>](https://github.com/NTucksinapinunchai)
+* Maria Ngan
+  [<i class="fa fa-envelope"></i>](mailto:mngan@ualberta.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maria-ngan-6b46732b4/)
+  [<i class="fab fa-github"></i>](https://github.com/m-ngan)
 
 ## Alumni
 
@@ -426,6 +430,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
