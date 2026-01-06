@@ -1,4 +1,12 @@
 
+## 2026
+<div class="publications-container">
+<div class="publication" data-labels="quantitative-mri image-analysis">
+    <h3>Diffusion Tractography Outside the Brain: The road less travelled. Diffusion tractography outside the brain: the road less travelled</h3>
+    <p><em>Schilling KG, Teh I, Cohen-Adad J, Dortch R, Ibrahim I, Wang N, Damon B, Cochran RL, Leemans A</em></p>
+    <p><strong>Brain Struct Funct</strong> (2026) <a href="https://link.springer.com/article/10.1007/s00429-025-03062-9">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
+</div>
+
 ## 2025
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis deep-learning">
@@ -6,40 +14,40 @@
     <p><em>Karthik EN, Bédard S, Valošek J, 50 authors, Chandar S, Cohen-Adad J</em></p>
     <p><strong>Conference on Lifelong Learning Agents (CoLLAs) Workshop Track</strong> (2025) <a href="https://arxiv.org/pdf/2505.01364">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
-<div class="publication" data-labels="multiple-sclerosis quantitative-mri">
-    <h3>Cervical spinal cord magnetization transfer ratio and its relationship with clinical outcomes in multiple sclerosis</h3>
-    <p><em>Lee LE, Cohen-Adad J, Vavasour IM, Guenette M, Sawicka K, Rashidi-Ranjbar N, Churchill N, Chopra A, Adelia A, Benveniste PL, Traboulsee A, Arbour N, Giuliani F, Lynd LD, Patten SB, Prat A, Schabas A, Smyth P, Tam R, Zhang Y, Graham SJ, Hodaie M, Feinstein A, Kolind S, Schweizer TA, Oh J, CanProCo Study Group</em></p>
-    <p><strong>Ann Clin Transl Neurol</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40583289/">Link to paper</a><span class="publication-label"> (Labels: multiple-sclerosis, quantitative-mri)</span></p>
+<div class="publication" data-labels="microscopy deep-learning image-analysis">
+    <h3>Morphometric characteristics of tibial nerve and their relationship with age</h3>
+    <p><em>Oveisgharan S, Collin A, Yang J, Leurgans SE, VanderHorst V, Bennett DA, Cohen-Adad J, Delbono O, Buchman AS</em></p>
+    <p><strong>Brain Commun</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40687605/">Link to paper</a><span class="publication-label"> (Labels: microscopy, deep-learning, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="spinal-cord-injury quantitative-mri image-analysis">
     <h3>Building a library of acute traumatic spinal cord injury images across Canada: a retrospective cohort study protocol</h3>
     <p><em>Rotem-Kohavi N, Humphreys S, Noonan VK, Cheng CL, Guay-Paquet M, Bouthillier M, Valošek J, Karthik EN, Lichtenstein E, Guenther N, Ost K, Attabib N, Hardisty M, Badhiwala J, Larouche J, Pahuta M, Christie S, Fehlings MG, Fourney D, Kwon BK, Mac-Thiong JM, Paquet J, Phan P, Witiw C, Cohen-Adad J, Cadotte DW</em></p>
     <p><strong>BMJ Open</strong> (2025) <a href="https://bmjopen.bmj.com/content/15/12/e106818">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury, quantitative-mri, image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="deep-learning image-analysis">
-    <h3>EPISeg: Automated segmentation of the spinal cord on echo planar images using open-access multi-center data</h3>
-    <p><em>Banerjee R, Kaptan M, Tinnermann A, Khatibi A, Dabbagh A, Büchel C, Kündig CW, Law CSW, Pfyffer D, Lythgoe DJ, Tsivaka D, Van De Ville D, Eippert F, Muhammad F, Glover GH, David G, Haynes G, Haaker J, Brooks JCW, Finsterbusch J, Martucci KT, Hemmerling KJ, Mobarak-Abadi M, Hoggarth MA, Howard MA, Bright MG, Kinany N, Kowalczyk OS, Freund P, Barry RL, Mackey S, Vahdat S, Schading S, McMahon SB, Parish T, Marchand-Pauvert V, Chen Y, Smith ZA, Weber KA Ii, De Leener B, Cohen-Adad J</em></p>
-    <p><strong>Imaging Neurosci</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40937159/">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
-</div>
 <div class="publication" data-labels="spinal-cord-injury quantitative-mri image-analysis">
     <h3>Normalizing spinal cord compression measures in degenerative cervical myelopathy</h3>
     <p><em>Bédard S, Valošek J, Seif M, Curt A, Schading-Sassenhausen S, Pfender N, Freund P, Hupp M, Cohen-Adad J   </em></p>
     <p><strong>Spine J</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40154634/">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury, quantitative-mri, image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="quantitative-mri neuroscience">
-    <h3>Ultrasound and MRI-based evaluation of relationships between morphological and mechanical properties of the lower lumbar multifidus muscle in chronic low back pain</h3>
-    <p><em>Naghdi N, Masi S, Bertrand C, Rosenstein B, Cohen-Adad J, Rivaz H, Roy M, Fortin M</em></p>
-    <p><strong>Eur Spine J</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40488869/">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, neuroscience)</span></p>
+<div class="publication" data-labels="deep-learning image-analysis">
+    <h3>EPISeg: Automated segmentation of the spinal cord on echo planar images using open-access multi-center data</h3>
+    <p><em>Banerjee R, Kaptan M, Tinnermann A, Khatibi A, Dabbagh A, Büchel C, Kündig CW, Law CSW, Pfyffer D, Lythgoe DJ, Tsivaka D, Van De Ville D, Eippert F, Muhammad F, Glover GH, David G, Haynes G, Haaker J, Brooks JCW, Finsterbusch J, Martucci KT, Hemmerling KJ, Mobarak-Abadi M, Hoggarth MA, Howard MA, Bright MG, Kinany N, Kowalczyk OS, Freund P, Barry RL, Mackey S, Vahdat S, Schading S, McMahon SB, Parish T, Marchand-Pauvert V, Chen Y, Smith ZA, Weber KA Ii, De Leener B, Cohen-Adad J</em></p>
+    <p><strong>Imaging Neurosci</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40937159/">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
+</div>
+<div class="publication" data-labels="multiple-sclerosis quantitative-mri">
+    <h3>Cervical spinal cord magnetization transfer ratio and its relationship with clinical outcomes in multiple sclerosis</h3>
+    <p><em>Lee LE, Cohen-Adad J, Vavasour IM, Guenette M, Sawicka K, Rashidi-Ranjbar N, Churchill N, Chopra A, Adelia A, Benveniste PL, Traboulsee A, Arbour N, Giuliani F, Lynd LD, Patten SB, Prat A, Schabas A, Smyth P, Tam R, Zhang Y, Graham SJ, Hodaie M, Feinstein A, Kolind S, Schweizer TA, Oh J, CanProCo Study Group</em></p>
+    <p><strong>Ann Clin Transl Neurol</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40583289/">Link to paper</a><span class="publication-label"> (Labels: multiple-sclerosis, quantitative-mri)</span></p>
 </div>
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>TransCeption: Enhancing medical image segmentation with an inception-like transformer design for efficient feature fusion</h3>
     <p><em>Azad R, Jia Y, Aghdam EK, Cohen-Adad J, Merhof D</em></p>
     <p><strong>Comput Vis Media</strong> (2025) <a href="https://ieeexplore.ieee.org/document/11072094">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="microscopy deep-learning image-analysis">
-    <h3>Morphometric characteristics of tibial nerve and their relationship with age</h3>
-    <p><em>Oveisgharan S, Collin A, Yang J, Leurgans SE, VanderHorst V, Bennett DA, Cohen-Adad J, Delbono O, Buchman AS</em></p>
-    <p><strong>Brain Commun</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40687605/">Link to paper</a><span class="publication-label"> (Labels: microscopy, deep-learning, image-analysis)</span></p>
+<div class="publication" data-labels="quantitative-mri neuroscience">
+    <h3>Ultrasound and MRI-based evaluation of relationships between morphological and mechanical properties of the lower lumbar multifidus muscle in chronic low back pain</h3>
+    <p><em>Naghdi N, Masi S, Bertrand C, Rosenstein B, Cohen-Adad J, Rivaz H, Roy M, Fortin M</em></p>
+    <p><strong>Eur Spine J</strong> (2025) <a href="https://pubmed.ncbi.nlm.nih.gov/40488869/">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, neuroscience)</span></p>
 </div>
 <div class="publication" data-labels="">
     <h3>Automatic segmentation of spinal cord lesions in MS: A robust tool for axial T2-weighted MRI scans</h3>
@@ -95,14 +103,14 @@
 ## 2024
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis deep-learning">
-    <h3>Contrast-agnostic Spinal Cord Segmentation: A Comparative Study of ConvNets and Vision Transformers</h3>
-    <p><em>Karthik EN, Bedard S, Valosek J, Chandar S, Cohen-Adad J</em></p>
-    <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2024) <a href="https://openreview.net/pdf?id=n6D25aqdV3">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
-</div>
-<div class="publication" data-labels="image-analysis deep-learning">
     <h3>SCIsegV2: A Universal Tool for Segmentation of Intramedullary Lesions in Spinal Cord Injury</h3>
     <p><em>Karthik EN, Valosek J, Farner L, Pfyffer D, Schading-Sassenhausen S, Lebret A, David G, Smith AC, Weber II KA, Seif M, Freund P, Cohen-Adad J, RHSCIR Network Imaging Group</em></p>
     <p><strong>MICCAI Workshop on Applications of Medical AI (AMAI)</strong> (2024) <a href="https://arxiv.org/pdf/2407.17265">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+</div>
+<div class="publication" data-labels="image-analysis deep-learning">
+    <h3>Contrast-agnostic Spinal Cord Segmentation: A Comparative Study of ConvNets and Vision Transformers</h3>
+    <p><em>Karthik EN, Bedard S, Valosek J, Chandar S, Cohen-Adad J</em></p>
+    <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2024) <a href="https://openreview.net/pdf?id=n6D25aqdV3">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 <div class="publication" data-labels="mri-physics shimming">
     <h3>RF shimming in the cervical spinal cord at 7 T</h3>
@@ -205,15 +213,15 @@
     <p><em>Enguix V, Kenley J, Luck D, Cohen-Adad J, Lodygensky GA</em></p>
     <p><strong>Front Neuroinform</strong> (2022) <a href="https://doi.org/10.3389/fninf.2022.843114">Link to paper</a><span class="publication-label"> (Labels: mri-physics, image-analysis, quantitative-mri)</span></p>
 </div>
-<div class="publication" data-labels="quantitative-mri image-analysis">
-    <h3>Reproducibility and Evolution of Diffusion MRI Measurements within the Cervical Spinal Cord in Multiple Sclerosis</h3>
-    <p><em>Snoussi H, Caruyer E, Combes B, Commowick O, Bannier E, Kerbrat A, Cohen-Adad J</em></p>
-    <p><strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong> (2022) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
-</div>
 <div class="publication" data-labels="image-analysis deep-learning">
     <h3>Intervertebral Disc Labeling with Learning Shape Information, a Look once Approach</h3>
     <p><em>Azad R, Heidari M, Cohen-Adad J, Adeli E, Merhof D</em></p>
     <p><strong>Predictive Intelligence in Medicine: 5th International Workshop, PRIME 2022, Held in Conjunction with MICCAI</strong> (2022) <a href="https://doi.org/10.1007/978-3-031-16919-9_5">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+</div>
+<div class="publication" data-labels="quantitative-mri image-analysis">
+    <h3>Reproducibility and Evolution of Diffusion MRI Measurements within the Cervical Spinal Cord in Multiple Sclerosis</h3>
+    <p><em>Snoussi H, Caruyer E, Combes B, Commowick O, Bannier E, Kerbrat A, Cohen-Adad J</em></p>
+    <p><strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong> (2022) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="mri-physics">
     <h3>Comparison of multicenter MRI protocols for visualizing the spinal cord gray matter</h3>
@@ -289,14 +297,14 @@
 ## 2021
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis deep-learning">
-    <h3>Benefits of Linear Conditioning with Metadata for Image Segmentation</h3>
-    <p><em>Lemay A, Gros C, Vincent O, Liu Y,  Cohen JP, Cohen-Adad J</em></p>
-    <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2021) <a href="https://arxiv.org/pdf/2102.09582.pdf">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
-</div>
-<div class="publication" data-labels="image-analysis deep-learning">
     <h3>Stacked Hourglass Network with a Multi-level Attention Mechanism: Where to Look for Intervertebral Disc Labeling</h3>
     <p><em>Azad R, Rouhier L, Cohen-Adad J</em></p>
     <p><strong>Machine Learning in Medical Imaging (MLMI 2021) </strong> (2021) <a href="https://arxiv.org/abs/2108.06554">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+</div>
+<div class="publication" data-labels="image-analysis deep-learning">
+    <h3>Benefits of Linear Conditioning with Metadata for Image Segmentation</h3>
+    <p><em>Lemay A, Gros C, Vincent O, Liu Y,  Cohen JP, Cohen-Adad J</em></p>
+    <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2021) <a href="https://arxiv.org/pdf/2102.09582.pdf">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 <div class="publication" data-labels="microscopy image-analysis deep-learning">
     <h3>A simple and robust method for automating analysis of naïve and regenerating peripheral nerves</h3>
@@ -459,10 +467,10 @@
 
 ## 2019
 <div class="publications-container">
-<div class="publication" data-labels="quantitative-mri image-analysis">
-    <h3>Geometric evaluation of distortion correction methods in diffusion MRI of the spinal cord</h3>
-    <p><em>Snoussi H, Caruyer E, Cohen-Adad J, Commowick O, Combès B, Bannier E, Anne K, Barillot C</em></p>
-    <p><strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong> (2019) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
+<div class="publication" data-labels="image-analysis">
+    <h3>Fixed-Point U-Net Quantization for Medical Image Segmentation</h3>
+    <p><em>Hemmat M, Honari S, Rouhier L, Perone CS, Cohen-Adad J, Savaria Y,  David J-P</em></p>
+    <p><strong>MICCAI Workshop on Hardware Aware Learning for Medical Imaging and Computer Assisted Intervention</strong> (2019) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>Open-source pipeline for multi-class segmentation of the spinal cord with deep learning</h3>
@@ -494,10 +502,10 @@
     <p><em>Badji A, Noriega de la Colina A, Karakuzu A, Duval T, Desjardins-Crepeau L, Joubert S, Bherer L, Lamarre-Cliche M, Stikov N, Girouard H, Cohen-Adad J</em></p>
     <p><strong>Neuroimage</strong> (2019) <a href="https://www.ncbi.nlm.nih.gov/pubmed/30448213">Link to paper</a><span class="publication-label"> (Labels: neuroscience, quantitative-mri)</span></p>
 </div>
-<div class="publication" data-labels="image-analysis">
-    <h3>Fixed-Point U-Net Quantization for Medical Image Segmentation</h3>
-    <p><em>Hemmat M, Honari S, Rouhier L, Perone CS, Cohen-Adad J, Savaria Y,  David J-P</em></p>
-    <p><strong>MICCAI Workshop on Hardware Aware Learning for Medical Imaging and Computer Assisted Intervention</strong> (2019) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis)</span></p>
+<div class="publication" data-labels="quantitative-mri image-analysis">
+    <h3>Geometric evaluation of distortion correction methods in diffusion MRI of the spinal cord</h3>
+    <p><em>Snoussi H, Caruyer E, Cohen-Adad J, Commowick O, Combès B, Bannier E, Anne K, Barillot C</em></p>
+    <p><strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong> (2019) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="neuroscience quantitative-mri">
     <h3>Arterial stiffness cut-off value and white matter integrity in the elderly</h3>
