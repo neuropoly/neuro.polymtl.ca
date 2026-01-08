@@ -123,9 +123,13 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Paul Hoareau
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/paul-hoareau-6a35ba252/)
   [<i class="fab fa-github"></i>]([https://github.com/tomDag25](https://github.com/Luugaaa))
+* Eva Mosny
+* Fedwin Chatelier
+* Etienne Aumais-Boucher
 
 ## Interns
 
+* Olivia Carazzato
 * Malik Chikh
 * Julien Laborde-Peyré
   [<i class="fa fa-envelope"></i>](mailto:julien.lbrd@gmail.com)
@@ -143,9 +147,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:edgar.kappauf@polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/edgar-k-40a4641b6/)
   [<i class="fab fa-github"></i>](https://github.com/edgark31)
-* Camille Lortie
-  [<i class="fa fa-envelope"></i>](mailto:camille.lortie@polymtl.ca)
-  [<i class="fab fa-github"></i>](https://github.com/camillelortie)
 * Kuan Yi Wang
   [<i class="fa fa-envelope"></i>](mailto:kuanyi.wang0906@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/kuan-yi-wang-443871319/)
@@ -164,6 +165,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Camille Lortie
+  [<i class="fa fa-envelope"></i>](mailto:camille.lortie@polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/camillelortie)
 * Nontharat Tucksinapinunchai
   [<i class="fa fa-envelope"></i>](mailto:nontharatt@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nontharat-tucksinapinunchai-50a475365/)
@@ -430,6 +434,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
