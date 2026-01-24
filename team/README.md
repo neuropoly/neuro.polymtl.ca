@@ -54,6 +54,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Kalum Ost
   [<i class="fa fa-envelope"></i>](mailto:kalum.ost@polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/SomeoneInParticular)
+* Alex Valcourt Caron
+  [<i class="fa fa-envelope"></i>](mailto:alex.valcourt-caron@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/alex-valcourt-caron-545bb72b7)
+  [<i class="fab fa-github"></i>](https://github.com/AlexVCaron)
 
 ## Postdoctoral Researchers
 
