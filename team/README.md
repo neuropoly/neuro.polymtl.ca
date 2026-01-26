@@ -102,7 +102,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-github"></i>](https://github.com/hermancollin)
 * Annaelle Sarrazin
   [<i class="fa fa-envelope"></i>](mailto:annaelle.sarrazin@gmail.com)
-  [<i class="fab fa-linkedin"></i>](www.linkedin.com/in/annaelle-sarrazin-b8526a279/)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/annaelle-sarrazin-b8526a279/)
   [<i class="fab fa-github"></i>](https://github.com/Annaelle8)
   
 
@@ -439,6 +439,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
