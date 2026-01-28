@@ -131,6 +131,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Eva Mosny
 * Fedwin Chatelier
 * Etienne Aumais-Boucher
+* Mathis ors
+  [<i class="fa fa-envelope"></i>](mailto:mathis.ors@icloud.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mathis-ors-219236268/)
+  [<i class="fab fa-github"></i>](https://github.com/mathisors)
 
 ## Interns
 
@@ -439,6 +443,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
