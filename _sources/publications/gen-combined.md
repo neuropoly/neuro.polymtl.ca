@@ -1,6 +1,11 @@
 
 ## 2026
 <div class="publications-container">
+<div class="publication" data-labels="image-analysis deep-learning">
+    <h3>ASTIH: A collection of axon and myelin segmentation datasets from multiple histology studies</h3>
+    <p><em></em></p>
+    <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2026) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+</div>
 <div class="publication" data-labels="quantitative-mri image-analysis">
     <h3>Diffusion Tractography Outside the Brain: The road less travelled. Diffusion tractography outside the brain: the road less travelled</h3>
     <p><em>Schilling KG, Teh I, Cohen-Adad J, Dortch R, Ibrahim I, Wang N, Damon B, Cochran RL, Leemans A</em></p>
