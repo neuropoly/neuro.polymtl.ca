@@ -51,9 +51,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/joshuacwnewton/)
   [<i class="fab fa-github"></i>](https://github.com/joshuacwnewton)
 * Jan Paška
-* Kalum Ost
-  [<i class="fa fa-envelope"></i>](mailto:kalum.ost@polymtl.ca)
-  [<i class="fab fa-github"></i>](https://github.com/SomeoneInParticular)
 
 ## Postdoctoral Researchers
 
@@ -174,6 +171,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Kalum Ost
+  [<i class="fa fa-envelope"></i>](mailto:kalum.ost@polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/SomeoneInParticular)
 * Camille Lortie
   [<i class="fa fa-envelope"></i>](mailto:camille.lortie@polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/camillelortie)
@@ -443,6 +443,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * [Uzay Macar](https://uzaymacar.github.io)
   [<i class="fa fa-envelope"></i>](mailto:uzay.macar@gmail.com)
   [<i class="fab fa-github"></i>](https://github.com/uzaymacar)
+
 
 
 
