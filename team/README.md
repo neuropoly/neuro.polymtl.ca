@@ -51,6 +51,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/joshuacwnewton/)
   [<i class="fab fa-github"></i>](https://github.com/joshuacwnewton)
 * Jan Paška
+* Alex Valcourt Caron
+  [<i class="fa fa-envelope"></i>](mailto:alex.valcourt-caron@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/alex-valcourt-caron-545bb72b7)
+  [<i class="fab fa-github"></i>](https://github.com/AlexVCaron)
 
 ## Postdoctoral Researchers
 
