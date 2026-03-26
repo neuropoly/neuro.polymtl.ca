@@ -8,7 +8,7 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 
 * Full Professor, Department of Electrical Engineering, Institute of Biomedical Engineering, Ecole Polytechnique de Montréal
 * Adjunct Professor, Department of Neuroscience, Faculty of Medicine, Université de Montréal
-* [Canada Research Chair in Quantitative Magnetic Resonance Imaging](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3521)
+* Formerly [Canada Research Chair in Quantitative Magnetic Resonance Imaging](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3521)
 * Director, [NeuroPoly - Neuroimaging Research Laboratory at Polytechnique](http://www.neuro.polymtl.ca)
 * Director and MR physicist, [Unité de Neuroimagerie Fonctionnelle](https://unf-montreal.ca/), CRIUGM, Université de Montréal \(Office M-5818\)
 * Associate Member, [Center for Research in Neurological Sciences](https://www.grsnc.org/home)
