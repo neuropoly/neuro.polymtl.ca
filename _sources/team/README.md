@@ -168,6 +168,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:mngan@ualberta.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maria-ngan-6b46732b4/)
   [<i class="fab fa-github"></i>](https://github.com/m-ngan)
+* Samuel Ruttgaizer
+  [<i class="fa fa-envelope"></i>](mailto:sgruttgaizer@mun.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/sam-ruttgaizer/)
+  [<i class="fab fa-github"></i>](https://github.com/sruttgaizer)
 
 ## Alumni
 
