@@ -164,10 +164,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Axelle Monnot
   [<i class="fa fa-envelope"></i>](mailto:axelle.monnot@etud.polymtl.ca)
   [<i class="fab fa-github"></i>](https://github.com/axelle-m)
-* Maria Ngan
-  [<i class="fa fa-envelope"></i>](mailto:mngan@ualberta.ca)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maria-ngan-6b46732b4/)
-  [<i class="fab fa-github"></i>](https://github.com/m-ngan)
 * Samuel Ruttgaizer
   [<i class="fa fa-envelope"></i>](mailto:sgruttgaizer@mun.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/sam-ruttgaizer/)
@@ -181,6 +177,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Maria Ngan
+  [<i class="fa fa-envelope"></i>](mailto:mngan@ualberta.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maria-ngan-6b46732b4/)
+  [<i class="fab fa-github"></i>](https://github.com/m-ngan)
 * Artem Kovalchuk
   [<i class="fa fa-envelope"></i>](mailto:artem.sp28@@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/artem-kovalchuk-8678491b5/)
