@@ -18,4 +18,4 @@ data
 ![alt-text-1](../.gitbook/assets/cover_neurotrauma_2018.jpeg)
 ![alt-text-2](../.gitbook/assets/cover_brain_2020.png)
 ![alt-text-2](../.gitbook/assets/cover_aigner24.png)
-![alt-text-1](../.gitbook/assets/cover_msj_benveniste26.png){height=200px}
+![alt-text-1](../.gitbook/assets/cover_msj_benveniste26.png)
