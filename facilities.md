@@ -49,8 +49,7 @@ NeuroPoly has expertise in building radiofrequency (RF) coils for MRI applicatio
 
 ### 3T Human
 
-![](.gitbook/assets/dsc_0252.jpeg)
-![](.gitbook/assets/849C486F-56C4-4D37-B8AB-8E3DE859FB6F_1_105_c.jpeg)
+![](.gitbook/assets/dsc_0252.jpeg) ![](.gitbook/assets/849C486F-56C4-4D37-B8AB-8E3DE859FB6F_1_105_c.jpeg)
 
 **List of available scanners:**
 
