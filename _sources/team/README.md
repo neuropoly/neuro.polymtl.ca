@@ -172,8 +172,10 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:houcem.benmakrelouf@etud.polymtl.ca)
   [<i class="fab fa-linkedin"></i>](www.linkedin.com/in/houcem-benmakrelouf)
   [<i class="fab fa-github"></i>](https://github.com/houcembenmakrelouf)
-
-
+* Rhiannon Butler
+  [<i class="fa fa-envelope"></i>](mailto:rhiannonbutler20@gmail.com)
+  [<i class="fab fa-linkedin"></i>](www.linkedin.com/in/rhiannon-butler-00a659250)
+  [<i class="fab fa-github"></i>](https://github.com/rhiannonbutler)
 
 ## Alumni
 
