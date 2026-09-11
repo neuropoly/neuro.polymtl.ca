@@ -119,6 +119,8 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:beaujaultnolan@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nolan-beaujault/)
   [<i class="fab fa-github"></i>](https://github.com/NolanBeaujault)
+* Juliette Champagne
+* Florianne Venne
 * Youssef Laatar
   [<i class="fa fa-envelope"></i>](mailto:yousseflaatar@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yolaatar/)
@@ -129,8 +131,6 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Paul Hoareau
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/paul-hoareau-6a35ba252/)
   [<i class="fab fa-github"></i>]([https://github.com/tomDag25](https://github.com/Luugaaa))
-* Eva Mosny
-* Fedwin Chatelier
 * Etienne Aumais-Boucher
 * Mathis ors
   [<i class="fa fa-envelope"></i>](mailto:mathis.ors@icloud.com)
@@ -179,6 +179,9 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Fedwin Chatelier
+* Eva Mosny
+* Camille Lortie
 * Maria Ngan
   [<i class="fa fa-envelope"></i>](mailto:mngan@ualberta.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maria-ngan-6b46732b4/)
