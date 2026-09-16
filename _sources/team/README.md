@@ -136,6 +136,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:mathis.ors@icloud.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mathis-ors-219236268/)
   [<i class="fab fa-github"></i>](https://github.com/mathisors)
+* Antoine Reid
 
 ## Interns
 
