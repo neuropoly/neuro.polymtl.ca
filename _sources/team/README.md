@@ -142,29 +142,14 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 * Olivia Carazzato
 * Malik Chikh
-* Julien Laborde-Peyré
-  [<i class="fa fa-envelope"></i>](mailto:julien.lbrd@gmail.com)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/julien-laborde-peyre/)
-  [<i class="fab fa-github"></i>](https://github.com/julaborde)
 * Hugo Albert Plante
   [<i class="fa fa-envelope"></i>](mailto:hugo.albert-plante@etud.polymtl.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/hugo-albert-plante-55a99b2b3)
   [<i class="fab fa-github"></i>](https://github.com/haplante)
-* Murielle Mardenli
-  [<i class="fa fa-envelope"></i>](mailto:murielle.mardenli@polymtl.ca)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/murielle-mardenli-7a0804238/)
-  [<i class="fab fa-github"></i>](https://github.com/MurielleMardenli200)
-* Edgar Kappauf
-  [<i class="fa fa-envelope"></i>](mailto:edgar.kappauf@polymtl.ca)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/edgar-k-40a4641b6/)
-  [<i class="fab fa-github"></i>](https://github.com/edgark31)
 * Kuan Yi Wang
   [<i class="fa fa-envelope"></i>](mailto:kuanyi.wang0906@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/kuan-yi-wang-443871319/)
   [<i class="fab fa-github"></i>](https://github.com/AcastaPaloma)
-* Axelle Monnot
-  [<i class="fa fa-envelope"></i>](mailto:axelle.monnot@etud.polymtl.ca)
-  [<i class="fab fa-github"></i>](https://github.com/axelle-m)
 * Samuel Ruttgaizer
   [<i class="fa fa-envelope"></i>](mailto:sgruttgaizer@mun.ca)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/sam-ruttgaizer/)
@@ -180,6 +165,21 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 
 ## Alumni
 
+* Axelle Monnot
+  [<i class="fa fa-envelope"></i>](mailto:axelle.monnot@etud.polymtl.ca)
+  [<i class="fab fa-github"></i>](https://github.com/axelle-m)
+* Murielle Mardenli
+  [<i class="fa fa-envelope"></i>](mailto:murielle.mardenli@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/murielle-mardenli-7a0804238/)
+  [<i class="fab fa-github"></i>](https://github.com/MurielleMardenli200)
+* Edgar Kappauf
+  [<i class="fa fa-envelope"></i>](mailto:edgar.kappauf@polymtl.ca)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/edgar-k-40a4641b6/)
+  [<i class="fab fa-github"></i>](https://github.com/edgark31)
+* Julien Laborde-Peyré
+  [<i class="fa fa-envelope"></i>](mailto:julien.lbrd@gmail.com)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/julien-laborde-peyre/)
+  [<i class="fab fa-github"></i>](https://github.com/julaborde)
 * Fedwin Chatelier
 * Eva Mosny
 * Camille Lortie
