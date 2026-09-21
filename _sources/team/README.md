@@ -105,12 +105,14 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
   [<i class="fa fa-envelope"></i>](mailto:annaelle.sarrazin@gmail.com)
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/annaelle-sarrazin-b8526a279/)
   [<i class="fab fa-github"></i>](https://github.com/Annaelle8)
+
+* Sebastian Rios
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/sebastian-rios-488b08192/)
+  [<i class="fab fa-github"></i>](https://github.com/sriosq)
   
 
 ## MSc Students
 
-* Sebastian Rios
-  [<i class="fab fa-linkedin"></i>](https://https://www.linkedin.com/in/sebastian-adolfo-488b08192/)
 * Thomas Dagonneau
   [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/thomas-dagonneau-83630a234/)
   [<i class="fab fa-twitter"></i>](https://x.com/ThomasDagonneau)
