@@ -64,7 +64,7 @@
 <div class="publication" data-labels="quantitative-mri spinal-cord neuroscience deep-learning image-analysis">
     <h3>Normative reference values and age-related variation in advanced diffusion MRI of the pediatric spinal cord: DTI, DKI, and NODDI metrics across cervical and thoracic levels using Hybrid Diffusion Imaging</h3>
     <p><em>Sadeghi Adl Z, Middleton D, Krisa L, Naghizadehkashani S, Alizadeh M, Tounekti S, Faro SH, Flanders A, Finsterbusch J, Cohen-Adad J, Mohamed FB</em></p>
-    <p><strong>AJNR Am J Neuroradiol</strong> (2026) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, spinal-cord, neuroscience, deep-learning, image-analysis)</span></p>
+    <p><strong>AJNR Am J Neuroradiol</strong> (2026) <a href="https://doi.org/10.3174/ajnr.A9633 ">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, spinal-cord, neuroscience, deep-learning, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="quantitative-mri image-analysis">
     <h3>Diffusion Tractography Outside the Brain: The road less travelled. Diffusion tractography outside the brain: the road less travelled</h3>
