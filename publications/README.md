@@ -19,4 +19,4 @@ data
 ![alt-text-2](../.gitbook/assets/cover_brain_2020.png)
 ![alt-text-2](../.gitbook/assets/cover_aigner24.png)
 ![alt-text-1](../.gitbook/assets/cover_msj_benveniste26.png)
-![alt-text-2](../.gitbook/assets/cover_msj_sep26.jpg)
+![alt-text-2](../.gitbook/assets/cover_msj_sep26.jpg){w=200px}
