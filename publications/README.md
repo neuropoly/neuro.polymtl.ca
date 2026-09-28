@@ -16,7 +16,7 @@ data
 ![alt-text-1](../.gitbook/assets/cover_bilgic12_accelerated_diffusion_spectrum_imaging_with_compressed_sensing_using_adaptive_dictionaries.jpeg){w=200px}
 ![alt-text-2](../.gitbook/assets/mangeat_2015_nimg_cover.png)
 ![alt-text-1](../.gitbook/assets/cover_neurotrauma_2018.jpeg)
-![alt-text-2](../.gitbook/assets/cover_brain_2020.png)
+![alt-text-2](../.gitbook/assets/cover_brain_2020.png){w=200px}
 ![alt-text-2](../.gitbook/assets/cover_aigner24.png){w=200px}
 ![alt-text-1](../.gitbook/assets/cover_msj_benveniste26.png){w=200px}
 ![alt-text-2](../.gitbook/assets/cover_msj_sep26.jpg){w=200px}
