@@ -32,7 +32,7 @@ root_doc = 'README'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['myst_parser', 'sphinx_design']
-myst_enable_extensions = ["colon_fence"]
+myst_enable_extensions = ["colon_fence", "attrs_inline"]
 
 # enable #section links: https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-header-anchors
 myst_heading_anchors = 4
