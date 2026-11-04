@@ -23,3 +23,19 @@
   twitterName: axondeepseg
   repository: https://github.com/neuropoly/axondeepseg
   image: https://raw.githubusercontent.com/neuropoly/axondeepseg/master/docs/source/_static/logo_ads-alpha.png
+- name: Segmentation and labeling of vertebrae, intervertebral discs, spinal cord and spinal canal in MRI.
+  website: https://github.com/neuropoly/totalspineseg
+  repository: https://github.com/neuropoly/totalspineseg
+  image: _static/totalspineseg_logo.png
+- name: Case Annotation and Review Tool (CART), a 3D Slicer module for annotating and reviewing imaging cohorts.
+  website: https://github.com/neuropoly/slicer-cart
+  repository: https://github.com/neuropoly/slicer-cart
+  image: https://raw.githubusercontent.com/neuropoly/slicer-cart/main/CART.png
+- name: Influence of data augmentation strategies on MRI deep learning training performance.
+  website: https://pypi.org/project/smauglab/
+  repository: https://github.com/neuropoly/SmaugLab
+  image: https://raw.githubusercontent.com/neuropoly/SmaugLab/main/smauglab_logo.png
+- name: Simulation of axon arrangements in white matter.
+  website: https://github.com/neuropoly/axonpacking
+  repository: https://github.com/neuropoly/axonpacking
+  image: https://raw.githubusercontent.com/neuropoly/axonpacking/master/img1.jpeg
