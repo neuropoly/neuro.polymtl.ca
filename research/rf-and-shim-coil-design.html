@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>&lt;no title&gt; &#8212; NeuroPoly  documentation</title>
+    <title>RF &amp; Shim Coil Design &#8212; NeuroPoly  documentation</title>
   
   
   
@@ -191,11 +191,12 @@
 </form></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
-        <ul class="nav bd-sidenav">
+        <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../README.html">Welcome to NeuroPoly</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../team/README.html"><span>👫</span> Team</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../facilities.html"><span>🏛</span> Facilities</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="README.html"><span>🔍</span> Research</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="README.html"><span>🔍</span> Research</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">RF &amp; Shim Coil Design</a></li>
 <li class="toctree-l2"><a class="reference internal" href="mapping-tissue-microstructure.html">Mapping Tissue Microstructure</a></li>
 <li class="toctree-l2"><a class="reference internal" href="collaborations.html">Collaborations</a></li>
 </ul>
@@ -313,7 +314,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1><no title></h1>
+    <h1>RF & Shim Coil Design</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -322,9 +323,13 @@ document.write(`
                 <h2> Page Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="simple visible nav section-nav flex-column">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tx-20rx-7t-spine">8Tx/20Rx 7T Spine</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tx-60rx-7t-head-neck">8Tx/60Rx 7T Head-Neck</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#b0-shimming">B0 Shimming</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rf-shimming">RF Shimming</a></li>
 </ul>
-
             </nav>
         </div>
     </div>
@@ -335,63 +340,60 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <p>I used a four-backtick fence around the file so the inner <code class="docutils literal notranslate"><span class="pre">```{Important}</span></code> block is copied correctly:</p>
-<div class="highlight-markdown notranslate"><div class="highlight"><pre><span></span><span class="gh"># RF &amp; Shim Coil Design</span>
-
-```{Important}
-<span class="gs">**Open position for PhD and Postdoc!**</span> More details at: [<span class="nt">https://www.ismrm.org/jobs/j08466.pdf</span>](<span class="na">https://www.ismrm.org/jobs/j08466.pdf</span>)
-```
-![<span class="nt">Alt text</span>](<span class="na">../_media/coil_building_workflow.png</span>)
-
-<span class="gu">## Overview</span>
-
-&lt;iframe src="https://docs.google.com/presentation/d/1BuAzzgm-FULRf6z83uCowXtB2wfiBxgnK-ODXE04RRM/embed?start=true&amp;loop=false&amp;delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-<span class="gu">## 8Tx/20Rx 7T Spine</span>
-
-&lt;iframe src="https://docs.google.com/presentation/d/12kbI2_nI0VYLRx5c6uzryIufFFK-OneRBaub88VCBmQ/embed?start=true&amp;loop=false&amp;delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
-
-System: Siemens Terra/Terra.X
-
-<span class="k">&gt; </span><span class="ge">Lopez Rios N, Gilbert KM, Papp D, Cereza G, Foias A, Rangaprakash D, May MW, Guerin B, Wald LL, Keil B, Stockmann JP, Barry RL, Cohen-Adad J. **An 8-channel Tx dipole and 20-channel Rx loop coil array for MRI of the cervical spinal cord at 7 Tesla**. _NMR Biomed_. 2023 Nov;36(11):e5002. [https://doi.org/10.1002/nbm.5002](https://doi.org/10.1002/nbm.5002)</span>
-
-<span class="k">&gt; </span><span class="ge">Alonso-Ortiz E, Papp DS, Barry RL, Poëti K, Seifert AC, Gilbert KM, Lopez Rios N, Paska J, Eippert F, Weiskopf N, Beghini L, Graedel NN, Trampel R, Callaghan MF, Aigner CS, Freund P, Seif M, Destruel A, Callot V, Vannesjo SJ, Cohen-Adad J. **Multi-center benchmarking of cervical spinal cord RF coils for 7 T MRI: A traveling spines study**. _Magn Reson Med_. 2025 Sep;94(3):1339-1355. [https://doi.org/10.1002/mrm.30551](https://doi.org/10.1002/mrm.30551)</span>
-
-<span class="gu">## 8Tx/60Rx 7T Head-Neck</span>
-
-&lt;iframe src="https://docs.google.com/presentation/d/1IWGSDXghy_9VAHNNIxuGLs106IhIdbW3VGHI2yRDxOg/embed?start=true&amp;loop=false&amp;delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
-
-System: Siemens Terra/Terra.X
-
-<span class="gu">## B0 Shimming</span>
-
-&lt;iframe width="710" height="400" src="https://www.youtube.com/embed/jEe1XUZnUQ4?si=tp2wPxFKnqy8sNGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
-
-<span class="k">&gt; </span><span class="ge">D'Astous A, Topfer R, Cereza G, Alonso-Ortiz E, Craven-Brightman L, Stockmann J, Cohen-Adad J. **Shimming-Toolbox: An open-source software package for performing realtime B0 shimming experiments**. _Proc Intl Soc Mag Reson Med_. 2021;29:3111. [https://archive.ismrm.org/2021/3111.html](https://archive.ismrm.org/2021/3111.html)</span>
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;iframe width="710" height="400" src="https://www.youtube.com/embed/JTxRWRivP24?si=rxFZ-lpci0LJ0iVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
-
-<span class="k">&gt; </span><span class="ge">D'Astous A, Kaptan M, Papp D, Dabbagh A, Finsterbusch J, Eippert F, Alonso-Ortiz E, Cohen-Adad J. **Slice-wise z-shimming for spinal cord fMRI with Shimming Toolbox**. _Proc Intl Soc Mag Reson Med_. 2023;31:4582. [https://doi.org/10.58530/2023/4582](https://doi.org/10.58530/2023/4582)</span>
-
-&lt;p&gt;&lt;/p&gt;
-
-<span class="gu">## RF Shimming</span>
-
-&lt;iframe width="710" height="400" src="https://www.youtube.com/embed/Mv5n4ai_O2o?si=qmJsLCtxRSMmmxFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
-
-<span class="k">&gt; </span><span class="ge">Papp D, Cereza G, D'Astous A, Alonso-Ortiz E, Cohen-Adad J. **RF shimming in the spinal cord at 7T**. _Proc Intl Soc Mag Reson Med_. 2023;31:1239. [https://doi.org/10.58530/2023/1239](https://doi.org/10.58530/2023/1239)</span>
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;iframe width="710" height="400" src="https://www.youtube.com/embed/u15unqyzQz4?si=je4YX_oXQexcPYGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
-
-<span class="k">&gt; </span><span class="ge">Papp D, Boulant N, Massire A, Mauconduit F, Gras V, Cohen-Adad J. **Universal pulses for the cervical spinal cord at 7T: a feasibility study**. _Proc Intl Soc Mag Reson Med_. 2023;31:0199. [https://doi.org/10.58530/2023/0199](https://doi.org/10.58530/2023/0199)</span>
-</pre></div>
+  <section id="rf-shim-coil-design">
+<h1>RF &amp; Shim Coil Design<a class="headerlink" href="#rf-shim-coil-design" title="Link to this heading">#</a></h1>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p><strong>Open position for PhD and Postdoc!</strong> More details at: <a class="reference external" href="https://www.ismrm.org/jobs/j08466.pdf">https://www.ismrm.org/jobs/j08466.pdf</a></p>
 </div>
+<p><img alt="Alt text" src="../_images/coil_building_workflow.png" /></p>
+<section id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="Link to this heading">#</a></h2>
+<iframe src="https://docs.google.com/presentation/d/1BuAzzgm-FULRf6z83uCowXtB2wfiBxgnK-ODXE04RRM/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p></p>
+</section>
+<section id="tx-20rx-7t-spine">
+<h2>8Tx/20Rx 7T Spine<a class="headerlink" href="#tx-20rx-7t-spine" title="Link to this heading">#</a></h2>
+<iframe src="https://docs.google.com/presentation/d/12kbI2_nI0VYLRx5c6uzryIufFFK-OneRBaub88VCBmQ/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>System: Siemens Terra/Terra.X</p>
+<blockquote>
+<div><p>Lopez Rios N, Gilbert KM, Papp D, Cereza G, Foias A, Rangaprakash D, May MW, Guerin B, Wald LL, Keil B, Stockmann JP, Barry RL, Cohen-Adad J. <strong>An 8-channel Tx dipole and 20-channel Rx loop coil array for MRI of the cervical spinal cord at 7 Tesla</strong>. <em>NMR Biomed</em>. 2023 Nov;36(11):e5002. <a class="reference external" href="https://doi.org/10.1002/nbm.5002">https://doi.org/10.1002/nbm.5002</a></p>
+</div></blockquote>
+<blockquote>
+<div><p>Alonso-Ortiz E, Papp DS, Barry RL, Poëti K, Seifert AC, Gilbert KM, Lopez Rios N, Paska J, Eippert F, Weiskopf N, Beghini L, Graedel NN, Trampel R, Callaghan MF, Aigner CS, Freund P, Seif M, Destruel A, Callot V, Vannesjo SJ, Cohen-Adad J. <strong>Multi-center benchmarking of cervical spinal cord RF coils for 7 T MRI: A traveling spines study</strong>. <em>Magn Reson Med</em>. 2025 Sep;94(3):1339-1355. <a class="reference external" href="https://doi.org/10.1002/mrm.30551">https://doi.org/10.1002/mrm.30551</a></p>
+</div></blockquote>
+</section>
+<section id="tx-60rx-7t-head-neck">
+<h2>8Tx/60Rx 7T Head-Neck<a class="headerlink" href="#tx-60rx-7t-head-neck" title="Link to this heading">#</a></h2>
+<iframe src="https://docs.google.com/presentation/d/1IWGSDXghy_9VAHNNIxuGLs106IhIdbW3VGHI2yRDxOg/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>System: Siemens Terra/Terra.X</p>
+</section>
+<section id="b0-shimming">
+<h2>B0 Shimming<a class="headerlink" href="#b0-shimming" title="Link to this heading">#</a></h2>
+<iframe width="710" height="400" src="https://www.youtube.com/embed/jEe1XUZnUQ4?si=tp2wPxFKnqy8sNGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<blockquote>
+<div><p>D’Astous A, Topfer R, Cereza G, Alonso-Ortiz E, Craven-Brightman L, Stockmann J, Cohen-Adad J. <strong>Shimming-Toolbox: An open-source software package for performing realtime B0 shimming experiments</strong>. <em>Proc Intl Soc Mag Reson Med</em>. 2021;29:3111. <a class="reference external" href="https://archive.ismrm.org/2021/3111.html">https://archive.ismrm.org/2021/3111.html</a></p>
+</div></blockquote>
+<p></p>
+<iframe width="710" height="400" src="https://www.youtube.com/embed/JTxRWRivP24?si=rxFZ-lpci0LJ0iVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<blockquote>
+<div><p>D’Astous A, Kaptan M, Papp D, Dabbagh A, Finsterbusch J, Eippert F, Alonso-Ortiz E, Cohen-Adad J. <strong>Slice-wise z-shimming for spinal cord fMRI with Shimming Toolbox</strong>. <em>Proc Intl Soc Mag Reson Med</em>. 2023;31:4582. <a class="reference external" href="https://doi.org/10.58530/2023/4582">https://doi.org/10.58530/2023/4582</a></p>
+</div></blockquote>
+<p></p>
+</section>
+<section id="rf-shimming">
+<h2>RF Shimming<a class="headerlink" href="#rf-shimming" title="Link to this heading">#</a></h2>
+<iframe width="710" height="400" src="https://www.youtube.com/embed/Mv5n4ai_O2o?si=qmJsLCtxRSMmmxFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<blockquote>
+<div><p>Papp D, Cereza G, D’Astous A, Alonso-Ortiz E, Cohen-Adad J. <strong>RF shimming in the spinal cord at 7T</strong>. <em>Proc Intl Soc Mag Reson Med</em>. 2023;31:1239. <a class="reference external" href="https://doi.org/10.58530/2023/1239">https://doi.org/10.58530/2023/1239</a></p>
+</div></blockquote>
+<p></p>
+<iframe width="710" height="400" src="https://www.youtube.com/embed/u15unqyzQz4?si=je4YX_oXQexcPYGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<blockquote>
+<div><p>Papp D, Boulant N, Massire A, Mauconduit F, Gras V, Cohen-Adad J. <strong>Universal pulses for the cervical spinal cord at 7T: a feasibility study</strong>. <em>Proc Intl Soc Mag Reson Med</em>. 2023;31:0199. <a class="reference external" href="https://doi.org/10.58530/2023/0199">https://doi.org/10.58530/2023/0199</a></p>
+</div></blockquote>
+</section>
+</section>
 
 
                 </article>
@@ -437,9 +439,13 @@ System: Siemens Terra/Terra.X
     <i class="fa-solid fa-list"></i> Page Contents
   </div>
   <nav class="bd-toc-nav page-toc">
-    <ul class="simple visible nav section-nav flex-column">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tx-20rx-7t-spine">8Tx/20Rx 7T Spine</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tx-60rx-7t-head-neck">8Tx/60Rx 7T Head-Neck</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#b0-shimming">B0 Shimming</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rf-shimming">RF Shimming</a></li>
 </ul>
-
   </nav></div>
 
 </div></div>
