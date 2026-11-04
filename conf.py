@@ -146,9 +146,9 @@ from sphinx.util import logging
 LOGGER = logging.getLogger("conf")
 
 def build_gallery(app: Sphinx):
-    # Build the gallery file
+    # Build one gallery file per category (gallery_software_<category>.txt)
     LOGGER.info("building gallery...")
-    grid_items = []
+    grid_items = {}
     projects = yaml.safe_load((Path(app.srcdir) / "gallery_software.yml").read_text())
     for item in projects:
         if not item.get("image"):
@@ -169,7 +169,7 @@ def build_gallery(app: Sphinx):
         if "twitterName" in item.keys():
             twitter_text = f"[![Twitter Follow](https://img.shields.io/twitter/follow/{item['twitterName']}?label=&style=social)](https://twitter.com/{item['twitterName']})"
 
-        grid_items.append(
+        grid_items.setdefault(item["category"], []).append(
             f"""\
         `````{{grid-item-card}}
         :text-align: center
@@ -196,21 +196,21 @@ def build_gallery(app: Sphinx):
         `````
         """
         )
-    grid_items = "\n".join(grid_items)
-
 # :column: text-center col-6 col-lg-4
 # :card: +my-2
 # :img-top-cls: w-75 m-auto p-2
 # :body: d-none
 
-    panels = f"""
+    for category, items in grid_items.items():
+        items = "\n".join(items)
+        panels = f"""
 ``````{{grid}} 1 2 3 3
 :gutter: 1 1 2 2
 :class-container: full-width
-{dedent(grid_items)}
+{dedent(items)}
 ``````
     """
-    (Path(app.srcdir) / "gallery_software.txt").write_text(panels)
+        (Path(app.srcdir) / f"gallery_software_{category}.txt").write_text(panels)
 
 def build_publications(app: Sphinx, pagename, templatename, context, doctree):
     if pagename == "publications/journal_articles":
