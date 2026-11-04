@@ -31,13 +31,13 @@ System: Siemens Terra/Terra.X
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/jEe1XUZnUQ4?si=tp2wPxFKnqy8sNGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**"Shimming-Toolbox: an open-source software package for performing realtime B0 shimming experiments"** by Alexandre D'Astous et al. *Prepared for the 2021 ISMRM & SMRT Virtual Conference & Exhibition [https://www.ismrm.org/21m/](https://www.ismrm.org/21m/).*
+> **"Shimming-Toolbox: an open-source software package for performing realtime B0 shimming experiments"** by Alexandre D'Astous et al. *Prepared for the 2021 ISMRM & SMRT Virtual Conference & Exhibition [https://www.ismrm.org/21m/](https://www.ismrm.org/21m/).*
 
 <p></p>
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/JTxRWRivP24?si=rxFZ-lpci0LJ0iVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**"Slice-wise z-shimming for spinal cord fMRI with Shimming Toolbox"** by Alexandre D’Astous et al. *Prepared for the 2023 ISMRM & SMRT Virtual Conference & Exhibition in Toronto [https://www.ismrm.org/23m/](https://www.ismrm.org/23m/).*
+> **"Slice-wise z-shimming for spinal cord fMRI with Shimming Toolbox"** by Alexandre D’Astous et al. *Prepared for the 2023 ISMRM & SMRT Virtual Conference & Exhibition in Toronto [https://www.ismrm.org/23m/](https://www.ismrm.org/23m/).*
 
 <p></p>
 
@@ -45,7 +45,7 @@ System: Siemens Terra/Terra.X
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/Mv5n4ai_O2o?si=qmJsLCtxRSMmmxFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**"RF shimming in the spinal cord at 7T"** by Daniel Papp et al. *Prepared for the 2023 ISMRM & SMRT Virtual Conference & Exhibition in Toronto [https://www.ismrm.org/23m/](https://www.ismrm.org/23m/).*
+> **"RF shimming in the spinal cord at 7T"** by Daniel Papp et al. *Prepared for the 2023 ISMRM & SMRT Virtual Conference & Exhibition in Toronto [https://www.ismrm.org/23m/](https://www.ismrm.org/23m/).*
 
 <p></p>
 
