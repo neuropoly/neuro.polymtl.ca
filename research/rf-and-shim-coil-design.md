@@ -23,7 +23,7 @@ System: Siemens Terra/Terra.X
 
 ## 8Tx/60Rx 7T Head-Neck
 
-<iframe src="docs.google.com/presentation/d/1IWGSDXghy_9VAHNNIxuGLs106IhIdbW3VGHI2yRDxOg/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1IWGSDXghy_9VAHNNIxuGLs106IhIdbW3VGHI2yRDxOg/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 System: Siemens Terra/Terra.X
 
