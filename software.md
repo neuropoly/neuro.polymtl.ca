@@ -2,9 +2,19 @@
 
 Below is a list of software projects created at **NeuroPoly** or at collaborative institutions. These projects are open source and follow the FAIR principles. 
 
-## Image analysis
+## MRI
 
-```{include} gallery_software.txt
+```{include} gallery_software_mri.txt
+```
+
+## Histology
+
+```{include} gallery_software_histology.txt
+```
+
+## Deep learning and annotation
+
+```{include} gallery_software_general.txt
 ```
 
 <!-- ## Pipeline and template
@@ -17,9 +27,6 @@ This section contains projects  -->
 |  | Multiclass Segmentation | Code related to the NIH marmoset longitudinal segmentation project                                               | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/multiclass-segmentation) | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/multiclass-segmentation/blob/master/README.md) |
 
 |  | AxonSeg          | Automatic segmentation of axon and myelin from microscopy data    | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonseg)          | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonseg/blob/master/README.md)                           |
-
-
-|  | AxonPacking      | Simulation software for arrangements of axons in white matter     | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonpacking)      | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonpacking/blob/master/README.md)                       |
 -->
 
 <!-- Data / Atlas to add in another section

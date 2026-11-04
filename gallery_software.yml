@@ -1,25 +1,50 @@
-- name: Comprehensive library of analysis tools for multi-parametric MRI of the spinal cord
+- name: Comprehensive library of analysis tools for multi-parametric MRI of the spinal cord.
+  category: mri
   website: https://spinalcordtoolbox.com/
-  twitterName: SpinalToolbox
   repository: https://github.com/spinalcordtoolbox/spinalcordtoolbox
   image: https://raw.githubusercontent.com/spinalcordtoolbox/spinalcordtoolbox/master/documentation/source/_static/img/logo_sct.png
-- name: Integrated framework for medical image analysis with deep learning
-  website: https://ivadomed.org
-  twitterName: ivadomed
-  repository: https://github.com/ivadomed/ivadomed
-  image: https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png
-- name: Simulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.)
+- name: Segmentation and labeling of vertebrae, intervertebral discs, spinal cord and spinal canal in MRI.
+  category: mri
+  website: https://github.com/neuropoly/totalspineseg
+  repository: https://github.com/neuropoly/totalspineseg
+  image: _static/totalspineseg_logo.png
+- name: Automated extraction of spinal morphometrics and generation of structured radiological reports from MRI.
+  category: mri
+  website: https://ivadomed.github.io/SpineReport/
+  repository: https://github.com/ivadomed/SpineReport
+  image: _static/spinereport_logo.png
+- name: Simulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.).
+  category: mri
   website: https://qmrlab.readthedocs.io
-  twitterName: qmrlab
   repository: https://github.com/qMRLab/qMRLab
   image: https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png
 - name: Software tools to perform advanced static and real-time shimming experiments with MRI.
+  category: mri
   website: https://shimming-toolbox.org
-  twitterName: shimmingtoolbox
   repository: https://github.com/shimming-toolbox/shimming-toolbox
   image: https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png
+- name: Influence of data augmentation strategies on MRI deep learning training performance.
+  category: mri
+  website: https://pypi.org/project/smauglab/
+  repository: https://github.com/neuropoly/SmaugLab
+  image: https://raw.githubusercontent.com/neuropoly/SmaugLab/main/smauglab_logo.png
 - name: Segmentation of axon and myelin on microscopy data.
+  category: histology
   website: https://axondeepseg.readthedocs.io/
-  twitterName: axondeepseg
   repository: https://github.com/neuropoly/axondeepseg
   image: https://raw.githubusercontent.com/neuropoly/axondeepseg/master/docs/source/_static/logo_ads-alpha.png
+- name: Simulation of axon arrangements in white matter.
+  category: histology
+  website: https://github.com/neuropoly/axonpacking
+  repository: https://github.com/neuropoly/axonpacking
+  image: _static/axonpacking_logo.png
+- name: Integrated framework for medical image analysis with deep learning.
+  category: general
+  website: https://ivadomed.org
+  repository: https://github.com/ivadomed/ivadomed
+  image: https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png
+- name: Case Annotation and Review Tool (CART), a 3D Slicer module for annotating and reviewing imaging cohorts.
+  category: general
+  website: https://github.com/neuropoly/slicer-cart
+  repository: https://github.com/neuropoly/slicer-cart
+  image: https://raw.githubusercontent.com/neuropoly/slicer-cart/main/CART/Resources/Icons/CART.png

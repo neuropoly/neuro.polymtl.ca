@@ -146,16 +146,15 @@ from sphinx.util import logging
 LOGGER = logging.getLogger("conf")
 
 def build_gallery(app: Sphinx):
-    # Build the gallery file
+    # Build one gallery file per category (gallery_software_<category>.txt)
     LOGGER.info("building gallery...")
-    grid_items = []
+    grid_items = {}
     projects = yaml.safe_load((Path(app.srcdir) / "gallery_software.yml").read_text())
     for item in projects:
         if not item.get("image"):
             item["image"] = "https://jupyterbook.org/_images/logo-square.svg"
 
         star_text = ""
-        twitter_text = ""
 
         if "repository" in item.keys():
             try:
@@ -166,51 +165,36 @@ def build_gallery(app: Sphinx):
             except Exception as error:
                 pass
 
-        if "twitterName" in item.keys():
-            twitter_text = f"[![Twitter Follow](https://img.shields.io/twitter/follow/{item['twitterName']}?label=&style=social)](https://twitter.com/{item['twitterName']})"
-
-        grid_items.append(
+        # The whole card links to the project website; styles are in _static/theme.css
+        grid_items.setdefault(item["category"], []).append(
             f"""\
         `````{{grid-item-card}}
         :text-align: center
-        <div style="background-image: url('{item["image"]}'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+        :link: {item["website"]}
+        :class-card: software-card
+        <div class="software-logo" style="background-image: url('{item["image"]}');"></div>
         +++
         {" ".join(item["name"].split())}
-        ````{{grid}} 2 2 2 2
-        :margin: 0 0 0 0
-        :padding: 0 0 0 0
-        :gutter: 1
-        ```{{grid-item}}
-        :child-direction: row
-        :child-align: start
-        :class: sd-fs-5
-        {{bdg-link-secondary}}`website <{item["website"]}>`
-        ```
-        ```{{grid-item}}
-        :child-direction: row
-        :child-align: end
-        {twitter_text}
+
         {star_text}
-        ```
-        ````
         `````
         """
         )
-    grid_items = "\n".join(grid_items)
-
 # :column: text-center col-6 col-lg-4
 # :card: +my-2
 # :img-top-cls: w-75 m-auto p-2
 # :body: d-none
 
-    panels = f"""
+    for category, items in grid_items.items():
+        items = "\n".join(items)
+        panels = f"""
 ``````{{grid}} 1 2 3 3
 :gutter: 1 1 2 2
 :class-container: full-width
-{dedent(grid_items)}
+{dedent(items)}
 ``````
     """
-    (Path(app.srcdir) / "gallery_software.txt").write_text(panels)
+        (Path(app.srcdir) / f"gallery_software_{category}.txt").write_text(panels)
 
 def build_publications(app: Sphinx, pagename, templatename, context, doctree):
     if pagename == "publications/journal_articles":
