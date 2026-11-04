@@ -3,18 +3,29 @@
 ```{Important}
 **Open position for PhD and Postdoc!** More details at: [https://www.ismrm.org/jobs/j08466.pdf](https://www.ismrm.org/jobs/j08466.pdf)
 ```
-
 ![Alt text](../_media/coil_building_workflow.png)
 
-## RF Coils for MRI
+## Overview
 
 <iframe src="https://docs.google.com/presentation/d/1BuAzzgm-FULRf6z83uCowXtB2wfiBxgnK-ODXE04RRM/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p></p>
 
+## 8Tx/20Rx 7T Spine
+
 <iframe src="https://docs.google.com/presentation/d/12kbI2_nI0VYLRx5c6uzryIufFFK-OneRBaub88VCBmQ/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**An 8-channel Tx dipole and 20-channel Rx loop coil array for MRI of the cervical spinal cord at 7 Tesla** by Nibardo Lopez-Rios et al. *NMR Biomed. 2023 Nov;36(11):e5002 [https://doi.org/10.1002/nbm.5002](https://doi.org/10.1002/nbm.5002).*
+System: Siemens Terra/Terra.X
+
+> **An 8-channel Tx dipole and 20-channel Rx loop coil array for MRI of the cervical spinal cord at 7 Tesla** by Nibardo Lopez-Rios et al. *NMR Biomed. 2023 Nov;36(11):e5002 [https://doi.org/10.1002/nbm.5002](https://doi.org/10.1002/nbm.5002).*
+
+> **Multi-center benchmarking of cervical spinal cord RF coils for 7 T MRI: A traveling spines study** by Eva Alonso-Ortiz, Daniel S. Papp, [...], Julien Cohen-Adad. *Magn Reson Med. 2025 Sep;94(3):1339-1355 [https://doi.org/10.1002/mrm.30551](https://doi.org/10.1002/mrm.30551).*
+
+## 8Tx/60Rx 7T Head-Neck
+
+<iframe src="docs.google.com/presentation/d/1IWGSDXghy_9VAHNNIxuGLs106IhIdbW3VGHI2yRDxOg/embed?start=true&loop=false&delayms=60000" frameborder="0" width="710" height="436" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+System: Siemens Terra/Terra.X
 
 ## B0 Shimming
 
