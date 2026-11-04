@@ -31,7 +31,7 @@
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
-    <link rel="stylesheet" type="text/css" href="_static/theme.css?v=562b74fb" />
+    <link rel="stylesheet" type="text/css" href="_static/theme.css?v=65fc1f50" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
   <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
@@ -324,7 +324,9 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#image-analysis">Image analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mri">MRI</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#histology">Histology</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#deep-learning-and-annotation">Deep learning and annotation</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contributing">Contributing</a></li>
 </ul>
             </nav>
@@ -340,114 +342,133 @@ document.write(`
   <section id="software">
 <h1><span>🖥</span> Software<a class="headerlink" href="#software" title="Link to this heading">#</a></h1>
 <p>Below is a list of software projects created at <strong>NeuroPoly</strong> or at collaborative institutions. These projects are open source and follow the FAIR principles.</p>
-<section id="image-analysis">
-<h2>Image analysis<a class="headerlink" href="#image-analysis" title="Link to this heading">#</a></h2>
+<section id="mri">
+<h2>MRI<a class="headerlink" href="#mri" title="Link to this heading">#</a></h2>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 full-width docutils">
 <div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-2 sd-row-cols-md-3 sd-row-cols-lg-3 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-2 sd-g-lg-2 docutils">
 <div class="sd-col sd-d-flex-row docutils">
-<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
 <div class="sd-card-body docutils">
-<div style="background-image: url('https://raw.githubusercontent.com/spinalcordtoolbox/spinalcordtoolbox/master/documentation/source/_static/img/logo_sct.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+<div class="software-logo" style="background-image: url('https://raw.githubusercontent.com/spinalcordtoolbox/spinalcordtoolbox/master/documentation/source/_static/img/logo_sct.png');"></div>
 </div>
 <div class="sd-card-footer docutils">
-<p class="sd-card-text">Comprehensive library of analysis tools for multi-parametric MRI of the spinal cord</p>
-<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
-<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
-<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
-<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://spinalcordtoolbox.com/"><span>website</span></a></p>
+<p class="sd-card-text">Comprehensive library of analysis tools for multi-parametric MRI of the spinal cord.</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/spinalcordtoolbox/spinalcordtoolbox"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/spinalcordtoolbox/spinalcordtoolbox?label=&amp;style=social" /></a></p>
 </div>
-<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
-<p class="sd-card-text"><a class="reference external" href="https://twitter.com/SpinalToolbox"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SpinalToolbox?label=&amp;style=social" /></a>
-<a class="reference external" href="https://github.com/spinalcordtoolbox/spinalcordtoolbox"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/spinalcordtoolbox/spinalcordtoolbox?label=&amp;style=social" /></a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://spinalcordtoolbox.com/"><span>https://spinalcordtoolbox.com/</span></a></div>
 </div>
 <div class="sd-col sd-d-flex-row docutils">
-<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
 <div class="sd-card-body docutils">
-<div style="background-image: url('https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+<div class="software-logo" style="background-image: url('_static/totalspineseg_logo.png');"></div>
 </div>
 <div class="sd-card-footer docutils">
-<p class="sd-card-text">Integrated framework for medical image analysis with deep learning</p>
-<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
-<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
-<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
-<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://ivadomed.org"><span>website</span></a></p>
+<p class="sd-card-text">Segmentation and labeling of vertebrae, intervertebral discs, spinal cord and spinal canal in MRI.</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/neuropoly/totalspineseg"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neuropoly/totalspineseg?label=&amp;style=social" /></a></p>
 </div>
-<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
-<p class="sd-card-text"><a class="reference external" href="https://twitter.com/ivadomed"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ivadomed?label=&amp;style=social" /></a>
-<a class="reference external" href="https://github.com/ivadomed/ivadomed"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ivadomed/ivadomed?label=&amp;style=social" /></a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://github.com/neuropoly/totalspineseg"><span>https://github.com/neuropoly/totalspineseg</span></a></div>
 </div>
 <div class="sd-col sd-d-flex-row docutils">
-<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
 <div class="sd-card-body docutils">
-<div style="background-image: url('https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+<div class="software-logo" style="background-image: url('_static/spinereport_logo.png');"></div>
 </div>
 <div class="sd-card-footer docutils">
-<p class="sd-card-text">Simulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.)</p>
-<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
-<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
-<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
-<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://qmrlab.readthedocs.io"><span>website</span></a></p>
+<p class="sd-card-text">Automated extraction of spinal morphometrics and generation of structured radiological reports from MRI.</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/ivadomed/SpineReport"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ivadomed/SpineReport?label=&amp;style=social" /></a></p>
 </div>
-<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
-<p class="sd-card-text"><a class="reference external" href="https://twitter.com/qmrlab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/qmrlab?label=&amp;style=social" /></a>
-<a class="reference external" href="https://github.com/qMRLab/qMRLab"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/qMRLab/qMRLab?label=&amp;style=social" /></a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://ivadomed.github.io/SpineReport/"><span>https://ivadomed.github.io/SpineReport/</span></a></div>
 </div>
 <div class="sd-col sd-d-flex-row docutils">
-<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
 <div class="sd-card-body docutils">
-<div style="background-image: url('https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+<div class="software-logo" style="background-image: url('https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png');"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Simulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.).</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/qMRLab/qMRLab"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/qMRLab/qMRLab?label=&amp;style=social" /></a></p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://qmrlab.readthedocs.io"><span>https://qmrlab.readthedocs.io</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
+<div class="sd-card-body docutils">
+<div class="software-logo" style="background-image: url('https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png');"></div>
 </div>
 <div class="sd-card-footer docutils">
 <p class="sd-card-text">Software tools to perform advanced static and real-time shimming experiments with MRI.</p>
-<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
-<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
-<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
-<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://shimming-toolbox.org"><span>website</span></a></p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/shimming-toolbox/shimming-toolbox"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/shimming-toolbox/shimming-toolbox?label=&amp;style=social" /></a></p>
 </div>
-<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
-<p class="sd-card-text"><a class="reference external" href="https://twitter.com/shimmingtoolbox"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/shimmingtoolbox?label=&amp;style=social" /></a>
-<a class="reference external" href="https://github.com/shimming-toolbox/shimming-toolbox"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/shimming-toolbox/shimming-toolbox?label=&amp;style=social" /></a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://shimming-toolbox.org"><span>https://shimming-toolbox.org</span></a></div>
 </div>
 <div class="sd-col sd-d-flex-row docutils">
-<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-text-center docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
 <div class="sd-card-body docutils">
-<div style="background-image: url('https://raw.githubusercontent.com/neuropoly/axondeepseg/master/docs/source/_static/logo_ads-alpha.png'); background-size: contain; background-position: center; background-repeat: no-repeat; height: 100%; min-height: 150px;"></div>
+<div class="software-logo" style="background-image: url('https://raw.githubusercontent.com/neuropoly/SmaugLab/main/smauglab_logo.png');"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Influence of data augmentation strategies on MRI deep learning training performance.</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/neuropoly/SmaugLab"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neuropoly/SmaugLab?label=&amp;style=social" /></a></p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://pypi.org/project/smauglab/"><span>https://pypi.org/project/smauglab/</span></a></div>
+</div>
+</div>
+</div>
+</section>
+<section id="histology">
+<h2>Histology<a class="headerlink" href="#histology" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 full-width docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-2 sd-row-cols-md-3 sd-row-cols-lg-3 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
+<div class="sd-card-body docutils">
+<div class="software-logo" style="background-image: url('https://raw.githubusercontent.com/neuropoly/axondeepseg/master/docs/source/_static/logo_ads-alpha.png');"></div>
 </div>
 <div class="sd-card-footer docutils">
 <p class="sd-card-text">Segmentation of axon and myelin on microscopy data.</p>
-<div class="sd-container-fluid sd-sphinx-override sd-mt-0 sd-mb-0 sd-ml-0 sd-mr-0 sd-pt-0 sd-pb-0 sd-pl-0 sd-pr-0 docutils">
-<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-1 sd-g-lg-1 docutils">
-<div class="sd-col sd-d-flex-row sd-align-major-start sd-fs-5 docutils">
-<p class="sd-card-text"><a class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary reference external" href="https://axondeepseg.readthedocs.io/"><span>website</span></a></p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/neuropoly/axondeepseg"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neuropoly/axondeepseg?label=&amp;style=social" /></a></p>
 </div>
-<div class="sd-col sd-d-flex-row sd-align-major-end docutils">
-<p class="sd-card-text"><a class="reference external" href="https://twitter.com/axondeepseg"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/axondeepseg?label=&amp;style=social" /></a>
-<a class="reference external" href="https://github.com/neuropoly/axondeepseg"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neuropoly/axondeepseg?label=&amp;style=social" /></a></p>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://axondeepseg.readthedocs.io/"><span>https://axondeepseg.readthedocs.io/</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
+<div class="sd-card-body docutils">
+<div class="software-logo" style="background-image: url('_static/axonpacking_logo.png');"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Simulation of axon arrangements in white matter.</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/neuropoly/axonpacking"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neuropoly/axonpacking?label=&amp;style=social" /></a></p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://github.com/neuropoly/axonpacking"><span>https://github.com/neuropoly/axonpacking</span></a></div>
 </div>
 </div>
 </div>
+</section>
+<section id="deep-learning-and-annotation">
+<h2>Deep learning and annotation<a class="headerlink" href="#deep-learning-and-annotation" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 full-width docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-2 sd-row-cols-md-3 sd-row-cols-lg-3 sd-g-1 sd-g-xs-1 sd-g-sm-1 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
+<div class="sd-card-body docutils">
+<div class="software-logo" style="background-image: url('https://raw.githubusercontent.com/ivadomed/ivadomed/master/images/ivadomed_logo.png');"></div>
 </div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Integrated framework for medical image analysis with deep learning.</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/ivadomed/ivadomed"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ivadomed/ivadomed?label=&amp;style=social" /></a></p>
 </div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://ivadomed.org"><span>https://ivadomed.org</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover sd-text-center software-card docutils">
+<div class="sd-card-body docutils">
+<div class="software-logo" style="background-image: url('https://raw.githubusercontent.com/neuropoly/slicer-cart/main/CART/Resources/Icons/CART.png');"></div>
+</div>
+<div class="sd-card-footer docutils">
+<p class="sd-card-text">Case Annotation and Review Tool (CART), a 3D Slicer module for annotating and reviewing imaging cohorts.</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/neuropoly/slicer-cart"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neuropoly/slicer-cart?label=&amp;style=social" /></a></p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference external" href="https://github.com/neuropoly/slicer-cart"><span>https://github.com/neuropoly/slicer-cart</span></a></div>
 </div>
 </div>
 </div>
@@ -460,9 +481,6 @@ This section contains projects  -->
 |  | Multiclass Segmentation | Code related to the NIH marmoset longitudinal segmentation project                                               | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/multiclass-segmentation) | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/multiclass-segmentation/blob/master/README.md) |
 
 |  | AxonSeg          | Automatic segmentation of axon and myelin from microscopy data    | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonseg)          | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonseg/blob/master/README.md)                           |
-
-
-|  | AxonPacking      | Simulation software for arrangements of axons in white matter     | [<i class="fab fa-github" title="Source" aria-hidden="true"></i><span>Source</span>](https://github.com/neuropoly/axonpacking)      | [<i class="fa fa-book" title="Documentation" aria-hidden="true"></i><span>Documentation</span>](https://github.com/neuropoly/axonpacking/blob/master/README.md)                       |
 -->
 <!-- Data / Atlas to add in another section
 
@@ -524,7 +542,9 @@ This section contains projects  -->
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#image-analysis">Image analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mri">MRI</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#histology">Histology</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#deep-learning-and-annotation">Deep learning and annotation</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contributing">Contributing</a></li>
 </ul>
   </nav></div>
