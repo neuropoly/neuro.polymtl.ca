@@ -1,6 +1,3 @@
-I used a four-backtick fence around the file so the inner ```` ```{Important} ```` block is copied correctly:
-
-````markdown
 # RF & Shim Coil Design
 
 ```{Important}
@@ -55,4 +52,3 @@ System: Siemens Terra/Terra.X
 <iframe width="710" height="400" src="https://www.youtube.com/embed/u15unqyzQz4?si=je4YX_oXQexcPYGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Papp D, Boulant N, Massire A, Mauconduit F, Gras V, Cohen-Adad J. **Universal pulses for the cervical spinal cord at 7T: a feasibility study**. _Proc Intl Soc Mag Reson Med_. 2023;31:0199. [https://doi.org/10.58530/2023/0199](https://doi.org/10.58530/2023/0199)
-````
