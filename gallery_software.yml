@@ -27,6 +27,10 @@
   website: https://github.com/neuropoly/totalspineseg
   repository: https://github.com/neuropoly/totalspineseg
   image: _static/totalspineseg_logo.png
+- name: Automated extraction of spinal morphometrics and generation of structured radiological reports from MRI.
+  website: https://ivadomed.github.io/SpineReport/
+  repository: https://github.com/ivadomed/SpineReport
+  image: https://raw.githubusercontent.com/ivadomed/SpineReport/main/spinereport/resources/imgs/report_first_page.png
 - name: Case Annotation and Review Tool (CART), a 3D Slicer module for annotating and reviewing imaging cohorts.
   website: https://github.com/neuropoly/slicer-cart
   repository: https://github.com/neuropoly/slicer-cart
