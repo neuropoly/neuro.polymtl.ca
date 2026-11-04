@@ -34,7 +34,7 @@
 - name: Case Annotation and Review Tool (CART), a 3D Slicer module for annotating and reviewing imaging cohorts.
   website: https://github.com/neuropoly/slicer-cart
   repository: https://github.com/neuropoly/slicer-cart
-  image: https://raw.githubusercontent.com/neuropoly/slicer-cart/main/CART.png
+  image: https://raw.githubusercontent.com/neuropoly/slicer-cart/main/CART/Resources/Icons/CART.png
 - name: Influence of data augmentation strategies on MRI deep learning training performance.
   website: https://pypi.org/project/smauglab/
   repository: https://github.com/neuropoly/SmaugLab
