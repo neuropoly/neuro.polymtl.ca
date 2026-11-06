@@ -169,7 +169,7 @@ div.pdf-container > div > object[type="application/pdf"] {
   flex: 0 0 auto;
 }
 .software-card .software-logo {
-  height: 190px;
+  height: 160px;
   padding: 0.5rem 0.75rem;
   background-origin: content-box;
   background-size: contain;
