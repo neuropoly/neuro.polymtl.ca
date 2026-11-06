@@ -7,9 +7,9 @@ Below is a list of software projects created at **NeuroPoly** or at collaborativ
 ```{include} gallery_software_mri-analysis.txt
 ```
 
-## MRI physics
+## Deep learning and annotation
 
-```{include} gallery_software_mri-physics.txt
+```{include} gallery_software_general.txt
 ```
 
 ## Histology
@@ -17,9 +17,9 @@ Below is a list of software projects created at **NeuroPoly** or at collaborativ
 ```{include} gallery_software_histology.txt
 ```
 
-## Deep learning and annotation
+## MRI physics
 
-```{include} gallery_software_general.txt
+```{include} gallery_software_mri-physics.txt
 ```
 
 <!-- ## Pipeline and template
