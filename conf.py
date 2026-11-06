@@ -188,7 +188,7 @@ def build_gallery(app: Sphinx):
     for category, items in grid_items.items():
         items = "\n".join(items)
         panels = f"""
-``````{{grid}} 1 2 3 3
+``````{{grid}} 1 2 3 4
 :gutter: 1 1 2 2
 :class-container: full-width
 {dedent(items)}

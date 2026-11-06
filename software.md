@@ -2,9 +2,14 @@
 
 Below is a list of software projects created at **NeuroPoly** or at collaborative institutions. These projects are open source and follow the FAIR principles. 
 
-## MRI
+## MRI analysis
 
-```{include} gallery_software_mri.txt
+```{include} gallery_software_mri-analysis.txt
+```
+
+## Deep learning and annotation
+
+```{include} gallery_software_general.txt
 ```
 
 ## Histology
@@ -12,9 +17,9 @@ Below is a list of software projects created at **NeuroPoly** or at collaborativ
 ```{include} gallery_software_histology.txt
 ```
 
-## Deep learning and annotation
+## MRI physics
 
-```{include} gallery_software_general.txt
+```{include} gallery_software_mri-physics.txt
 ```
 
 <!-- ## Pipeline and template

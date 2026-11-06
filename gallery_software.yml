@@ -1,33 +1,53 @@
 - name: Comprehensive library of analysis tools for multi-parametric MRI of the spinal cord.
-  category: mri
+  category: mri-analysis
   website: https://spinalcordtoolbox.com/
   repository: https://github.com/spinalcordtoolbox/spinalcordtoolbox
   image: https://raw.githubusercontent.com/spinalcordtoolbox/spinalcordtoolbox/master/documentation/source/_static/img/logo_sct.png
 - name: Segmentation and labeling of vertebrae, intervertebral discs, spinal cord and spinal canal in MRI.
-  category: mri
+  category: mri-analysis
   website: https://github.com/neuropoly/totalspineseg
   repository: https://github.com/neuropoly/totalspineseg
   image: _static/totalspineseg_logo.png
 - name: Automated extraction of spinal morphometrics and generation of structured radiological reports from MRI.
-  category: mri
+  category: mri-analysis
   website: https://ivadomed.github.io/SpineReport/
   repository: https://github.com/ivadomed/SpineReport
   image: _static/spinereport_logo.png
 - name: Simulation, analysis, and visualization of qMRI data (Magnetization Transfer, Diffusion, etc.).
-  category: mri
+  category: mri-analysis
   website: https://qmrlab.readthedocs.io
   repository: https://github.com/qMRLab/qMRLab
   image: https://raw.githubusercontent.com/qMRLab/documentation/master/logo/qMR_logo_orig.png
-- name: Software tools to perform advanced static and real-time shimming experiments with MRI.
-  category: mri
-  website: https://shimming-toolbox.org
-  repository: https://github.com/shimming-toolbox/shimming-toolbox
-  image: https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png
 - name: Influence of data augmentation strategies on MRI deep learning training performance.
-  category: mri
+  category: mri-analysis
   website: https://pypi.org/project/smauglab/
   repository: https://github.com/neuropoly/SmaugLab
   image: https://raw.githubusercontent.com/neuropoly/SmaugLab/main/smauglab_logo.png
+- name: Automated longitudinal tracking of spinal cord MS lesions across MRI scans, handling lesion splitting and merging.
+  category: mri-analysis
+  website: https://github.com/ivadomed/sc-ms-lesion-tracking
+  repository: https://github.com/ivadomed/sc-ms-lesion-tracking
+  image: _static/sc_ms_lesion_tracking_logo.png
+- name: Software tools to perform advanced static and real-time shimming experiments with MRI.
+  category: mri-physics
+  website: https://shimming-toolbox.org
+  repository: https://github.com/shimming-toolbox/shimming-toolbox
+  image: https://raw.githubusercontent.com/shimming-toolbox/shimming-toolbox/master/docs/source/_static/img/shimming_toolbox_logo.png
+- name: Fourier-based estimation of the B0 field variation induced by a susceptibility distribution.
+  category: mri-physics
+  website: https://github.com/shimming-toolbox/susceptibility-to-fieldmap-fft
+  repository: https://github.com/shimming-toolbox/susceptibility-to-fieldmap-fft
+  image: _static/susceptibility_to_fieldmap_logo.png
+- name: Assign MR property values (susceptibility, T1, T2*, proton density) to segmented anatomy.
+  category: mri-physics
+  website: https://github.com/shimming-toolbox/tissue-to-MRproperty
+  repository: https://github.com/shimming-toolbox/tissue-to-MRproperty
+  image: _static/tissue_to_mrproperty_logo.png
+- name: Anisotropic nonlinear inversion for susceptibility-source separation (ANISO-QSM).
+  category: mri-physics
+  website: https://github.com/neuropoly/ANISO-QSM
+  repository: https://github.com/neuropoly/ANISO-QSM
+  image: _static/aniso_qsm_logo.png
 - name: Segmentation of axon and myelin on microscopy data.
   category: histology
   website: https://axondeepseg.readthedocs.io/
