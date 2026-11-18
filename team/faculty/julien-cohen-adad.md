@@ -39,6 +39,6 @@ Dr. Cohen-Adad completed his PhD in 2008 at the University of Montreal and pursu
 > julien.cohen-adad "at" polymtl.ca
 
 ````{note}
-**To potential applicants:** If you are interested in doing a Master/PhD, please **do not call**. Instead, send a CV + university transcripts and I will respond if I am interested. Thank you for your understanding.
+**To potential applicants:** If you are interested in doing a Master/PhD, please **do not call**. Instead, send a CV + university transcripts and I will respond if I am interested. If I do not respond, please **do not send me a reminder**. I receive 30+ applications per day and I look at all of them. Sending me reminders will not help your cause (on the contrary). Thank you for your understanding.
 ````
 
